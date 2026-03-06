@@ -48,20 +48,27 @@ def fetch_channel_vods(channel):
     url = f"https://kick.com/api/v2/channels/{channel}/videos"
 
     cmd = f'curl -s -L -H "User-Agent: Mozilla/5.0" "{url}"'
-
     output = run(cmd)
 
     if not output:
         return []
 
-    # Ensure response is valid JSON
     try:
-        vod_list = json.loads(output)
-    except Exception:
-        print("Response was not JSON (likely Cloudflare page)")
+        data = json.loads(output)
+    except:
+        print("Response was not JSON")
         return []
 
-    if not isinstance(vod_list, list):
+    # Kick sometimes returns either:
+    # [ {...}, {...} ]
+    # or
+    # { "data": [ {...} ] }
+
+    if isinstance(data, list):
+        vod_list = data
+    elif isinstance(data, dict) and "data" in data:
+        vod_list = data["data"]
+    else:
         print("Unexpected API format")
         return []
 
@@ -73,7 +80,7 @@ def fetch_channel_vods(channel):
             continue
 
         video = v.get("video")
-        if not video or not isinstance(video, dict):
+        if not isinstance(video, dict):
             continue
 
         uuid = video.get("uuid")
@@ -90,7 +97,7 @@ def fetch_channel_vods(channel):
             continue
 
         thumbnail_url = None
-        if v.get("thumbnail") and isinstance(v["thumbnail"], dict):
+        if isinstance(v.get("thumbnail"), dict):
             thumbnail_url = v["thumbnail"].get("src")
 
         vods.append({
