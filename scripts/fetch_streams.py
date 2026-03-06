@@ -41,29 +41,47 @@ def fetch_channel_vods(channel):
     url = f"https://kick.com/api/v2/channels/{channel}/videos"
 
     try:
-        with urllib.request.urlopen(url) as response:
-            data = json.loads(response.read().decode())
+        req = urllib.request.Request(
+            url,
+            headers={"User-Agent": "Mozilla/5.0"}
+        )
+
+        with urllib.request.urlopen(req) as response:
+            vod_list = json.loads(response.read().decode())
+
     except Exception as e:
         print("API request failed:", e)
         return []
 
     vods = []
 
-    for v in data.get("data", []):
+    for v in vod_list:
+
+        video = v.get("video")
+        if not video:
+            continue
+
+        uuid = video.get("uuid")
+        if not uuid:
+            continue
 
         timestamp = int(
-            datetime.fromisoformat(
-                v["created_at"].replace("Z", "+00:00")
+            datetime.strptime(
+                v["created_at"], "%Y-%m-%d %H:%M:%S"
             ).timestamp()
         )
 
+        thumbnail_url = None
+        if v.get("thumbnail"):
+            thumbnail_url = v["thumbnail"].get("src")
+
         vods.append({
-            "id": str(v["id"]),
+            "id": uuid,
             "title": v.get("session_title"),
             "timestamp": timestamp,
             "duration": v.get("duration"),
-            "thumbnail": v.get("thumbnail"),
-            "webpage_url": f"https://kick.com/video/{v['id']}"
+            "thumbnail": thumbnail_url,
+            "webpage_url": f"https://kick.com/{channel}/videos/{uuid}"
         })
 
     print(f"{channel} returned {len(vods)} entries")
