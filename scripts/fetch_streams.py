@@ -54,32 +54,43 @@ def fetch_channel_vods(channel):
     if not output:
         return []
 
+    # Ensure response is valid JSON
     try:
         vod_list = json.loads(output)
-    except:
-        print("Failed to parse API response")
+    except Exception:
+        print("Response was not JSON (likely Cloudflare page)")
+        return []
+
+    if not isinstance(vod_list, list):
+        print("Unexpected API format")
         return []
 
     vods = []
 
     for v in vod_list:
 
+        if not isinstance(v, dict):
+            continue
+
         video = v.get("video")
-        if not video:
+        if not video or not isinstance(video, dict):
             continue
 
         uuid = video.get("uuid")
         if not uuid:
             continue
 
-        timestamp = int(
-            datetime.strptime(
-                v["created_at"], "%Y-%m-%d %H:%M:%S"
-            ).timestamp()
-        )
+        try:
+            timestamp = int(
+                datetime.strptime(
+                    v["created_at"], "%Y-%m-%d %H:%M:%S"
+                ).timestamp()
+            )
+        except:
+            continue
 
         thumbnail_url = None
-        if v.get("thumbnail"):
+        if v.get("thumbnail") and isinstance(v["thumbnail"], dict):
             thumbnail_url = v["thumbnail"].get("src")
 
         vods.append({
