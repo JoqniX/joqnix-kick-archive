@@ -45,7 +45,7 @@ def fetch_channel_vods(channel):
 
     print(f"\nFetching Kick VOD list for {channel}")
 
-    url = f"https://kick.com/api/v2/channels/{channel}/videos"
+    url = f"https://kick-proxy.onaixia.workers.dev/api/kick/videos?channel=joqnix"
 
     cmd = f'curl -s -L -H "User-Agent: Mozilla/5.0" "{url}"'
     output = run(cmd)
