@@ -51,40 +51,61 @@ def fetch_channel_vods(channel):
     output = run(cmd)
 
     if not output:
+        print("No response from curl")
         return []
+
+    print("\n--- RAW RESPONSE (first 500 chars) ---")
+    print(output[:500])
+    print("-------------------------------------")
 
     try:
         data = json.loads(output)
-    except:
-        print("Response was not JSON")
+    except Exception as e:
+        print("JSON parse failed:", e)
         return []
 
-    # Kick sometimes returns either:
-    # [ {...}, {...} ]
-    # or
-    # { "data": [ {...} ] }
+    print("\nParsed JSON type:", type(data))
 
+    # detect structure
     if isinstance(data, list):
         vod_list = data
-    elif isinstance(data, dict) and "data" in data:
-        vod_list = data["data"]
+        print("API returned LIST format")
+
+    elif isinstance(data, dict):
+        print("API returned DICT format")
+        print("Keys:", list(data.keys()))
+
+        if "data" in data:
+            vod_list = data["data"]
+            print("Using data['data']")
+        else:
+            print("Dict does not contain 'data'")
+            return []
+
     else:
         print("Unexpected API format")
         return []
+
+    print("VOD count detected:", len(vod_list))
 
     vods = []
 
     for v in vod_list:
 
         if not isinstance(v, dict):
+            print("Skipping non-dict entry:", type(v))
             continue
 
         video = v.get("video")
+
         if not isinstance(video, dict):
+            print("Missing video object")
             continue
 
         uuid = video.get("uuid")
+
         if not uuid:
+            print("Missing uuid")
             continue
 
         try:
@@ -94,6 +115,7 @@ def fetch_channel_vods(channel):
                 ).timestamp()
             )
         except:
+            print("Timestamp parse failed")
             continue
 
         thumbnail_url = None
@@ -109,7 +131,7 @@ def fetch_channel_vods(channel):
             "webpage_url": f"https://kick.com/{channel}/videos/{uuid}"
         })
 
-    print(f"{channel} returned {len(vods)} entries")
+    print(f"{channel} returned {len(vods)} usable entries")
 
     return vods
 
