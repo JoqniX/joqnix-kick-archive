@@ -18,6 +18,11 @@ jobs:
         with:
           dotnet-version: 8.0.x
 
+      - name: Install libcurl dependency
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y libcurl4
+
       - name: Clone TwitchDownloader
         run: |
           git clone https://github.com/lay295/TwitchDownloader.git
@@ -28,11 +33,11 @@ jobs:
         run: |
           cd TwitchDownloader/TwitchDownloaderCLI
           dotnet build
-          
+
       - name: Download Kick chat
         run: |
-            cd TwitchDownloader/TwitchDownloaderCLI/bin/Debug/net6.0
-            dotnet TwitchDownloaderCLI.dll chatdownload \
+          cd TwitchDownloader/TwitchDownloaderCLI/bin/Debug/net6.0
+          dotnet TwitchDownloaderCLI.dll chatdownload \
             -u https://kick.com/joqnix/videos/cdf794d6-cc7f-497d-a30e-5d0fddb2f8e6 \
             -o chat.json
 
