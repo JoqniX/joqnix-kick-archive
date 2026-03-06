@@ -13,7 +13,7 @@ jobs:
         with:
           dotnet-version: 8.0.x
 
-      - name: Clone TwitchDownloader (kick-support)
+      - name: Clone TwitchDownloader
         run: |
           git clone https://github.com/lay295/TwitchDownloader.git
           cd TwitchDownloader
@@ -26,8 +26,9 @@ jobs:
 
       - name: Download Kick chat
         run: |
-          cd TwitchDownloader/TwitchDownloaderCLI/bin/Debug/net8.0
-          ./TwitchDownloaderCLI chatdownload \
+          cd TwitchDownloader/TwitchDownloaderCLI/bin/Debug/net6.0
+          dotnet TwitchDownloaderCLI.dll chatdownload \
+            --platform Kick \
             --id https://kick.com/joqnix/videos/cdf794d6-cc7f-497d-a30e-5d0fddb2f8e6 \
             --output chat.json
 
@@ -35,4 +36,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: kick-chat
-          path: TwitchDownloader/TwitchDownloaderCLI/bin/Debug/net8.0/chat.json
+          path: TwitchDownloader/TwitchDownloaderCLI/bin/Debug/net6.0/chat.json
