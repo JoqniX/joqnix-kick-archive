@@ -28,14 +28,13 @@ jobs:
         run: |
           cd TwitchDownloader/TwitchDownloaderCLI
           dotnet build
-
+          
       - name: Download Kick chat
         run: |
-          cd TwitchDownloader/TwitchDownloaderCLI/bin/Debug/net6.0
-          dotnet TwitchDownloaderCLI.dll chatdownload \
-            --platform Kick \
-            --id https://kick.com/joqnix/videos/cdf794d6-cc7f-497d-a30e-5d0fddb2f8e6 \
-            --output chat.json
+            cd TwitchDownloader/TwitchDownloaderCLI/bin/Debug/net6.0
+            dotnet TwitchDownloaderCLI.dll chatdownload \
+            -u https://kick.com/joqnix/videos/cdf794d6-cc7f-497d-a30e-5d0fddb2f8e6 \
+            -o chat.json
 
       - name: Upload chat artifact
         uses: actions/upload-artifact@v4
