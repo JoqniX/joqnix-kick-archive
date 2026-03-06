@@ -27,6 +27,7 @@ def fetch_chat(uuid):
 
         cmd = f'curl -s -L -H "User-Agent: Mozilla/5.0" "{url}"'
         output = run(cmd)
+        print(output[:500])
 
         if not output:
             break
