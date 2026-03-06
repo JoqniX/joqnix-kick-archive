@@ -19,6 +19,12 @@ jobs:
       - name: Download Kick chat
         run: python scripts/download_kick_chat.py
 
+      - name: Install dependencies
+        run: |
+          pip install pillow requests
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+
       - name: Convert chat
         run: |
           python scripts/kick_chat_to_twitch_converter.py input.json output.json
