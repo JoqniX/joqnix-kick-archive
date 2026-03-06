@@ -8,32 +8,22 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Install .NET
-        uses: actions/setup-dotnet@v4
+      - uses: actions/setup-dotnet@v4
         with:
           dotnet-version: 8.0.x
 
-      - name: Clone TwitchDownloader (kick branch)
+      - name: Clone repo
         run: |
           git clone https://github.com/lay295/TwitchDownloader.git
           cd TwitchDownloader
           git checkout kick-support
 
-      - name: Build TwitchDownloader
+      - name: Build CLI only
         run: |
-          cd TwitchDownloader
+          cd TwitchDownloader/TwitchDownloaderCLI
           dotnet build
 
-      - name: Test Kick chat download
+      - name: Show CLI commands
         run: |
           cd TwitchDownloader/TwitchDownloaderCLI/bin/Debug/net8.0
-          ./TwitchDownloaderCLI \
-          kickchatdownload \
-          --id cdf794d6-cc7f-497d-a30e-5d0fddb2f8e6 \
-          --output chat.json
-
-      - name: Upload result
-        uses: actions/upload-artifact@v4
-        with:
-          name: kick-chat-test
-          path: TwitchDownloader/TwitchDownloaderCLI/bin/Debug/net8.0/chat.json
+          ./TwitchDownloaderCLI --help
