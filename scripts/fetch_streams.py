@@ -1,6 +1,5 @@
 import json
 import time
-import urllib.request
 import subprocess
 from pathlib import Path
 from datetime import datetime
@@ -12,6 +11,14 @@ INDEX_FILE = ARCHIVE_ROOT / "index.json"
 METADATA_INDEX_FILE = ARCHIVE_ROOT / "metadata_index.json"
 
 MINIMUM_AGE_SECONDS = 1800
+
+
+def run(cmd):
+    result = subprocess.run(cmd, shell=True, capture_output=True, text=True)
+    if result.returncode != 0:
+        print(result.stderr)
+        return None
+    return result.stdout
 
 
 def load_index():
@@ -40,17 +47,17 @@ def fetch_channel_vods(channel):
 
     url = f"https://kick.com/api/v2/channels/{channel}/videos"
 
+    cmd = f'curl -s -L -H "User-Agent: Mozilla/5.0" "{url}"'
+
+    output = run(cmd)
+
+    if not output:
+        return []
+
     try:
-        req = urllib.request.Request(
-            url,
-            headers={"User-Agent": "Mozilla/5.0"}
-        )
-
-        with urllib.request.urlopen(req) as response:
-            vod_list = json.loads(response.read().decode())
-
-    except Exception as e:
-        print("API request failed:", e)
+        vod_list = json.loads(output)
+    except:
+        print("Failed to parse API response")
         return []
 
     vods = []
@@ -91,14 +98,10 @@ def fetch_channel_vods(channel):
 
 def download_thumbnail(url, folder):
 
-    try:
-        subprocess.run(
-            f'curl -L "{url}" -o "{folder}/thumbnail.jpg"',
-            shell=True,
-            check=True
-        )
-    except:
-        print("Thumbnail download failed")
+    subprocess.run(
+        f'curl -L "{url}" -o "{folder}/thumbnail.jpg"',
+        shell=True
+    )
 
 
 def is_valid_archive(vod):
