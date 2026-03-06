@@ -1,7 +1,8 @@
 import json
 import time
+import urllib.request
+import subprocess
 from pathlib import Path
-import requests
 from datetime import datetime
 
 CHANNELS = ["joqnix"]
@@ -34,17 +35,17 @@ def save_metadata_index(data):
 
 
 def fetch_channel_vods(channel):
+
     print(f"\nFetching Kick VOD list for {channel}")
 
     url = f"https://kick.com/api/v2/channels/{channel}/videos"
 
-    r = requests.get(url)
-
-    if r.status_code != 200:
-        print("API request failed")
+    try:
+        with urllib.request.urlopen(url) as response:
+            data = json.loads(response.read().decode())
+    except Exception as e:
+        print("API request failed:", e)
         return []
-
-    data = r.json()
 
     vods = []
 
@@ -72,12 +73,14 @@ def fetch_channel_vods(channel):
 
 def download_thumbnail(url, folder):
 
-    import subprocess
-
-    subprocess.run(
-        f'curl -L "{url}" -o "{folder}/thumbnail.jpg"',
-        shell=True
-    )
+    try:
+        subprocess.run(
+            f'curl -L "{url}" -o "{folder}/thumbnail.jpg"',
+            shell=True,
+            check=True
+        )
+    except:
+        print("Thumbnail download failed")
 
 
 def is_valid_archive(vod):
