@@ -1,0 +1,25 @@
+name: Fetch Kick Streams
+
+on:
+  schedule:
+    - cron: "0 */3 * * *"
+  workflow_dispatch:
+
+jobs:
+  fetch:
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Run Kick fetch script
+        run: python scripts/fetch_streams.py
+
+      - name: Commit archive updates
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add data
+          git commit -m "Update Kick archive" || echo "No changes"
+          git push
