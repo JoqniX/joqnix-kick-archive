@@ -5,6 +5,7 @@ from pathlib import Path
 
 ARCHIVE_ROOT = Path("data/kick_archive")
 
+
 def run(cmd):
     result = subprocess.run(cmd, shell=True, capture_output=True, text=True)
     if result.returncode != 0:
@@ -25,14 +26,26 @@ def fetch_chat(uuid):
         if cursor:
             url += f"?cursor={cursor}"
 
-        cmd = f'curl -s -L -H "User-Agent: Mozilla/5.0" "{url}"'
+        cmd = (
+            f'curl -s -L '
+            f'-H "User-Agent: Mozilla/5.0" '
+            f'-H "Accept: application/json" '
+            f'"{url}"'
+        )
+
         output = run(cmd)
-        print(output[:500])
 
         if not output:
             break
 
-        data = json.loads(output)
+        print("RAW RESPONSE:")
+        print(output[:500])
+
+        try:
+            data = json.loads(output)
+        except:
+            print("Response was not JSON, stopping.")
+            break
 
         batch = data.get("data", [])
 
@@ -70,7 +83,7 @@ def main():
                 print(f"{uuid} chat already exists")
                 continue
 
-            print(f"Downloading chat for {uuid}")
+            print(f"\nDownloading chat for {uuid}")
 
             messages = fetch_chat(uuid)
 
