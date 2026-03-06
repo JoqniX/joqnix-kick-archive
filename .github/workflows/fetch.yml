@@ -16,6 +16,13 @@ jobs:
       - name: Run Kick fetch script
         run: python scripts/fetch_streams.py
 
+      - name: Download Kick chat
+        run: python scripts/download_kick_chat.py
+
+      - name: Convert chat
+        run: |
+          python scripts/kick_chat_to_twitch_converter.py input.json output.json
+
       - name: Commit archive updates
         run: |
           git config user.name "github-actions"
