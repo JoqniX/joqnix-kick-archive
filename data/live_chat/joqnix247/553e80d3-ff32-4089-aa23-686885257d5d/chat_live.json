@@ -356,5 +356,28 @@
         "badges": []
       }
     }
+  },
+  {
+    "id": "ac4e8f08-d6ba-4c28-97a9-55508aae9e06",
+    "chat_id": 91090947,
+    "user_id": 140223,
+    "content": "[emote:4147888:ppJedi][emote:37227:LULW][emote:4147814:OuttaPocket]",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1772891127550\"}",
+    "created_at": "2026-03-07T13:45:28Z",
+    "sender": {
+      "id": 140223,
+      "slug": "joqnix",
+      "username": "joqnix",
+      "identity": {
+        "color": "#72ACED",
+        "badges": [
+          {
+            "type": "moderator",
+            "text": "Moderator"
+          }
+        ]
+      }
+    }
   }
 ]
