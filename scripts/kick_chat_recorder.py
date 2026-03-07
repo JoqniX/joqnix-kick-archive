@@ -6,8 +6,10 @@ from pathlib import Path
 import shutil
 from datetime import datetime
 
+
 CHANNELS = [
-    "joqnix247", "joqnix"
+    "joqnix247",
+    "joqnix"
 ]
 
 WORKER = "https://kick-proxy.onaixia.workers.dev/api"
@@ -17,19 +19,19 @@ ARCHIVE_ROOT = Path("data/kick_archive")
 
 STATUS_FILE = Path("data/live_chat/status.json")
 
-LIVE_POLL_INTERVAL = 2
-OFFLINE_POLL_INTERVAL = 30
 
-STREAM_CHECK_INTERVAL = 30
+LIVE_POLL_INTERVAL = 5
+OFFLINE_POLL_INTERVAL = 60
+
 COMMIT_INTERVAL = 180
 OFFLINE_THRESHOLD = 3
+
 
 seen_ids = set()
 active_streams = {}
 stream_start_times = {}
 livestream_ids = {}
 
-last_stream_check = {}
 offline_counter = {}
 
 last_commit_time = 0
@@ -100,6 +102,8 @@ def git_commit():
 
     try:
 
+        subprocess.run("git pull --rebase", shell=True)
+
         subprocess.run("git add data", shell=True)
 
         subprocess.run(
@@ -107,7 +111,6 @@ def git_commit():
             shell=True
         )
 
-        subprocess.run("git pull --rebase", shell=True)
         subprocess.run("git push", shell=True)
 
         last_commit_time = now
@@ -144,7 +147,19 @@ def rebuild_seen_ids(channel, vod_id):
 
 
 # -----------------------------
-# API
+# API SAFE JSON
+# -----------------------------
+
+def safe_json(resp):
+
+    try:
+        return resp.json()
+    except:
+        return None
+
+
+# -----------------------------
+# CHANNEL STATUS
 # -----------------------------
 
 def get_channel_livestream(channel):
@@ -155,17 +170,21 @@ def get_channel_livestream(channel):
 
         r = requests.get(url, timeout=10)
 
-        data = r.json()
+        data = safe_json(r)
+
+        if not isinstance(data, dict):
+            print("Channel API returned invalid data")
+            return None
 
         livestream = data.get("livestream")
 
-        if livestream and livestream.get("is_live"):
+        if isinstance(livestream, dict) and livestream.get("is_live"):
 
             print("[CHANNEL] LIVE", channel)
 
             return {
-                "livestream_id": livestream["id"],
-                "start_ts": parse_time(livestream["created_at"])
+                "livestream_id": livestream.get("id"),
+                "start_ts": parse_time(livestream.get("created_at"))
             }
 
         print("[CHANNEL] OFFLINE", channel)
@@ -177,6 +196,10 @@ def get_channel_livestream(channel):
     return None
 
 
+# -----------------------------
+# VOD UUID RESOLUTION
+# -----------------------------
+
 def get_vod_uuid(channel, livestream_id):
 
     try:
@@ -185,21 +208,32 @@ def get_vod_uuid(channel, livestream_id):
 
         r = requests.get(url, timeout=10)
 
-        data = r.json()
+        data = safe_json(r)
+
+        if not isinstance(data, list):
+
+            print("Video API returned invalid data")
+
+            return None
 
         for v in data:
 
+            if not isinstance(v, dict):
+                continue
+
             if v.get("id") == livestream_id:
 
-                vod = v.get("video")
+                video = v.get("video")
 
-                if vod:
-                    return vod.get("uuid")
+                if isinstance(video, dict):
+                    return video.get("uuid")
 
-            if v.get("video"):
+            video = v.get("video")
 
-                if v["video"].get("live_stream_id") == livestream_id:
-                    return v["video"].get("uuid")
+            if isinstance(video, dict):
+
+                if video.get("live_stream_id") == livestream_id:
+                    return video.get("uuid")
 
     except Exception as e:
 
@@ -207,6 +241,10 @@ def get_vod_uuid(channel, livestream_id):
 
     return None
 
+
+# -----------------------------
+# FETCH MESSAGES
+# -----------------------------
 
 def fetch_messages(channel):
 
@@ -216,19 +254,33 @@ def fetch_messages(channel):
 
         r = requests.get(url, timeout=10)
 
-        return r.json().get("messages", [])
+        data = safe_json(r)
 
-    except:
+        if not isinstance(data, dict):
+            return []
+
+        msgs = data.get("messages")
+
+        if not isinstance(msgs, list):
+            return []
+
+        return msgs
+
+    except Exception as e:
+
+        print("Message API error:", e)
+
         return []
 
 
 # -----------------------------
-# CHAT STORAGE
+# SAVE CHAT
 # -----------------------------
 
 def save_messages(channel, vod_id, messages):
 
     folder = DATA_ROOT / channel / vod_id
+
     folder.mkdir(parents=True, exist_ok=True)
 
     file = folder / "chat_live.json"
@@ -248,7 +300,7 @@ def save_messages(channel, vod_id, messages):
 
 
 # -----------------------------
-# FINALIZE
+# FINALIZE STREAM
 # -----------------------------
 
 def finalize_stream(channel, vod_id):
@@ -261,6 +313,7 @@ def finalize_stream(channel, vod_id):
         return
 
     dst_folder = ARCHIVE_ROOT / channel / vod_id
+
     dst_folder.mkdir(parents=True, exist_ok=True)
 
     shutil.copy(src, dst_folder / "chat_raw.json")
@@ -271,12 +324,10 @@ def finalize_stream(channel, vod_id):
 
 
 # -----------------------------
-# PROCESS
+# PROCESS CHANNEL
 # -----------------------------
 
 def process_channel(channel):
-
-    now = time.time()
 
     stream = get_channel_livestream(channel)
 
@@ -294,6 +345,7 @@ def process_channel(channel):
         if not vod_id:
 
             print("Waiting for VOD mapping...")
+
             return
 
         if channel not in active_streams:
@@ -329,7 +381,10 @@ def process_channel(channel):
 
         for m in msgs:
 
-            mid = m["id"]
+            mid = m.get("id")
+
+            if not mid:
+                continue
 
             if mid in seen_ids:
                 continue
@@ -340,6 +395,7 @@ def process_channel(channel):
                 continue
 
             seen_ids.add(mid)
+
             new_msgs.append(m)
 
         if new_msgs:
@@ -393,7 +449,7 @@ def safety_commit_loop():
 
 
 # -----------------------------
-# MAIN
+# MAIN LOOP
 # -----------------------------
 
 def main():
