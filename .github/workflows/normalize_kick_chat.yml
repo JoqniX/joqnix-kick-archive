@@ -1,14 +1,12 @@
 name: Normalize Kick Chat
 
 on:
-
   workflow_dispatch:
 
   schedule:
     - cron: "*/15 * * * *"
 
 jobs:
-
   normalize:
 
     runs-on: ubuntu-latest
@@ -17,6 +15,8 @@ jobs:
 
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -33,6 +33,16 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add .
-          git commit -m "Normalize kick chats" || echo "No changes"
-          git push
+
+          git add data cache
+
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          git commit -m "Normalize kick chats"
+
+          git pull --rebase origin Main-day || true
+
+          git push || echo "Push failed but continuing"
