@@ -1,0 +1,22 @@
+name: Kick WebSocket Chat
+
+on:
+  workflow_dispatch:
+
+jobs:
+  record:
+
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+
+    steps:
+
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - run: pip install websocket-client requests
+
+      - run: python scripts/kick_ws_chat_recorder.py
