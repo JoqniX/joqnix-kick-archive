@@ -13,17 +13,31 @@ HEADERS = {
 
 
 def load_user_cache():
+
     if USER_CACHE_FILE.exists():
         return json.loads(USER_CACHE_FILE.read_text())
 
     USER_CACHE_FILE.parent.mkdir(parents=True, exist_ok=True)
+
     return {}
 
 
 def save_user_cache(cache):
+
     USER_CACHE_FILE.write_text(
         json.dumps(cache, indent=2, ensure_ascii=False)
     )
+
+
+def get_channel_id(channel):
+
+    url = f"https://kick.com/api/v2/channels/{channel}"
+
+    r = requests.get(url, headers=HEADERS)
+
+    data = r.json()
+
+    return data["id"]
 
 
 def fetch_user_profile(user_id, cache):
@@ -34,18 +48,21 @@ def fetch_user_profile(user_id, cache):
         return
 
     try:
+
         url = f"https://kick.com/api/v2/users/{user_id}"
 
         r = requests.get(url, headers=HEADERS)
+
         data = r.json()
 
         cache[uid] = data
 
-        print(f"Cached user {user_id}")
+        print("Cached user:", user_id)
 
         time.sleep(0.15)
 
     except Exception as e:
+
         print("User fetch failed:", user_id, e)
 
 
@@ -64,6 +81,7 @@ def fetch_chat(channel_id, start_time, end_time):
         print("Fetching:", url)
 
         r = requests.get(url, headers=HEADERS)
+
         data = r.json()
 
         messages = data["data"]["messages"]
@@ -77,9 +95,9 @@ def fetch_chat(channel_id, start_time, end_time):
                 msg["created_at"].replace("Z", "+00:00")
             )
 
-            # Stop once we pass the stream start
+            # stop scanning once we reach before the stream
             if ts < start_time:
-                print("Reached stream start — stopping scan")
+                print("Reached stream start — stopping")
                 return collected
 
             if start_time <= ts <= end_time:
@@ -105,23 +123,27 @@ def process_vod(vod_dir):
     raw_file = vod_dir / "chat_raw.json"
 
     if raw_file.exists():
-        print(vod_dir.name, "chat already exists")
+        print(vod_dir.name, "chat already downloaded")
         return
 
     meta = json.loads(meta_file.read_text())
 
-    channel_id = meta["channel_id"]
+    channel = meta["channel"]
 
-    start = datetime.fromisoformat(meta["created_at"])
-    duration = meta["duration"]
+    channel_id = get_channel_id(channel)
+
+    start = datetime.utcfromtimestamp(meta["timestamp"])
+
+    duration = meta.get("duration_seconds", 0)
 
     end = start + timedelta(seconds=duration)
 
-    print("Processing VOD:", vod_dir.name)
+    print("Processing:", vod_dir.name)
 
     messages = fetch_chat(channel_id, start, end)
 
-    # Deduplicate messages
+    print("Messages collected:", len(messages))
+
     unique = {}
 
     for msg in messages:
@@ -129,11 +151,10 @@ def process_vod(vod_dir):
 
     messages = list(unique.values())
 
-    print("Collected messages:", len(messages))
-
     user_cache = load_user_cache()
 
     for msg in messages:
+
         fetch_user_profile(msg["sender"]["id"], user_cache)
 
     save_user_cache(user_cache)
