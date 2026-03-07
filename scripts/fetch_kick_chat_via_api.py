@@ -130,7 +130,18 @@ def process_vod(vod_dir):
 
     channel = meta["channel"]
 
-    channel_id = meta["channel_id"]
+    channel_id = meta.get("channel_id")
+
+if not channel_id:
+    print("channel_id missing in metadata — fetching dynamically")
+
+    url = f"https://kick.com/api/v2/channels/{meta['channel']}"
+
+    r = requests.get(url, headers=HEADERS)
+
+    data = r.json()
+
+    channel_id = data["id"]
 
     start = datetime.utcfromtimestamp(meta["timestamp"])
 
