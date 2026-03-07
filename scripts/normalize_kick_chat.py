@@ -55,41 +55,42 @@ def normalize_slug(username):
 
 
 # -------------------------------------------------
-# STREAM STATUS
+# GET LIVE VOD UUID
 # -------------------------------------------------
 
-def is_channel_live(channel):
+def get_live_vod(channel):
 
     try:
 
-        url = f"{WORKER}/videos/{channel}"
-
-        print("[STREAM CHECK]", url)
-
-        r = requests.get(url, timeout=15)
+        r = requests.get(f"{WORKER}/channel/{channel}", timeout=15)
 
         data = r.json()
 
-        if not isinstance(data, list):
-            return True
+        livestream = data.get("livestream")
 
-        for v in data:
+        if not livestream or not livestream.get("is_live"):
+            return None
 
-            if isinstance(v, dict) and v.get("is_live"):
+        livestream_id = livestream.get("id")
 
-                print("[STREAM] LIVE:", channel)
+        r = requests.get(f"{WORKER}/videos/{channel}", timeout=15)
 
-                return True
+        videos = r.json()
 
-        print("[STREAM] OFFLINE:", channel)
+        for v in videos:
 
-        return False
+            if v.get("id") == livestream_id:
+
+                video = v.get("video")
+
+                if video:
+                    return video.get("uuid")
 
     except Exception as e:
 
-        print("[STREAM ERROR]", e)
+        print("[LIVE VOD ERROR]", e)
 
-        return True
+    return None
 
 
 # -------------------------------------------------
@@ -110,12 +111,7 @@ def fetch_avatar(username):
 
         data = r.json()
 
-        avatar = data.get("user", {}).get("profile_pic")
-
-        if avatar:
-            print("[AVATAR FOUND]", avatar)
-
-        return avatar
+        return data.get("user", {}).get("profile_pic")
 
     except Exception as e:
 
@@ -159,7 +155,7 @@ def format_vod_timestamp(seconds):
 
 
 # -------------------------------------------------
-# MESSAGE PARSER (FIXED)
+# MESSAGE PARSER
 # -------------------------------------------------
 
 EMOTE_PATTERN = re.compile(r"\[emote:(\d+)\]")
@@ -233,7 +229,7 @@ def normalize_chat(chat_file, channel):
 
     if normalized_file.exists():
 
-        print("[SKIP] already normalized:", normalized_file)
+        print("[SKIP]", normalized_file)
 
         return
 
@@ -255,13 +251,9 @@ def normalize_chat(chat_file, channel):
 
         username = sender.get("username")
 
-        avatar = None
-
-        # --------------------------
-        # CACHE LOGIC
-        # --------------------------
-
         cache = users.get(uid)
+
+        avatar = None
 
         if cache:
 
@@ -286,25 +278,13 @@ def normalize_chat(chat_file, channel):
                 "checked_at": time.time()
             }
 
-        # --------------------------
-        # MESSAGE
-        # --------------------------
-
         message_parts = parse_message(msg.get("content", ""))
-
-        # --------------------------
-        # VOD TIMESTAMP
-        # --------------------------
 
         msg_time = msg.get("created_at")
 
         offset = compute_vod_offset(stream_start, msg_time)
 
         vod_timestamp = format_vod_timestamp(offset)
-
-        # --------------------------
-        # OUTPUT
-        # --------------------------
 
         normalized.append({
 
@@ -360,15 +340,22 @@ def scan_folder(root):
 
         print("\n[CHANNEL]", channel_name)
 
-        if is_channel_live(channel_name):
+        live_vod = get_live_vod(channel_name)
 
-            print("[SKIP LIVE CHANNEL]", channel_name)
-
-            continue
+        if live_vod:
+            print("[LIVE VOD]", live_vod)
 
         for vod in channel.iterdir():
 
             if not vod.is_dir():
+                continue
+
+            vod_id = vod.name
+
+            if live_vod and vod_id == live_vod:
+
+                print("[SKIP LIVE VOD]", vod_id)
+
                 continue
 
             raw_archive = vod / "chat_raw.json"
