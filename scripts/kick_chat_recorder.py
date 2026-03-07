@@ -1,6 +1,7 @@
 import json
 import time
 import requests
+import subprocess
 from pathlib import Path
 import shutil
 
@@ -14,32 +15,79 @@ DATA_ROOT = Path("data/live_chat")
 ARCHIVE_ROOT = Path("data/kick_archive")
 
 POLL_INTERVAL = 2
+COMMIT_INTERVAL = 180  # seconds safety commit
 
-# track seen messages
 seen_ids = set()
-
-# track active streams
 active_streams = {}
+
+last_commit_time = 0
+
+
+def git_commit():
+
+    global last_commit_time
+
+    now = time.time()
+
+    if now - last_commit_time < 5:
+        return
+
+    try:
+
+        subprocess.run("git add data", shell=True)
+
+        subprocess.run(
+            'git commit -m "Update live chat archive" || echo "No changes"',
+            shell=True
+        )
+
+        subprocess.run("git push", shell=True)
+
+        last_commit_time = now
+
+        print("Commit successful", flush=True)
+
+    except Exception as e:
+
+        print("Commit failed:", e, flush=True)
+
+
+def rebuild_seen_ids(channel, vod_id):
+
+    folder = DATA_ROOT / channel / vod_id
+    file = folder / "chat_live.json"
+
+    if not file.exists():
+        return
+
+    try:
+
+        data = json.loads(file.read_text())
+
+        for m in data:
+            seen_ids.add(m["id"])
+
+        print("Recovered", len(data), "existing messages", flush=True)
+
+    except:
+        pass
 
 
 def get_live_stream(channel):
 
     url = f"{WORKER}/videos/{channel}"
 
-    print("Checking streams:", url, flush=True)
-
     r = requests.get(url)
 
     try:
         data = r.json()
     except:
-        print("Invalid response:", r.text, flush=True)
+        print("Invalid stream response", flush=True)
         return None
 
     for v in data:
 
         if v.get("is_live"):
-            print("LIVE STREAM FOUND:", channel, flush=True)
             return v
 
     return None
@@ -54,14 +102,10 @@ def fetch_messages(channel):
     try:
         data = r.json()
     except:
-        print("Invalid message response:", r.text, flush=True)
+        print("Invalid message response", flush=True)
         return []
 
-    msgs = data.get("messages", [])
-
-    print("Messages returned:", len(msgs), flush=True)
-
-    return msgs
+    return data.get("messages", [])
 
 
 def save_messages(channel, vod_id, messages):
@@ -84,17 +128,14 @@ def save_messages(channel, vod_id, messages):
 
     file.write_text(json.dumps(existing, indent=2, ensure_ascii=False))
 
-    print("Saved messages:", len(messages), flush=True)
-
 
 def finalize_stream(channel, vod_id):
 
-    print("Stream ended, finalizing:", channel, vod_id, flush=True)
+    print("Stream ended:", channel, flush=True)
 
     src = DATA_ROOT / channel / vod_id / "chat_live.json"
 
     if not src.exists():
-        print("No chat file found to finalize", flush=True)
         return
 
     dst_folder = ARCHIVE_ROOT / channel / vod_id
@@ -104,23 +145,27 @@ def finalize_stream(channel, vod_id):
 
     shutil.copy(src, dst)
 
-    print("Chat copied to archive:", dst, flush=True)
+    print("Archived chat:", dst, flush=True)
+
+    git_commit()
 
 
 def process_channel(channel):
 
-    print("\nProcessing channel:", channel, flush=True)
-
     stream = get_live_stream(channel)
 
-    # STREAM START
     if stream:
 
         vod_id = stream["video"]["uuid"]
 
         if channel not in active_streams:
-            print("Tracking new stream:", vod_id, flush=True)
+
+            print("\nStream detected:", channel, flush=True)
+            print("Tracking VOD:", vod_id, flush=True)
+
             active_streams[channel] = vod_id
+
+            rebuild_seen_ids(channel, vod_id)
 
         msgs = fetch_messages(channel)
 
@@ -139,11 +184,12 @@ def process_channel(channel):
 
         if new_msgs:
 
-            print("New messages detected:", len(new_msgs), flush=True)
+            print("+", len(new_msgs), "messages", flush=True)
 
             save_messages(channel, vod_id, new_msgs)
 
-    # STREAM END
+            git_commit()
+
     else:
 
         if channel in active_streams:
@@ -153,6 +199,17 @@ def process_channel(channel):
             finalize_stream(channel, vod_id)
 
             del active_streams[channel]
+
+
+def safety_commit_loop():
+
+    global last_commit_time
+
+    if time.time() - last_commit_time > COMMIT_INTERVAL:
+
+        print("Safety commit triggered", flush=True)
+
+        git_commit()
 
 
 def main():
@@ -169,7 +226,9 @@ def main():
 
             except Exception as e:
 
-                print("Error:", e, flush=True)
+                print("Recorder error:", e, flush=True)
+
+        safety_commit_loop()
 
         time.sleep(POLL_INTERVAL)
 
