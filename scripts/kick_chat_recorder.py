@@ -2,6 +2,7 @@ import json
 import time
 import requests
 from pathlib import Path
+import shutil
 
 CHANNELS = [
     "joqnix247"
@@ -10,40 +11,36 @@ CHANNELS = [
 WORKER = "https://kick-proxy.onaixia.workers.dev/api"
 
 DATA_ROOT = Path("data/live_chat")
+ARCHIVE_ROOT = Path("data/kick_archive")
 
-POLL_INTERVAL = 4
+POLL_INTERVAL = 2
 
+# track seen messages
 seen_ids = set()
 
-
-def get_channel(channel):
-
-    url = f"{WORKER}/channel/{channel}"
-
-    print("Checking channel:", url)
-
-    r = requests.get(url)
-
-    return r.json()
+# track active streams
+active_streams = {}
 
 
 def get_live_stream(channel):
 
     url = f"{WORKER}/videos/{channel}"
 
-    print("Checking streams:", url)
+    print("Checking streams:", url, flush=True)
 
     r = requests.get(url)
 
-    data = r.json()
+    try:
+        data = r.json()
+    except:
+        print("Invalid response:", r.text, flush=True)
+        return None
 
     for v in data:
 
         if v.get("is_live"):
-            print("LIVE STREAM FOUND:", channel)
+            print("LIVE STREAM FOUND:", channel, flush=True)
             return v
-
-    print("No live stream for", channel)
 
     return None
 
@@ -52,15 +49,17 @@ def fetch_messages(channel):
 
     url = f"{WORKER}/messages/{channel}"
 
-    print("Fetching messages:", url)
-
     r = requests.get(url)
 
-    data = r.json()
+    try:
+        data = r.json()
+    except:
+        print("Invalid message response:", r.text, flush=True)
+        return []
 
     msgs = data.get("messages", [])
 
-    print("Messages returned:", len(msgs))
+    print("Messages returned:", len(msgs), flush=True)
 
     return msgs
 
@@ -75,62 +74,102 @@ def save_messages(channel, vod_id, messages):
     existing = []
 
     if file.exists():
-        existing = json.loads(file.read_text())
+
+        try:
+            existing = json.loads(file.read_text())
+        except:
+            existing = []
 
     existing.extend(messages)
 
-    file.write_text(json.dumps(existing, indent=2))
+    file.write_text(json.dumps(existing, indent=2, ensure_ascii=False))
 
-    print("Saved messages:", len(messages))
+    print("Saved messages:", len(messages), flush=True)
+
+
+def finalize_stream(channel, vod_id):
+
+    print("Stream ended, finalizing:", channel, vod_id, flush=True)
+
+    src = DATA_ROOT / channel / vod_id / "chat_live.json"
+
+    if not src.exists():
+        print("No chat file found to finalize", flush=True)
+        return
+
+    dst_folder = ARCHIVE_ROOT / channel / vod_id
+    dst_folder.mkdir(parents=True, exist_ok=True)
+
+    dst = dst_folder / "chat_raw.json"
+
+    shutil.copy(src, dst)
+
+    print("Chat copied to archive:", dst, flush=True)
 
 
 def process_channel(channel):
 
-    print("\nProcessing channel:", channel)
+    print("\nProcessing channel:", channel, flush=True)
 
     stream = get_live_stream(channel)
 
-    if not stream:
-        return
+    # STREAM START
+    if stream:
 
-    vod_id = stream["video"]["uuid"]
+        vod_id = stream["video"]["uuid"]
 
-    msgs = fetch_messages(channel)
+        if channel not in active_streams:
+            print("Tracking new stream:", vod_id, flush=True)
+            active_streams[channel] = vod_id
 
-    new_msgs = []
+        msgs = fetch_messages(channel)
 
-    for m in msgs:
+        new_msgs = []
 
-        mid = m["id"]
+        for m in msgs:
 
-        if mid in seen_ids:
-            continue
+            mid = m["id"]
 
-        seen_ids.add(mid)
+            if mid in seen_ids:
+                continue
 
-        new_msgs.append(m)
+            seen_ids.add(mid)
 
-    if new_msgs:
+            new_msgs.append(m)
 
-        print("New messages detected:", len(new_msgs))
+        if new_msgs:
 
-        save_messages(channel, vod_id, new_msgs)
+            print("New messages detected:", len(new_msgs), flush=True)
+
+            save_messages(channel, vod_id, new_msgs)
+
+    # STREAM END
+    else:
+
+        if channel in active_streams:
+
+            vod_id = active_streams[channel]
+
+            finalize_stream(channel, vod_id)
+
+            del active_streams[channel]
 
 
 def main():
 
-    print("Kick Chat Recorder Started")
+    print("Kick Chat Recorder Started", flush=True)
 
     while True:
 
         for channel in CHANNELS:
 
             try:
+
                 process_channel(channel)
 
             except Exception as e:
 
-                print("Error:", e)
+                print("Error:", e, flush=True)
 
         time.sleep(POLL_INTERVAL)
 
