@@ -4,7 +4,7 @@ import subprocess
 from pathlib import Path
 from datetime import datetime
 
-CHANNELS = ["joqnix", "theburntpeanut"]
+CHANNELS = ["joqnix", "joqnix247"]
 
 ARCHIVE_ROOT = Path("data/kick_archive")
 INDEX_FILE = ARCHIVE_ROOT / "index.json"
