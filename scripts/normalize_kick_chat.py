@@ -1,6 +1,9 @@
 import json
 import requests
+import re
+import time
 from pathlib import Path
+from datetime import datetime
 
 ARCHIVE_ROOT = Path("data/kick_archive")
 LIVE_ROOT = Path("data/live_chat")
@@ -10,6 +13,8 @@ USER_CACHE_FILE = Path("cache/kick_users.json")
 WORKER = "https://kick-proxy.onaixia.workers.dev/api"
 
 EMOTE_BASE = "https://files.kick.com/emotes/"
+
+CACHE_REFRESH_SECONDS = 60 * 60 * 24 * 7
 
 
 # -------------------------------------------------
@@ -38,6 +43,18 @@ def save_user_cache(users):
 
 
 # -------------------------------------------------
+# USERNAME SLUG NORMALIZATION
+# -------------------------------------------------
+
+def normalize_slug(username):
+
+    if not username:
+        return username
+
+    return username.lower().replace("_", "-")
+
+
+# -------------------------------------------------
 # STREAM STATUS
 # -------------------------------------------------
 
@@ -53,9 +70,12 @@ def is_channel_live(channel):
 
         data = r.json()
 
+        if not isinstance(data, list):
+            return True
+
         for v in data:
 
-            if v.get("is_live"):
+            if isinstance(v, dict) and v.get("is_live"):
 
                 print("[STREAM] LIVE:", channel)
 
@@ -69,18 +89,20 @@ def is_channel_live(channel):
 
         print("[STREAM ERROR]", e)
 
-        return True  # fail-safe (avoid normalizing while unsure)
+        return True
 
 
 # -------------------------------------------------
 # FETCH AVATAR
 # -------------------------------------------------
 
-def fetch_avatar(channel):
+def fetch_avatar(username):
 
     try:
 
-        url = f"{WORKER}/channel/{channel}"
+        slug = normalize_slug(username)
+
+        url = f"{WORKER}/channel/{slug}"
 
         print("[AVATAR FETCH]", url)
 
@@ -91,12 +113,7 @@ def fetch_avatar(channel):
         avatar = data.get("user", {}).get("profile_pic")
 
         if avatar:
-
             print("[AVATAR FOUND]", avatar)
-
-        else:
-
-            print("[AVATAR MISSING]", channel)
 
         return avatar
 
@@ -108,8 +125,45 @@ def fetch_avatar(channel):
 
 
 # -------------------------------------------------
-# MESSAGE PARSER
+# VOD OFFSET
 # -------------------------------------------------
+
+def compute_vod_offset(stream_start, message_time):
+
+    try:
+
+        start = datetime.fromisoformat(stream_start.replace("Z", "+00:00"))
+        msg = datetime.fromisoformat(message_time.replace("Z", "+00:00"))
+
+        diff = int((msg - start).total_seconds())
+
+        if diff < 0:
+            diff = 0
+
+        return diff
+
+    except:
+        return None
+
+
+def format_vod_timestamp(seconds):
+
+    if seconds is None:
+        return None
+
+    h = seconds // 3600
+    m = (seconds % 3600) // 60
+    s = seconds % 60
+
+    return f"{h:02}:{m:02}:{s:02}"
+
+
+# -------------------------------------------------
+# MESSAGE PARSER (FIXED)
+# -------------------------------------------------
+
+EMOTE_PATTERN = re.compile(r"\[emote:(\d+)\]")
+
 
 def parse_message(content):
 
@@ -118,37 +172,35 @@ def parse_message(content):
     if not content:
         return parts
 
-    tokens = content.split(" ")
+    last = 0
 
-    for t in tokens:
+    for match in EMOTE_PATTERN.finditer(content):
 
-        if t.startswith("[emote:"):
+        start, end = match.span()
 
-            try:
+        emote_id = match.group(1)
 
-                emote_id = t.split(":")[1].split("]")[0]
-
-                parts.append({
-
-                    "type": "emote",
-                    "name": emote_id,
-                    "url": f"{EMOTE_BASE}{emote_id}/fullsize"
-
-                })
-
-            except:
-
-                parts.append({
-                    "type": "text",
-                    "text": t
-                })
-
-        else:
+        if start > last:
 
             parts.append({
                 "type": "text",
-                "text": t
+                "text": content[last:start]
             })
+
+        parts.append({
+            "type": "emote",
+            "name": emote_id,
+            "url": f"{EMOTE_BASE}{emote_id}/fullsize"
+        })
+
+        last = end
+
+    if last < len(content):
+
+        parts.append({
+            "type": "text",
+            "text": content[last:]
+        })
 
     return parts
 
@@ -164,10 +216,8 @@ def normalize_badges(badges):
     for b in badges:
 
         result.append({
-
             "type": b.get("type"),
             "text": b.get("text")
-
         })
 
     return result
@@ -195,6 +245,8 @@ def normalize_chat(chat_file, channel):
 
     normalized = []
 
+    stream_start = raw[0].get("created_at") if raw else None
+
     for msg in raw:
 
         sender = msg.get("sender", {})
@@ -206,43 +258,62 @@ def normalize_chat(chat_file, channel):
         avatar = None
 
         # --------------------------
-        # USER CACHE
+        # CACHE LOGIC
         # --------------------------
 
-        if uid in users:
+        cache = users.get(uid)
 
-            avatar = users[uid].get("avatar")
+        if cache:
 
-            print("[CACHE HIT]", username)
+            avatar = cache.get("avatar")
+
+            checked = cache.get("checked_at", 0)
+
+            if time.time() - checked > CACHE_REFRESH_SECONDS:
+
+                avatar = fetch_avatar(username)
+
+                users[uid]["avatar"] = avatar
+                users[uid]["checked_at"] = time.time()
 
         else:
-
-            print("[CACHE MISS]", username)
 
             avatar = fetch_avatar(username)
 
             users[uid] = {
-
                 "username": username,
-                "avatar": avatar
-
+                "avatar": avatar,
+                "checked_at": time.time()
             }
 
         # --------------------------
-        # MESSAGE PARTS
+        # MESSAGE
         # --------------------------
 
         message_parts = parse_message(msg.get("content", ""))
 
         # --------------------------
-        # NORMALIZED ENTRY
+        # VOD TIMESTAMP
+        # --------------------------
+
+        msg_time = msg.get("created_at")
+
+        offset = compute_vod_offset(stream_start, msg_time)
+
+        vod_timestamp = format_vod_timestamp(offset)
+
+        # --------------------------
+        # OUTPUT
         # --------------------------
 
         normalized.append({
 
             "id": msg.get("id"),
 
-            "timestamp": msg.get("created_at"),
+            "timestamp": msg_time,
+
+            "vod_offset": offset,
+            "vod_timestamp": vod_timestamp,
 
             "user": {
 
@@ -288,8 +359,6 @@ def scan_folder(root):
         channel_name = channel.name
 
         print("\n[CHANNEL]", channel_name)
-
-        # check if live
 
         if is_channel_live(channel_name):
 
