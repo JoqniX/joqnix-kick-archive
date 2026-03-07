@@ -1,4 +1,5 @@
 import json
+import requests
 from pathlib import Path
 
 ARCHIVE_ROOT = Path("data/kick_archive")
@@ -7,7 +8,12 @@ LIVE_ROOT = Path("data/live_chat")
 USER_CACHE_FILE = Path("cache/kick_users.json")
 
 EMOTE_BASE = "https://files.kick.com/emotes/"
+CHANNEL_API = "https://kick.com/api/v2/channels/"
 
+
+# -----------------------------
+# USER CACHE
+# -----------------------------
 
 def load_user_cache():
 
@@ -26,12 +32,37 @@ def save_user_cache(users):
     )
 
 
-def parse_message(content):
+# -----------------------------
+# FETCH AVATAR
+# -----------------------------
 
-    """
-    Converts Kick message string into
-    renderable fragments (text + emotes)
-    """
+def fetch_avatar(username):
+
+    try:
+
+        r = requests.get(
+            f"{CHANNEL_API}{username}",
+            headers={
+                "User-Agent": "Mozilla/5.0",
+                "Accept": "application/json"
+            },
+            timeout=10
+        )
+
+        data = r.json()
+
+        return data["user"]["profile_pic"]
+
+    except:
+
+        return None
+
+
+# -----------------------------
+# MESSAGE PARSER
+# -----------------------------
+
+def parse_message(content):
 
     parts = []
 
@@ -43,12 +74,12 @@ def parse_message(content):
 
             try:
 
-                name = t.split(":")[1].split("]")[0]
+                emote_id = t.split(":")[1].split("]")[0]
 
                 parts.append({
                     "type": "emote",
-                    "name": name,
-                    "url": f"{EMOTE_BASE}{name}.png"
+                    "name": emote_id,
+                    "url": f"{EMOTE_BASE}{emote_id}.png"
                 })
 
             except:
@@ -68,6 +99,28 @@ def parse_message(content):
     return parts
 
 
+# -----------------------------
+# BADGE NORMALIZATION
+# -----------------------------
+
+def normalize_badges(badges):
+
+    normalized = []
+
+    for b in badges:
+
+        normalized.append({
+            "type": b.get("type"),
+            "text": b.get("text")
+        })
+
+    return normalized
+
+
+# -----------------------------
+# CHAT NORMALIZER
+# -----------------------------
+
 def normalize_chat(chat_file):
 
     normalized_file = chat_file.parent / "chat_normalized.json"
@@ -86,6 +139,7 @@ def normalize_chat(chat_file):
         sender = msg["sender"]
 
         uid = str(sender["id"])
+        username = sender.get("username")
 
         avatar = None
 
@@ -93,12 +147,12 @@ def normalize_chat(chat_file):
 
             avatar = users[uid].get("avatar")
 
-        else:
+        if not avatar:
 
-            avatar = sender.get("profile_pic")
+            avatar = fetch_avatar(username)
 
             users[uid] = {
-                "username": sender.get("username"),
+                "username": username,
                 "avatar": avatar
             }
 
@@ -113,10 +167,12 @@ def normalize_chat(chat_file):
             "user": {
 
                 "id": sender["id"],
-                "username": sender.get("username"),
+                "username": username,
                 "avatar": avatar,
                 "color": sender["identity"].get("color"),
-                "badges": sender["identity"].get("badges", [])
+                "badges": normalize_badges(
+                    sender["identity"].get("badges", [])
+                )
 
             },
 
@@ -134,6 +190,10 @@ def normalize_chat(chat_file):
 
     print("Normalized:", chat_file)
 
+
+# -----------------------------
+# SCANNERS
+# -----------------------------
 
 def scan_archive():
 
@@ -165,10 +225,13 @@ def scan_live_chat():
                 normalize_chat(chat_file)
 
 
+# -----------------------------
+# MAIN
+# -----------------------------
+
 def main():
 
     scan_archive()
-
     scan_live_chat()
 
 
