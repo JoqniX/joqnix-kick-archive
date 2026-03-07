@@ -4,8 +4,6 @@ import requests
 from pathlib import Path
 
 CHANNELS = [
-    "joqnix",
-    "theburntpeanut",
     "joqnix247"
 ]
 
@@ -14,8 +12,6 @@ WORKER = "https://kick-proxy.onaixia.workers.dev/api"
 DATA_ROOT = Path("data/live_chat")
 
 POLL_INTERVAL = 4
-COMMIT_INTERVAL = 60
-
 
 seen_ids = set()
 
@@ -23,6 +19,8 @@ seen_ids = set()
 def get_channel(channel):
 
     url = f"{WORKER}/channel/{channel}"
+
+    print("Checking channel:", url)
 
     r = requests.get(url)
 
@@ -33,6 +31,8 @@ def get_live_stream(channel):
 
     url = f"{WORKER}/videos/{channel}"
 
+    print("Checking streams:", url)
+
     r = requests.get(url)
 
     data = r.json()
@@ -40,8 +40,10 @@ def get_live_stream(channel):
     for v in data:
 
         if v.get("is_live"):
-
+            print("LIVE STREAM FOUND:", channel)
             return v
+
+    print("No live stream for", channel)
 
     return None
 
@@ -50,11 +52,17 @@ def fetch_messages(channel):
 
     url = f"{WORKER}/messages/{channel}"
 
+    print("Fetching messages:", url)
+
     r = requests.get(url)
 
     data = r.json()
 
-    return data.get("messages", [])
+    msgs = data.get("messages", [])
+
+    print("Messages returned:", len(msgs))
+
+    return msgs
 
 
 def save_messages(channel, vod_id, messages):
@@ -67,20 +75,22 @@ def save_messages(channel, vod_id, messages):
     existing = []
 
     if file.exists():
-
         existing = json.loads(file.read_text())
 
     existing.extend(messages)
 
     file.write_text(json.dumps(existing, indent=2))
 
+    print("Saved messages:", len(messages))
+
 
 def process_channel(channel):
+
+    print("\nProcessing channel:", channel)
 
     stream = get_live_stream(channel)
 
     if not stream:
-
         return
 
     vod_id = stream["video"]["uuid"]
@@ -102,35 +112,25 @@ def process_channel(channel):
 
     if new_msgs:
 
-        print(channel, "new messages:", len(new_msgs))
+        print("New messages detected:", len(new_msgs))
 
         save_messages(channel, vod_id, new_msgs)
 
 
 def main():
 
-    start = time.time()
-    last_commit = start
+    print("Kick Chat Recorder Started")
 
     while True:
 
         for channel in CHANNELS:
 
             try:
-
                 process_channel(channel)
 
             except Exception as e:
 
                 print("Error:", e)
-
-        now = time.time()
-
-        if now - last_commit > COMMIT_INTERVAL:
-
-            print("checkpoint commit")
-
-            last_commit = now
 
         time.sleep(POLL_INTERVAL)
 
