@@ -12,10 +12,17 @@ HEADERS = {
 }
 
 
+# ------------------------------
+# USER CACHE
+# ------------------------------
+
 def load_user_cache():
 
     if USER_CACHE_FILE.exists():
-        return json.loads(USER_CACHE_FILE.read_text())
+        try:
+            return json.loads(USER_CACHE_FILE.read_text())
+        except:
+            return {}
 
     USER_CACHE_FILE.parent.mkdir(parents=True, exist_ok=True)
 
@@ -29,6 +36,10 @@ def save_user_cache(cache):
     )
 
 
+# ------------------------------
+# CHANNEL LOOKUP
+# ------------------------------
+
 def get_channel_id(channel):
 
     url = f"https://kick.com/api/v2/channels/{channel}"
@@ -37,8 +48,18 @@ def get_channel_id(channel):
 
     data = r.json()
 
-    return data["id"]
+    if "id" in data:
+        return data["id"]
 
+    if "data" in data and "id" in data["data"]:
+        return data["data"]["id"]
+
+    raise Exception(f"Invalid channel response: {data}")
+
+
+# ------------------------------
+# USER PROFILE CACHE
+# ------------------------------
 
 def fetch_user_profile(user_id, cache):
 
@@ -59,17 +80,23 @@ def fetch_user_profile(user_id, cache):
 
         print("Cached user:", user_id)
 
-        time.sleep(0.15)
+        time.sleep(0.1)
 
     except Exception as e:
 
         print("User fetch failed:", user_id, e)
 
 
+# ------------------------------
+# CHAT DOWNLOADER
+# ------------------------------
+
 def fetch_chat(channel_id, start_time, end_time):
 
     cursor = None
     collected = []
+
+    seen_ids = set()
 
     while True:
 
@@ -80,22 +107,35 @@ def fetch_chat(channel_id, start_time, end_time):
 
         print("Fetching:", url)
 
-        r = requests.get(url, headers=HEADERS)
+        try:
+            r = requests.get(url, headers=HEADERS)
+            data = r.json()
+        except Exception as e:
+            print("Request failed:", e)
+            break
 
-        data = r.json()
+        if "data" not in data:
+            print("Invalid response:", data)
+            break
 
-        messages = data["data"]["messages"]
+        messages = data["data"].get("messages", [])
 
         if not messages:
             break
 
         for msg in messages:
 
+            msg_id = msg.get("id")
+
+            if msg_id in seen_ids:
+                continue
+
+            seen_ids.add(msg_id)
+
             ts = datetime.fromisoformat(
                 msg["created_at"].replace("Z", "+00:00")
             )
 
-            # stop scanning once we reach before the stream
             if ts < start_time:
                 print("Reached stream start — stopping")
                 return collected
@@ -103,14 +143,19 @@ def fetch_chat(channel_id, start_time, end_time):
             if start_time <= ts <= end_time:
                 collected.append(msg)
 
-        cursor = data["data"]["cursor"]
+        cursor = data["data"].get("cursor")
 
         if not cursor:
             break
 
-        time.sleep(0.35)
+        time.sleep(0.25)
 
     return collected
+
+
+# ------------------------------
+# VOD PROCESSOR
+# ------------------------------
 
 def process_vod(vod_dir):
 
@@ -131,18 +176,15 @@ def process_vod(vod_dir):
 
     channel_id = meta.get("channel_id")
 
-    # fallback for old metadata
     if not channel_id:
 
         print("channel_id missing in metadata — fetching dynamically")
 
-        url = f"https://kick.com/api/v2/channels/{channel}"
-
-        r = requests.get(url, headers=HEADERS)
-
-        data = r.json()
-
-        channel_id = data["id"]
+        try:
+            channel_id = get_channel_id(channel)
+        except Exception as e:
+            print("Channel lookup failed:", e)
+            return
 
     start = datetime.utcfromtimestamp(meta["timestamp"])
 
@@ -156,6 +198,11 @@ def process_vod(vod_dir):
 
     print("Messages collected:", len(messages))
 
+    if not messages:
+        print("No chat messages found")
+        return
+
+    # deduplicate
     unique = {}
 
     for msg in messages:
@@ -166,7 +213,16 @@ def process_vod(vod_dir):
     user_cache = load_user_cache()
 
     for msg in messages:
-        fetch_user_profile(msg["sender"]["id"], user_cache)
+
+        sender = msg.get("sender")
+
+        if not sender:
+            continue
+
+        user_id = sender.get("id")
+
+        if user_id:
+            fetch_user_profile(user_id, user_cache)
 
     save_user_cache(user_cache)
 
@@ -177,7 +233,15 @@ def process_vod(vod_dir):
     print("Saved chat:", raw_file)
 
 
+# ------------------------------
+# MAIN
+# ------------------------------
+
 def main():
+
+    if not ARCHIVE_ROOT.exists():
+        print("Archive folder missing")
+        return
 
     for channel in ARCHIVE_ROOT.iterdir():
 
