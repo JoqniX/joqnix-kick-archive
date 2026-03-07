@@ -4,7 +4,7 @@ import subprocess
 from pathlib import Path
 from datetime import datetime
 
-CHANNELS = ["joqnix","theburntpeanut"]
+CHANNELS = ["joqnix", "theburntpeanut"]
 
 ARCHIVE_ROOT = Path("data/kick_archive")
 INDEX_FILE = ARCHIVE_ROOT / "index.json"
@@ -22,9 +22,17 @@ def run(cmd):
 
 
 def load_index():
-    if not INDEX_FILE.exists():
-        return {"channels": {ch: {"vod_ids": []} for ch in CHANNELS}}
-    return json.loads(INDEX_FILE.read_text())
+
+    if INDEX_FILE.exists():
+        data = json.loads(INDEX_FILE.read_text())
+    else:
+        data = {"channels": {}}
+
+    for ch in CHANNELS:
+        if ch not in data["channels"]:
+            data["channels"][ch] = {"vod_ids": []}
+
+    return data
 
 
 def save_index(data):
