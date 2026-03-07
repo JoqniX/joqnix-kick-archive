@@ -1,12 +1,12 @@
-name: Fetch Kick Streams
+name: Fetch Kick Chat
 
 on:
   schedule:
-    - cron: "0 */3 * * *"
+    - cron: "30 */3 * * *"
   workflow_dispatch:
 
 jobs:
-  fetch-streams:
+  fetch-chat:
 
     runs-on: ubuntu-latest
 
@@ -23,13 +23,16 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Fetch Kick streams
-        run: python scripts/fetch_streams.py
+      - name: Download Kick chat
+        run: python scripts/fetch_kick_chat_via_api.py
 
-      - name: Commit metadata updates
+      - name: Normalize Kick chat
+        run: python scripts/normalize_kick_chat.py
+
+      - name: Commit chat updates
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add data
-          git commit -m "Update Kick VOD metadata" || echo "No changes"
+          git add data cache
+          git commit -m "Update Kick chat archive" || echo "No changes"
           git push
