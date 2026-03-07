@@ -158,8 +158,7 @@ def format_vod_timestamp(seconds):
 # MESSAGE PARSER
 # -------------------------------------------------
 
-EMOTE_PATTERN = re.compile(r"\[emote:(\d+)\]")
-
+EMOTE_PATTERN = re.compile(r"\[emote:(\d+):([^\]]+)\]")
 
 def parse_message(content):
 
@@ -175,7 +174,9 @@ def parse_message(content):
         start, end = match.span()
 
         emote_id = match.group(1)
+        emote_name = match.group(2)
 
+        # text before emote
         if start > last:
 
             parts.append({
@@ -183,14 +184,17 @@ def parse_message(content):
                 "text": content[last:start]
             })
 
+        # emote object
         parts.append({
             "type": "emote",
-            "name": emote_id,
+            "id": emote_id,
+            "name": emote_name,
             "url": f"{EMOTE_BASE}{emote_id}/fullsize"
         })
 
         last = end
 
+    # remaining trailing text
     if last < len(content):
 
         parts.append({
