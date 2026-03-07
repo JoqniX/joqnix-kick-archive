@@ -7,18 +7,23 @@ LIVE_ROOT = Path("data/live_chat")
 
 USER_CACHE_FILE = Path("cache/kick_users.json")
 
+WORKER = "https://kick-proxy.onaixia.workers.dev/api"
+
 EMOTE_BASE = "https://files.kick.com/emotes/"
-CHANNEL_API = "https://kick.com/api/v2/channels/"
 
 
-# -----------------------------
+# -------------------------------------------------
 # USER CACHE
-# -----------------------------
+# -------------------------------------------------
 
 def load_user_cache():
 
     if USER_CACHE_FILE.exists():
-        return json.loads(USER_CACHE_FILE.read_text())
+
+        try:
+            return json.loads(USER_CACHE_FILE.read_text())
+        except:
+            return {}
 
     return {}
 
@@ -32,41 +37,88 @@ def save_user_cache(users):
     )
 
 
-# -----------------------------
-# FETCH AVATAR
-# -----------------------------
+# -------------------------------------------------
+# STREAM STATUS
+# -------------------------------------------------
 
-def fetch_avatar(username):
+def is_channel_live(channel):
 
     try:
 
-        r = requests.get(
-            f"{CHANNEL_API}{username}",
-            headers={
-                "User-Agent": "Mozilla/5.0",
-                "Accept": "application/json"
-            },
-            timeout=10
-        )
+        url = f"{WORKER}/videos/{channel}"
+
+        print("[STREAM CHECK]", url)
+
+        r = requests.get(url, timeout=15)
 
         data = r.json()
 
-        return data["user"]["profile_pic"]
+        for v in data:
 
-    except:
+            if v.get("is_live"):
+
+                print("[STREAM] LIVE:", channel)
+
+                return True
+
+        print("[STREAM] OFFLINE:", channel)
+
+        return False
+
+    except Exception as e:
+
+        print("[STREAM ERROR]", e)
+
+        return True  # fail-safe (avoid normalizing while unsure)
+
+
+# -------------------------------------------------
+# FETCH AVATAR
+# -------------------------------------------------
+
+def fetch_avatar(channel):
+
+    try:
+
+        url = f"{WORKER}/channel/{channel}"
+
+        print("[AVATAR FETCH]", url)
+
+        r = requests.get(url, timeout=15)
+
+        data = r.json()
+
+        avatar = data.get("user", {}).get("profile_pic")
+
+        if avatar:
+
+            print("[AVATAR FOUND]", avatar)
+
+        else:
+
+            print("[AVATAR MISSING]", channel)
+
+        return avatar
+
+    except Exception as e:
+
+        print("[AVATAR ERROR]", e)
 
         return None
 
 
-# -----------------------------
+# -------------------------------------------------
 # MESSAGE PARSER
-# -----------------------------
+# -------------------------------------------------
 
 def parse_message(content):
 
     parts = []
 
-    tokens = content.split()
+    if not content:
+        return parts
+
+    tokens = content.split(" ")
 
     for t in tokens:
 
@@ -77,9 +129,11 @@ def parse_message(content):
                 emote_id = t.split(":")[1].split("]")[0]
 
                 parts.append({
+
                     "type": "emote",
                     "name": emote_id,
                     "url": f"{EMOTE_BASE}{emote_id}.png"
+
                 })
 
             except:
@@ -99,34 +153,41 @@ def parse_message(content):
     return parts
 
 
-# -----------------------------
+# -------------------------------------------------
 # BADGE NORMALIZATION
-# -----------------------------
+# -------------------------------------------------
 
 def normalize_badges(badges):
 
-    normalized = []
+    result = []
 
     for b in badges:
 
-        normalized.append({
+        result.append({
+
             "type": b.get("type"),
             "text": b.get("text")
+
         })
 
-    return normalized
+    return result
 
 
-# -----------------------------
+# -------------------------------------------------
 # CHAT NORMALIZER
-# -----------------------------
+# -------------------------------------------------
 
-def normalize_chat(chat_file):
+def normalize_chat(chat_file, channel):
 
     normalized_file = chat_file.parent / "chat_normalized.json"
 
     if normalized_file.exists():
+
+        print("[SKIP] already normalized:", normalized_file)
+
         return
+
+    print("[NORMALIZE]", chat_file)
 
     raw = json.loads(chat_file.read_text())
 
@@ -136,42 +197,61 @@ def normalize_chat(chat_file):
 
     for msg in raw:
 
-        sender = msg["sender"]
+        sender = msg.get("sender", {})
 
-        uid = str(sender["id"])
+        uid = str(sender.get("id"))
+
         username = sender.get("username")
 
         avatar = None
+
+        # --------------------------
+        # USER CACHE
+        # --------------------------
 
         if uid in users:
 
             avatar = users[uid].get("avatar")
 
-        if not avatar:
+            print("[CACHE HIT]", username)
+
+        else:
+
+            print("[CACHE MISS]", username)
 
             avatar = fetch_avatar(username)
 
             users[uid] = {
+
                 "username": username,
                 "avatar": avatar
+
             }
+
+        # --------------------------
+        # MESSAGE PARTS
+        # --------------------------
 
         message_parts = parse_message(msg.get("content", ""))
 
+        # --------------------------
+        # NORMALIZED ENTRY
+        # --------------------------
+
         normalized.append({
 
-            "id": msg["id"],
+            "id": msg.get("id"),
 
-            "timestamp": msg["created_at"],
+            "timestamp": msg.get("created_at"),
 
             "user": {
 
-                "id": sender["id"],
+                "id": sender.get("id"),
                 "username": username,
                 "avatar": avatar,
-                "color": sender["identity"].get("color"),
+                "color": sender.get("identity", {}).get("color"),
                 "badges": normalize_badges(
-                    sender["identity"].get("badges", [])
+                    sender.get("identity", {}).get("badges", [])
                 )
 
             },
@@ -188,51 +268,67 @@ def normalize_chat(chat_file):
 
     save_user_cache(users)
 
-    print("Normalized:", chat_file)
+    print("[NORMALIZED]", normalized_file)
 
 
-# -----------------------------
-# SCANNERS
-# -----------------------------
+# -------------------------------------------------
+# SCAN FOLDER
+# -------------------------------------------------
 
-def scan_archive():
+def scan_folder(root):
 
-    for channel in ARCHIVE_ROOT.iterdir():
+    if not root.exists():
+        return
+
+    for channel in root.iterdir():
 
         if not channel.is_dir():
             continue
 
-        for vod in channel.iterdir():
+        channel_name = channel.name
 
-            chat_file = vod / "chat_raw.json"
+        print("\n[CHANNEL]", channel_name)
 
-            if chat_file.exists():
-                normalize_chat(chat_file)
+        # check if live
 
+        if is_channel_live(channel_name):
 
-def scan_live_chat():
+            print("[SKIP LIVE CHANNEL]", channel_name)
 
-    if not LIVE_ROOT.exists():
-        return
-
-    for channel in LIVE_ROOT.iterdir():
+            continue
 
         for vod in channel.iterdir():
 
-            chat_file = vod / "chat_live.json"
+            if not vod.is_dir():
+                continue
 
-            if chat_file.exists():
-                normalize_chat(chat_file)
+            raw_archive = vod / "chat_raw.json"
+            raw_live = vod / "chat_live.json"
+
+            if raw_archive.exists():
+
+                normalize_chat(raw_archive, channel_name)
+
+            elif raw_live.exists():
+
+                normalize_chat(raw_live, channel_name)
 
 
-# -----------------------------
+# -------------------------------------------------
 # MAIN
-# -----------------------------
+# -------------------------------------------------
 
 def main():
 
-    scan_archive()
-    scan_live_chat()
+    print("Kick Chat Normalizer Started")
+
+    print("\nScanning archive folder")
+
+    scan_folder(ARCHIVE_ROOT)
+
+    print("\nScanning live chat folder")
+
+    scan_folder(LIVE_ROOT)
 
 
 if __name__ == "__main__":
