@@ -1,26 +1,29 @@
 import json
 import requests
-import time
 from pathlib import Path
+from concurrent.futures import ThreadPoolExecutor
 
 ARCHIVE_ROOT = Path("data/kick_archive")
 
-WORKER = "https://kick-proxy.onaixia.workers.dev/api/kick/chat"
+WORKER = "https://kick-proxy.onaixia.workers.dev/api/messages"
 
-STEP = 10000  # 10 seconds
+STEP = 30000      # 30 seconds window
+THREADS = 8       # parallel workers
 
 
 def fetch_window(channel, start, end):
 
-    url = f"{WORKER}?channel={channel}&start={start}&end={end}"
+    url = f"{WORKER}/{channel}?start={start}&end={end}"
 
     print("Fetching:", url)
 
-    r = requests.get(url)
-
-    data = r.json()
-
-    return data.get("messages", [])
+    try:
+        r = requests.get(url, timeout=20)
+        data = r.json()
+        return data.get("messages", [])
+    except Exception as e:
+        print("Fetch failed:", e)
+        return []
 
 
 def process_vod(vod_dir):
@@ -43,21 +46,33 @@ def process_vod(vod_dir):
     start = meta["timestamp"] * 1000
     end = start + (meta["duration_seconds"] * 1000)
 
-    messages = []
+    print("\nProcessing VOD:", vod_dir.name)
+    print("Start:", start)
+    print("End:", end)
+
+    windows = []
 
     t = start
 
     while t < end:
-
-        window_end = t + STEP
-
-        msgs = fetch_window(channel, t, window_end)
-
-        messages.extend(msgs)
-
+        windows.append((channel, t, t + STEP))
         t += STEP
 
-        time.sleep(0.2)
+    messages = []
+
+    with ThreadPoolExecutor(max_workers=THREADS) as exe:
+
+        results = exe.map(lambda w: fetch_window(*w), windows)
+
+        for r in results:
+            messages.extend(r)
+
+    # remove duplicates
+    unique = {}
+    for m in messages:
+        unique[m["id"]] = m
+
+    messages = list(unique.values())
 
     print("Total messages:", len(messages))
 
