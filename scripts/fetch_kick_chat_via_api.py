@@ -196,6 +196,7 @@ def process_vod(vod_dir):
 
     if not messages:
         print("No chat messages found")
+        raw_file.write_text("[]")
         return
 
     unique = {}
