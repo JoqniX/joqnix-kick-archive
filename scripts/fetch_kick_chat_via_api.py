@@ -112,7 +112,6 @@ def fetch_chat(channel_id, start_time, end_time):
 
     return collected
 
-
 def process_vod(vod_dir):
 
     meta_file = vod_dir / "metadata.json"
@@ -132,16 +131,18 @@ def process_vod(vod_dir):
 
     channel_id = meta.get("channel_id")
 
-if not channel_id:
-    print("channel_id missing in metadata — fetching dynamically")
+    # fallback for old metadata
+    if not channel_id:
 
-    url = f"https://kick.com/api/v2/channels/{meta['channel']}"
+        print("channel_id missing in metadata — fetching dynamically")
 
-    r = requests.get(url, headers=HEADERS)
+        url = f"https://kick.com/api/v2/channels/{channel}"
 
-    data = r.json()
+        r = requests.get(url, headers=HEADERS)
 
-    channel_id = data["id"]
+        data = r.json()
+
+        channel_id = data["id"]
 
     start = datetime.utcfromtimestamp(meta["timestamp"])
 
@@ -165,7 +166,6 @@ if not channel_id:
     user_cache = load_user_cache()
 
     for msg in messages:
-
         fetch_user_profile(msg["sender"]["id"], user_cache)
 
     save_user_cache(user_cache)
