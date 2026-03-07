@@ -7,6 +7,8 @@ from pathlib import Path
 ARCHIVE_ROOT = Path("data/kick_archive")
 USER_CACHE_FILE = Path("cache/kick_users.json")
 
+WORKER_BASE = "https://kick-proxy.onaixia.workers.dev/api/kick"
+
 HEADERS = {
     "User-Agent": "Mozilla/5.0"
 }
@@ -25,7 +27,6 @@ def load_user_cache():
             return {}
 
     USER_CACHE_FILE.parent.mkdir(parents=True, exist_ok=True)
-
     return {}
 
 
@@ -37,12 +38,12 @@ def save_user_cache(cache):
 
 
 # ------------------------------
-# CHANNEL LOOKUP
+# CHANNEL ID
 # ------------------------------
 
 def get_channel_id(channel):
 
-    url = f"https://kick.com/api/v2/channels/{channel}"
+    url = f"{WORKER_BASE}/channel?channel={channel}"
 
     r = requests.get(url, headers=HEADERS)
 
@@ -51,14 +52,11 @@ def get_channel_id(channel):
     if "id" in data:
         return data["id"]
 
-    if "data" in data and "id" in data["data"]:
-        return data["data"]["id"]
-
     raise Exception(f"Invalid channel response: {data}")
 
 
 # ------------------------------
-# USER PROFILE CACHE
+# USER PROFILE
 # ------------------------------
 
 def fetch_user_profile(user_id, cache):
@@ -88,30 +86,31 @@ def fetch_user_profile(user_id, cache):
 
 
 # ------------------------------
-# CHAT DOWNLOADER
+# CHAT FETCH
 # ------------------------------
 
 def fetch_chat(channel_id, start_time, end_time):
 
-    cursor = None
     collected = []
-
     seen_ids = set()
+
+    # cursor jump trick
+    cursor = int(start_time.timestamp() * 1000)
+
+    print("Cursor jump start:", cursor)
 
     while True:
 
-        url = f"https://kick.com/api/v2/channels/{channel_id}/messages"
-
-        if cursor:
-            url += f"?cursor={cursor}"
+        url = f"{WORKER_BASE}/chat?channel_id={channel_id}&cursor={cursor}"
 
         print("Fetching:", url)
 
+        r = requests.get(url, headers=HEADERS)
+
         try:
-            r = requests.get(url, headers=HEADERS)
             data = r.json()
-        except Exception as e:
-            print("Request failed:", e)
+        except:
+            print("Invalid JSON")
             break
 
         if "data" not in data:
@@ -136,19 +135,21 @@ def fetch_chat(channel_id, start_time, end_time):
                 msg["created_at"].replace("Z", "+00:00")
             )
 
+            if ts > end_time:
+                continue
+
             if ts < start_time:
-                print("Reached stream start — stopping")
+                print("Reached stream start")
                 return collected
 
-            if start_time <= ts <= end_time:
-                collected.append(msg)
+            collected.append(msg)
 
         cursor = data["data"].get("cursor")
 
         if not cursor:
             break
 
-        time.sleep(0.25)
+        time.sleep(0.2)
 
     return collected
 
@@ -173,18 +174,13 @@ def process_vod(vod_dir):
     meta = json.loads(meta_file.read_text())
 
     channel = meta["channel"]
-
     channel_id = meta.get("channel_id")
 
     if not channel_id:
 
-        print("channel_id missing in metadata — fetching dynamically")
+        print("Fetching channel id")
 
-        try:
-            channel_id = get_channel_id(channel)
-        except Exception as e:
-            print("Channel lookup failed:", e)
-            return
+        channel_id = get_channel_id(channel)
 
     start = datetime.utcfromtimestamp(meta["timestamp"])
 
@@ -202,7 +198,6 @@ def process_vod(vod_dir):
         print("No chat messages found")
         return
 
-    # deduplicate
     unique = {}
 
     for msg in messages:
@@ -219,10 +214,10 @@ def process_vod(vod_dir):
         if not sender:
             continue
 
-        user_id = sender.get("id")
+        uid = sender.get("id")
 
-        if user_id:
-            fetch_user_profile(user_id, user_cache)
+        if uid:
+            fetch_user_profile(uid, user_cache)
 
     save_user_cache(user_cache)
 
@@ -240,7 +235,7 @@ def process_vod(vod_dir):
 def main():
 
     if not ARCHIVE_ROOT.exists():
-        print("Archive folder missing")
+        print("Archive missing")
         return
 
     for channel in ARCHIVE_ROOT.iterdir():
