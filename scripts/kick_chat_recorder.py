@@ -22,12 +22,13 @@ OFFLINE_POLL_INTERVAL = 30
 
 STREAM_CHECK_INTERVAL = 30
 COMMIT_INTERVAL = 180
-
 OFFLINE_THRESHOLD = 3
 
 seen_ids = set()
 active_streams = {}
 stream_start_times = {}
+livestream_ids = {}
+
 last_stream_check = {}
 offline_counter = {}
 
@@ -47,13 +48,14 @@ def parse_time(ts):
 
 
 # -----------------------------
-# STATUS PERSISTENCE
+# STATUS
 # -----------------------------
 
 def load_status():
 
     global active_streams
     global stream_start_times
+    global livestream_ids
 
     if not STATUS_FILE.exists():
         return
@@ -64,28 +66,27 @@ def load_status():
 
         active_streams.update(data.get("active_streams", {}))
         stream_start_times.update(data.get("stream_start_times", {}))
+        livestream_ids.update(data.get("livestream_ids", {}))
 
         print("Recovered status:", active_streams, flush=True)
 
     except Exception as e:
-
-        print("Failed loading status:", e, flush=True)
+        print("Failed loading status:", e)
 
 
 def save_status():
 
     STATUS_FILE.parent.mkdir(parents=True, exist_ok=True)
 
-    data = {
+    STATUS_FILE.write_text(json.dumps({
         "active_streams": active_streams,
-        "stream_start_times": stream_start_times
-    }
-
-    STATUS_FILE.write_text(json.dumps(data, indent=2))
+        "stream_start_times": stream_start_times,
+        "livestream_ids": livestream_ids
+    }, indent=2))
 
 
 # -----------------------------
-# GIT COMMIT
+# GIT
 # -----------------------------
 
 def git_commit():
@@ -107,7 +108,6 @@ def git_commit():
         )
 
         subprocess.run("git pull --rebase", shell=True)
-
         subprocess.run("git push", shell=True)
 
         last_commit_time = now
@@ -116,7 +116,7 @@ def git_commit():
 
     except Exception as e:
 
-        print("Commit failed:", e, flush=True)
+        print("Commit failed:", e)
 
 
 # -----------------------------
@@ -125,8 +125,7 @@ def git_commit():
 
 def rebuild_seen_ids(channel, vod_id):
 
-    folder = DATA_ROOT / channel / vod_id
-    file = folder / "chat_live.json"
+    file = DATA_ROOT / channel / vod_id / "chat_live.json"
 
     if not file.exists():
         return
@@ -138,7 +137,7 @@ def rebuild_seen_ids(channel, vod_id):
         for m in data:
             seen_ids.add(m["id"])
 
-        print("Recovered", len(data), "messages", flush=True)
+        print("Recovered", len(data), "messages")
 
     except:
         pass
@@ -148,7 +147,37 @@ def rebuild_seen_ids(channel, vod_id):
 # API
 # -----------------------------
 
-def get_live_stream(channel):
+def get_channel_livestream(channel):
+
+    try:
+
+        url = f"{WORKER}/channel/{channel}"
+
+        r = requests.get(url, timeout=10)
+
+        data = r.json()
+
+        livestream = data.get("livestream")
+
+        if livestream and livestream.get("is_live"):
+
+            print("[CHANNEL] LIVE", channel)
+
+            return {
+                "livestream_id": livestream["id"],
+                "start_ts": parse_time(livestream["created_at"])
+            }
+
+        print("[CHANNEL] OFFLINE", channel)
+
+    except Exception as e:
+
+        print("Channel API error:", e)
+
+    return None
+
+
+def get_vod_uuid(channel, livestream_id):
 
     try:
 
@@ -160,18 +189,21 @@ def get_live_stream(channel):
 
         for v in data:
 
-            if v.get("is_live"):
+            if v.get("id") == livestream_id:
 
-                start_ts = parse_time(v.get("created_at"))
+                vod = v.get("video")
 
-                return {
-                    "vod_id": v["video"]["uuid"],
-                    "start_ts": start_ts
-                }
+                if vod:
+                    return vod.get("uuid")
+
+            if v.get("video"):
+
+                if v["video"].get("live_stream_id") == livestream_id:
+                    return v["video"].get("uuid")
 
     except Exception as e:
 
-        print("Stream API error:", e)
+        print("Video API error:", e)
 
     return None
 
@@ -184,12 +216,9 @@ def fetch_messages(channel):
 
         r = requests.get(url, timeout=10)
 
-        data = r.json()
-
-        return data.get("messages", [])
+        return r.json().get("messages", [])
 
     except:
-
         return []
 
 
@@ -219,12 +248,12 @@ def save_messages(channel, vod_id, messages):
 
 
 # -----------------------------
-# STREAM FINALIZE
+# FINALIZE
 # -----------------------------
 
 def finalize_stream(channel, vod_id):
 
-    print("Stream ended:", channel, flush=True)
+    print("Stream ended:", channel)
 
     src = DATA_ROOT / channel / vod_id / "chat_live.json"
 
@@ -234,68 +263,60 @@ def finalize_stream(channel, vod_id):
     dst_folder = ARCHIVE_ROOT / channel / vod_id
     dst_folder.mkdir(parents=True, exist_ok=True)
 
-    dst = dst_folder / "chat_raw.json"
+    shutil.copy(src, dst_folder / "chat_raw.json")
 
-    shutil.copy(src, dst)
-
-    print("Archived chat:", dst, flush=True)
+    print("Archived chat:", vod_id)
 
     git_commit()
 
 
 # -----------------------------
-# PROCESS CHANNEL
+# PROCESS
 # -----------------------------
 
 def process_channel(channel):
 
     now = time.time()
 
-    stream = None
+    stream = get_channel_livestream(channel)
 
-    if channel not in active_streams:
-
-        stream = get_live_stream(channel)
-
-    else:
-
-        if now - last_stream_check.get(channel, 0) > STREAM_CHECK_INTERVAL:
-
-            stream = get_live_stream(channel)
-
-            last_stream_check[channel] = now
-
-
-    # ---------------------
-    # STREAM START / ACTIVE
-    # ---------------------
+    # ---------------- LIVE ----------------
 
     if stream:
 
         offline_counter[channel] = 0
 
-        vod_id = stream["vod_id"]
+        livestream_id = stream["livestream_id"]
         start_ts = stream["start_ts"]
+
+        vod_id = get_vod_uuid(channel, livestream_id)
+
+        if not vod_id:
+
+            print("Waiting for VOD mapping...")
+            return
 
         if channel not in active_streams:
 
-            print("\nStream detected:", channel, flush=True)
-            print("Tracking VOD:", vod_id, flush=True)
+            print("Stream detected:", channel)
+            print("Tracking VOD:", vod_id)
 
             active_streams[channel] = vod_id
+            livestream_ids[channel] = livestream_id
             stream_start_times[channel] = start_ts
 
             save_status()
 
             rebuild_seen_ids(channel, vod_id)
 
-        elif vod_id != active_streams[channel]:
+        elif livestream_ids.get(channel) != livestream_id:
 
-            print("VOD changed → new stream")
+            print("Livestream rotated → new session")
 
             finalize_stream(channel, active_streams[channel])
 
             active_streams[channel] = vod_id
+            livestream_ids[channel] = livestream_id
             stream_start_times[channel] = start_ts
 
             seen_ids.clear()
@@ -323,16 +344,13 @@ def process_channel(channel):
 
         if new_msgs:
 
-            print("+", len(new_msgs), "messages", flush=True)
+            print("+", len(new_msgs), "messages")
 
             save_messages(channel, vod_id, new_msgs)
 
             git_commit()
 
-
-    # ---------------------
-    # STREAM POSSIBLY ENDED
-    # ---------------------
+    # ---------------- OFFLINE ----------------
 
     else:
 
@@ -351,9 +369,8 @@ def process_channel(channel):
         finalize_stream(channel, vod_id)
 
         del active_streams[channel]
-
-        if channel in stream_start_times:
-            del stream_start_times[channel]
+        del livestream_ids[channel]
+        del stream_start_times[channel]
 
         offline_counter[channel] = 0
 
@@ -370,7 +387,7 @@ def safety_commit_loop():
 
     if time.time() - last_commit_time > COMMIT_INTERVAL:
 
-        print("Safety commit triggered", flush=True)
+        print("Safety commit triggered")
 
         git_commit()
 
@@ -381,7 +398,7 @@ def safety_commit_loop():
 
 def main():
 
-    print("Kick Chat Recorder Started", flush=True)
+    print("Kick Chat Recorder Started")
 
     load_status()
 
@@ -400,14 +417,11 @@ def main():
 
             except Exception as e:
 
-                print("Recorder error:", e, flush=True)
+                print("Recorder error:", e)
 
         safety_commit_loop()
 
-        if any_live:
-            time.sleep(LIVE_POLL_INTERVAL)
-        else:
-            time.sleep(OFFLINE_POLL_INTERVAL)
+        time.sleep(LIVE_POLL_INTERVAL if any_live else OFFLINE_POLL_INTERVAL)
 
 
 if __name__ == "__main__":
