@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  fetch:
+  fetch-streams:
 
     runs-on: ubuntu-latest
 
@@ -26,20 +26,10 @@ jobs:
       - name: Fetch Kick streams
         run: python scripts/fetch_streams.py
 
-      - name: Download Kick chat
-        run: python scripts/fetch_kick_chat_via_api.py
-
-      - name: Normalize Kick chat
-        run: python scripts/normalize_kick_chat.py
-
-      - name: Commit archive updates
+      - name: Commit metadata updates
         run: |
-           git config user.name "github-actions"
-           git config user.email "actions@github.com"
-           git add .
-           git commit -m "Update Kick archive" || echo "No changes"
-           git push
-           git add data cache
-           git commit -m "Update Kick archive" || echo "No changes"
-
-           git push
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add data
+          git commit -m "Update Kick VOD metadata" || echo "No changes"
+          git push
