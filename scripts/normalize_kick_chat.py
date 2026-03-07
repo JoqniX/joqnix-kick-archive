@@ -24,13 +24,11 @@ def normalize_chat(chat_file):
     for msg in raw:
 
         sender = msg["sender"]
-
         uid = str(sender["id"])
 
         avatar = None
 
         if uid in users:
-
             avatar = users[uid].get("profile_pic")
 
         normalized.append({
@@ -64,7 +62,6 @@ def main():
             chat_file = vod / "chat_raw.json"
 
             if chat_file.exists():
-
                 normalize_chat(chat_file)
 
 
