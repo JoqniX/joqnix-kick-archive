@@ -47,7 +47,7 @@ def get_live_stream(channel):
 
 def fetch_messages(channel):
 
-    url = f"{WORKER}/messages/{channel}"
+    url = f"{WORKER}/messages-live/{channel}"
 
     r = requests.get(url)
 
