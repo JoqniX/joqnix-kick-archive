@@ -132,7 +132,7 @@ def parse_message(content):
 
                     "type": "emote",
                     "name": emote_id,
-                    "url": f"{EMOTE_BASE}{emote_id}.png"
+                    "url": f"{EMOTE_BASE}{emote_id}/fullsize"
 
                 })
 
