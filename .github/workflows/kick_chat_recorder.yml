@@ -34,9 +34,3 @@ jobs:
 
       - name: Run chat recorder
         run: python -u scripts/kick_chat_recorder.py
-
-      - name: Commit results
-        run: |
-          git add .
-          git commit -m "Update live chat logs" || echo "No changes"
-          git push
