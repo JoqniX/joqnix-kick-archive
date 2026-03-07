@@ -123,13 +123,14 @@ def fetch_channel_vods(channel):
             thumbnail_url = v["thumbnail"].get("src")
 
         vods.append({
-            "id": uuid,
-            "title": v.get("session_title"),
-            "timestamp": timestamp,
-            "duration": v.get("duration"),
-            "thumbnail": thumbnail_url,
-            "webpage_url": f"https://kick.com/{channel}/videos/{uuid}"
-        })
+    "id": uuid,
+    "title": v.get("session_title"),
+    "timestamp": timestamp,
+    "duration": v.get("duration"),
+    "thumbnail": thumbnail_url,
+    "webpage_url": f"https://kick.com/{channel}/videos/{uuid}",
+    "channel_id": v.get("channel_id")
+})
 
     print(f"{channel} returned {len(vods)} usable entries")
 
@@ -164,16 +165,17 @@ def is_valid_archive(vod):
 def archive_metadata(channel, vod, folder):
 
     metadata = {
-        "id": vod["id"],
-        "title": vod.get("title"),
-        "created_at": vod.get("timestamp"),
-        "timestamp": vod.get("timestamp"),
-        "duration_seconds": vod.get("duration"),
-        "webpage_url": vod.get("webpage_url"),
-        "thumbnail": vod.get("thumbnail"),
-        "channel": channel,
-        "platform": "kick"
-    }
+    "id": vod["id"],
+    "title": vod.get("title"),
+    "created_at": vod.get("timestamp"),
+    "timestamp": vod.get("timestamp"),
+    "duration_seconds": vod.get("duration"),
+    "webpage_url": vod.get("webpage_url"),
+    "thumbnail": vod.get("thumbnail"),
+    "channel": channel,
+    "channel_id": vod.get("channel_id"),
+    "platform": "kick"
+}
 
     (folder / "metadata.json").write_text(
         json.dumps(metadata, indent=2)
