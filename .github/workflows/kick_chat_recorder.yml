@@ -28,7 +28,7 @@ jobs:
         run: pip install requests
 
       - name: Run chat recorder
-        run: python scripts/kick_chat_recorder.py
+        run: python -u scripts/kick_chat_recorder.py
 
       - name: Commit results
         run: |
