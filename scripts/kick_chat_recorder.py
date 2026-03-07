@@ -7,7 +7,7 @@ import shutil
 from datetime import datetime
 
 CHANNELS = [
-    "joqnix247"
+    "joqnix247", "joqnix"
 ]
 
 WORKER = "https://kick-proxy.onaixia.workers.dev/api"
