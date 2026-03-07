@@ -130,7 +130,7 @@ def process_vod(vod_dir):
 
     channel = meta["channel"]
 
-    channel_id = get_channel_id(channel)
+    channel_id = meta["channel_id"]
 
     start = datetime.utcfromtimestamp(meta["timestamp"])
 
