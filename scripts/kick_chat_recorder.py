@@ -23,11 +23,14 @@ OFFLINE_POLL_INTERVAL = 30
 STREAM_CHECK_INTERVAL = 30
 COMMIT_INTERVAL = 180
 
+OFFLINE_THRESHOLD = 3
 
 seen_ids = set()
 active_streams = {}
 stream_start_times = {}
 last_stream_check = {}
+offline_counter = {}
+
 last_commit_time = 0
 
 
@@ -103,6 +106,8 @@ def git_commit():
             shell=True
         )
 
+        subprocess.run("git pull --rebase", shell=True)
+
         subprocess.run("git push", shell=True)
 
         last_commit_time = now
@@ -145,43 +150,47 @@ def rebuild_seen_ids(channel, vod_id):
 
 def get_live_stream(channel):
 
-    url = f"{WORKER}/videos/{channel}"
-
-    r = requests.get(url)
-
     try:
+
+        url = f"{WORKER}/videos/{channel}"
+
+        r = requests.get(url, timeout=10)
+
         data = r.json()
-    except:
-        print("Invalid stream response", flush=True)
-        return None
 
-    for v in data:
+        for v in data:
 
-        if v.get("is_live"):
+            if v.get("is_live"):
 
-            start_ts = parse_time(v.get("created_at"))
+                start_ts = parse_time(v.get("created_at"))
 
-            return {
-                "vod_id": v["video"]["uuid"],
-                "start_ts": start_ts
-            }
+                return {
+                    "vod_id": v["video"]["uuid"],
+                    "start_ts": start_ts
+                }
+
+    except Exception as e:
+
+        print("Stream API error:", e)
 
     return None
 
 
 def fetch_messages(channel):
 
-    url = f"{WORKER}/messages-live/{channel}"
-
-    r = requests.get(url)
-
     try:
-        data = r.json()
-    except:
-        print("Invalid message response", flush=True)
-        return []
 
-    return data.get("messages", [])
+        url = f"{WORKER}/messages-live/{channel}"
+
+        r = requests.get(url, timeout=10)
+
+        data = r.json()
+
+        return data.get("messages", [])
+
+    except:
+
+        return []
 
 
 # -----------------------------
@@ -258,10 +267,12 @@ def process_channel(channel):
 
 
     # ---------------------
-    # STREAM START
+    # STREAM START / ACTIVE
     # ---------------------
 
     if stream:
+
+        offline_counter[channel] = 0
 
         vod_id = stream["vod_id"]
         start_ts = stream["start_ts"]
@@ -277,6 +288,19 @@ def process_channel(channel):
             save_status()
 
             rebuild_seen_ids(channel, vod_id)
+
+        elif vod_id != active_streams[channel]:
+
+            print("VOD changed → new stream")
+
+            finalize_stream(channel, active_streams[channel])
+
+            active_streams[channel] = vod_id
+            stream_start_times[channel] = start_ts
+
+            seen_ids.clear()
+
+            save_status()
 
         msgs = fetch_messages(channel)
 
@@ -307,23 +331,33 @@ def process_channel(channel):
 
 
     # ---------------------
-    # STREAM END
+    # STREAM POSSIBLY ENDED
     # ---------------------
 
     else:
 
-        if channel in active_streams:
+        if channel not in active_streams:
+            return
 
-            vod_id = active_streams[channel]
+        offline_counter[channel] = offline_counter.get(channel, 0) + 1
 
-            finalize_stream(channel, vod_id)
+        print("Offline check:", offline_counter[channel])
 
-            del active_streams[channel]
+        if offline_counter[channel] < OFFLINE_THRESHOLD:
+            return
 
-            if channel in stream_start_times:
-                del stream_start_times[channel]
+        vod_id = active_streams[channel]
 
-            save_status()
+        finalize_stream(channel, vod_id)
+
+        del active_streams[channel]
+
+        if channel in stream_start_times:
+            del stream_start_times[channel]
+
+        offline_counter[channel] = 0
+
+        save_status()
 
 
 # -----------------------------
