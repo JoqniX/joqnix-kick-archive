@@ -1,0 +1,36 @@
+name: Kick Chat Recorder v2
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: "0 */6 * * *"
+
+jobs:
+  record:
+
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+
+    steps:
+
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Configure git
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: pip install curl_cffi
+
+      - name: Run chat recorder
+        run: python -u scripts/kick_chat_recorder.py
