@@ -1,0 +1,232 @@
+{
+  "id": 138623,
+  "user_id": 140223,
+  "slug": "joqnix",
+  "is_banned": false,
+  "playback_url": "https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.ZCkulBebTQZR.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6MTk2MjMzNzc1NTE4OmNoYW5uZWwvWkNrdWxCZWJUUVpSIiwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOi8va2ljay5jb20saHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20saHR0cHM6Ly8qLmtpY2subGl2ZSxodHRwczovL3BsYXllci5raWNrLmNvbSxodHRwczovL2FkbWluLmtpY2suY29tLGh0dHBzOi8vYmV0YS5raWNrLmNvbSxodHRwczovL25leHQua2ljay5jb20saHR0cHM6Ly9kYXNoYm9hcmQua2ljay5jb20saHR0cHM6Ly8qLnByZXZpZXcua2ljay5jb20saHR0cHM6Ly94Ym94LmtpY2suY29tLGh0dHBzOi8vcGxheXN0YXRpb24ua2ljay5jb20saHR0cHM6Ly8qLmtpY2stcHJlcHJvZHVjdGlvbi5jb20saHR0cHM6Ly8qLmtpY2stZGV2ZWxvcG1lbnQuY29tIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOmZhbHNlLCJhd3M6YWRzLW9wdC1vdXQiOnRydWUsImV4cCI6MTc3MjkzMzQwM30.XEvXEi_XhcXCX4iC-w7cChN3qY3NnQDhr90cmlYSSgb61U1Mhh9attnwbqzjQn1tJSu2rmIB_-J8aXitTyDkvSHgnD-t43ppGPZYs-Bwl5I_J-LArLdhbLgts4T7ytWz",
+  "vod_enabled": true,
+  "subscription_enabled": true,
+  "is_affiliate": true,
+  "followers_count": 205,
+  "subscriber_badges": [
+    {
+      "id": 432062,
+      "channel_id": 138623,
+      "months": 1,
+      "badge_image": {
+        "srcset": "",
+        "src": "https://files.kick.com/channel_subscriber_badges/432062/original"
+      }
+    },
+    {
+      "id": 432063,
+      "channel_id": 138623,
+      "months": 2,
+      "badge_image": {
+        "srcset": "",
+        "src": "https://files.kick.com/channel_subscriber_badges/432063/original"
+      }
+    },
+    {
+      "id": 432064,
+      "channel_id": 138623,
+      "months": 3,
+      "badge_image": {
+        "srcset": "",
+        "src": "https://files.kick.com/channel_subscriber_badges/432064/original"
+      }
+    },
+    {
+      "id": 432065,
+      "channel_id": 138623,
+      "months": 6,
+      "badge_image": {
+        "srcset": "",
+        "src": "https://files.kick.com/channel_subscriber_badges/432065/original"
+      }
+    },
+    {
+      "id": 432066,
+      "channel_id": 138623,
+      "months": 9,
+      "badge_image": {
+        "srcset": "",
+        "src": "https://files.kick.com/channel_subscriber_badges/432066/original"
+      }
+    },
+    {
+      "id": 432067,
+      "channel_id": 138623,
+      "months": 12,
+      "badge_image": {
+        "srcset": "",
+        "src": "https://files.kick.com/channel_subscriber_badges/432067/original"
+      }
+    },
+    {
+      "id": 432068,
+      "channel_id": 138623,
+      "months": 18,
+      "badge_image": {
+        "srcset": "",
+        "src": "https://files.kick.com/channel_subscriber_badges/432068/original"
+      }
+    },
+    {
+      "id": 432069,
+      "channel_id": 138623,
+      "months": 24,
+      "badge_image": {
+        "srcset": "",
+        "src": "https://files.kick.com/channel_subscriber_badges/432069/original"
+      }
+    },
+    {
+      "id": 432070,
+      "channel_id": 138623,
+      "months": 30,
+      "badge_image": {
+        "srcset": "",
+        "src": "https://files.kick.com/channel_subscriber_badges/432070/original"
+      }
+    },
+    {
+      "id": 432071,
+      "channel_id": 138623,
+      "months": 36,
+      "badge_image": {
+        "srcset": "",
+        "src": "https://files.kick.com/channel_subscriber_badges/432071/original"
+      }
+    },
+    {
+      "id": 432072,
+      "channel_id": 138623,
+      "months": 42,
+      "badge_image": {
+        "srcset": "",
+        "src": "https://files.kick.com/channel_subscriber_badges/432072/original"
+      }
+    },
+    {
+      "id": 432073,
+      "channel_id": 138623,
+      "months": 48,
+      "badge_image": {
+        "srcset": "",
+        "src": "https://files.kick.com/channel_subscriber_badges/432073/original"
+      }
+    },
+    {
+      "id": 432074,
+      "channel_id": 138623,
+      "months": 54,
+      "badge_image": {
+        "srcset": "",
+        "src": "https://files.kick.com/channel_subscriber_badges/432074/original"
+      }
+    },
+    {
+      "id": 432075,
+      "channel_id": 138623,
+      "months": 60,
+      "badge_image": {
+        "srcset": "",
+        "src": "https://files.kick.com/channel_subscriber_badges/432075/original"
+      }
+    },
+    {
+      "id": 432076,
+      "channel_id": 138623,
+      "months": 66,
+      "badge_image": {
+        "srcset": "",
+        "src": "https://files.kick.com/channel_subscriber_badges/432076/original"
+      }
+    },
+    {
+      "id": 432077,
+      "channel_id": 138623,
+      "months": 72,
+      "badge_image": {
+        "srcset": "",
+        "src": "https://files.kick.com/channel_subscriber_badges/432077/original"
+      }
+    }
+  ],
+  "banner_image": {
+    "url": "https://files.kick.com/images/channel/138623/banner_image/08257fc8-c270-45c6-b689-258321aca4b4"
+  },
+  "livestream": null,
+  "role": null,
+  "muted": false,
+  "follower_badges": [],
+  "offline_banner_image": null,
+  "verified": false,
+  "recent_categories": [
+    {
+      "id": 415,
+      "category_id": 1,
+      "name": "VTubers",
+      "slug": "vtubers",
+      "tags": [
+        "Action",
+        "Puzzle",
+        "Adventure Games",
+        "Shooter",
+        "FPS"
+      ],
+      "description": null,
+      "deleted_at": null,
+      "is_mature": false,
+      "is_promoted": false,
+      "viewers": 616,
+      "is_fallback": false,
+      "banner": {
+        "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
+        "url": "https://files.kick.com/images/subcategories/415/banner/20afafe3-9025-4d93-9bab-5d4e7694807a"
+      },
+      "category": {
+        "id": 1,
+        "name": "Games",
+        "slug": "games",
+        "icon": "\ud83d\udd79\ufe0f"
+      }
+    }
+  ],
+  "can_host": true,
+  "user": {
+    "id": 140223,
+    "username": "joqnix",
+    "agreed_to_terms": true,
+    "email_verified_at": "2023-03-11T15:40:32.000000Z",
+    "bio": "Greetings Wanderer~ The name's JoqniX. A Constellation, Guild Leader & Voyager of Onaixiana!I like to explore the vast millions of worlds to meet thrilling adventures all throughout my journey! would you like to join me too? \"May your strayed path be united amongst the starlight\" \ufe32  \ud83c\udf8b\ud83c\udf1f\ud83c\udf20  | I'm a \u661f \u5ea7 VTuber from India",
+    "country": null,
+    "state": null,
+    "city": null,
+    "instagram": "joqnix",
+    "twitter": "joqnix",
+    "youtube": "@joqnix",
+    "discord": "VFkzgTa",
+    "tiktok": "joqnix",
+    "facebook": "joqnix",
+    "gender": null,
+    "profile_pic": "https://files.kick.com/images/user/140223/profile_image/conversion/ef121a80-5977-40c2-9236-f6970a04bf8e-fullsize.webp"
+  },
+  "chatroom": {
+    "id": 138621,
+    "chatable_type": "App\\Models\\Channel",
+    "channel_id": 138623,
+    "created_at": "2022-12-07T02:08:59.000000Z",
+    "updated_at": "2025-06-11T20:31:22.000000Z",
+    "chat_mode_old": "public",
+    "chat_mode": "public",
+    "slow_mode": false,
+    "chatable_id": 138623,
+    "followers_mode": false,
+    "subscribers_mode": false,
+    "emotes_mode": false,
+    "message_interval": 0,
+    "following_min_duration": 0
+  }
+}
