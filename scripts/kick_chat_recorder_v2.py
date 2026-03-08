@@ -237,13 +237,23 @@ def fetch_messages(channel):
         data = safe_json(r)
 
         if not isinstance(data, dict):
-            print("[MESSAGES ERROR] invalid json")
+            print("[MESSAGES ERROR] invalid response")
             return []
 
-        msgs = data.get("data") or data.get("messages")
+        # Case 1
+        if isinstance(data.get("messages"), list):
+            msgs = data["messages"]
 
-        if not isinstance(msgs, list):
-            print("[MESSAGES ERROR] not list")
+        # Case 2
+        elif isinstance(data.get("data"), list):
+            msgs = data["data"]
+
+        # Case 3
+        elif isinstance(data.get("data"), dict) and isinstance(data["data"].get("messages"), list):
+            msgs = data["data"]["messages"]
+
+        else:
+            print("[MESSAGES ERROR] unknown format:", data)
             return []
 
         print("[MESSAGES] received:", len(msgs))
