@@ -703,5 +703,23 @@
         "badges": []
       }
     }
+  },
+  {
+    "id": "876d4508-ebc2-4558-8c63-2cf1261470d9",
+    "chat_id": 91090947,
+    "user_id": 98975550,
+    "content": "hi",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1772957683403\"}",
+    "created_at": "2026-03-08T08:14:45Z",
+    "sender": {
+      "id": 98975550,
+      "slug": "agnostic-x",
+      "username": "agnostic_x",
+      "identity": {
+        "color": "#72ACED",
+        "badges": []
+      }
+    }
   }
 ]
