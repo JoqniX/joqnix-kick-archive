@@ -33,4 +33,4 @@ jobs:
         run: pip install curl_cffi
 
       - name: Run chat recorder
-        run: python -u scripts/kick_chat_recorder.py
+        run: python -u scripts/kick_chat_recorder_v2.py
