@@ -26,7 +26,13 @@ COMMIT_INTERVAL = 180
 OFFLINE_THRESHOLD = 3
 
 
-session = requests.Session(impersonate="chrome110")
+session = requests.Session(
+    impersonate="chrome110",
+    headers={
+        "Accept": "application/json",
+        "User-Agent": "Mozilla/5.0"
+    }
+)
 
 
 seen_ids = set()
@@ -40,7 +46,7 @@ last_commit_time = 0
 
 
 # -----------------------------
-# TIME PARSER
+# TIME
 # -----------------------------
 
 def parse_time(ts):
@@ -72,7 +78,7 @@ def load_status():
         stream_start_times.update(data.get("stream_start_times", {}))
         livestream_ids.update(data.get("livestream_ids", {}))
 
-        print("Recovered status:", active_streams, flush=True)
+        print("Recovered status:", active_streams)
 
     except Exception as e:
         print("Failed loading status:", e)
@@ -117,35 +123,11 @@ def git_commit():
 
         last_commit_time = now
 
-        print("Commit successful", flush=True)
+        print("Commit successful")
 
     except Exception as e:
 
         print("Commit failed:", e)
-
-
-# -----------------------------
-# RECOVERY
-# -----------------------------
-
-def rebuild_seen_ids(channel, vod_id):
-
-    file = DATA_ROOT / channel / vod_id / "chat_live.json"
-
-    if not file.exists():
-        return
-
-    try:
-
-        data = json.loads(file.read_text())
-
-        for m in data:
-            seen_ids.add(m["id"])
-
-        print("Recovered", len(data), "messages")
-
-    except:
-        pass
 
 
 # -----------------------------
@@ -179,13 +161,13 @@ def get_channel_livestream(channel):
 
         livestream = data.get("livestream")
 
-        if isinstance(livestream, dict) and livestream.get("is_live"):
+        if livestream and livestream.get("is_live"):
 
             print("[CHANNEL] LIVE", channel)
 
             return {
-                "livestream_id": livestream.get("id"),
-                "start_ts": parse_time(livestream.get("created_at"))
+                "livestream_id": livestream["id"],
+                "start_ts": parse_time(livestream["created_at"])
             }
 
         print("[CHANNEL] OFFLINE", channel)
@@ -198,7 +180,7 @@ def get_channel_livestream(channel):
 
 
 # -----------------------------
-# VOD UUID RESOLUTION
+# VOD UUID
 # -----------------------------
 
 def get_vod_uuid(channel, livestream_id):
@@ -223,15 +205,14 @@ def get_vod_uuid(channel, livestream_id):
 
                 video = v.get("video")
 
-                if isinstance(video, dict):
+                if video:
                     return video.get("uuid")
 
             video = v.get("video")
 
-            if isinstance(video, dict):
+            if video and video.get("live_stream_id") == livestream_id:
 
-                if video.get("live_stream_id") == livestream_id:
-                    return video.get("uuid")
+                return video.get("uuid")
 
     except Exception as e:
 
@@ -244,11 +225,11 @@ def get_vod_uuid(channel, livestream_id):
 # FETCH MESSAGES
 # -----------------------------
 
-def fetch_messages(channel_id):
+def fetch_messages(channel):
 
     try:
 
-        url = f"https://kick.com/api/v2/channels/{channel_id}/messages"
+        url = f"https://kick.com/api/v2/channels/{channel}/messages"
 
         r = session.get(url, timeout=10)
 
@@ -257,7 +238,7 @@ def fetch_messages(channel_id):
         if not isinstance(data, dict):
             return []
 
-        msgs = data.get("data")
+        msgs = data.get("data") or data.get("messages")
 
         if not isinstance(msgs, list):
             return []
@@ -278,7 +259,6 @@ def fetch_messages(channel_id):
 def save_messages(channel, vod_id, messages):
 
     folder = DATA_ROOT / channel / vod_id
-
     folder.mkdir(parents=True, exist_ok=True)
 
     file = folder / "chat_live.json"
@@ -298,7 +278,7 @@ def save_messages(channel, vod_id, messages):
 
 
 # -----------------------------
-# FINALIZE STREAM
+# FINALIZE
 # -----------------------------
 
 def finalize_stream(channel, vod_id):
@@ -311,7 +291,6 @@ def finalize_stream(channel, vod_id):
         return
 
     dst_folder = ARCHIVE_ROOT / channel / vod_id
-
     dst_folder.mkdir(parents=True, exist_ok=True)
 
     shutil.copy(src, dst_folder / "chat_raw.json")
@@ -352,9 +331,7 @@ def process_channel(channel):
 
             save_status()
 
-            rebuild_seen_ids(channel, vod_id)
-
-        msgs = fetch_messages(livestream_id)
+        msgs = fetch_messages(channel)
 
         new_msgs = []
 
