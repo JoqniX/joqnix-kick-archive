@@ -1,5 +1,11 @@
 {
-  "active_streams": {},
-  "stream_start_times": {},
-  "livestream_ids": {}
+  "active_streams": {
+    "joqnix247": "56f7bc13-d43f-426b-817f-e8920d565ea9"
+  },
+  "stream_start_times": {
+    "joqnix247": 1772978408
+  },
+  "livestream_ids": {
+    "joqnix247": 99883659
+  }
 }
