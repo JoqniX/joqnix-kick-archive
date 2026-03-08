@@ -1,4 +1,4 @@
-name: Fetch Kick Streams VODs
+name: Fetch Kick Streams VODs v2
 
 on:
   schedule:
