@@ -1,0 +1,36 @@
+name: Fetch Kick Data
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: "*/15 * * * *"
+
+jobs:
+  fetch:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install curl_cffi
+
+      - name: Fetch Kick data
+        run: python scripts/fetch_kick_data.py
+
+      - name: Commit updates
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add data/kick/
+          git commit -m "Update Kick data" || echo "No changes"
+          git push
