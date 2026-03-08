@@ -110,19 +110,28 @@ def git_commit():
     if time.time() - last_commit_time < 5:
         return
 
-    print("[GIT] commit")
+    print("[GIT] committing changes")
 
-    subprocess.run("git pull --rebase", shell=True)
-    subprocess.run("git add data", shell=True)
+    try:
 
-    subprocess.run(
-        'git commit -m "Update live chat archive" || echo "No changes"',
-        shell=True
-    )
+        subprocess.run("git add data", shell=True)
 
-    subprocess.run("git push", shell=True)
+        subprocess.run(
+            'git commit -m "Update live chat archive" || echo "No changes"',
+            shell=True
+        )
 
-    last_commit_time = time.time()
+        subprocess.run("git pull --rebase origin Main-dayo", shell=True)
+
+        subprocess.run("git push origin Main-dayo", shell=True)
+
+        last_commit_time = time.time()
+
+        print("[GIT] push successful")
+
+    except Exception as e:
+
+        print("[GIT ERROR]", e)
 
 
 # ------------------------------------------------
