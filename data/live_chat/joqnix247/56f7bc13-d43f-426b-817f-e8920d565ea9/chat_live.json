@@ -388,5 +388,23 @@
         "badges": []
       }
     }
+  },
+  {
+    "id": "c3852aed-7263-4eb2-a025-bb08e20721ad",
+    "chat_id": 91090947,
+    "user_id": 60006880,
+    "content": "give raspberries belly",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1772994568288\"}",
+    "created_at": "2026-03-08T18:29:29Z",
+    "sender": {
+      "id": 60006880,
+      "slug": "zombie6474",
+      "username": "Zombie6474",
+      "identity": {
+        "color": "#B9D6F6",
+        "badges": []
+      }
+    }
   }
 ]
