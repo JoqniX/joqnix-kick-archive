@@ -58,16 +58,26 @@ def parse_time(ts):
 
 
 # -----------------------------
+# SAFE JSON
+# -----------------------------
+
+def safe_json(resp):
+
+    try:
+        return resp.json()
+    except:
+        print("[JSON ERROR] Could not decode response")
+        return None
+
+
+# -----------------------------
 # STATUS
 # -----------------------------
 
 def load_status():
 
-    global active_streams
-    global stream_start_times
-    global livestream_ids
-
     if not STATUS_FILE.exists():
+        print("[STATUS] No previous status file")
         return
 
     try:
@@ -78,10 +88,10 @@ def load_status():
         stream_start_times.update(data.get("stream_start_times", {}))
         livestream_ids.update(data.get("livestream_ids", {}))
 
-        print("Recovered status:", active_streams)
+        print("[STATUS] Recovered:", active_streams)
 
     except Exception as e:
-        print("Failed loading status:", e)
+        print("[STATUS ERROR]", e)
 
 
 def save_status():
@@ -93,6 +103,8 @@ def save_status():
         "stream_start_times": stream_start_times,
         "livestream_ids": livestream_ids
     }, indent=2))
+
+    print("[STATUS] Saved")
 
 
 # -----------------------------
@@ -107,6 +119,8 @@ def git_commit():
 
     if now - last_commit_time < 5:
         return
+
+    print("[GIT] Attempting commit")
 
     try:
 
@@ -123,23 +137,11 @@ def git_commit():
 
         last_commit_time = now
 
-        print("Commit successful")
+        print("[GIT] Commit successful")
 
     except Exception as e:
 
-        print("Commit failed:", e)
-
-
-# -----------------------------
-# SAFE JSON
-# -----------------------------
-
-def safe_json(resp):
-
-    try:
-        return resp.json()
-    except:
-        return None
+        print("[GIT ERROR]", e)
 
 
 # -----------------------------
@@ -152,11 +154,14 @@ def get_channel_livestream(channel):
 
         url = f"https://kick.com/api/v2/channels/{channel}"
 
+        print("[API] Fetch channel:", url)
+
         r = session.get(url, timeout=10)
 
         data = safe_json(r)
 
         if not isinstance(data, dict):
+            print("[CHANNEL ERROR] Invalid response")
             return None
 
         livestream = data.get("livestream")
@@ -174,7 +179,7 @@ def get_channel_livestream(channel):
 
     except Exception as e:
 
-        print("Channel API error:", e)
+        print("[CHANNEL API ERROR]", e)
 
     return None
 
@@ -189,11 +194,16 @@ def get_vod_uuid(channel, livestream_id):
 
         url = f"https://kick.com/api/v2/channels/{channel}/videos"
 
+        print("[API] Fetch videos:", url)
+
         r = session.get(url, timeout=10)
 
         data = safe_json(r)
 
         if not isinstance(data, list):
+
+            print("[VIDEO ERROR] Not a list")
+
             return None
 
         for v in data:
@@ -206,17 +216,28 @@ def get_vod_uuid(channel, livestream_id):
                 video = v.get("video")
 
                 if video:
-                    return video.get("uuid")
+
+                    uuid = video.get("uuid")
+
+                    print("[VIDEO] Found VOD UUID:", uuid)
+
+                    return uuid
 
             video = v.get("video")
 
             if video and video.get("live_stream_id") == livestream_id:
 
-                return video.get("uuid")
+                uuid = video.get("uuid")
+
+                print("[VIDEO] Found VOD UUID:", uuid)
+
+                return uuid
+
+        print("[VIDEO] VOD mapping not found yet")
 
     except Exception as e:
 
-        print("Video API error:", e)
+        print("[VIDEO API ERROR]", e)
 
     return None
 
@@ -231,23 +252,33 @@ def fetch_messages(channel):
 
         url = f"https://kick.com/api/v2/channels/{channel}/messages"
 
+        print("[API] Fetch messages:", url)
+
         r = session.get(url, timeout=10)
 
         data = safe_json(r)
 
         if not isinstance(data, dict):
+
+            print("[MESSAGES ERROR] Response not dict")
+
             return []
 
         msgs = data.get("data") or data.get("messages")
 
         if not isinstance(msgs, list):
+
+            print("[MESSAGES ERROR] Not list")
+
             return []
+
+        print("[MESSAGES] Received:", len(msgs))
 
         return msgs
 
     except Exception as e:
 
-        print("Message API error:", e)
+        print("[MESSAGES ERROR]", e)
 
         return []
 
@@ -259,6 +290,7 @@ def fetch_messages(channel):
 def save_messages(channel, vod_id, messages):
 
     folder = DATA_ROOT / channel / vod_id
+
     folder.mkdir(parents=True, exist_ok=True)
 
     file = folder / "chat_live.json"
@@ -270,11 +302,13 @@ def save_messages(channel, vod_id, messages):
         try:
             existing = json.loads(file.read_text())
         except:
-            existing = []
+            pass
 
     existing.extend(messages)
 
     file.write_text(json.dumps(existing, indent=2, ensure_ascii=False))
+
+    print("[SAVE] Wrote", len(messages), "messages")
 
 
 # -----------------------------
@@ -283,19 +317,23 @@ def save_messages(channel, vod_id, messages):
 
 def finalize_stream(channel, vod_id):
 
-    print("Stream ended:", channel)
+    print("[FINALIZE] Stream ended:", channel)
 
     src = DATA_ROOT / channel / vod_id / "chat_live.json"
 
     if not src.exists():
+
+        print("[FINALIZE] No chat file")
+
         return
 
     dst_folder = ARCHIVE_ROOT / channel / vod_id
+
     dst_folder.mkdir(parents=True, exist_ok=True)
 
     shutil.copy(src, dst_folder / "chat_raw.json")
 
-    print("Archived chat:", vod_id)
+    print("[FINALIZE] Archived:", vod_id)
 
     git_commit()
 
@@ -306,6 +344,8 @@ def finalize_stream(channel, vod_id):
 
 def process_channel(channel):
 
+    print("\n=== PROCESS CHANNEL:", channel, "===")
+
     stream = get_channel_livestream(channel)
 
     if stream:
@@ -315,15 +355,19 @@ def process_channel(channel):
         livestream_id = stream["livestream_id"]
         start_ts = stream["start_ts"]
 
+        print("[STREAM] livestream_id:", livestream_id)
+
         vod_id = get_vod_uuid(channel, livestream_id)
 
         if not vod_id:
-            print("Waiting for VOD mapping...")
+
+            print("[STREAM] Waiting for VOD mapping")
+
             return
 
         if channel not in active_streams:
 
-            print("Stream detected:", channel)
+            print("[STREAM] New stream detected")
 
             active_streams[channel] = vod_id
             livestream_ids[channel] = livestream_id
@@ -354,9 +398,9 @@ def process_channel(channel):
 
             new_msgs.append(m)
 
-        if new_msgs:
+        print("[FILTER] New messages:", len(new_msgs))
 
-            print("+", len(new_msgs), "messages")
+        if new_msgs:
 
             save_messages(channel, vod_id, new_msgs)
 
@@ -368,6 +412,8 @@ def process_channel(channel):
             return
 
         offline_counter[channel] = offline_counter.get(channel, 0) + 1
+
+        print("[OFFLINE CHECK]", offline_counter[channel])
 
         if offline_counter[channel] < OFFLINE_THRESHOLD:
             return
@@ -410,7 +456,7 @@ def main():
 
             except Exception as e:
 
-                print("Recorder error:", e)
+                print("[PROCESS ERROR]", e)
 
         time.sleep(LIVE_POLL_INTERVAL if any_live else OFFLINE_POLL_INTERVAL)
 
