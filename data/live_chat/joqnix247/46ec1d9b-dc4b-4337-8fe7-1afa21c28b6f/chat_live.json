@@ -739,5 +739,23 @@
         "badges": []
       }
     }
+  },
+  {
+    "id": "bfe46a10-8175-4016-b249-39eb89df04a5",
+    "chat_id": 91090947,
+    "user_id": 98975550,
+    "content": "curry munchers",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1772957711862\"}",
+    "created_at": "2026-03-08T08:15:14Z",
+    "sender": {
+      "id": 98975550,
+      "slug": "agnostic-x",
+      "username": "agnostic_x",
+      "identity": {
+        "color": "#72ACED",
+        "badges": []
+      }
+    }
   }
 ]
