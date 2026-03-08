@@ -22,7 +22,7 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: pip install requests
+        run: pip install "curl_cffi"
 
       - name: Fetch Kick channel
         run: python scripts/fetch_kick_channel.py
