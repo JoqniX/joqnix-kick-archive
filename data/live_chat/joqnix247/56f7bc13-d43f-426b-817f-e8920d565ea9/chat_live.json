@@ -370,5 +370,23 @@
         "badges": []
       }
     }
+  },
+  {
+    "id": "e2b81890-abcf-44eb-bebc-31bcbe7d97c9",
+    "chat_id": 91090947,
+    "user_id": 60006880,
+    "content": "talk to me",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1772994551259\"}",
+    "created_at": "2026-03-08T18:29:12Z",
+    "sender": {
+      "id": 60006880,
+      "slug": "zombie6474",
+      "username": "Zombie6474",
+      "identity": {
+        "color": "#B9D6F6",
+        "badges": []
+      }
+    }
   }
 ]
