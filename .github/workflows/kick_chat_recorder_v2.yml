@@ -17,6 +17,7 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
         with:
+          ref: Main-dayo
           fetch-depth: 0
 
       - name: Configure git
