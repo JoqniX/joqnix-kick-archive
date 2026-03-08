@@ -658,5 +658,32 @@
         ]
       }
     }
+  },
+  {
+    "id": "d7a29f86-2861-48d4-820a-9c298d4656a9",
+    "chat_id": 91090947,
+    "user_id": 4377088,
+    "content": "Thanks for the follow @lol9999555",
+    "type": "message",
+    "metadata": null,
+    "created_at": "2026-03-08T06:54:28Z",
+    "sender": {
+      "id": 4377088,
+      "slug": "kickbot",
+      "username": "KickBot",
+      "identity": {
+        "color": "#E9113C",
+        "badges": [
+          {
+            "type": "moderator",
+            "text": "Moderator"
+          },
+          {
+            "type": "verified",
+            "text": "Verified channel"
+          }
+        ]
+      }
+    }
   }
 ]
