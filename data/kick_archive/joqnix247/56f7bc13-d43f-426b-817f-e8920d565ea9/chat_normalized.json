@@ -1,0 +1,1422 @@
+[
+  {
+    "id": "15d93dc2-8f9d-4630-8e5c-1ede4fedc917",
+    "timestamp": "2026-03-08T14:28:04Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 60006880,
+      "username": "Zombie6474",
+      "avatar": null,
+      "color": "#B9D6F6",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "hi"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "5c53209d-980d-4cef-bddb-c0ae5aa55817",
+    "timestamp": "2026-03-08T14:28:42Z",
+    "vod_offset": 38,
+    "vod_timestamp": "00:00:38",
+    "user": {
+      "id": 60006880,
+      "username": "Zombie6474",
+      "avatar": null,
+      "color": "#B9D6F6",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "give me raspberries belly"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "e99bf1a6-ec5e-4f2e-be58-99cba9cb8b94",
+    "timestamp": "2026-03-08T14:29:10Z",
+    "vod_offset": 66,
+    "vod_timestamp": "00:01:06",
+    "user": {
+      "id": 60006880,
+      "username": "Zombie6474",
+      "avatar": null,
+      "color": "#B9D6F6",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "yes"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "7d07f86d-d6b9-4274-8ff0-04ec5154a72f",
+    "timestamp": "2026-03-08T16:17:51Z",
+    "vod_offset": 6587,
+    "vod_timestamp": "01:49:47",
+    "user": {
+      "id": 140223,
+      "username": "joqnix",
+      "avatar": "https://files.kick.com/images/user/140223/profile_image/conversion/ef121a80-5977-40c2-9236-f6970a04bf8e-fullsize.webp",
+      "color": "#72ACED",
+      "badges": [
+        {
+          "type": "moderator",
+          "text": "Moderator"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "."
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "7d07f86d-d6b9-4274-8ff0-04ec5154a72f",
+    "timestamp": "2026-03-08T16:17:51Z",
+    "vod_offset": 6587,
+    "vod_timestamp": "01:49:47",
+    "user": {
+      "id": 140223,
+      "username": "joqnix",
+      "avatar": "https://files.kick.com/images/user/140223/profile_image/conversion/ef121a80-5977-40c2-9236-f6970a04bf8e-fullsize.webp",
+      "color": "#72ACED",
+      "badges": [
+        {
+          "type": "moderator",
+          "text": "Moderator"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "."
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "e99bf1a6-ec5e-4f2e-be58-99cba9cb8b94",
+    "timestamp": "2026-03-08T14:29:10Z",
+    "vod_offset": 66,
+    "vod_timestamp": "00:01:06",
+    "user": {
+      "id": 60006880,
+      "username": "Zombie6474",
+      "avatar": null,
+      "color": "#B9D6F6",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "yes"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "5c53209d-980d-4cef-bddb-c0ae5aa55817",
+    "timestamp": "2026-03-08T14:28:42Z",
+    "vod_offset": 38,
+    "vod_timestamp": "00:00:38",
+    "user": {
+      "id": 60006880,
+      "username": "Zombie6474",
+      "avatar": null,
+      "color": "#B9D6F6",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "give me raspberries belly"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "15d93dc2-8f9d-4630-8e5c-1ede4fedc917",
+    "timestamp": "2026-03-08T14:28:04Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 60006880,
+      "username": "Zombie6474",
+      "avatar": null,
+      "color": "#B9D6F6",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "hi"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "7d07f86d-d6b9-4274-8ff0-04ec5154a72f",
+    "timestamp": "2026-03-08T16:17:51Z",
+    "vod_offset": 6587,
+    "vod_timestamp": "01:49:47",
+    "user": {
+      "id": 140223,
+      "username": "joqnix",
+      "avatar": "https://files.kick.com/images/user/140223/profile_image/conversion/ef121a80-5977-40c2-9236-f6970a04bf8e-fullsize.webp",
+      "color": "#72ACED",
+      "badges": [
+        {
+          "type": "moderator",
+          "text": "Moderator"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "."
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "e99bf1a6-ec5e-4f2e-be58-99cba9cb8b94",
+    "timestamp": "2026-03-08T14:29:10Z",
+    "vod_offset": 66,
+    "vod_timestamp": "00:01:06",
+    "user": {
+      "id": 60006880,
+      "username": "Zombie6474",
+      "avatar": null,
+      "color": "#B9D6F6",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "yes"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "5c53209d-980d-4cef-bddb-c0ae5aa55817",
+    "timestamp": "2026-03-08T14:28:42Z",
+    "vod_offset": 38,
+    "vod_timestamp": "00:00:38",
+    "user": {
+      "id": 60006880,
+      "username": "Zombie6474",
+      "avatar": null,
+      "color": "#B9D6F6",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "give me raspberries belly"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "15d93dc2-8f9d-4630-8e5c-1ede4fedc917",
+    "timestamp": "2026-03-08T14:28:04Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 60006880,
+      "username": "Zombie6474",
+      "avatar": null,
+      "color": "#B9D6F6",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "hi"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "cc2efcd0-d4ed-438e-8a9f-229dc40ee86e",
+    "timestamp": "2026-03-08T17:12:03Z",
+    "vod_offset": 9839,
+    "vod_timestamp": "02:43:59",
+    "user": {
+      "id": 140223,
+      "username": "joqnix",
+      "avatar": "https://files.kick.com/images/user/140223/profile_image/conversion/ef121a80-5977-40c2-9236-f6970a04bf8e-fullsize.webp",
+      "color": "#72ACED",
+      "badges": [
+        {
+          "type": "moderator",
+          "text": "Moderator"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "????"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "cc2efcd0-d4ed-438e-8a9f-229dc40ee86e",
+    "timestamp": "2026-03-08T17:12:03Z",
+    "vod_offset": 9839,
+    "vod_timestamp": "02:43:59",
+    "user": {
+      "id": 140223,
+      "username": "joqnix",
+      "avatar": "https://files.kick.com/images/user/140223/profile_image/conversion/ef121a80-5977-40c2-9236-f6970a04bf8e-fullsize.webp",
+      "color": "#72ACED",
+      "badges": [
+        {
+          "type": "moderator",
+          "text": "Moderator"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "????"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "7d07f86d-d6b9-4274-8ff0-04ec5154a72f",
+    "timestamp": "2026-03-08T16:17:51Z",
+    "vod_offset": 6587,
+    "vod_timestamp": "01:49:47",
+    "user": {
+      "id": 140223,
+      "username": "joqnix",
+      "avatar": "https://files.kick.com/images/user/140223/profile_image/conversion/ef121a80-5977-40c2-9236-f6970a04bf8e-fullsize.webp",
+      "color": "#72ACED",
+      "badges": [
+        {
+          "type": "moderator",
+          "text": "Moderator"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "."
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "e99bf1a6-ec5e-4f2e-be58-99cba9cb8b94",
+    "timestamp": "2026-03-08T14:29:10Z",
+    "vod_offset": 66,
+    "vod_timestamp": "00:01:06",
+    "user": {
+      "id": 60006880,
+      "username": "Zombie6474",
+      "avatar": null,
+      "color": "#B9D6F6",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "yes"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "5c53209d-980d-4cef-bddb-c0ae5aa55817",
+    "timestamp": "2026-03-08T14:28:42Z",
+    "vod_offset": 38,
+    "vod_timestamp": "00:00:38",
+    "user": {
+      "id": 60006880,
+      "username": "Zombie6474",
+      "avatar": null,
+      "color": "#B9D6F6",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "give me raspberries belly"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "15d93dc2-8f9d-4630-8e5c-1ede4fedc917",
+    "timestamp": "2026-03-08T14:28:04Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 60006880,
+      "username": "Zombie6474",
+      "avatar": null,
+      "color": "#B9D6F6",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "hi"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "aaca094a-dfe8-41d6-a633-f9694467289e",
+    "timestamp": "2026-03-08T18:28:58Z",
+    "vod_offset": 14454,
+    "vod_timestamp": "04:00:54",
+    "user": {
+      "id": 60006880,
+      "username": "Zombie6474",
+      "avatar": null,
+      "color": "#B9D6F6",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "hi"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "e2b81890-abcf-44eb-bebc-31bcbe7d97c9",
+    "timestamp": "2026-03-08T18:29:12Z",
+    "vod_offset": 14468,
+    "vod_timestamp": "04:01:08",
+    "user": {
+      "id": 60006880,
+      "username": "Zombie6474",
+      "avatar": null,
+      "color": "#B9D6F6",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "talk to me"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "c3852aed-7263-4eb2-a025-bb08e20721ad",
+    "timestamp": "2026-03-08T18:29:29Z",
+    "vod_offset": 14485,
+    "vod_timestamp": "04:01:25",
+    "user": {
+      "id": 60006880,
+      "username": "Zombie6474",
+      "avatar": null,
+      "color": "#B9D6F6",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "give raspberries belly"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "7461533c-2231-4660-90da-593d33eec3bc",
+    "timestamp": "2026-03-08T19:37:24Z",
+    "vod_offset": 18560,
+    "vod_timestamp": "05:09:20",
+    "user": {
+      "id": 140223,
+      "username": "joqnix",
+      "avatar": "https://files.kick.com/images/user/140223/profile_image/conversion/ef121a80-5977-40c2-9236-f6970a04bf8e-fullsize.webp",
+      "color": "#72ACED",
+      "badges": [
+        {
+          "type": "moderator",
+          "text": "Moderator"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "this is a re-run channel, ( hence a playlist of old streams from my main channel being broadcasted. its written on about panels). i check this channel's chat once in a while."
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "7461533c-2231-4660-90da-593d33eec3bc",
+    "timestamp": "2026-03-08T19:37:24Z",
+    "vod_offset": 18560,
+    "vod_timestamp": "05:09:20",
+    "user": {
+      "id": 140223,
+      "username": "joqnix",
+      "avatar": "https://files.kick.com/images/user/140223/profile_image/conversion/ef121a80-5977-40c2-9236-f6970a04bf8e-fullsize.webp",
+      "color": "#72ACED",
+      "badges": [
+        {
+          "type": "moderator",
+          "text": "Moderator"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "this is a re-run channel, ( hence a playlist of old streams from my main channel being broadcasted. its written on about panels). i check this channel's chat once in a while."
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "c3852aed-7263-4eb2-a025-bb08e20721ad",
+    "timestamp": "2026-03-08T18:29:29Z",
+    "vod_offset": 14485,
+    "vod_timestamp": "04:01:25",
+    "user": {
+      "id": 60006880,
+      "username": "Zombie6474",
+      "avatar": null,
+      "color": "#B9D6F6",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "give raspberries belly"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "e2b81890-abcf-44eb-bebc-31bcbe7d97c9",
+    "timestamp": "2026-03-08T18:29:12Z",
+    "vod_offset": 14468,
+    "vod_timestamp": "04:01:08",
+    "user": {
+      "id": 60006880,
+      "username": "Zombie6474",
+      "avatar": null,
+      "color": "#B9D6F6",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "talk to me"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "aaca094a-dfe8-41d6-a633-f9694467289e",
+    "timestamp": "2026-03-08T18:28:58Z",
+    "vod_offset": 14454,
+    "vod_timestamp": "04:00:54",
+    "user": {
+      "id": 60006880,
+      "username": "Zombie6474",
+      "avatar": null,
+      "color": "#B9D6F6",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "hi"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "cc2efcd0-d4ed-438e-8a9f-229dc40ee86e",
+    "timestamp": "2026-03-08T17:12:03Z",
+    "vod_offset": 9839,
+    "vod_timestamp": "02:43:59",
+    "user": {
+      "id": 140223,
+      "username": "joqnix",
+      "avatar": "https://files.kick.com/images/user/140223/profile_image/conversion/ef121a80-5977-40c2-9236-f6970a04bf8e-fullsize.webp",
+      "color": "#72ACED",
+      "badges": [
+        {
+          "type": "moderator",
+          "text": "Moderator"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "????"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "7d07f86d-d6b9-4274-8ff0-04ec5154a72f",
+    "timestamp": "2026-03-08T16:17:51Z",
+    "vod_offset": 6587,
+    "vod_timestamp": "01:49:47",
+    "user": {
+      "id": 140223,
+      "username": "joqnix",
+      "avatar": "https://files.kick.com/images/user/140223/profile_image/conversion/ef121a80-5977-40c2-9236-f6970a04bf8e-fullsize.webp",
+      "color": "#72ACED",
+      "badges": [
+        {
+          "type": "moderator",
+          "text": "Moderator"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "."
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "e99bf1a6-ec5e-4f2e-be58-99cba9cb8b94",
+    "timestamp": "2026-03-08T14:29:10Z",
+    "vod_offset": 66,
+    "vod_timestamp": "00:01:06",
+    "user": {
+      "id": 60006880,
+      "username": "Zombie6474",
+      "avatar": null,
+      "color": "#B9D6F6",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "yes"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "5c53209d-980d-4cef-bddb-c0ae5aa55817",
+    "timestamp": "2026-03-08T14:28:42Z",
+    "vod_offset": 38,
+    "vod_timestamp": "00:00:38",
+    "user": {
+      "id": 60006880,
+      "username": "Zombie6474",
+      "avatar": null,
+      "color": "#B9D6F6",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "give me raspberries belly"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "15d93dc2-8f9d-4630-8e5c-1ede4fedc917",
+    "timestamp": "2026-03-08T14:28:04Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 60006880,
+      "username": "Zombie6474",
+      "avatar": null,
+      "color": "#B9D6F6",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "hi"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "89901ba0-3ceb-4d48-bb11-d2b1026ae756",
+    "timestamp": "2026-03-09T06:05:16Z",
+    "vod_offset": 56232,
+    "vod_timestamp": "15:37:12",
+    "user": {
+      "id": 140223,
+      "username": "joqnix",
+      "avatar": "https://files.kick.com/images/user/140223/profile_image/conversion/ef121a80-5977-40c2-9236-f6970a04bf8e-fullsize.webp",
+      "color": "#72ACED",
+      "badges": [
+        {
+          "type": "moderator",
+          "text": "Moderator"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "hello there! im from india!"
+      }
+    ],
+    "type": "reply"
+  },
+  {
+    "id": "388824e1-866c-424e-b911-b718e09ed2ad",
+    "timestamp": "2026-03-09T05:54:09Z",
+    "vod_offset": 55565,
+    "vod_timestamp": "15:26:05",
+    "user": {
+      "id": 91090410,
+      "username": "Kuyil",
+      "avatar": "https://files.kick.com/images/user/91090410/profile_image/conversion/426471b7-f5a5-4cb4-8412-391ba5866276-fullsize.webp",
+      "color": "#FF9D00",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "any indian? ?"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "e54dd215-5062-4366-8b36-7fa552c20ad0",
+    "timestamp": "2026-03-09T05:53:56Z",
+    "vod_offset": 55552,
+    "vod_timestamp": "15:25:52",
+    "user": {
+      "id": 91090410,
+      "username": "Kuyil",
+      "avatar": "https://files.kick.com/images/user/91090410/profile_image/conversion/426471b7-f5a5-4cb4-8412-391ba5866276-fullsize.webp",
+      "color": "#FF9D00",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "heyy"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "7461533c-2231-4660-90da-593d33eec3bc",
+    "timestamp": "2026-03-08T19:37:24Z",
+    "vod_offset": 18560,
+    "vod_timestamp": "05:09:20",
+    "user": {
+      "id": 140223,
+      "username": "joqnix",
+      "avatar": "https://files.kick.com/images/user/140223/profile_image/conversion/ef121a80-5977-40c2-9236-f6970a04bf8e-fullsize.webp",
+      "color": "#72ACED",
+      "badges": [
+        {
+          "type": "moderator",
+          "text": "Moderator"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "this is a re-run channel, ( hence a playlist of old streams from my main channel being broadcasted. its written on about panels). i check this channel's chat once in a while."
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "c3852aed-7263-4eb2-a025-bb08e20721ad",
+    "timestamp": "2026-03-08T18:29:29Z",
+    "vod_offset": 14485,
+    "vod_timestamp": "04:01:25",
+    "user": {
+      "id": 60006880,
+      "username": "Zombie6474",
+      "avatar": null,
+      "color": "#B9D6F6",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "give raspberries belly"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "e2b81890-abcf-44eb-bebc-31bcbe7d97c9",
+    "timestamp": "2026-03-08T18:29:12Z",
+    "vod_offset": 14468,
+    "vod_timestamp": "04:01:08",
+    "user": {
+      "id": 60006880,
+      "username": "Zombie6474",
+      "avatar": null,
+      "color": "#B9D6F6",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "talk to me"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "aaca094a-dfe8-41d6-a633-f9694467289e",
+    "timestamp": "2026-03-08T18:28:58Z",
+    "vod_offset": 14454,
+    "vod_timestamp": "04:00:54",
+    "user": {
+      "id": 60006880,
+      "username": "Zombie6474",
+      "avatar": null,
+      "color": "#B9D6F6",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "hi"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "cc2efcd0-d4ed-438e-8a9f-229dc40ee86e",
+    "timestamp": "2026-03-08T17:12:03Z",
+    "vod_offset": 9839,
+    "vod_timestamp": "02:43:59",
+    "user": {
+      "id": 140223,
+      "username": "joqnix",
+      "avatar": "https://files.kick.com/images/user/140223/profile_image/conversion/ef121a80-5977-40c2-9236-f6970a04bf8e-fullsize.webp",
+      "color": "#72ACED",
+      "badges": [
+        {
+          "type": "moderator",
+          "text": "Moderator"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "????"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "7d07f86d-d6b9-4274-8ff0-04ec5154a72f",
+    "timestamp": "2026-03-08T16:17:51Z",
+    "vod_offset": 6587,
+    "vod_timestamp": "01:49:47",
+    "user": {
+      "id": 140223,
+      "username": "joqnix",
+      "avatar": "https://files.kick.com/images/user/140223/profile_image/conversion/ef121a80-5977-40c2-9236-f6970a04bf8e-fullsize.webp",
+      "color": "#72ACED",
+      "badges": [
+        {
+          "type": "moderator",
+          "text": "Moderator"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "."
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "e99bf1a6-ec5e-4f2e-be58-99cba9cb8b94",
+    "timestamp": "2026-03-08T14:29:10Z",
+    "vod_offset": 66,
+    "vod_timestamp": "00:01:06",
+    "user": {
+      "id": 60006880,
+      "username": "Zombie6474",
+      "avatar": null,
+      "color": "#B9D6F6",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "yes"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "5c53209d-980d-4cef-bddb-c0ae5aa55817",
+    "timestamp": "2026-03-08T14:28:42Z",
+    "vod_offset": 38,
+    "vod_timestamp": "00:00:38",
+    "user": {
+      "id": 60006880,
+      "username": "Zombie6474",
+      "avatar": null,
+      "color": "#B9D6F6",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "give me raspberries belly"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "15d93dc2-8f9d-4630-8e5c-1ede4fedc917",
+    "timestamp": "2026-03-08T14:28:04Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 60006880,
+      "username": "Zombie6474",
+      "avatar": null,
+      "color": "#B9D6F6",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "hi"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "f06349ae-438f-436f-8be8-4e7d2131d9fe",
+    "timestamp": "2026-03-09T09:23:04Z",
+    "vod_offset": 68100,
+    "vod_timestamp": "18:55:00",
+    "user": {
+      "id": 60006880,
+      "username": "Zombie6474",
+      "avatar": null,
+      "color": "#B9D6F6",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "hi mommy happy women's day"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "f06349ae-438f-436f-8be8-4e7d2131d9fe",
+    "timestamp": "2026-03-09T09:23:04Z",
+    "vod_offset": 68100,
+    "vod_timestamp": "18:55:00",
+    "user": {
+      "id": 60006880,
+      "username": "Zombie6474",
+      "avatar": null,
+      "color": "#B9D6F6",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "hi mommy happy women's day"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "89901ba0-3ceb-4d48-bb11-d2b1026ae756",
+    "timestamp": "2026-03-09T06:05:16Z",
+    "vod_offset": 56232,
+    "vod_timestamp": "15:37:12",
+    "user": {
+      "id": 140223,
+      "username": "joqnix",
+      "avatar": "https://files.kick.com/images/user/140223/profile_image/conversion/ef121a80-5977-40c2-9236-f6970a04bf8e-fullsize.webp",
+      "color": "#72ACED",
+      "badges": [
+        {
+          "type": "moderator",
+          "text": "Moderator"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "hello there! im from india!"
+      }
+    ],
+    "type": "reply"
+  },
+  {
+    "id": "388824e1-866c-424e-b911-b718e09ed2ad",
+    "timestamp": "2026-03-09T05:54:09Z",
+    "vod_offset": 55565,
+    "vod_timestamp": "15:26:05",
+    "user": {
+      "id": 91090410,
+      "username": "Kuyil",
+      "avatar": "https://files.kick.com/images/user/91090410/profile_image/conversion/426471b7-f5a5-4cb4-8412-391ba5866276-fullsize.webp",
+      "color": "#FF9D00",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "any indian? ?"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "e54dd215-5062-4366-8b36-7fa552c20ad0",
+    "timestamp": "2026-03-09T05:53:56Z",
+    "vod_offset": 55552,
+    "vod_timestamp": "15:25:52",
+    "user": {
+      "id": 91090410,
+      "username": "Kuyil",
+      "avatar": "https://files.kick.com/images/user/91090410/profile_image/conversion/426471b7-f5a5-4cb4-8412-391ba5866276-fullsize.webp",
+      "color": "#FF9D00",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "heyy"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "7461533c-2231-4660-90da-593d33eec3bc",
+    "timestamp": "2026-03-08T19:37:24Z",
+    "vod_offset": 18560,
+    "vod_timestamp": "05:09:20",
+    "user": {
+      "id": 140223,
+      "username": "joqnix",
+      "avatar": "https://files.kick.com/images/user/140223/profile_image/conversion/ef121a80-5977-40c2-9236-f6970a04bf8e-fullsize.webp",
+      "color": "#72ACED",
+      "badges": [
+        {
+          "type": "moderator",
+          "text": "Moderator"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "this is a re-run channel, ( hence a playlist of old streams from my main channel being broadcasted. its written on about panels). i check this channel's chat once in a while."
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "c3852aed-7263-4eb2-a025-bb08e20721ad",
+    "timestamp": "2026-03-08T18:29:29Z",
+    "vod_offset": 14485,
+    "vod_timestamp": "04:01:25",
+    "user": {
+      "id": 60006880,
+      "username": "Zombie6474",
+      "avatar": null,
+      "color": "#B9D6F6",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "give raspberries belly"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "e2b81890-abcf-44eb-bebc-31bcbe7d97c9",
+    "timestamp": "2026-03-08T18:29:12Z",
+    "vod_offset": 14468,
+    "vod_timestamp": "04:01:08",
+    "user": {
+      "id": 60006880,
+      "username": "Zombie6474",
+      "avatar": null,
+      "color": "#B9D6F6",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "talk to me"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "aaca094a-dfe8-41d6-a633-f9694467289e",
+    "timestamp": "2026-03-08T18:28:58Z",
+    "vod_offset": 14454,
+    "vod_timestamp": "04:00:54",
+    "user": {
+      "id": 60006880,
+      "username": "Zombie6474",
+      "avatar": null,
+      "color": "#B9D6F6",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "hi"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "cc2efcd0-d4ed-438e-8a9f-229dc40ee86e",
+    "timestamp": "2026-03-08T17:12:03Z",
+    "vod_offset": 9839,
+    "vod_timestamp": "02:43:59",
+    "user": {
+      "id": 140223,
+      "username": "joqnix",
+      "avatar": "https://files.kick.com/images/user/140223/profile_image/conversion/ef121a80-5977-40c2-9236-f6970a04bf8e-fullsize.webp",
+      "color": "#72ACED",
+      "badges": [
+        {
+          "type": "moderator",
+          "text": "Moderator"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "????"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "7d07f86d-d6b9-4274-8ff0-04ec5154a72f",
+    "timestamp": "2026-03-08T16:17:51Z",
+    "vod_offset": 6587,
+    "vod_timestamp": "01:49:47",
+    "user": {
+      "id": 140223,
+      "username": "joqnix",
+      "avatar": "https://files.kick.com/images/user/140223/profile_image/conversion/ef121a80-5977-40c2-9236-f6970a04bf8e-fullsize.webp",
+      "color": "#72ACED",
+      "badges": [
+        {
+          "type": "moderator",
+          "text": "Moderator"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "."
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "e99bf1a6-ec5e-4f2e-be58-99cba9cb8b94",
+    "timestamp": "2026-03-08T14:29:10Z",
+    "vod_offset": 66,
+    "vod_timestamp": "00:01:06",
+    "user": {
+      "id": 60006880,
+      "username": "Zombie6474",
+      "avatar": null,
+      "color": "#B9D6F6",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "yes"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "5c53209d-980d-4cef-bddb-c0ae5aa55817",
+    "timestamp": "2026-03-08T14:28:42Z",
+    "vod_offset": 38,
+    "vod_timestamp": "00:00:38",
+    "user": {
+      "id": 60006880,
+      "username": "Zombie6474",
+      "avatar": null,
+      "color": "#B9D6F6",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "give me raspberries belly"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "15d93dc2-8f9d-4630-8e5c-1ede4fedc917",
+    "timestamp": "2026-03-08T14:28:04Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 60006880,
+      "username": "Zombie6474",
+      "avatar": null,
+      "color": "#B9D6F6",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "hi"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "08e09eab-d62f-4627-9160-0ec9d7445412",
+    "timestamp": "2026-03-09T18:01:09Z",
+    "vod_offset": 99185,
+    "vod_timestamp": "27:33:05",
+    "user": {
+      "id": 98990520,
+      "username": "Honey_VR",
+      "avatar": null,
+      "color": "#FFD899",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "!discord"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "f06349ae-438f-436f-8be8-4e7d2131d9fe",
+    "timestamp": "2026-03-09T09:23:04Z",
+    "vod_offset": 68100,
+    "vod_timestamp": "18:55:00",
+    "user": {
+      "id": 60006880,
+      "username": "Zombie6474",
+      "avatar": null,
+      "color": "#B9D6F6",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "hi mommy happy women's day"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "89901ba0-3ceb-4d48-bb11-d2b1026ae756",
+    "timestamp": "2026-03-09T06:05:16Z",
+    "vod_offset": 56232,
+    "vod_timestamp": "15:37:12",
+    "user": {
+      "id": 140223,
+      "username": "joqnix",
+      "avatar": "https://files.kick.com/images/user/140223/profile_image/conversion/ef121a80-5977-40c2-9236-f6970a04bf8e-fullsize.webp",
+      "color": "#72ACED",
+      "badges": [
+        {
+          "type": "moderator",
+          "text": "Moderator"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "hello there! im from india!"
+      }
+    ],
+    "type": "reply"
+  },
+  {
+    "id": "388824e1-866c-424e-b911-b718e09ed2ad",
+    "timestamp": "2026-03-09T05:54:09Z",
+    "vod_offset": 55565,
+    "vod_timestamp": "15:26:05",
+    "user": {
+      "id": 91090410,
+      "username": "Kuyil",
+      "avatar": "https://files.kick.com/images/user/91090410/profile_image/conversion/426471b7-f5a5-4cb4-8412-391ba5866276-fullsize.webp",
+      "color": "#FF9D00",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "any indian? ?"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "e54dd215-5062-4366-8b36-7fa552c20ad0",
+    "timestamp": "2026-03-09T05:53:56Z",
+    "vod_offset": 55552,
+    "vod_timestamp": "15:25:52",
+    "user": {
+      "id": 91090410,
+      "username": "Kuyil",
+      "avatar": "https://files.kick.com/images/user/91090410/profile_image/conversion/426471b7-f5a5-4cb4-8412-391ba5866276-fullsize.webp",
+      "color": "#FF9D00",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "heyy"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "7461533c-2231-4660-90da-593d33eec3bc",
+    "timestamp": "2026-03-08T19:37:24Z",
+    "vod_offset": 18560,
+    "vod_timestamp": "05:09:20",
+    "user": {
+      "id": 140223,
+      "username": "joqnix",
+      "avatar": "https://files.kick.com/images/user/140223/profile_image/conversion/ef121a80-5977-40c2-9236-f6970a04bf8e-fullsize.webp",
+      "color": "#72ACED",
+      "badges": [
+        {
+          "type": "moderator",
+          "text": "Moderator"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "this is a re-run channel, ( hence a playlist of old streams from my main channel being broadcasted. its written on about panels). i check this channel's chat once in a while."
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "c3852aed-7263-4eb2-a025-bb08e20721ad",
+    "timestamp": "2026-03-08T18:29:29Z",
+    "vod_offset": 14485,
+    "vod_timestamp": "04:01:25",
+    "user": {
+      "id": 60006880,
+      "username": "Zombie6474",
+      "avatar": null,
+      "color": "#B9D6F6",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "give raspberries belly"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "e2b81890-abcf-44eb-bebc-31bcbe7d97c9",
+    "timestamp": "2026-03-08T18:29:12Z",
+    "vod_offset": 14468,
+    "vod_timestamp": "04:01:08",
+    "user": {
+      "id": 60006880,
+      "username": "Zombie6474",
+      "avatar": null,
+      "color": "#B9D6F6",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "talk to me"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "aaca094a-dfe8-41d6-a633-f9694467289e",
+    "timestamp": "2026-03-08T18:28:58Z",
+    "vod_offset": 14454,
+    "vod_timestamp": "04:00:54",
+    "user": {
+      "id": 60006880,
+      "username": "Zombie6474",
+      "avatar": null,
+      "color": "#B9D6F6",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "hi"
+      }
+    ],
+    "type": "message"
+  }
+]
