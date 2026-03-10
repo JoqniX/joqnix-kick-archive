@@ -57,6 +57,24 @@
         }
       },
       {
+        "id": "c5d0de20-a71b-4b46-98ec-b13556a2c442",
+        "chat_id": 138623,
+        "user_id": 45121772,
+        "content": "officialgamblingacadmey is live come see",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1773122881385\"}",
+        "created_at": "2026-03-10T06:08:02Z",
+        "sender": {
+          "id": 45121772,
+          "slug": "mackdaknife",
+          "username": "MackDaKnife",
+          "identity": {
+            "color": "#75FD46",
+            "badges": []
+          }
+        }
+      },
+      {
         "id": "2cdfed2f-8bd4-4e8e-80e2-380174691134",
         "chat_id": 138623,
         "user_id": 7404530,
@@ -255,7 +273,7 @@
           ]
         }
       },
-      "duration": 1058
+      "duration": 1041
     }
   }
 }
