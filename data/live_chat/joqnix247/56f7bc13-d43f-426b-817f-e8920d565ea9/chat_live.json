@@ -1566,5 +1566,23 @@
         "badges": []
       }
     }
+  },
+  {
+    "id": "3ed38d56-29db-4fc2-b084-c4d6396abe16",
+    "chat_id": 91090947,
+    "user_id": 45121772,
+    "content": "offiicalgamblingacademy is live",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1773123298858\"}",
+    "created_at": "2026-03-10T06:14:59Z",
+    "sender": {
+      "id": 45121772,
+      "slug": "mackdaknife",
+      "username": "MackDaKnife",
+      "identity": {
+        "color": "#FFC466",
+        "badges": []
+      }
+    }
   }
 ]
