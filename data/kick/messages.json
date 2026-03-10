@@ -7,6 +7,60 @@
   "data": {
     "messages": [
       {
+        "id": "2cdfed2f-8bd4-4e8e-80e2-380174691134",
+        "chat_id": 138623,
+        "user_id": 7404530,
+        "content": "MackDaKnife just followed the stream! \ud83d\udc9a",
+        "type": "message",
+        "metadata": null,
+        "created_at": "2026-03-10T06:02:17Z",
+        "sender": {
+          "id": 7404530,
+          "slug": "fossabot",
+          "username": "Fossabot",
+          "identity": {
+            "color": "#DEB2FF",
+            "badges": [
+              {
+                "type": "moderator",
+                "text": "Moderator"
+              },
+              {
+                "type": "verified",
+                "text": "Verified channel"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "5d533afe-cd0f-4672-a650-71766ac48798",
+        "chat_id": 138623,
+        "user_id": 4377088,
+        "content": "Thanks for the follow @MackDaKnife",
+        "type": "message",
+        "metadata": null,
+        "created_at": "2026-03-10T06:02:17Z",
+        "sender": {
+          "id": 4377088,
+          "slug": "kickbot",
+          "username": "KickBot",
+          "identity": {
+            "color": "#E9113C",
+            "badges": [
+              {
+                "type": "moderator",
+                "text": "Moderator"
+              },
+              {
+                "type": "verified",
+                "text": "Verified channel"
+              }
+            ]
+          }
+        }
+      },
+      {
         "id": "46ab773d-2fdd-405d-8181-0fecc753bcf7",
         "chat_id": 138623,
         "user_id": 140223,
@@ -111,7 +165,7 @@
         }
       }
     ],
-    "cursor": "1770229517470589",
+    "cursor": "1770234623022858",
     "pinned_message": {
       "message": {
         "id": "46ab773d-2fdd-405d-8181-0fecc753bcf7",
@@ -151,7 +205,7 @@
           ]
         }
       },
-      "duration": 1130
+      "duration": 1102
     }
   }
 }
