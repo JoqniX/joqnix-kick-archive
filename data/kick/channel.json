@@ -3,7 +3,7 @@
   "user_id": 140223,
   "slug": "joqnix",
   "is_banned": false,
-  "playback_url": "https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.ZCkulBebTQZR.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6MTk2MjMzNzc1NTE4OmNoYW5uZWwvWkNrdWxCZWJUUVpSIiwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOi8va2ljay5jb20saHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20saHR0cHM6Ly8qLmtpY2subGl2ZSxodHRwczovL3BsYXllci5raWNrLmNvbSxodHRwczovL2FkbWluLmtpY2suY29tLGh0dHBzOi8vYmV0YS5raWNrLmNvbSxodHRwczovL25leHQua2ljay5jb20saHR0cHM6Ly9kYXNoYm9hcmQua2ljay5jb20saHR0cHM6Ly8qLnByZXZpZXcua2ljay5jb20saHR0cHM6Ly94Ym94LmtpY2suY29tLGh0dHBzOi8vcGxheXN0YXRpb24ua2ljay5jb20saHR0cHM6Ly8qLmtpY2stcHJlcHJvZHVjdGlvbi5jb20saHR0cHM6Ly8qLmtpY2stZGV2ZWxvcG1lbnQuY29tIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOmZhbHNlLCJhd3M6YWRzLW9wdC1vdXQiOnRydWUsImV4cCI6MTc3MzExNjU4MH0.OY5hUZeXxwZy2bgYamM2J59nEGjS-uETrUmyEXFj22BNdkuXu84P2Ln130CnAE4txiNoiC4GUe46PxNMXey8tV9LSDfdfm7jyLVvQWKQvZPO48rGU2qNwBURCVaEOdt6",
+  "playback_url": "https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.ZCkulBebTQZR.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6MTk2MjMzNzc1NTE4OmNoYW5uZWwvWkNrdWxCZWJUUVpSIiwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOi8va2ljay5jb20saHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20saHR0cHM6Ly8qLmtpY2subGl2ZSxodHRwczovL3BsYXllci5raWNrLmNvbSxodHRwczovL2FkbWluLmtpY2suY29tLGh0dHBzOi8vYmV0YS5raWNrLmNvbSxodHRwczovL25leHQua2ljay5jb20saHR0cHM6Ly9kYXNoYm9hcmQua2ljay5jb20saHR0cHM6Ly8qLnByZXZpZXcua2ljay5jb20saHR0cHM6Ly94Ym94LmtpY2suY29tLGh0dHBzOi8vcGxheXN0YXRpb24ua2ljay5jb20saHR0cHM6Ly8qLmtpY2stcHJlcHJvZHVjdGlvbi5jb20saHR0cHM6Ly8qLmtpY2stZGV2ZWxvcG1lbnQuY29tIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOmZhbHNlLCJhd3M6YWRzLW9wdC1vdXQiOnRydWUsImV4cCI6MTc3MzExODg1Mn0.ylZ-bR1FGsBtdAxsw_cbgXTAWfZeRnl3O1SemRbBnmZUVH-ZaG1c1HWTbtApnFTKTbphRtTSWFCpi-zM8WRyjvII310weHhwimu1M6GIrgnXBJqSEb91gCkjjr-B3vsg",
   "vod_enabled": true,
   "subscription_enabled": true,
   "is_affiliate": true,
@@ -157,13 +157,89 @@
   "banner_image": {
     "url": "https://files.kick.com/images/channel/138623/banner_image/08257fc8-c270-45c6-b689-258321aca4b4"
   },
-  "livestream": null,
+  "livestream": {
+    "id": 100117916,
+    "slug": "da851f45-study-with-me-13-short-study-stream-before-class",
+    "channel_id": 138623,
+    "created_at": "2026-03-10 04:20:05",
+    "session_title": "Study with me - \u65e5\u672c\u8a9e #13 \u250a \u2726  Short Study Stream before Class~",
+    "is_live": true,
+    "risk_level_id": null,
+    "start_time": "2026-03-10 04:20:04",
+    "source": null,
+    "twitch_channel": null,
+    "duration": 0,
+    "language": "English",
+    "is_mature": false,
+    "viewer_count": 0,
+    "thumbnail": null,
+    "lang_iso": "en",
+    "tags": [
+      "fps",
+      "Shooter",
+      "Action",
+      "puzzle",
+      "adventuregames"
+    ],
+    "categories": [
+      {
+        "id": 1,
+        "category_id": 1,
+        "name": "Apex Legends",
+        "slug": "apex-legends",
+        "tags": [
+          "FPS",
+          "Shooter",
+          "Battle Royale"
+        ],
+        "description": "Conquer with character in Apex Legends, a free-to-play Hero shooter where legendary characters with powerful abilities team up to battle for fame & fortune on the fringes of the Frontier. Master an ever-growing roster of diverse Legends, deep tactical squad play and bold new innovations that go beyond the Battle Royale experience\u2014all within a rugged world where anything goes. Welcome to the next evolution of Hero Shooter.",
+        "deleted_at": null,
+        "is_mature": false,
+        "is_promoted": false,
+        "viewers": 3069,
+        "is_fallback": false,
+        "category": {
+          "id": 1,
+          "name": "Games",
+          "slug": "games",
+          "icon": "\ud83d\udd79\ufe0f"
+        }
+      }
+    ]
+  },
   "role": null,
   "muted": false,
   "follower_badges": [],
   "offline_banner_image": null,
   "verified": false,
   "recent_categories": [
+    {
+      "id": 1,
+      "category_id": 1,
+      "name": "Apex Legends",
+      "slug": "apex-legends",
+      "tags": [
+        "FPS",
+        "Shooter",
+        "Battle Royale"
+      ],
+      "description": "Conquer with character in Apex Legends, a free-to-play Hero shooter where legendary characters with powerful abilities team up to battle for fame & fortune on the fringes of the Frontier. Master an ever-growing roster of diverse Legends, deep tactical squad play and bold new innovations that go beyond the Battle Royale experience\u2014all within a rugged world where anything goes. Welcome to the next evolution of Hero Shooter.",
+      "deleted_at": null,
+      "is_mature": false,
+      "is_promoted": false,
+      "viewers": 3069,
+      "is_fallback": false,
+      "banner": {
+        "responsive": "https://files.kick.com/images/subcategories/1/banner/responsives/15e350ec-3408-4969-b4e2-e3d73f70ad47___banner_600_800.webp 600w, https://files.kick.com/images/subcategories/1/banner/responsives/15e350ec-3408-4969-b4e2-e3d73f70ad47___banner_501_668.webp 501w, https://files.kick.com/images/subcategories/1/banner/responsives/15e350ec-3408-4969-b4e2-e3d73f70ad47___banner_420_560.webp 420w, https://files.kick.com/images/subcategories/1/banner/responsives/15e350ec-3408-4969-b4e2-e3d73f70ad47___banner_351_468.webp 351w, https://files.kick.com/images/subcategories/1/banner/responsives/15e350ec-3408-4969-b4e2-e3d73f70ad47___banner_294_392.webp 294w, https://files.kick.com/images/subcategories/1/banner/responsives/15e350ec-3408-4969-b4e2-e3d73f70ad47___banner_245_327.webp 245w, https://files.kick.com/images/subcategories/1/banner/responsives/15e350ec-3408-4969-b4e2-e3d73f70ad47___banner_205_273.webp 205w, https://files.kick.com/images/subcategories/1/banner/responsives/15e350ec-3408-4969-b4e2-e3d73f70ad47___banner_172_229.webp 172w",
+        "url": "https://files.kick.com/images/subcategories/1/banner/15e350ec-3408-4969-b4e2-e3d73f70ad47"
+      },
+      "category": {
+        "id": 1,
+        "name": "Games",
+        "slug": "games",
+        "icon": "\ud83d\udd79\ufe0f"
+      }
+    },
     {
       "id": 415,
       "category_id": 1,
@@ -180,7 +256,7 @@
       "deleted_at": null,
       "is_mature": false,
       "is_promoted": false,
-      "viewers": 854,
+      "viewers": 661,
       "is_fallback": false,
       "banner": {
         "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",

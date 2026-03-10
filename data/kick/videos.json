@@ -1,5 +1,72 @@
 [
   {
+    "id": 100117916,
+    "slug": "da851f45-study-with-me-13-short-study-stream-before-class",
+    "channel_id": 138623,
+    "created_at": "2026-03-10 04:20:05",
+    "session_title": "Study with me - \u65e5\u672c\u8a9e #13 \u250a \u2726  Short Study Stream before Class~",
+    "is_live": true,
+    "risk_level_id": null,
+    "start_time": "2026-03-10 04:20:04",
+    "source": "https://stream.kick.com/0f3cb0ebce7/ivs/v1/196233775518/ZCkulBebTQZR/2026/3/10/4/20/loUsUenKc94k/media/hls/master.m3u8",
+    "twitch_channel": null,
+    "duration": 0,
+    "language": "English",
+    "is_mature": false,
+    "viewer_count": 0,
+    "tags": [
+      "Action",
+      "adventuregames",
+      "fps",
+      "puzzle",
+      "Shooter"
+    ],
+    "thumbnail": {
+      "src": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/loUsUenKc94k/720.webp?versionId=312.1LNWQCrfPBY_FyIxB3wOS2kMGhDf",
+      "srcset": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/loUsUenKc94k/1080.webp?versionId=RjqGQJ_E1IsGMufHqM.YdWjY.nLqtTby 1920w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/loUsUenKc94k/720.webp?versionId=312.1LNWQCrfPBY_FyIxB3wOS2kMGhDf 1280w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/loUsUenKc94k/360.webp?versionId=WOHvPLrymmHEt5hxPIiAvc2A6bedMgF3 480w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/loUsUenKc94k/160.webp?versionId=rhcWsD9ZKOQGIxG90_M4OMK0reoTkeLO 284w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/loUsUenKc94k/480.webp?versionId=7vR334eW.2FraMKm9aKt1UQwumwzBFPC 640w"
+    },
+    "views": 0,
+    "video": {
+      "id": 95845015,
+      "live_stream_id": 100117916,
+      "slug": null,
+      "thumb": null,
+      "s3": null,
+      "trading_platform_id": null,
+      "created_at": "2026-03-10T04:20:05.000000Z",
+      "updated_at": "2026-03-10T04:20:05.000000Z",
+      "uuid": "a5f88e23-7f6c-4437-b422-b214908233ff",
+      "views": 0,
+      "deleted_at": null,
+      "is_pruned": false,
+      "is_private": false,
+      "status": "public"
+    },
+    "categories": [
+      {
+        "id": 1,
+        "category_id": 1,
+        "name": "Apex Legends",
+        "slug": "apex-legends",
+        "tags": [
+          "FPS",
+          "Shooter",
+          "Battle Royale"
+        ],
+        "description": "Conquer with character in Apex Legends, a free-to-play Hero shooter where legendary characters with powerful abilities team up to battle for fame & fortune on the fringes of the Frontier. Master an ever-growing roster of diverse Legends, deep tactical squad play and bold new innovations that go beyond the Battle Royale experience\u2014all within a rugged world where anything goes. Welcome to the next evolution of Hero Shooter.",
+        "deleted_at": null,
+        "is_mature": false,
+        "is_promoted": false,
+        "viewers": 3069,
+        "is_fallback": false,
+        "banner": {
+          "responsive": "https://files.kick.com/images/subcategories/1/banner/responsives/15e350ec-3408-4969-b4e2-e3d73f70ad47___banner_600_800.webp 600w, https://files.kick.com/images/subcategories/1/banner/responsives/15e350ec-3408-4969-b4e2-e3d73f70ad47___banner_501_668.webp 501w, https://files.kick.com/images/subcategories/1/banner/responsives/15e350ec-3408-4969-b4e2-e3d73f70ad47___banner_420_560.webp 420w, https://files.kick.com/images/subcategories/1/banner/responsives/15e350ec-3408-4969-b4e2-e3d73f70ad47___banner_351_468.webp 351w, https://files.kick.com/images/subcategories/1/banner/responsives/15e350ec-3408-4969-b4e2-e3d73f70ad47___banner_294_392.webp 294w, https://files.kick.com/images/subcategories/1/banner/responsives/15e350ec-3408-4969-b4e2-e3d73f70ad47___banner_245_327.webp 245w, https://files.kick.com/images/subcategories/1/banner/responsives/15e350ec-3408-4969-b4e2-e3d73f70ad47___banner_205_273.webp 205w, https://files.kick.com/images/subcategories/1/banner/responsives/15e350ec-3408-4969-b4e2-e3d73f70ad47___banner_172_229.webp 172w",
+          "url": "https://files.kick.com/images/subcategories/1/banner/15e350ec-3408-4969-b4e2-e3d73f70ad47"
+        }
+      }
+    ]
+  },
+  {
     "id": 99546662,
     "slug": "8aed6a7c-guerilla-good-morning-lets-chat-and-while-i-work-joqnix",
     "channel_id": 138623,
@@ -61,7 +128,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 854,
+        "viewers": 661,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -132,7 +199,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 854,
+        "viewers": 661,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
