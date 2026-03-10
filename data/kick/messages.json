@@ -7,6 +7,33 @@
   "data": {
     "messages": [
       {
+        "id": "7023c614-0343-4387-9b3b-690731aa402f",
+        "chat_id": 138623,
+        "user_id": 7404530,
+        "content": "joqnix changed their game to VTubers!",
+        "type": "message",
+        "metadata": null,
+        "created_at": "2026-03-10T06:44:45Z",
+        "sender": {
+          "id": 7404530,
+          "slug": "fossabot",
+          "username": "Fossabot",
+          "identity": {
+            "color": "#DEB2FF",
+            "badges": [
+              {
+                "type": "moderator",
+                "text": "Moderator"
+              },
+              {
+                "type": "verified",
+                "text": "Verified channel"
+              }
+            ]
+          }
+        }
+      },
+      {
         "id": "2cdfed2f-8bd4-4e8e-80e2-380174691134",
         "chat_id": 138623,
         "user_id": 7404530,
@@ -165,7 +192,7 @@
         }
       }
     ],
-    "cursor": "1770234623022858",
+    "cursor": "1770234623146410",
     "pinned_message": {
       "message": {
         "id": "46ab773d-2fdd-405d-8181-0fecc753bcf7",
@@ -205,7 +232,7 @@
           ]
         }
       },
-      "duration": 1102
+      "duration": 1082
     }
   }
 }

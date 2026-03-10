@@ -1,7 +1,7 @@
 [
   {
     "id": 100117916,
-    "slug": "da851f45-study-with-me-13-short-study-stream-before-class",
+    "slug": "b1bf4a90-study-with-me-13-short-study-stream-before-class",
     "channel_id": 138623,
     "created_at": "2026-03-10 04:20:05",
     "session_title": "Study with me - \u65e5\u672c\u8a9e #13 \u250a \u2726  Short Study Stream before Class~",
@@ -13,7 +13,7 @@
     "duration": 0,
     "language": "English",
     "is_mature": false,
-    "viewer_count": 1,
+    "viewer_count": 2,
     "tags": [
       "Action",
       "adventuregames",
@@ -22,8 +22,8 @@
       "Shooter"
     ],
     "thumbnail": {
-      "src": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/loUsUenKc94k/720.webp?versionId=nNbPpOWC.g4VIvERbsJ9OG3YhEtRUuMQ",
-      "srcset": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/loUsUenKc94k/1080.webp?versionId=V_O7zlYzAuf7mWp2UYX6UAnMo31RIhyi 1920w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/loUsUenKc94k/720.webp?versionId=nNbPpOWC.g4VIvERbsJ9OG3YhEtRUuMQ 1280w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/loUsUenKc94k/360.webp?versionId=NndlqhaCejtRPcnG5vHY6fhckVaK6X8q 480w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/loUsUenKc94k/160.webp?versionId=7s0QsNu04Dfk7vkR6vfpEc_m9jUwlpmv 284w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/loUsUenKc94k/480.webp?versionId=JO7iLCv7E_k2cHlVueZQEiWZNPkmDDtx 640w"
+      "src": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/loUsUenKc94k/720.webp?versionId=HQ9A39dQ4H4j0Bc_AdusdeJhBjXkOznO",
+      "srcset": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/loUsUenKc94k/1080.webp?versionId=6EnMBiWxpaCBUQInXQQTBlrWyb8rRTJz 1920w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/loUsUenKc94k/720.webp?versionId=HQ9A39dQ4H4j0Bc_AdusdeJhBjXkOznO 1280w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/loUsUenKc94k/360.webp?versionId=QQ2fItYEMiEcjlEW2baGRQTIpG10whkA 480w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/loUsUenKc94k/160.webp?versionId=Z01E_BONWdlXOxvHe_J0uk3lE9.EF_EI 284w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/loUsUenKc94k/480.webp?versionId=sF3kcCl6d5kV1aBhEaJUikP_3r0TwSZt 640w"
     },
     "views": 0,
     "video": {
@@ -44,24 +44,26 @@
     },
     "categories": [
       {
-        "id": 1,
+        "id": 415,
         "category_id": 1,
-        "name": "Apex Legends",
-        "slug": "apex-legends",
+        "name": "VTubers",
+        "slug": "vtubers",
         "tags": [
-          "FPS",
+          "Action",
+          "Puzzle",
+          "Adventure Games",
           "Shooter",
-          "Battle Royale"
+          "FPS"
         ],
-        "description": "Conquer with character in Apex Legends, a free-to-play Hero shooter where legendary characters with powerful abilities team up to battle for fame & fortune on the fringes of the Frontier. Master an ever-growing roster of diverse Legends, deep tactical squad play and bold new innovations that go beyond the Battle Royale experience\u2014all within a rugged world where anything goes. Welcome to the next evolution of Hero Shooter.",
+        "description": null,
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 312,
+        "viewers": 152,
         "is_fallback": false,
         "banner": {
-          "responsive": "https://files.kick.com/images/subcategories/1/banner/responsives/15e350ec-3408-4969-b4e2-e3d73f70ad47___banner_600_800.webp 600w, https://files.kick.com/images/subcategories/1/banner/responsives/15e350ec-3408-4969-b4e2-e3d73f70ad47___banner_501_668.webp 501w, https://files.kick.com/images/subcategories/1/banner/responsives/15e350ec-3408-4969-b4e2-e3d73f70ad47___banner_420_560.webp 420w, https://files.kick.com/images/subcategories/1/banner/responsives/15e350ec-3408-4969-b4e2-e3d73f70ad47___banner_351_468.webp 351w, https://files.kick.com/images/subcategories/1/banner/responsives/15e350ec-3408-4969-b4e2-e3d73f70ad47___banner_294_392.webp 294w, https://files.kick.com/images/subcategories/1/banner/responsives/15e350ec-3408-4969-b4e2-e3d73f70ad47___banner_245_327.webp 245w, https://files.kick.com/images/subcategories/1/banner/responsives/15e350ec-3408-4969-b4e2-e3d73f70ad47___banner_205_273.webp 205w, https://files.kick.com/images/subcategories/1/banner/responsives/15e350ec-3408-4969-b4e2-e3d73f70ad47___banner_172_229.webp 172w",
-          "url": "https://files.kick.com/images/subcategories/1/banner/15e350ec-3408-4969-b4e2-e3d73f70ad47"
+          "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
+          "url": "https://files.kick.com/images/subcategories/415/banner/20afafe3-9025-4d93-9bab-5d4e7694807a"
         }
       }
     ]
@@ -128,7 +130,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 509,
+        "viewers": 152,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -199,7 +201,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 509,
+        "viewers": 152,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
