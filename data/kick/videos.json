@@ -5,12 +5,12 @@
     "channel_id": 138623,
     "created_at": "2026-03-10 04:20:05",
     "session_title": "Study with me - \u65e5\u672c\u8a9e #13 \u250a \u2726  Short Study Stream before Class~",
-    "is_live": true,
+    "is_live": false,
     "risk_level_id": null,
     "start_time": "2026-03-10 04:20:04",
     "source": "https://stream.kick.com/0f3cb0ebce7/ivs/v1/196233775518/ZCkulBebTQZR/2026/3/10/4/20/loUsUenKc94k/media/hls/master.m3u8",
     "twitch_channel": null,
-    "duration": 0,
+    "duration": 9031000,
     "language": "English",
     "is_mature": false,
     "viewer_count": 2,
@@ -22,10 +22,10 @@
       "Shooter"
     ],
     "thumbnail": {
-      "src": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/loUsUenKc94k/720.webp?versionId=HQ9A39dQ4H4j0Bc_AdusdeJhBjXkOznO",
-      "srcset": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/loUsUenKc94k/1080.webp?versionId=6EnMBiWxpaCBUQInXQQTBlrWyb8rRTJz 1920w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/loUsUenKc94k/720.webp?versionId=HQ9A39dQ4H4j0Bc_AdusdeJhBjXkOznO 1280w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/loUsUenKc94k/360.webp?versionId=QQ2fItYEMiEcjlEW2baGRQTIpG10whkA 480w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/loUsUenKc94k/160.webp?versionId=Z01E_BONWdlXOxvHe_J0uk3lE9.EF_EI 284w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/loUsUenKc94k/480.webp?versionId=sF3kcCl6d5kV1aBhEaJUikP_3r0TwSZt 640w"
+      "src": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/loUsUenKc94k/720.webp",
+      "srcset": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/loUsUenKc94k/1080.webp 1920w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/loUsUenKc94k/720.webp 1280w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/loUsUenKc94k/360.webp 480w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/loUsUenKc94k/160.webp 284w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/loUsUenKc94k/480.webp 640w"
     },
-    "views": 0,
+    "views": 2,
     "video": {
       "id": 95845015,
       "live_stream_id": 100117916,
@@ -34,9 +34,9 @@
       "s3": null,
       "trading_platform_id": null,
       "created_at": "2026-03-10T04:20:05.000000Z",
-      "updated_at": "2026-03-10T04:20:05.000000Z",
+      "updated_at": "2026-03-10T06:52:13.000000Z",
       "uuid": "a5f88e23-7f6c-4437-b422-b214908233ff",
-      "views": 0,
+      "views": 2,
       "deleted_at": null,
       "is_pruned": false,
       "is_private": false,
@@ -59,7 +59,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 152,
+        "viewers": 771,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -130,7 +130,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 152,
+        "viewers": 771,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -167,7 +167,7 @@
       "src": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/bi9FqaqgFO6n/720.webp",
       "srcset": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/bi9FqaqgFO6n/1080.webp 1920w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/bi9FqaqgFO6n/720.webp 1280w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/bi9FqaqgFO6n/360.webp 480w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/bi9FqaqgFO6n/160.webp 284w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/bi9FqaqgFO6n/480.webp 640w"
     },
-    "views": 11,
+    "views": 13,
     "video": {
       "id": 95030766,
       "live_stream_id": 99303126,
@@ -176,9 +176,9 @@
       "s3": null,
       "trading_platform_id": null,
       "created_at": "2026-03-04T10:33:58.000000Z",
-      "updated_at": "2026-03-07T02:54:55.000000Z",
+      "updated_at": "2026-03-10T06:52:25.000000Z",
       "uuid": "cdf794d6-cc7f-497d-a30e-5d0fddb2f8e6",
-      "views": 11,
+      "views": 13,
       "deleted_at": null,
       "is_pruned": false,
       "is_private": false,
@@ -201,7 +201,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 152,
+        "viewers": 771,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
