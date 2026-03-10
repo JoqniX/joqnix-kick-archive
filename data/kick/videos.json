@@ -22,8 +22,8 @@
       "Shooter"
     ],
     "thumbnail": {
-      "src": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/loUsUenKc94k/720.webp?versionId=312.1LNWQCrfPBY_FyIxB3wOS2kMGhDf",
-      "srcset": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/loUsUenKc94k/1080.webp?versionId=RjqGQJ_E1IsGMufHqM.YdWjY.nLqtTby 1920w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/loUsUenKc94k/720.webp?versionId=312.1LNWQCrfPBY_FyIxB3wOS2kMGhDf 1280w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/loUsUenKc94k/360.webp?versionId=WOHvPLrymmHEt5hxPIiAvc2A6bedMgF3 480w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/loUsUenKc94k/160.webp?versionId=rhcWsD9ZKOQGIxG90_M4OMK0reoTkeLO 284w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/loUsUenKc94k/480.webp?versionId=7vR334eW.2FraMKm9aKt1UQwumwzBFPC 640w"
+      "src": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/loUsUenKc94k/720.webp?versionId=JFS.sVzR9vNvfNNVsWMUJNP91dRU6oH2",
+      "srcset": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/loUsUenKc94k/1080.webp?versionId=QWguMQ.4DegFk1xYntsHORbBotUE_Tg8 1920w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/loUsUenKc94k/720.webp?versionId=JFS.sVzR9vNvfNNVsWMUJNP91dRU6oH2 1280w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/loUsUenKc94k/360.webp?versionId=uXuUQ7xIo.meKeVNIDgwZEFi2Rzr4y7E 480w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/loUsUenKc94k/160.webp?versionId=EMyBQZbv53BisyoMwtGeBgubOgBDAsDZ 284w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/loUsUenKc94k/480.webp?versionId=TFlajce7_VERQ6Sg_ZLE3Anuikx2Ymvj 640w"
     },
     "views": 0,
     "video": {
@@ -57,7 +57,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 3069,
+        "viewers": 3031,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/1/banner/responsives/15e350ec-3408-4969-b4e2-e3d73f70ad47___banner_600_800.webp 600w, https://files.kick.com/images/subcategories/1/banner/responsives/15e350ec-3408-4969-b4e2-e3d73f70ad47___banner_501_668.webp 501w, https://files.kick.com/images/subcategories/1/banner/responsives/15e350ec-3408-4969-b4e2-e3d73f70ad47___banner_420_560.webp 420w, https://files.kick.com/images/subcategories/1/banner/responsives/15e350ec-3408-4969-b4e2-e3d73f70ad47___banner_351_468.webp 351w, https://files.kick.com/images/subcategories/1/banner/responsives/15e350ec-3408-4969-b4e2-e3d73f70ad47___banner_294_392.webp 294w, https://files.kick.com/images/subcategories/1/banner/responsives/15e350ec-3408-4969-b4e2-e3d73f70ad47___banner_245_327.webp 245w, https://files.kick.com/images/subcategories/1/banner/responsives/15e350ec-3408-4969-b4e2-e3d73f70ad47___banner_205_273.webp 205w, https://files.kick.com/images/subcategories/1/banner/responsives/15e350ec-3408-4969-b4e2-e3d73f70ad47___banner_172_229.webp 172w",
@@ -128,7 +128,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 661,
+        "viewers": 632,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -199,7 +199,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 661,
+        "viewers": 632,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
