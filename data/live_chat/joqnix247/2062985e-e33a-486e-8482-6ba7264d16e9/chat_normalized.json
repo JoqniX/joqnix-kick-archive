@@ -1,0 +1,158 @@
+[
+  {
+    "id": "3ed38d56-29db-4fc2-b084-c4d6396abe16",
+    "timestamp": "2026-03-10T06:14:59Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 45121772,
+      "username": "MackDaKnife",
+      "avatar": null,
+      "color": "#FFC466",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "offiicalgamblingacademy is live"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "68fe218f-0f1e-4921-a733-caca3425253f",
+    "timestamp": "2026-03-10T06:02:28Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 4377088,
+      "username": "KickBot",
+      "avatar": "https://files.kick.com/images/user/4377088/profile_image/conversion/dae5ceec-5b25-4f26-82c2-e2fdc98ae958-fullsize.webp",
+      "color": "#E9113C",
+      "badges": [
+        {
+          "type": "moderator",
+          "text": "Moderator"
+        },
+        {
+          "type": "verified",
+          "text": "Verified channel"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "Thanks for the follow @MackDaKnife"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "3ed38d56-29db-4fc2-b084-c4d6396abe16",
+    "timestamp": "2026-03-10T06:14:59Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 45121772,
+      "username": "MackDaKnife",
+      "avatar": null,
+      "color": "#FFC466",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "offiicalgamblingacademy is live"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "68fe218f-0f1e-4921-a733-caca3425253f",
+    "timestamp": "2026-03-10T06:02:28Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 4377088,
+      "username": "KickBot",
+      "avatar": "https://files.kick.com/images/user/4377088/profile_image/conversion/dae5ceec-5b25-4f26-82c2-e2fdc98ae958-fullsize.webp",
+      "color": "#E9113C",
+      "badges": [
+        {
+          "type": "moderator",
+          "text": "Moderator"
+        },
+        {
+          "type": "verified",
+          "text": "Verified channel"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "Thanks for the follow @MackDaKnife"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "ebb61ee0-92f4-45e2-8a09-769cc73169ea",
+    "timestamp": "2026-03-11T02:23:53Z",
+    "vod_offset": 72534,
+    "vod_timestamp": "20:08:54",
+    "user": {
+      "id": 4377088,
+      "username": "KickBot",
+      "avatar": "https://files.kick.com/images/user/4377088/profile_image/conversion/dae5ceec-5b25-4f26-82c2-e2fdc98ae958-fullsize.webp",
+      "color": "#E9113C",
+      "badges": [
+        {
+          "type": "moderator",
+          "text": "Moderator"
+        },
+        {
+          "type": "verified",
+          "text": "Verified channel"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "Thanks for the follow @Eltukaaa"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "ebb61ee0-92f4-45e2-8a09-769cc73169ea",
+    "timestamp": "2026-03-11T02:23:53Z",
+    "vod_offset": 72534,
+    "vod_timestamp": "20:08:54",
+    "user": {
+      "id": 4377088,
+      "username": "KickBot",
+      "avatar": "https://files.kick.com/images/user/4377088/profile_image/conversion/dae5ceec-5b25-4f26-82c2-e2fdc98ae958-fullsize.webp",
+      "color": "#E9113C",
+      "badges": [
+        {
+          "type": "moderator",
+          "text": "Moderator"
+        },
+        {
+          "type": "verified",
+          "text": "Verified channel"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "Thanks for the follow @Eltukaaa"
+      }
+    ],
+    "type": "message"
+  }
+]
