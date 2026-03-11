@@ -59,7 +59,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 44,
+        "viewers": 40,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -130,78 +130,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 44,
-        "is_fallback": false,
-        "banner": {
-          "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
-          "url": "https://files.kick.com/images/subcategories/415/banner/20afafe3-9025-4d93-9bab-5d4e7694807a"
-        }
-      }
-    ]
-  },
-  {
-    "id": 99303126,
-    "slug": "3778e01b-guerilla-back-from-the-void-joqnix",
-    "channel_id": 138623,
-    "created_at": "2026-03-04 10:33:57",
-    "session_title": "Guerilla \u250a \u2726 Back From The Void | JoqniX",
-    "is_live": false,
-    "risk_level_id": null,
-    "start_time": "2026-03-04 10:33:56",
-    "source": "https://stream.kick.com/0f3cb0ebce7/ivs/v1/196233775518/ZCkulBebTQZR/2026/3/4/10/33/bi9FqaqgFO6n/media/hls/master.m3u8",
-    "twitch_channel": null,
-    "duration": 11319000,
-    "language": "English",
-    "is_mature": false,
-    "viewer_count": 2,
-    "tags": [
-      "asia",
-      "comfy",
-      "Constellation",
-      "india",
-      "IndianVTuber",
-      "vtuber",
-      "VTubers"
-    ],
-    "thumbnail": {
-      "src": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/bi9FqaqgFO6n/720.webp",
-      "srcset": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/bi9FqaqgFO6n/1080.webp 1920w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/bi9FqaqgFO6n/720.webp 1280w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/bi9FqaqgFO6n/360.webp 480w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/bi9FqaqgFO6n/160.webp 284w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/bi9FqaqgFO6n/480.webp 640w"
-    },
-    "views": 13,
-    "video": {
-      "id": 95030766,
-      "live_stream_id": 99303126,
-      "slug": null,
-      "thumb": null,
-      "s3": null,
-      "trading_platform_id": null,
-      "created_at": "2026-03-04T10:33:58.000000Z",
-      "updated_at": "2026-03-10T06:52:25.000000Z",
-      "uuid": "cdf794d6-cc7f-497d-a30e-5d0fddb2f8e6",
-      "views": 13,
-      "deleted_at": null,
-      "is_pruned": false,
-      "is_private": false,
-      "status": "public"
-    },
-    "categories": [
-      {
-        "id": 415,
-        "category_id": 1,
-        "name": "VTubers",
-        "slug": "vtubers",
-        "tags": [
-          "Action",
-          "Puzzle",
-          "Adventure Games",
-          "Shooter",
-          "FPS"
-        ],
-        "description": null,
-        "deleted_at": null,
-        "is_mature": false,
-        "is_promoted": false,
-        "viewers": 44,
+        "viewers": 40,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
