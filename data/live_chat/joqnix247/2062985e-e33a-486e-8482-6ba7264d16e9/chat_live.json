@@ -43,5 +43,50 @@
         ]
       }
     }
+  },
+  {
+    "id": "3ed38d56-29db-4fc2-b084-c4d6396abe16",
+    "chat_id": 91090947,
+    "user_id": 45121772,
+    "content": "offiicalgamblingacademy is live",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1773123298858\"}",
+    "created_at": "2026-03-10T06:14:59Z",
+    "sender": {
+      "id": 45121772,
+      "slug": "mackdaknife",
+      "username": "MackDaKnife",
+      "identity": {
+        "color": "#FFC466",
+        "badges": []
+      }
+    }
+  },
+  {
+    "id": "68fe218f-0f1e-4921-a733-caca3425253f",
+    "chat_id": 91090947,
+    "user_id": 4377088,
+    "content": "Thanks for the follow @MackDaKnife",
+    "type": "message",
+    "metadata": null,
+    "created_at": "2026-03-10T06:02:28Z",
+    "sender": {
+      "id": 4377088,
+      "slug": "kickbot",
+      "username": "KickBot",
+      "identity": {
+        "color": "#E9113C",
+        "badges": [
+          {
+            "type": "moderator",
+            "text": "Moderator"
+          },
+          {
+            "type": "verified",
+            "text": "Verified channel"
+          }
+        ]
+      }
+    }
   }
 ]
