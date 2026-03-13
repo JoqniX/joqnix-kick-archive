@@ -59,78 +59,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 713,
-        "is_fallback": false,
-        "banner": {
-          "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
-          "url": "https://files.kick.com/images/subcategories/415/banner/20afafe3-9025-4d93-9bab-5d4e7694807a"
-        }
-      }
-    ]
-  },
-  {
-    "id": 99546662,
-    "slug": "8aed6a7c-guerilla-good-morning-lets-chat-and-while-i-work-joqnix",
-    "channel_id": 138623,
-    "created_at": "2026-03-06 02:36:51",
-    "session_title": "Guerilla \u250a \u2726 Good Morning~ Let's chat and while i work~ | JoqniX",
-    "is_live": false,
-    "risk_level_id": null,
-    "start_time": "2026-03-06 02:36:49",
-    "source": "https://stream.kick.com/0f3cb0ebce7/ivs/v1/196233775518/ZCkulBebTQZR/2026/3/6/2/36/Ork61ZtZgnKD/media/hls/master.m3u8",
-    "twitch_channel": null,
-    "duration": 18563000,
-    "language": "English",
-    "is_mature": false,
-    "viewer_count": 1,
-    "tags": [
-      "asia",
-      "comfy",
-      "Constellation",
-      "india",
-      "IndianVTuber",
-      "vtuber",
-      "VTubers"
-    ],
-    "thumbnail": {
-      "src": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/Ork61ZtZgnKD/720.webp",
-      "srcset": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/Ork61ZtZgnKD/1080.webp 1920w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/Ork61ZtZgnKD/720.webp 1280w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/Ork61ZtZgnKD/360.webp 480w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/Ork61ZtZgnKD/160.webp 284w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/Ork61ZtZgnKD/480.webp 640w"
-    },
-    "views": 13,
-    "video": {
-      "id": 95274014,
-      "live_stream_id": 99546662,
-      "slug": null,
-      "thumb": null,
-      "s3": null,
-      "trading_platform_id": null,
-      "created_at": "2026-03-06T02:36:52.000000Z",
-      "updated_at": "2026-03-07T02:54:57.000000Z",
-      "uuid": "2b63b253-3e3a-47bf-9dec-1d95fb0c0f90",
-      "views": 13,
-      "deleted_at": null,
-      "is_pruned": false,
-      "is_private": false,
-      "status": "public"
-    },
-    "categories": [
-      {
-        "id": 415,
-        "category_id": 1,
-        "name": "VTubers",
-        "slug": "vtubers",
-        "tags": [
-          "Action",
-          "Puzzle",
-          "Adventure Games",
-          "Shooter",
-          "FPS"
-        ],
-        "description": null,
-        "deleted_at": null,
-        "is_mature": false,
-        "is_promoted": false,
-        "viewers": 713,
+        "viewers": 454,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
