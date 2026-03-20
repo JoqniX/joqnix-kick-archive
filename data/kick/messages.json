@@ -5,8 +5,63 @@
     "message": "SUCCESS"
   },
   "data": {
-    "messages": [],
-    "cursor": "1771468782417619",
+    "messages": [
+      {
+        "id": "0534eab3-7bf4-4009-8583-8ca405b6edc8",
+        "chat_id": 138623,
+        "user_id": 7404530,
+        "content": "joqnix just went live playing VTubers!",
+        "type": "message",
+        "metadata": null,
+        "created_at": "2026-03-20T08:34:00Z",
+        "sender": {
+          "id": 7404530,
+          "slug": "fossabot",
+          "username": "Fossabot",
+          "identity": {
+            "color": "#DEB2FF",
+            "badges": [
+              {
+                "type": "moderator",
+                "text": "Moderator"
+              },
+              {
+                "type": "verified",
+                "text": "Verified channel"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "ffa071fc-353c-4757-ae5f-9761f6eee0c9",
+        "chat_id": 138623,
+        "user_id": 7404530,
+        "content": "joqnix changed their title to \"\"!",
+        "type": "message",
+        "metadata": null,
+        "created_at": "2026-03-20T08:32:05Z",
+        "sender": {
+          "id": 7404530,
+          "slug": "fossabot",
+          "username": "Fossabot",
+          "identity": {
+            "color": "#DEB2FF",
+            "badges": [
+              {
+                "type": "moderator",
+                "text": "Moderator"
+              },
+              {
+                "type": "verified",
+                "text": "Verified channel"
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "cursor": "1772620281569910",
     "pinned_message": null
   }
 }
