@@ -13,7 +13,7 @@
     "duration": 0,
     "language": "English",
     "is_mature": false,
-    "viewer_count": 1,
+    "viewer_count": 2,
     "tags": [
       "Action",
       "adventuregames",
@@ -22,8 +22,8 @@
       "Shooter"
     ],
     "thumbnail": {
-      "src": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/mGWXGLMx1swe/720.webp?versionId=SazsvfR9CRMg4ej7LotN0CGw_FXsTnii",
-      "srcset": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/mGWXGLMx1swe/1080.webp?versionId=sQic_oYdY4I33AkX_T03WnMjmPbTJw8S 1920w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/mGWXGLMx1swe/720.webp?versionId=SazsvfR9CRMg4ej7LotN0CGw_FXsTnii 1280w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/mGWXGLMx1swe/360.webp?versionId=YIzG3OFJQLlVvjZ_U.tB8Sledu9E8jhF 480w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/mGWXGLMx1swe/160.webp?versionId=a4IHelhIEMda4C0eIkATND0fYlXP9T9b 284w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/mGWXGLMx1swe/480.webp?versionId=sryo6I_ZFT4TZOcVzsAJIkgoXQi3zii6 640w"
+      "src": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/mGWXGLMx1swe/720.webp?versionId=viYL7x6ktmAvCjjCl4MCu3wVF593ghd8",
+      "srcset": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/mGWXGLMx1swe/1080.webp?versionId=M9Xcb5iak1PrL4uxjTJtjSZFrfVjGZDL 1920w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/mGWXGLMx1swe/720.webp?versionId=viYL7x6ktmAvCjjCl4MCu3wVF593ghd8 1280w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/mGWXGLMx1swe/360.webp?versionId=5KrcZKxEiYd7T81XTT48xs7uSHUxonBT 480w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/mGWXGLMx1swe/160.webp?versionId=FlZq7EBK8cGpE_DCs3FtBx_rcelsmiSI 284w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/mGWXGLMx1swe/480.webp?versionId=0dYX3mIT7FGKzeV3VWaYA3GmsBs3sPaR 640w"
     },
     "views": 0,
     "video": {
@@ -59,7 +59,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 278,
+        "viewers": 223,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
