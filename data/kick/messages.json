@@ -7,6 +7,29 @@
   "data": {
     "messages": [
       {
+        "id": "d40c63dc-2ab5-4d9a-a4de-52c27f4dfdb4",
+        "chat_id": 138623,
+        "user_id": 140223,
+        "content": "thank you all for coming by today~ cya in the next onee~~ otsujoqq",
+        "type": "message",
+        "metadata": null,
+        "created_at": "2026-03-20T11:39:01Z",
+        "sender": {
+          "id": 140223,
+          "slug": "joqnix",
+          "username": "joqnix",
+          "identity": {
+            "color": "#B9D6F6",
+            "badges": [
+              {
+                "type": "broadcaster",
+                "text": "Broadcaster"
+              }
+            ]
+          }
+        }
+      },
+      {
         "id": "7163a223-7010-461d-a82d-35e90f3662c3",
         "chat_id": 138623,
         "user_id": 140223,
@@ -130,7 +153,7 @@
         }
       }
     ],
-    "cursor": "1772623854563078",
+    "cursor": "1772631728108254",
     "pinned_message": null
   }
 }
