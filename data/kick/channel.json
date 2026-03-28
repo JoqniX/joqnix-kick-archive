@@ -3,7 +3,7 @@
   "user_id": 140223,
   "slug": "joqnix",
   "is_banned": false,
-  "playback_url": "https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.ZCkulBebTQZR.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6MTk2MjMzNzc1NTE4OmNoYW5uZWwvWkNrdWxCZWJUUVpSIiwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOi8va2ljay5jb20saHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20saHR0cHM6Ly8qLmtpY2subGl2ZSxodHRwczovL3BsYXllci5raWNrLmNvbSxodHRwczovL2FkbWluLmtpY2suY29tLGh0dHBzOi8vYmV0YS5raWNrLmNvbSxodHRwczovL25leHQua2ljay5jb20saHR0cHM6Ly9kYXNoYm9hcmQua2ljay5jb20saHR0cHM6Ly8qLnByZXZpZXcua2ljay5jb20saHR0cHM6Ly94Ym94LmtpY2suY29tLGh0dHBzOi8vcGxheXN0YXRpb24ua2ljay5jb20saHR0cHM6Ly8qLmtpY2stcHJlcHJvZHVjdGlvbi5jb20saHR0cHM6Ly8qLmtpY2stZGV2ZWxvcG1lbnQuY29tIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOmZhbHNlLCJhd3M6YWRzLW9wdC1vdXQiOnRydWUsImV4cCI6MTc3NDY4NDQyNH0.n1pPV1UIFtvslagezHBLqoFVsrbCNcPdAObOqT7IhtPbhcHj2LptVYc_8fuRvzl-fJArpgRXjfYwZ7GZXQmmG8ssjE0yyU0oMIjN8XJ2OSXS7FIsqTjy94Hl1pTYGiMo",
+  "playback_url": "https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.ZCkulBebTQZR.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6MTk2MjMzNzc1NTE4OmNoYW5uZWwvWkNrdWxCZWJUUVpSIiwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOi8va2ljay5jb20saHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20saHR0cHM6Ly8qLmtpY2subGl2ZSxodHRwczovL3BsYXllci5raWNrLmNvbSxodHRwczovL2FkbWluLmtpY2suY29tLGh0dHBzOi8vYmV0YS5raWNrLmNvbSxodHRwczovL25leHQua2ljay5jb20saHR0cHM6Ly9kYXNoYm9hcmQua2ljay5jb20saHR0cHM6Ly8qLnByZXZpZXcua2ljay5jb20saHR0cHM6Ly94Ym94LmtpY2suY29tLGh0dHBzOi8vcGxheXN0YXRpb24ua2ljay5jb20saHR0cHM6Ly8qLmtpY2stcHJlcHJvZHVjdGlvbi5jb20saHR0cHM6Ly8qLmtpY2stZGV2ZWxvcG1lbnQuY29tIiwiYXdzOnN0cmljdC1vcmlnaW4tZW5mb3JjZW1lbnQiOmZhbHNlLCJhd3M6YWRzLW9wdC1vdXQiOnRydWUsImV4cCI6MTc3NDY4NTI5NX0.NyuumW4zbXfdfyv0Ka1JyOfBFG8XDr_GJ4_f87kg2OuSOCbvoqHIoZ2xQ66hv7FzyZ8OH6ozh8AvKZTkx-PyDxTAU6jpyy6t6fAhZlTpXTXtyyQR7ufL4uTUFixd5Oca",
   "vod_enabled": true,
   "subscription_enabled": true,
   "is_affiliate": true,
@@ -180,7 +180,7 @@
       "deleted_at": null,
       "is_mature": false,
       "is_promoted": false,
-      "viewers": 220,
+      "viewers": 225,
       "is_fallback": false,
       "banner": {
         "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
