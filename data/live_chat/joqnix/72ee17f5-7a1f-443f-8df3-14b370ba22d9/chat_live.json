@@ -1,0 +1,29 @@
+[
+  {
+    "id": "f64f551d-6d21-4862-98ea-e574a25c789d",
+    "chat_id": 138623,
+    "user_id": 7404530,
+    "content": "joqnix just went live playing VTubers!",
+    "type": "message",
+    "metadata": null,
+    "created_at": "2026-03-30T16:32:45Z",
+    "sender": {
+      "id": 7404530,
+      "slug": "fossabot",
+      "username": "Fossabot",
+      "identity": {
+        "color": "#DEB2FF",
+        "badges": [
+          {
+            "type": "moderator",
+            "text": "Moderator"
+          },
+          {
+            "type": "verified",
+            "text": "Verified channel"
+          }
+        ]
+      }
+    }
+  }
+]
