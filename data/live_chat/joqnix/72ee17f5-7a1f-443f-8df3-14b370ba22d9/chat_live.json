@@ -259,5 +259,28 @@
         ]
       }
     }
+  },
+  {
+    "id": "5025e9da-c555-4aa5-b896-8cea84af7e14",
+    "chat_id": 138623,
+    "user_id": 140223,
+    "content": "once again! thank you to everyone who came by on this last stream, i hope to do my best in japan! and hope to see you all again~ 💖",
+    "type": "message",
+    "metadata": null,
+    "created_at": "2026-03-30T20:55:05Z",
+    "sender": {
+      "id": 140223,
+      "slug": "joqnix",
+      "username": "joqnix",
+      "identity": {
+        "color": "#B9D6F6",
+        "badges": [
+          {
+            "type": "broadcaster",
+            "text": "Broadcaster"
+          }
+        ]
+      }
+    }
   }
 ]
