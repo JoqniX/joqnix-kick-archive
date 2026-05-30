@@ -1,19 +1,19 @@
 [
   {
     "id": 110805865,
-    "slug": "a9ab4aed-comeback-stream-first-stream-from-japan-joqnix",
+    "slug": "5a0064c6-comeback-stream-first-stream-from-japan-joqnix",
     "channel_id": 138623,
     "created_at": "2026-05-30 09:50:22",
     "session_title": "Comeback Stream \u250a \u2726 First Stream from Japan! | JoqniX",
-    "is_live": true,
+    "is_live": false,
     "risk_level_id": null,
     "start_time": "2026-05-30 09:50:21",
     "source": "https://stream.kick.com/0f3cb0ebce7/ivs/v1/196233775518/ZCkulBebTQZR/2026/5/30/9/50/rmCXR4ffkt3c/media/hls/master.m3u8",
     "twitch_channel": null,
-    "duration": 0,
+    "duration": 2535000,
     "language": "English",
-    "is_mature": false,
-    "viewer_count": 0,
+    "is_mature": true,
+    "viewer_count": 2,
     "tags": [
       "Constellation",
       "Engl\u0131sh",
@@ -22,10 +22,10 @@
       "vtuber"
     ],
     "thumbnail": {
-      "src": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/rmCXR4ffkt3c/720.webp?versionId=XFv1dxa0Jv24k1QwOs3jS75UxMunx_Iu",
-      "srcset": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/rmCXR4ffkt3c/1080.webp?versionId=5hNb7qnbiEqTY6oL_pP8Cql1Ey5qeBUA 1920w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/rmCXR4ffkt3c/720.webp?versionId=XFv1dxa0Jv24k1QwOs3jS75UxMunx_Iu 1280w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/rmCXR4ffkt3c/360.webp?versionId=woZFJxt8QF2BzuFXNZW02Pc51BxIYGGQ 480w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/rmCXR4ffkt3c/160.webp?versionId=1LHjhVsnEF1FAPux3UzFtTyO.wWlSde5 284w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/rmCXR4ffkt3c/480.webp?versionId=w3ysmasjOHf18Efqqqk8XgzKmJ7axuYA 640w"
+      "src": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/rmCXR4ffkt3c/720.webp?versionId=6AD4j5cYcMgLGdK322_MnhYZ35AEtqX.",
+      "srcset": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/rmCXR4ffkt3c/1080.webp?versionId=L5zVkVHwkyNtWJHdBLqEnxt2D21IpaeC 1920w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/rmCXR4ffkt3c/720.webp?versionId=6AD4j5cYcMgLGdK322_MnhYZ35AEtqX. 1280w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/rmCXR4ffkt3c/360.webp?versionId=oUJy5GvJQ2fvPPXXXzqoF.chohsj6r79 480w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/rmCXR4ffkt3c/160.webp?versionId=BDsCk7QFP59Zc0VsieaHIfRUv7NKOjxf 284w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/rmCXR4ffkt3c/480.webp?versionId=aR9h0gmkNuJvx2fzNBWwtufxDFlfYdnC 640w"
     },
-    "views": 0,
+    "views": 2,
     "video": {
       "id": 106513117,
       "live_stream_id": 110805865,
@@ -34,9 +34,9 @@
       "s3": null,
       "trading_platform_id": null,
       "created_at": "2026-05-30T09:50:22.000000Z",
-      "updated_at": "2026-05-30T09:50:22.000000Z",
+      "updated_at": "2026-05-30T10:34:10.000000Z",
       "uuid": "bc2de8a7-3aef-4a63-b51f-2ddecd005a93",
-      "views": 0,
+      "views": 2,
       "deleted_at": null,
       "is_pruned": false,
       "is_private": false,
@@ -59,7 +59,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 340,
+        "viewers": 355,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -128,7 +128,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 340,
+        "viewers": 355,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
