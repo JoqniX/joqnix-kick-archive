@@ -22,8 +22,8 @@
       "vtuber"
     ],
     "thumbnail": {
-      "src": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/rmCXR4ffkt3c/720.webp?versionId=6AD4j5cYcMgLGdK322_MnhYZ35AEtqX.",
-      "srcset": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/rmCXR4ffkt3c/1080.webp?versionId=L5zVkVHwkyNtWJHdBLqEnxt2D21IpaeC 1920w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/rmCXR4ffkt3c/720.webp?versionId=6AD4j5cYcMgLGdK322_MnhYZ35AEtqX. 1280w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/rmCXR4ffkt3c/360.webp?versionId=oUJy5GvJQ2fvPPXXXzqoF.chohsj6r79 480w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/rmCXR4ffkt3c/160.webp?versionId=BDsCk7QFP59Zc0VsieaHIfRUv7NKOjxf 284w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/rmCXR4ffkt3c/480.webp?versionId=aR9h0gmkNuJvx2fzNBWwtufxDFlfYdnC 640w"
+      "src": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/rmCXR4ffkt3c/720.webp",
+      "srcset": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/rmCXR4ffkt3c/1080.webp 1920w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/rmCXR4ffkt3c/720.webp 1280w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/rmCXR4ffkt3c/360.webp 480w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/rmCXR4ffkt3c/160.webp 284w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/rmCXR4ffkt3c/480.webp 640w"
     },
     "views": 2,
     "video": {
