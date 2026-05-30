@@ -3,11 +3,11 @@
   "user_id": 140223,
   "slug": "joqnix",
   "is_banned": false,
-  "playback_url": "https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.ZCkulBebTQZR.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6MTk2MjMzNzc1NTE4OmNoYW5uZWwvWkNrdWxCZWJUUVpSIiwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOi8va2ljay5jb20saHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20saHR0cHM6Ly8qLmtpY2subGl2ZSxodHRwczovL3BsYXllci5raWNrLmNvbSxodHRwczovL2FkbWluLmtpY2suY29tLGh0dHBzOi8vYmV0YS5raWNrLmNvbSxodHRwczovL25leHQua2ljay5jb20saHR0cHM6Ly9kYXNoYm9hcmQua2ljay5jb20saHR0cHM6Ly8qLnByZXZpZXcua2ljay5jb20saHR0cHM6Ly94Ym94LmtpY2suY29tLGh0dHBzOi8vcGxheXN0YXRpb24ua2ljay5jb20saHR0cHM6Ly90aXplbi5raWNrLmNvbSxodHRwczovL3dlYm9zLmtpY2suY29tLGh0dHBzOi8vKi5raWNrLXByZXByb2R1Y3Rpb24uY29tLGh0dHBzOi8vKi5raWNrLWRldmVsb3BtZW50LmNvbSIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50IjpmYWxzZSwiYXdzOmFkcy1vcHQtb3V0Ijp0cnVlLCJleHAiOjE3ODAxMzMwMjd9.Q4yROa77yNKkV_MJ5mtRKCgdd1irmSDiPiuJJo4Kdtaeq0Xhpn6qqP3QxDbRgbDmx42zqsH_EC8CDH5lARDavgVpDeu3X1PViuFvODdA7wX1d6zXDxXlSAmExq0WG82Y",
+  "playback_url": "https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.ZCkulBebTQZR.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6MTk2MjMzNzc1NTE4OmNoYW5uZWwvWkNrdWxCZWJUUVpSIiwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOi8va2ljay5jb20saHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20saHR0cHM6Ly8qLmtpY2subGl2ZSxodHRwczovL3BsYXllci5raWNrLmNvbSxodHRwczovL2FkbWluLmtpY2suY29tLGh0dHBzOi8vYmV0YS5raWNrLmNvbSxodHRwczovL25leHQua2ljay5jb20saHR0cHM6Ly9kYXNoYm9hcmQua2ljay5jb20saHR0cHM6Ly8qLnByZXZpZXcua2ljay5jb20saHR0cHM6Ly94Ym94LmtpY2suY29tLGh0dHBzOi8vcGxheXN0YXRpb24ua2ljay5jb20saHR0cHM6Ly90aXplbi5raWNrLmNvbSxodHRwczovL3dlYm9zLmtpY2suY29tLGh0dHBzOi8vKi5raWNrLXByZXByb2R1Y3Rpb24uY29tLGh0dHBzOi8vKi5raWNrLWRldmVsb3BtZW50LmNvbSIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50IjpmYWxzZSwiYXdzOmFkcy1vcHQtb3V0Ijp0cnVlLCJleHAiOjE3ODAxMzU2MTh9.XaFOpjUxTOnc8_fg37BaRiD9nJ7z1Sfh9XEgSWSED-Ig1IMxMXoPMNhXDU_588QzXMkNPb4FmknxAar3I0IMFt-f4Oj0Z3GW29J_irH5rSqAfw5t8r4kXLiK-5OLwQy7",
   "vod_enabled": true,
   "subscription_enabled": true,
   "is_affiliate": true,
-  "followers_count": 209,
+  "followers_count": 211,
   "subscriber_badges": [
     {
       "id": 432062,
@@ -158,20 +158,20 @@
     "url": "https://files.kick.com/images/channel/138623/banner_image/08257fc8-c270-45c6-b689-258321aca4b4"
   },
   "livestream": {
-    "id": 110803555,
-    "slug": "b2ad5818-comeback-stream-first-stream-from-japan-joqnix",
+    "id": 110805865,
+    "slug": "a9ab4aed-comeback-stream-first-stream-from-japan-joqnix",
     "channel_id": 138623,
-    "created_at": "2026-05-30 09:00:55",
+    "created_at": "2026-05-30 09:50:22",
     "session_title": "Comeback Stream \u250a \u2726 First Stream from Japan! | JoqniX",
     "is_live": true,
     "risk_level_id": null,
-    "start_time": "2026-05-30 09:00:54",
+    "start_time": "2026-05-30 09:50:21",
     "source": null,
     "twitch_channel": null,
     "duration": 0,
     "language": "English",
     "is_mature": false,
-    "viewer_count": 1,
+    "viewer_count": 0,
     "thumbnail": null,
     "lang_iso": "en",
     "tags": [
@@ -198,7 +198,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 295,
+        "viewers": 340,
         "is_fallback": false,
         "category": {
           "id": 1,
@@ -231,7 +231,7 @@
       "deleted_at": null,
       "is_mature": false,
       "is_promoted": false,
-      "viewers": 295,
+      "viewers": 340,
       "is_fallback": false,
       "banner": {
         "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
