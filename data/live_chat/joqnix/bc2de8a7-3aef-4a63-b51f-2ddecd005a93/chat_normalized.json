@@ -1,0 +1,27 @@
+[
+  {
+    "id": "82a3294d-d84e-44f3-9516-ec211e621cc1",
+    "timestamp": "2026-05-30T10:30:25Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 140223,
+      "username": "joqnix",
+      "avatar": "https://files.kick.com/images/user/140223/profile_image/conversion/ef121a80-5977-40c2-9236-f6970a04bf8e-fullsize.webp",
+      "color": "#B9D6F6",
+      "badges": [
+        {
+          "type": "broadcaster",
+          "text": "Broadcaster"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "thank you all for coming by! cya in the next stream!"
+      }
+    ],
+    "type": "message"
+  }
+]
