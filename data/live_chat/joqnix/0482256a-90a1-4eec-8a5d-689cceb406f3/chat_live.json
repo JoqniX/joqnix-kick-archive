@@ -58,5 +58,136 @@
         ]
       }
     }
+  },
+  {
+    "id": "f42535f2-5fdf-491b-ae1e-deae56be1e2f",
+    "chat_id": 138623,
+    "user_id": 109886339,
+    "content": "how long you been streaming on kick?",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1780228105836\"}",
+    "created_at": "2026-05-31T11:48:26Z",
+    "sender": {
+      "id": 109886339,
+      "slug": "isla1994",
+      "username": "isla1994",
+      "identity": {
+        "color": "#FFC466",
+        "badges": [],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+            "metadata": {
+              "level": 1
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "df93f495-581c-4958-8ca6-500a5d54ef2f",
+    "chat_id": 138623,
+    "user_id": 109886339,
+    "content": "mobile audio stream so you're actually outside rn?",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1780228073438\"}",
+    "created_at": "2026-05-31T11:47:54Z",
+    "sender": {
+      "id": 109886339,
+      "slug": "isla1994",
+      "username": "isla1994",
+      "identity": {
+        "color": "#FFC466",
+        "badges": [],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+            "metadata": {
+              "level": 1
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "11a8f333-6da2-4139-bf32-51a10235e785",
+    "chat_id": 138623,
+    "user_id": 109886339,
+    "content": "sup joqnix",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1780228006929\"}",
+    "created_at": "2026-05-31T11:46:47Z",
+    "sender": {
+      "id": 109886339,
+      "slug": "isla1994",
+      "username": "isla1994",
+      "identity": {
+        "color": "#FFC466",
+        "badges": [],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+            "metadata": {
+              "level": 1
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "c459d0df-1634-4d13-883c-56e7b73ed2c5",
+    "chat_id": 138623,
+    "user_id": 7404530,
+    "content": "joqnix just went live playing VTubers!",
+    "type": "message",
+    "metadata": null,
+    "created_at": "2026-05-31T11:45:27Z",
+    "sender": {
+      "id": 7404530,
+      "slug": "fossabot",
+      "username": "Fossabot",
+      "identity": {
+        "color": "#DEB2FF",
+        "badges": [
+          {
+            "type": "moderator",
+            "text": "Moderator",
+            "sort_order": 3
+          },
+          {
+            "type": "verified",
+            "text": "Verified channel",
+            "sort_order": 4
+          }
+        ],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+            "metadata": {
+              "level": 1
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
   }
 ]
