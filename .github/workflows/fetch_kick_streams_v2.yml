@@ -2,7 +2,7 @@ name: Fetch Kick Streams VODs v2
 
 on:
   schedule:
-    - cron: "0 */1 * * *"
+    # - cron: "0 */1 * * *"
   workflow_dispatch:
 
 jobs:
