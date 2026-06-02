@@ -7,6 +7,297 @@
   "data": {
     "messages": [
       {
+        "id": "07e506ef-1180-4aee-84cd-3e8619ee4432",
+        "chat_id": 138623,
+        "user_id": 140223,
+        "content": "Thank you for coming by today~ everyone hope you all had fun~ cya in the next stream~ otsujoq \u2728\ufe0f",
+        "type": "message",
+        "metadata": null,
+        "created_at": "2026-06-02T11:46:42Z",
+        "sender": {
+          "id": 140223,
+          "slug": "joqnix",
+          "username": "joqnix",
+          "identity": {
+            "color": "#B9D6F6",
+            "badges": [
+              {
+                "type": "broadcaster",
+                "text": "Broadcaster",
+                "sort_order": 3
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+                "metadata": {
+                  "level": 1
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "c18f25f7-67b6-4a07-bc24-97a85d6a69f4",
+        "chat_id": 138623,
+        "user_id": 7404530,
+        "content": "kara_1992 (kara-1992) just followed the stream! \ud83d\udc9a",
+        "type": "message",
+        "metadata": null,
+        "created_at": "2026-06-02T11:21:12Z",
+        "sender": {
+          "id": 7404530,
+          "slug": "fossabot",
+          "username": "Fossabot",
+          "identity": {
+            "color": "#DEB2FF",
+            "badges": [
+              {
+                "type": "moderator",
+                "text": "Moderator",
+                "sort_order": 4
+              },
+              {
+                "type": "verified",
+                "text": "Verified channel",
+                "sort_order": 10
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+                "metadata": {
+                  "level": 1
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "5ff63c57-d47c-4f50-88f2-a6517cabce99",
+        "chat_id": 138623,
+        "user_id": 4377088,
+        "content": "Thanks for the follow @kara_1992",
+        "type": "message",
+        "metadata": null,
+        "created_at": "2026-06-02T11:21:11Z",
+        "sender": {
+          "id": 4377088,
+          "slug": "kickbot",
+          "username": "KickBot",
+          "identity": {
+            "color": "#E9113C",
+            "badges": [
+              {
+                "type": "moderator",
+                "text": "Moderator",
+                "sort_order": 4
+              },
+              {
+                "type": "verified",
+                "text": "Verified channel",
+                "sort_order": 10
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+                "metadata": {
+                  "level": 1
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "3f114aab-14e5-4eed-88bb-b420f49c42a5",
+        "chat_id": 138623,
+        "user_id": 140223,
+        "content": "Ah my app crashed",
+        "type": "message",
+        "metadata": null,
+        "created_at": "2026-06-02T11:18:22Z",
+        "sender": {
+          "id": 140223,
+          "slug": "joqnix",
+          "username": "joqnix",
+          "identity": {
+            "color": "#B9D6F6",
+            "badges": [
+              {
+                "type": "broadcaster",
+                "text": "Broadcaster",
+                "sort_order": 3
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+                "metadata": {
+                  "level": 1
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "22108e10-bf20-4bfd-b86e-cb768a1c8608",
+        "chat_id": 138623,
+        "user_id": 7404530,
+        "content": "joqnix just went live playing VTubers!",
+        "type": "message",
+        "metadata": null,
+        "created_at": "2026-06-02T11:18:17Z",
+        "sender": {
+          "id": 7404530,
+          "slug": "fossabot",
+          "username": "Fossabot",
+          "identity": {
+            "color": "#DEB2FF",
+            "badges": [
+              {
+                "type": "moderator",
+                "text": "Moderator",
+                "sort_order": 4
+              },
+              {
+                "type": "verified",
+                "text": "Verified channel",
+                "sort_order": 10
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+                "metadata": {
+                  "level": 1
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "fa2bea9f-255d-4880-b7f8-699a0989467a",
+        "chat_id": 138623,
+        "user_id": 140223,
+        "content": "Ah app crashed again. Am i still live?",
+        "type": "message",
+        "metadata": null,
+        "created_at": "2026-06-02T10:43:57Z",
+        "sender": {
+          "id": 140223,
+          "slug": "joqnix",
+          "username": "joqnix",
+          "identity": {
+            "color": "#B9D6F6",
+            "badges": [
+              {
+                "type": "broadcaster",
+                "text": "Broadcaster",
+                "sort_order": 3
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+                "metadata": {
+                  "level": 1
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "fc3f1672-afc1-47b6-a901-7b54dbca29bf",
+        "chat_id": 138623,
+        "user_id": 46402296,
+        "content": "how creat skin vtuber",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1780396875877\"}",
+        "created_at": "2026-06-02T10:41:18Z",
+        "sender": {
+          "id": 46402296,
+          "slug": "snouzee",
+          "username": "Snouzee",
+          "identity": {
+            "color": "#B9D6F6",
+            "badges": [],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+                "metadata": {
+                  "level": 1
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "be322369-3acf-43b4-b950-a4ac8ff2e10e",
+        "chat_id": 138623,
+        "user_id": 46402296,
+        "content": "hi bb",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1780396847932\"}",
+        "created_at": "2026-06-02T10:40:50Z",
+        "sender": {
+          "id": 46402296,
+          "slug": "snouzee",
+          "username": "Snouzee",
+          "identity": {
+            "color": "#B9D6F6",
+            "badges": [],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+                "metadata": {
+                  "level": 1
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
         "id": "dee6c357-02b2-4d81-8992-ca5c55c813f7",
         "chat_id": 138623,
         "user_id": 140223,
@@ -284,7 +575,7 @@
         }
       }
     ],
-    "cursor": "1780131984156330",
+    "cursor": "1780133544656747",
     "pinned_message": null
   }
 }
