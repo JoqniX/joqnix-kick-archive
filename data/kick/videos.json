@@ -1,5 +1,143 @@
 [
   {
+    "id": 111223017,
+    "slug": "81b1b002-talk-with-me-while-i-stargaze-outdoors-joqnix",
+    "channel_id": 138623,
+    "created_at": "2026-06-02 10:26:25",
+    "session_title": "\u304a\u305d\u3068\u96d1\u8ac7 \u250a \u2726 Talk with me while i stargaze outdoors! | JoqniX",
+    "is_live": true,
+    "risk_level_id": null,
+    "start_time": "2026-06-02 10:26:25",
+    "source": "https://stream.kick.com/0f3cb0ebce7/ivs/v1/196233775518/ZCkulBebTQZR/2026/6/2/10/26/UllFLGfz8R4W/media/hls/master.m3u8",
+    "twitch_channel": null,
+    "duration": 0,
+    "language": "English",
+    "is_mature": true,
+    "viewer_count": 0,
+    "tags": [
+      "Constellation",
+      "Engl\u0131sh",
+      "india",
+      "Japan",
+      "vtuber"
+    ],
+    "thumbnail": {
+      "src": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/UllFLGfz8R4W/720.webp?versionId=4rCsYPiOZlZZFqCY3XoqOn_OQ4LrnlYy",
+      "srcset": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/UllFLGfz8R4W/1080.webp?versionId=2nrVfxzHaqFWNRoPz7thvNTd5KG0WGDm 1920w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/UllFLGfz8R4W/720.webp?versionId=4rCsYPiOZlZZFqCY3XoqOn_OQ4LrnlYy 1280w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/UllFLGfz8R4W/360.webp?versionId=_NTxkieH4MdW12CHC3lJJno863Wey0GF 480w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/UllFLGfz8R4W/160.webp?versionId=kz_TtVRrr3fNyDGaPd48XVfQaBQbJrO4 284w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/UllFLGfz8R4W/480.webp?versionId=TV7Xx5b7bd8lep5CwgwH6zR1A6I0Ls0F 640w"
+    },
+    "views": 0,
+    "video": {
+      "id": 106930123,
+      "live_stream_id": 111223017,
+      "slug": null,
+      "thumb": null,
+      "s3": null,
+      "trading_platform_id": null,
+      "created_at": "2026-06-02T10:26:26.000000Z",
+      "updated_at": "2026-06-02T10:26:26.000000Z",
+      "uuid": "e41f7786-389c-4e88-a045-12fd03ad56df",
+      "views": 0,
+      "deleted_at": null,
+      "is_pruned": false,
+      "is_private": false,
+      "status": "public"
+    },
+    "categories": [
+      {
+        "id": 415,
+        "category_id": 1,
+        "name": "VTubers",
+        "slug": "vtubers",
+        "tags": [
+          "Action",
+          "Puzzle",
+          "Adventure Games",
+          "Shooter",
+          "FPS"
+        ],
+        "description": null,
+        "deleted_at": null,
+        "is_mature": false,
+        "is_promoted": false,
+        "viewers": 134,
+        "is_fallback": false,
+        "banner": {
+          "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
+          "url": "https://files.kick.com/images/subcategories/415/banner/20afafe3-9025-4d93-9bab-5d4e7694807a"
+        }
+      }
+    ]
+  },
+  {
+    "id": 111221301,
+    "slug": "b3deeeda-talk-with-me-while-i-stargaze-outdoors-joqnix",
+    "channel_id": 138623,
+    "created_at": "2026-06-02 09:50:57",
+    "session_title": "\u304a\u305d\u3068\u96d1\u8ac7 \u250a \u2726 Talk with me while i stargaze outdoors! | JoqniX",
+    "is_live": false,
+    "risk_level_id": null,
+    "start_time": "2026-06-02 09:50:56",
+    "source": "https://stream.kick.com/0f3cb0ebce7/ivs/v1/196233775518/ZCkulBebTQZR/2026/6/2/9/50/5eTyps89Y1U9/media/hls/master.m3u8",
+    "twitch_channel": null,
+    "duration": 2113000,
+    "language": "English",
+    "is_mature": true,
+    "viewer_count": 0,
+    "tags": [
+      "Constellation",
+      "Engl\u0131sh",
+      "india",
+      "Japan",
+      "vtuber"
+    ],
+    "thumbnail": {
+      "src": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/5eTyps89Y1U9/720.webp",
+      "srcset": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/5eTyps89Y1U9/1080.webp 1920w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/5eTyps89Y1U9/720.webp 1280w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/5eTyps89Y1U9/360.webp 480w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/5eTyps89Y1U9/160.webp 284w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/5eTyps89Y1U9/480.webp 640w"
+    },
+    "views": 1,
+    "video": {
+      "id": 106928407,
+      "live_stream_id": 111221301,
+      "slug": null,
+      "thumb": null,
+      "s3": null,
+      "trading_platform_id": null,
+      "created_at": "2026-06-02T09:50:58.000000Z",
+      "updated_at": "2026-06-02T10:27:43.000000Z",
+      "uuid": "902cce77-1b21-4594-a508-f590c1a29067",
+      "views": 1,
+      "deleted_at": null,
+      "is_pruned": false,
+      "is_private": false,
+      "status": "public"
+    },
+    "categories": [
+      {
+        "id": 415,
+        "category_id": 1,
+        "name": "VTubers",
+        "slug": "vtubers",
+        "tags": [
+          "Action",
+          "Puzzle",
+          "Adventure Games",
+          "Shooter",
+          "FPS"
+        ],
+        "description": null,
+        "deleted_at": null,
+        "is_mature": false,
+        "is_promoted": false,
+        "viewers": 134,
+        "is_fallback": false,
+        "banner": {
+          "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
+          "url": "https://files.kick.com/images/subcategories/415/banner/20afafe3-9025-4d93-9bab-5d4e7694807a"
+        }
+      }
+    ]
+  },
+  {
     "id": 110956504,
     "slug": "0ee4b81d-talk-with-me-while-i-stargaze-outdoors-joqnix",
     "channel_id": 138623,
@@ -59,7 +197,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 346,
+        "viewers": 134,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -128,7 +266,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 346,
+        "viewers": 134,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -197,7 +335,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 346,
+        "viewers": 134,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -266,7 +404,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 346,
+        "viewers": 134,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
