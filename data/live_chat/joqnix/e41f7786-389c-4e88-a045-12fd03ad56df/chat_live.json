@@ -58,5 +58,41 @@
         ]
       }
     }
+  },
+  {
+    "id": "fa2bea9f-255d-4880-b7f8-699a0989467a",
+    "chat_id": 138623,
+    "user_id": 140223,
+    "content": "Ah app crashed again. Am i still live?",
+    "type": "message",
+    "metadata": null,
+    "created_at": "2026-06-02T10:43:57Z",
+    "sender": {
+      "id": 140223,
+      "slug": "joqnix",
+      "username": "joqnix",
+      "identity": {
+        "color": "#B9D6F6",
+        "badges": [
+          {
+            "type": "broadcaster",
+            "text": "Broadcaster",
+            "sort_order": 3
+          }
+        ],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+            "metadata": {
+              "level": 1
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
   }
 ]
