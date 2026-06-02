@@ -239,5 +239,41 @@
         ]
       }
     }
+  },
+  {
+    "id": "dee6c357-02b2-4d81-8992-ca5c55c813f7",
+    "chat_id": 138623,
+    "user_id": 140223,
+    "content": "Sorry my app crashed! Hope we're still live~",
+    "type": "message",
+    "metadata": null,
+    "created_at": "2026-06-02T10:27:35Z",
+    "sender": {
+      "id": 140223,
+      "slug": "joqnix",
+      "username": "joqnix",
+      "identity": {
+        "color": "#B9D6F6",
+        "badges": [
+          {
+            "type": "broadcaster",
+            "text": "Broadcaster",
+            "sort_order": 3
+          }
+        ],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+            "metadata": {
+              "level": 1
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
   }
 ]
