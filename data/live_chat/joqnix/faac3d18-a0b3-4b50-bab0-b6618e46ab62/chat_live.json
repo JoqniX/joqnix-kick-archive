@@ -1,0 +1,38 @@
+[
+  {
+    "id": "944274b3-b834-4f5d-8083-cf868257e53c",
+    "chat_id": 138623,
+    "user_id": 140223,
+    "content": "Today is a collab stream! i wont be able to read chat much! but feel free to support the Collab mates! links in description!",
+    "type": "message",
+    "metadata": null,
+    "created_at": "2026-06-04T08:47:50Z",
+    "sender": {
+      "id": 140223,
+      "slug": "joqnix",
+      "username": "joqnix",
+      "identity": {
+        "color": "#B9D6F6",
+        "badges": [
+          {
+            "type": "broadcaster",
+            "text": "Broadcaster",
+            "sort_order": 3
+          }
+        ],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+            "metadata": {
+              "level": 1
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  }
+]
