@@ -1,0 +1,52 @@
+[
+  {
+    "id": "944274b3-b834-4f5d-8083-cf868257e53c",
+    "timestamp": "2026-06-04T08:47:50Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 140223,
+      "username": "joqnix",
+      "avatar": "https://files.kick.com/images/user/140223/profile_image/conversion/ef121a80-5977-40c2-9236-f6970a04bf8e-fullsize.webp",
+      "color": "#B9D6F6",
+      "badges": [
+        {
+          "type": "broadcaster",
+          "text": "Broadcaster"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "Today is a collab stream! i wont be able to read chat much! but feel free to support the Collab mates! links in description!"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "0c57623d-0088-423f-87ba-bd3082909061",
+    "timestamp": "2026-06-04T11:24:09Z",
+    "vod_offset": 9379,
+    "vod_timestamp": "02:36:19",
+    "user": {
+      "id": 140223,
+      "username": "joqnix",
+      "avatar": "https://files.kick.com/images/user/140223/profile_image/conversion/ef121a80-5977-40c2-9236-f6970a04bf8e-fullsize.webp",
+      "color": "#B9D6F6",
+      "badges": [
+        {
+          "type": "broadcaster",
+          "text": "Broadcaster"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "thank you for coming by tonight~ i really had fun! otsujoq! and cya in the next one!"
+      }
+    ],
+    "type": "message"
+  }
+]
