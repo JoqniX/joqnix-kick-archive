@@ -34,5 +34,35 @@
         ]
       }
     }
+  },
+  {
+    "id": "d7b15d48-bee3-4dfa-82b5-e7f43fa3a0b7",
+    "chat_id": 138623,
+    "user_id": 76036480,
+    "content": "'SUO DAWG",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1780839089802\"}",
+    "created_at": "2026-06-07T13:31:30Z",
+    "sender": {
+      "id": 76036480,
+      "slug": "yusabakalll",
+      "username": "Yusabakalll",
+      "identity": {
+        "color": "#31D6C2",
+        "badges": [],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/6_3a05b0c9-55bd-4719-9589-a7a27859e84b.png",
+            "metadata": {
+              "level": 6
+            },
+            "selected": true,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
   }
 ]
