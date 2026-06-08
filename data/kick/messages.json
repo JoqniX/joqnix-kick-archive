@@ -7,6 +7,155 @@
   "data": {
     "messages": [
       {
+        "id": "a62fe738-bd87-4818-89fa-72ee7a4e5e7f",
+        "chat_id": 138623,
+        "user_id": 140223,
+        "content": "The stream app is buggy but yea thank you for today ill be wrapping up the stream otsujoq~",
+        "type": "message",
+        "metadata": null,
+        "created_at": "2026-06-08T13:11:12Z",
+        "sender": {
+          "id": 140223,
+          "slug": "joqnix",
+          "username": "joqnix",
+          "identity": {
+            "color": "#B9D6F6",
+            "badges": [
+              {
+                "type": "broadcaster",
+                "text": "Broadcaster",
+                "sort_order": 3
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+                "metadata": {
+                  "level": 1
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "cc3c61a0-f0fc-45ca-a8e9-5a00431c7664",
+        "chat_id": 138623,
+        "user_id": 140223,
+        "content": "Why is it cutting offf mooo",
+        "type": "message",
+        "metadata": null,
+        "created_at": "2026-06-08T12:26:07Z",
+        "sender": {
+          "id": 140223,
+          "slug": "joqnix",
+          "username": "joqnix",
+          "identity": {
+            "color": "#B9D6F6",
+            "badges": [
+              {
+                "type": "broadcaster",
+                "text": "Broadcaster",
+                "sort_order": 3
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+                "metadata": {
+                  "level": 1
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "ab1a2de4-55f0-43f9-bbb1-a6e678a50a53",
+        "chat_id": 138623,
+        "user_id": 140223,
+        "content": "Am i still live?",
+        "type": "message",
+        "metadata": null,
+        "created_at": "2026-06-08T12:19:03Z",
+        "sender": {
+          "id": 140223,
+          "slug": "joqnix",
+          "username": "joqnix",
+          "identity": {
+            "color": "#B9D6F6",
+            "badges": [
+              {
+                "type": "broadcaster",
+                "text": "Broadcaster",
+                "sort_order": 3
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+                "metadata": {
+                  "level": 1
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "1f7d49c2-7f7b-4f30-8b2a-b85ade8e04d2",
+        "chat_id": 138623,
+        "user_id": 7404530,
+        "content": "joqnix just went live playing VTubers!",
+        "type": "message",
+        "metadata": null,
+        "created_at": "2026-06-08T12:16:46Z",
+        "sender": {
+          "id": 7404530,
+          "slug": "fossabot",
+          "username": "Fossabot",
+          "identity": {
+            "color": "#DEB2FF",
+            "badges": [
+              {
+                "type": "moderator",
+                "text": "Moderator",
+                "sort_order": 4
+              },
+              {
+                "type": "verified",
+                "text": "Verified channel",
+                "sort_order": 10
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+                "metadata": {
+                  "level": 1
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
         "id": "9c6e2f9e-4e14-4445-bd51-cf0945a08166",
         "chat_id": 138623,
         "user_id": 7404530,
@@ -123,105 +272,9 @@
             ]
           }
         }
-      },
-      {
-        "id": "eca3c863-6d35-4f8c-91bc-e2f137b017ab",
-        "chat_id": 138623,
-        "user_id": 76036480,
-        "content": "Are you loli girl",
-        "type": "message",
-        "metadata": "{\"message_ref\":\"1780839094457\"}",
-        "created_at": "2026-06-07T13:31:35Z",
-        "sender": {
-          "id": 76036480,
-          "slug": "yusabakalll",
-          "username": "Yusabakalll",
-          "identity": {
-            "color": "#31D6C2",
-            "badges": [],
-            "badges_v2": [
-              {
-                "name": "level",
-                "badge_type": "global",
-                "image_url": "https://ext.cdn.kick.com/chat/badges/6_3a05b0c9-55bd-4719-9589-a7a27859e84b.png",
-                "metadata": {
-                  "level": 6
-                },
-                "selected": true,
-                "sort_order": 1
-              }
-            ]
-          }
-        }
-      },
-      {
-        "id": "d7b15d48-bee3-4dfa-82b5-e7f43fa3a0b7",
-        "chat_id": 138623,
-        "user_id": 76036480,
-        "content": "'SUO DAWG",
-        "type": "message",
-        "metadata": "{\"message_ref\":\"1780839089802\"}",
-        "created_at": "2026-06-07T13:31:30Z",
-        "sender": {
-          "id": 76036480,
-          "slug": "yusabakalll",
-          "username": "Yusabakalll",
-          "identity": {
-            "color": "#31D6C2",
-            "badges": [],
-            "badges_v2": [
-              {
-                "name": "level",
-                "badge_type": "global",
-                "image_url": "https://ext.cdn.kick.com/chat/badges/6_3a05b0c9-55bd-4719-9589-a7a27859e84b.png",
-                "metadata": {
-                  "level": 6
-                },
-                "selected": true,
-                "sort_order": 1
-              }
-            ]
-          }
-        }
-      },
-      {
-        "id": "9aa0f2c4-03d6-47a9-b026-08508deb2002",
-        "chat_id": 138623,
-        "user_id": 140223,
-        "content": "Do notify me in chat if the stream dies",
-        "type": "message",
-        "metadata": null,
-        "created_at": "2026-06-07T12:40:35Z",
-        "sender": {
-          "id": 140223,
-          "slug": "joqnix",
-          "username": "joqnix",
-          "identity": {
-            "color": "#B9D6F6",
-            "badges": [
-              {
-                "type": "broadcaster",
-                "text": "Broadcaster",
-                "sort_order": 3
-              }
-            ],
-            "badges_v2": [
-              {
-                "name": "level",
-                "badge_type": "global",
-                "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
-                "metadata": {
-                  "level": 1
-                },
-                "selected": false,
-                "sort_order": 1
-              }
-            ]
-          }
-        }
       }
     ],
-    "cursor": "1780494916989241",
+    "cursor": "1780562321734257",
     "pinned_message": null
   }
 }
