@@ -1,6 +1,12 @@
 {
   "status": {
-    "error": true,
-    "message": "No messages found"
+    "error": false,
+    "code": 200,
+    "message": "SUCCESS"
+  },
+  "data": {
+    "messages": [],
+    "cursor": "1780562321734257",
+    "pinned_message": null
   }
 }
