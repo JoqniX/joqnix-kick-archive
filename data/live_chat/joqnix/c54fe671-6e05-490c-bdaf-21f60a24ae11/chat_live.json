@@ -721,5 +721,35 @@
         ]
       }
     }
+  },
+  {
+    "id": "edfba0a4-7fe5-409b-8cda-6b5e6075e5ce",
+    "chat_id": 138623,
+    "user_id": 43518308,
+    "content": "My bed is calling to me. I gotta go sleep now.",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1781315888473\"}",
+    "created_at": "2026-06-13T01:58:10Z",
+    "sender": {
+      "id": 43518308,
+      "slug": "oranjiyo",
+      "username": "oranjiyo",
+      "identity": {
+        "color": "#31D6C2",
+        "badges": [],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+            "metadata": {
+              "level": 1
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
   }
 ]
