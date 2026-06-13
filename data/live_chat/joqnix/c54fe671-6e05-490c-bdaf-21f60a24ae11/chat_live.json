@@ -421,5 +421,35 @@
         ]
       }
     }
+  },
+  {
+    "id": "1088ea6a-ba84-45ba-9828-40d714593a71",
+    "chat_id": 138623,
+    "user_id": 105459697,
+    "content": "hi",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1781315350066\"}",
+    "created_at": "2026-06-13T01:49:10Z",
+    "sender": {
+      "id": 105459697,
+      "slug": "starzone109",
+      "username": "STARZONE109",
+      "identity": {
+        "color": "#F2708A",
+        "badges": [],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/18_cd2f7f82-87c8-418b-8758-93789e5d1a14.png",
+            "metadata": {
+              "level": 18
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
   }
 ]
