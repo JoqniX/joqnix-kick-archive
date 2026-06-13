@@ -241,5 +241,65 @@
         ]
       }
     }
+  },
+  {
+    "id": "c095e22a-ccb8-41fa-9ae1-d168b505082c",
+    "chat_id": 138623,
+    "user_id": 105459697,
+    "content": "how was your day",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1781315126861\"}",
+    "created_at": "2026-06-13T01:45:27Z",
+    "sender": {
+      "id": 105459697,
+      "slug": "starzone109",
+      "username": "STARZONE109",
+      "identity": {
+        "color": "#F2708A",
+        "badges": [],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/18_cd2f7f82-87c8-418b-8758-93789e5d1a14.png",
+            "metadata": {
+              "level": 18
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "69243903-a80b-48a2-b5a7-18858a5f3ffa",
+    "chat_id": 138623,
+    "user_id": 43518308,
+    "content": "7:15",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1781315116076\"}",
+    "created_at": "2026-06-13T01:45:17Z",
+    "sender": {
+      "id": 43518308,
+      "slug": "oranjiyo",
+      "username": "oranjiyo",
+      "identity": {
+        "color": "#31D6C2",
+        "badges": [],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+            "metadata": {
+              "level": 1
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
   }
 ]
