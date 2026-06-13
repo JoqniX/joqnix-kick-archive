@@ -481,5 +481,35 @@
         ]
       }
     }
+  },
+  {
+    "id": "49e4e059-b85b-40dc-bc65-c6cfbcc164fb",
+    "chat_id": 138623,
+    "user_id": 43518308,
+    "content": "Do you love cooking for yourself?",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1781315382721\"}",
+    "created_at": "2026-06-13T01:49:44Z",
+    "sender": {
+      "id": 43518308,
+      "slug": "oranjiyo",
+      "username": "oranjiyo",
+      "identity": {
+        "color": "#31D6C2",
+        "badges": [],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+            "metadata": {
+              "level": 1
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
   }
 ]
