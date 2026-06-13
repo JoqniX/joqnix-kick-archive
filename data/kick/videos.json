@@ -22,8 +22,8 @@
       "vtuber"
     ],
     "thumbnail": {
-      "src": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/bQJE5rURABQC/720.webp?versionId=1qwZHpenGXRs1yuLar8Pnv1vdCO_xce7",
-      "srcset": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/bQJE5rURABQC/1080.webp?versionId=C8JkhDLOXQaN3VSYy2wT3Xb_KAXroBZ0 1920w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/bQJE5rURABQC/720.webp?versionId=1qwZHpenGXRs1yuLar8Pnv1vdCO_xce7 1280w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/bQJE5rURABQC/360.webp?versionId=GRL7zEisKfzGdSSor0QVxbOe5BsOiH65 480w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/bQJE5rURABQC/160.webp?versionId=A1q8oFeARPg3KaI3hV.uRvMpNentxlGu 284w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/bQJE5rURABQC/480.webp?versionId=h0izykv9Rwx9M1tfssYJDWRDqzHVkRcg 640w"
+      "src": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/bQJE5rURABQC/720.webp?versionId=n0RVNsYev0zZYkj55e3cyJs6Aze6OfdQ",
+      "srcset": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/bQJE5rURABQC/1080.webp?versionId=ihZGa5AyD4nQg5StsTaWfgVmawm0IQPq 1920w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/bQJE5rURABQC/720.webp?versionId=n0RVNsYev0zZYkj55e3cyJs6Aze6OfdQ 1280w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/bQJE5rURABQC/360.webp?versionId=CG4oxCdZ95aVXerWD4CXbOFYQo..PZG2 480w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/bQJE5rURABQC/160.webp?versionId=McikUSkEck3EAFNOVx7I1QCWV8ZfIVJZ 284w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/bQJE5rURABQC/480.webp?versionId=5.rX8koElG.wME6wMaen7hvkOz9z0qRH 640w"
     },
     "views": 0,
     "video": {
@@ -59,7 +59,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 820,
+        "viewers": 543,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -128,7 +128,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 820,
+        "viewers": 543,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -197,7 +197,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 820,
+        "viewers": 543,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -266,7 +266,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 820,
+        "viewers": 543,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -335,7 +335,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 820,
+        "viewers": 543,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -404,7 +404,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 820,
+        "viewers": 543,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -473,145 +473,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 820,
-        "is_fallback": false,
-        "banner": {
-          "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
-          "url": "https://files.kick.com/images/subcategories/415/banner/20afafe3-9025-4d93-9bab-5d4e7694807a"
-        }
-      }
-    ]
-  },
-  {
-    "id": 111781460,
-    "slug": "20d35b0e-marathon-1-first-time-playing-marathon-with-bakon-enjp-joqnix",
-    "channel_id": 138623,
-    "created_at": "2026-06-06 05:12:30",
-    "session_title": "MARATHON #1 \u250a \u2726 First Time playing Marathon! with Bakon!  EN/JP | JoqniX",
-    "is_live": false,
-    "risk_level_id": null,
-    "start_time": "2026-06-06 05:12:29",
-    "source": "https://stream.kick.com/0f3cb0ebce7/ivs/v1/196233775518/ZCkulBebTQZR/2026/6/6/5/12/lKrC648aUWBM/media/hls/master.m3u8",
-    "twitch_channel": null,
-    "duration": 10236000,
-    "language": "English",
-    "is_mature": true,
-    "viewer_count": 2,
-    "tags": [
-      "Constellation",
-      "Engl\u0131sh",
-      "india",
-      "Japan",
-      "vtuber"
-    ],
-    "thumbnail": {
-      "src": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/lKrC648aUWBM/720.webp",
-      "srcset": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/lKrC648aUWBM/1080.webp 1920w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/lKrC648aUWBM/720.webp 1280w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/lKrC648aUWBM/360.webp 480w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/lKrC648aUWBM/160.webp 284w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/lKrC648aUWBM/480.webp 640w"
-    },
-    "views": 2,
-    "video": {
-      "id": 107488265,
-      "live_stream_id": 111781460,
-      "slug": null,
-      "thumb": null,
-      "s3": null,
-      "trading_platform_id": null,
-      "created_at": "2026-06-06T05:12:31.000000Z",
-      "updated_at": "2026-06-06T08:04:38.000000Z",
-      "uuid": "336ca5b6-ee69-459b-bb8b-2add5dce93aa",
-      "views": 2,
-      "deleted_at": null,
-      "is_pruned": false,
-      "is_private": false,
-      "status": "public"
-    },
-    "categories": [
-      {
-        "id": 415,
-        "category_id": 1,
-        "name": "VTubers",
-        "slug": "vtubers",
-        "tags": [
-          "Action",
-          "Puzzle",
-          "Adventure Games",
-          "Shooter",
-          "FPS"
-        ],
-        "description": null,
-        "deleted_at": null,
-        "is_mature": false,
-        "is_promoted": false,
-        "viewers": 820,
-        "is_fallback": false,
-        "banner": {
-          "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
-          "url": "https://files.kick.com/images/subcategories/415/banner/20afafe3-9025-4d93-9bab-5d4e7694807a"
-        }
-      }
-    ]
-  },
-  {
-    "id": 111775172,
-    "slug": "7e5f15f2-marathon-1-first-time-playing-marathon-with-bakon-enjp-joqnix",
-    "channel_id": 138623,
-    "created_at": "2026-06-06 04:05:04",
-    "session_title": "MARATHON #1 \u250a \u2726 First Time playing Marathon! with Bakon!  EN/JP | JoqniX",
-    "is_live": false,
-    "risk_level_id": null,
-    "start_time": "2026-06-06 04:05:01",
-    "source": "https://stream.kick.com/0f3cb0ebce7/ivs/v1/196233775518/ZCkulBebTQZR/2026/6/6/4/4/6a5Kw5axzm8X/media/hls/master.m3u8",
-    "twitch_channel": null,
-    "duration": 1288000,
-    "language": "English",
-    "is_mature": true,
-    "viewer_count": 2,
-    "tags": [
-      "Constellation",
-      "Engl\u0131sh",
-      "india",
-      "Japan",
-      "vtuber"
-    ],
-    "thumbnail": {
-      "src": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/6a5Kw5axzm8X/720.webp",
-      "srcset": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/6a5Kw5axzm8X/1080.webp 1920w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/6a5Kw5axzm8X/720.webp 1280w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/6a5Kw5axzm8X/360.webp 480w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/6a5Kw5axzm8X/160.webp 284w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/6a5Kw5axzm8X/480.webp 640w"
-    },
-    "views": 2,
-    "video": {
-      "id": 107481977,
-      "live_stream_id": 111775172,
-      "slug": null,
-      "thumb": null,
-      "s3": null,
-      "trading_platform_id": null,
-      "created_at": "2026-06-06T04:05:04.000000Z",
-      "updated_at": "2026-06-06T04:28:07.000000Z",
-      "uuid": "3cc3964e-202b-48fe-b6c7-294b1eb02075",
-      "views": 2,
-      "deleted_at": null,
-      "is_pruned": false,
-      "is_private": false,
-      "status": "public"
-    },
-    "categories": [
-      {
-        "id": 415,
-        "category_id": 1,
-        "name": "VTubers",
-        "slug": "vtubers",
-        "tags": [
-          "Action",
-          "Puzzle",
-          "Adventure Games",
-          "Shooter",
-          "FPS"
-        ],
-        "description": null,
-        "deleted_at": null,
-        "is_mature": false,
-        "is_promoted": false,
-        "viewers": 820,
+        "viewers": 543,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
