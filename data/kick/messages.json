@@ -7,6 +7,47 @@
   "data": {
     "messages": [
       {
+        "id": "06370691-7384-44cc-a0a1-9c8917887921",
+        "chat_id": 138623,
+        "user_id": 7404530,
+        "content": "joqnix just went live playing VTubers!",
+        "type": "message",
+        "metadata": null,
+        "created_at": "2026-06-13T10:40:33Z",
+        "sender": {
+          "id": 7404530,
+          "slug": "fossabot",
+          "username": "Fossabot",
+          "identity": {
+            "color": "#DEB2FF",
+            "badges": [
+              {
+                "type": "moderator",
+                "text": "Moderator",
+                "sort_order": 4
+              },
+              {
+                "type": "verified",
+                "text": "Verified channel",
+                "sort_order": 10
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+                "metadata": {
+                  "level": 1
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
         "id": "319621bd-2d43-43ed-8151-60437f52ccf5",
         "chat_id": 138623,
         "user_id": 140223,
@@ -759,39 +800,9 @@
             ]
           }
         }
-      },
-      {
-        "id": "04d952d5-ae80-4f9a-aaa8-1e76b9566da5",
-        "chat_id": 138623,
-        "user_id": 43518308,
-        "content": "That's more than me [emote:4148081:Sadge]",
-        "type": "message",
-        "metadata": "{\"message_ref\":\"1781315029408\"}",
-        "created_at": "2026-06-13T01:43:51Z",
-        "sender": {
-          "id": 43518308,
-          "slug": "oranjiyo",
-          "username": "oranjiyo",
-          "identity": {
-            "color": "#31D6C2",
-            "badges": [],
-            "badges_v2": [
-              {
-                "name": "level",
-                "badge_type": "global",
-                "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
-                "metadata": {
-                  "level": 1
-                },
-                "selected": false,
-                "sort_order": 1
-              }
-            ]
-          }
-        }
       }
     ],
-    "cursor": "1781315031215757",
+    "cursor": "1781315067256440",
     "pinned_message": null
   }
 }
