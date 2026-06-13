@@ -511,5 +511,65 @@
         ]
       }
     }
+  },
+  {
+    "id": "3d5f0ce1-e54d-418b-831d-c2f22c48e4a2",
+    "chat_id": 138623,
+    "user_id": 43518308,
+    "content": "\"yet\" crazy 💀",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1781315419496\"}",
+    "created_at": "2026-06-13T01:50:21Z",
+    "sender": {
+      "id": 43518308,
+      "slug": "oranjiyo",
+      "username": "oranjiyo",
+      "identity": {
+        "color": "#31D6C2",
+        "badges": [],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+            "metadata": {
+              "level": 1
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "ee1b5b9f-211d-4e5c-8fc0-2546cac0e542",
+    "chat_id": 138623,
+    "user_id": 105459697,
+    "content": "my union level is 75",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1781315415202\"}",
+    "created_at": "2026-06-13T01:50:15Z",
+    "sender": {
+      "id": 105459697,
+      "slug": "starzone109",
+      "username": "STARZONE109",
+      "identity": {
+        "color": "#F2708A",
+        "badges": [],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/18_cd2f7f82-87c8-418b-8758-93789e5d1a14.png",
+            "metadata": {
+              "level": 18
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
   }
 ]
