@@ -331,5 +331,35 @@
         ]
       }
     }
+  },
+  {
+    "id": "ff9933d5-e0d6-420a-9ede-ad7d0722d82e",
+    "chat_id": 138623,
+    "user_id": 105459697,
+    "content": "my favorite character in wuthering waves waves is  rover",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1781315190249\"}",
+    "created_at": "2026-06-13T01:46:30Z",
+    "sender": {
+      "id": 105459697,
+      "slug": "starzone109",
+      "username": "STARZONE109",
+      "identity": {
+        "color": "#F2708A",
+        "badges": [],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/18_cd2f7f82-87c8-418b-8758-93789e5d1a14.png",
+            "metadata": {
+              "level": 18
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
   }
 ]
