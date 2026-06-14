@@ -59,7 +59,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 234,
+        "viewers": 191,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -128,7 +128,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 234,
+        "viewers": 191,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -197,7 +197,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 234,
+        "viewers": 191,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -266,7 +266,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 234,
+        "viewers": 191,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -335,214 +335,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 234,
-        "is_fallback": false,
-        "banner": {
-          "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
-          "url": "https://files.kick.com/images/subcategories/415/banner/20afafe3-9025-4d93-9bab-5d4e7694807a"
-        }
-      }
-    ]
-  },
-  {
-    "id": 111957573,
-    "slug": "7d5602e2-4-its-raining-tonight-enjp-joqnix",
-    "channel_id": 138623,
-    "created_at": "2026-06-07 12:30:23",
-    "session_title": "\u304a\u305d\u3068\u96d1\u8ac7 #4  \u250a \u2726 Its raining tonight! !  EN/JP | JoqniX",
-    "is_live": false,
-    "risk_level_id": null,
-    "start_time": "2026-06-07 12:30:22",
-    "source": "https://stream.kick.com/0f3cb0ebce7/ivs/v1/196233775518/ZCkulBebTQZR/2026/6/7/12/30/LyqElRvOKBcn/media/hls/master.m3u8",
-    "twitch_channel": null,
-    "duration": 5756000,
-    "language": "English",
-    "is_mature": true,
-    "viewer_count": 0,
-    "tags": [
-      "Constellation",
-      "Engl\u0131sh",
-      "india",
-      "Japan",
-      "vtuber"
-    ],
-    "thumbnail": {
-      "src": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/LyqElRvOKBcn/720.webp",
-      "srcset": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/LyqElRvOKBcn/1080.webp 1920w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/LyqElRvOKBcn/720.webp 1280w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/LyqElRvOKBcn/360.webp 480w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/LyqElRvOKBcn/160.webp 284w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/LyqElRvOKBcn/480.webp 640w"
-    },
-    "views": 1,
-    "video": {
-      "id": 107664257,
-      "live_stream_id": 111957573,
-      "slug": null,
-      "thumb": null,
-      "s3": null,
-      "trading_platform_id": null,
-      "created_at": "2026-06-07T12:30:24.000000Z",
-      "updated_at": "2026-06-07T14:07:58.000000Z",
-      "uuid": "d6c193fb-1739-4ee1-a279-0ba2cfcf7547",
-      "views": 1,
-      "deleted_at": null,
-      "is_pruned": false,
-      "is_private": false,
-      "status": "public"
-    },
-    "categories": [
-      {
-        "id": 415,
-        "category_id": 1,
-        "name": "VTubers",
-        "slug": "vtubers",
-        "tags": [
-          "Action",
-          "Puzzle",
-          "Adventure Games",
-          "Shooter",
-          "FPS"
-        ],
-        "description": null,
-        "deleted_at": null,
-        "is_mature": false,
-        "is_promoted": false,
-        "viewers": 234,
-        "is_fallback": false,
-        "banner": {
-          "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
-          "url": "https://files.kick.com/images/subcategories/415/banner/20afafe3-9025-4d93-9bab-5d4e7694807a"
-        }
-      }
-    ]
-  },
-  {
-    "id": 111957358,
-    "slug": "a41cb051-4-its-raining-tonight-enjp-joqnix",
-    "channel_id": 138623,
-    "created_at": "2026-06-07 12:27:40",
-    "session_title": "\u304a\u305d\u3068\u96d1\u8ac7 #4  \u250a \u2726 Its raining tonight! !  EN/JP | JoqniX",
-    "is_live": false,
-    "risk_level_id": null,
-    "start_time": "2026-06-07 12:27:39",
-    "source": "https://stream.kick.com/0f3cb0ebce7/ivs/v1/196233775518/ZCkulBebTQZR/2026/6/7/12/27/RsQJ6ZtqEboC/media/hls/master.m3u8",
-    "twitch_channel": null,
-    "duration": 136000,
-    "language": "English",
-    "is_mature": true,
-    "viewer_count": 0,
-    "tags": [
-      "Constellation",
-      "Engl\u0131sh",
-      "india",
-      "Japan",
-      "vtuber"
-    ],
-    "thumbnail": {
-      "src": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/RsQJ6ZtqEboC/720.webp",
-      "srcset": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/RsQJ6ZtqEboC/1080.webp 1920w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/RsQJ6ZtqEboC/720.webp 1280w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/RsQJ6ZtqEboC/360.webp 480w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/RsQJ6ZtqEboC/160.webp 284w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/RsQJ6ZtqEboC/480.webp 640w"
-    },
-    "views": 1,
-    "video": {
-      "id": 107664044,
-      "live_stream_id": 111957358,
-      "slug": null,
-      "thumb": null,
-      "s3": null,
-      "trading_platform_id": null,
-      "created_at": "2026-06-07T12:27:41.000000Z",
-      "updated_at": "2026-06-07T12:31:30.000000Z",
-      "uuid": "fc45d31c-e266-47ad-ac14-b558a3c71b4e",
-      "views": 1,
-      "deleted_at": null,
-      "is_pruned": false,
-      "is_private": false,
-      "status": "public"
-    },
-    "categories": [
-      {
-        "id": 415,
-        "category_id": 1,
-        "name": "VTubers",
-        "slug": "vtubers",
-        "tags": [
-          "Action",
-          "Puzzle",
-          "Adventure Games",
-          "Shooter",
-          "FPS"
-        ],
-        "description": null,
-        "deleted_at": null,
-        "is_mature": false,
-        "is_promoted": false,
-        "viewers": 234,
-        "is_fallback": false,
-        "banner": {
-          "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
-          "url": "https://files.kick.com/images/subcategories/415/banner/20afafe3-9025-4d93-9bab-5d4e7694807a"
-        }
-      }
-    ]
-  },
-  {
-    "id": 111956196,
-    "slug": "aab5ac14-4-its-raining-tonight-enjp-joqnix",
-    "channel_id": 138623,
-    "created_at": "2026-06-07 12:11:50",
-    "session_title": "\u304a\u305d\u3068\u96d1\u8ac7 #4  \u250a \u2726 Its raining tonight! !  EN/JP | JoqniX",
-    "is_live": false,
-    "risk_level_id": null,
-    "start_time": "2026-06-07 12:11:50",
-    "source": "https://stream.kick.com/0f3cb0ebce7/ivs/v1/196233775518/ZCkulBebTQZR/2026/6/7/12/11/knlNfuiKVrUn/media/hls/master.m3u8",
-    "twitch_channel": null,
-    "duration": 663000,
-    "language": "English",
-    "is_mature": true,
-    "viewer_count": 2,
-    "tags": [
-      "Constellation",
-      "Engl\u0131sh",
-      "india",
-      "Japan",
-      "vtuber"
-    ],
-    "thumbnail": {
-      "src": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/knlNfuiKVrUn/720.webp",
-      "srcset": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/knlNfuiKVrUn/1080.webp 1920w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/knlNfuiKVrUn/720.webp 1280w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/knlNfuiKVrUn/360.webp 480w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/knlNfuiKVrUn/160.webp 284w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/knlNfuiKVrUn/480.webp 640w"
-    },
-    "views": 2,
-    "video": {
-      "id": 107662881,
-      "live_stream_id": 111956196,
-      "slug": null,
-      "thumb": null,
-      "s3": null,
-      "trading_platform_id": null,
-      "created_at": "2026-06-07T12:11:51.000000Z",
-      "updated_at": "2026-06-07T12:24:28.000000Z",
-      "uuid": "6367482b-edfb-4a4e-ad6a-91e604b874dd",
-      "views": 2,
-      "deleted_at": null,
-      "is_pruned": false,
-      "is_private": false,
-      "status": "public"
-    },
-    "categories": [
-      {
-        "id": 415,
-        "category_id": 1,
-        "name": "VTubers",
-        "slug": "vtubers",
-        "tags": [
-          "Action",
-          "Puzzle",
-          "Adventure Games",
-          "Shooter",
-          "FPS"
-        ],
-        "description": null,
-        "deleted_at": null,
-        "is_mature": false,
-        "is_promoted": false,
-        "viewers": 234,
+        "viewers": 191,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
