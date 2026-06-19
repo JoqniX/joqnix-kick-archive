@@ -525,5 +525,35 @@
         ]
       }
     }
+  },
+  {
+    "id": "cb7a5f42-783b-4cde-ac78-8fc058099702",
+    "chat_id": 138623,
+    "user_id": 105951729,
+    "content": "if you don't mind can i ask some thing",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1781912326416\"}",
+    "created_at": "2026-06-19T23:38:45Z",
+    "sender": {
+      "id": 105951729,
+      "slug": "immagreshamm",
+      "username": "immagreshamm",
+      "identity": {
+        "color": "#93EBE0",
+        "badges": [],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/4_f84754ee-17ab-49dc-ac78-734e429d7291.png",
+            "metadata": {
+              "level": 4
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
   }
 ]
