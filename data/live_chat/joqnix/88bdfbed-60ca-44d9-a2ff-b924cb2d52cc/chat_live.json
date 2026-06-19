@@ -375,5 +375,65 @@
         ]
       }
     }
+  },
+  {
+    "id": "01f8e24f-1c9e-42b0-8b76-1e3199999e5b",
+    "chat_id": 138623,
+    "user_id": 105951729,
+    "content": "hope you are doing well",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1781912202657\"}",
+    "created_at": "2026-06-19T23:36:42Z",
+    "sender": {
+      "id": 105951729,
+      "slug": "immagreshamm",
+      "username": "immagreshamm",
+      "identity": {
+        "color": "#93EBE0",
+        "badges": [],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/4_f84754ee-17ab-49dc-ac78-734e429d7291.png",
+            "metadata": {
+              "level": 4
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "ce952a33-26b8-4e17-9b7c-a7104a7c3790",
+    "chat_id": 138623,
+    "user_id": 105951729,
+    "content": "aww nice",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1781912195894\"}",
+    "created_at": "2026-06-19T23:36:35Z",
+    "sender": {
+      "id": 105951729,
+      "slug": "immagreshamm",
+      "username": "immagreshamm",
+      "identity": {
+        "color": "#93EBE0",
+        "badges": [],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/4_f84754ee-17ab-49dc-ac78-734e429d7291.png",
+            "metadata": {
+              "level": 4
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
   }
 ]
