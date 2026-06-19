@@ -7,6 +7,47 @@
   "data": {
     "messages": [
       {
+        "id": "d537e30b-8e01-41e4-a327-a96a3e8b4aec",
+        "chat_id": 138623,
+        "user_id": 7404530,
+        "content": "joqnix changed their title to \"\"!",
+        "type": "message",
+        "metadata": null,
+        "created_at": "2026-06-19T22:02:02Z",
+        "sender": {
+          "id": 7404530,
+          "slug": "fossabot",
+          "username": "Fossabot",
+          "identity": {
+            "color": "#DEB2FF",
+            "badges": [
+              {
+                "type": "moderator",
+                "text": "Moderator",
+                "sort_order": 4
+              },
+              {
+                "type": "verified",
+                "text": "Verified channel",
+                "sort_order": 10
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+                "metadata": {
+                  "level": 1
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
         "id": "d91ee3a5-1e31-4eb5-a5b6-8918ca4e0fe6",
         "chat_id": 138623,
         "user_id": 7404530,
@@ -663,7 +704,7 @@
         }
       }
     ],
-    "cursor": "1781519551352078",
+    "cursor": "1781520604798936",
     "pinned_message": null
   }
 }
