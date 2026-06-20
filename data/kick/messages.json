@@ -7,6 +7,628 @@
   "data": {
     "messages": [
       {
+        "id": "01d10dca-44a1-484b-9a0e-1c103f1023bb",
+        "chat_id": 138623,
+        "user_id": 114388521,
+        "content": "why is your vtuber is so simple",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1781912972816\"}",
+        "created_at": "2026-06-19T23:49:33Z",
+        "sender": {
+          "id": 114388521,
+          "slug": "emillyskyler",
+          "username": "Emillyskyler",
+          "identity": {
+            "color": "#FBCFD8",
+            "badges": [],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/2_766cec66-12c9-421d-afaa-9bbdbd4ed714.png",
+                "metadata": {
+                  "level": 2
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "c43aa36e-eb7e-4254-a0da-0a031a9b0025",
+        "chat_id": 138623,
+        "user_id": 114388521,
+        "content": "how long have you been playing this?",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1781912920032\"}",
+        "created_at": "2026-06-19T23:48:40Z",
+        "sender": {
+          "id": 114388521,
+          "slug": "emillyskyler",
+          "username": "Emillyskyler",
+          "identity": {
+            "color": "#FBCFD8",
+            "badges": [],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/2_766cec66-12c9-421d-afaa-9bbdbd4ed714.png",
+                "metadata": {
+                  "level": 2
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "a3d385e2-0634-4450-8122-e1ca844df7d8",
+        "chat_id": 138623,
+        "user_id": 114388521,
+        "content": "what game is this seems wuite fun",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1781912885712\"}",
+        "created_at": "2026-06-19T23:48:06Z",
+        "sender": {
+          "id": 114388521,
+          "slug": "emillyskyler",
+          "username": "Emillyskyler",
+          "identity": {
+            "color": "#FBCFD8",
+            "badges": [],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/2_766cec66-12c9-421d-afaa-9bbdbd4ed714.png",
+                "metadata": {
+                  "level": 2
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "84d6177c-1bb2-4aec-b47d-0c2ad66afe15",
+        "chat_id": 138623,
+        "user_id": 114388521,
+        "content": "wasssup",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1781912828624\"}",
+        "created_at": "2026-06-19T23:47:09Z",
+        "sender": {
+          "id": 114388521,
+          "slug": "emillyskyler",
+          "username": "Emillyskyler",
+          "identity": {
+            "color": "#FBCFD8",
+            "badges": [],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/2_766cec66-12c9-421d-afaa-9bbdbd4ed714.png",
+                "metadata": {
+                  "level": 2
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "71ee6fa6-00b2-4ade-8ca1-0ac2edb25618",
+        "chat_id": 138623,
+        "user_id": 114388521,
+        "content": "Heyyyy",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1781912810128\"}",
+        "created_at": "2026-06-19T23:46:50Z",
+        "sender": {
+          "id": 114388521,
+          "slug": "emillyskyler",
+          "username": "Emillyskyler",
+          "identity": {
+            "color": "#FBCFD8",
+            "badges": [],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/2_766cec66-12c9-421d-afaa-9bbdbd4ed714.png",
+                "metadata": {
+                  "level": 2
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "a027ebf5-8a65-4e24-bc67-4df6933a8a5a",
+        "chat_id": 138623,
+        "user_id": 105951729,
+        "content": "can i show if you are ok",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1781912376656\"}",
+        "created_at": "2026-06-19T23:39:36Z",
+        "sender": {
+          "id": 105951729,
+          "slug": "immagreshamm",
+          "username": "immagreshamm",
+          "identity": {
+            "color": "#93EBE0",
+            "badges": [],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/4_f84754ee-17ab-49dc-ac78-734e429d7291.png",
+                "metadata": {
+                  "level": 4
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "96293052-0fe0-41c9-9755-cc90a2c13c87",
+        "chat_id": 138623,
+        "user_id": 105951729,
+        "content": "i do emotes models logo banners etc",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1781912367888\"}",
+        "created_at": "2026-06-19T23:39:27Z",
+        "sender": {
+          "id": 105951729,
+          "slug": "immagreshamm",
+          "username": "immagreshamm",
+          "identity": {
+            "color": "#93EBE0",
+            "badges": [],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/4_f84754ee-17ab-49dc-ac78-734e429d7291.png",
+                "metadata": {
+                  "level": 4
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "34a0cde3-b1fc-46d1-8d36-881f12947802",
+        "chat_id": 138623,
+        "user_id": 105951729,
+        "content": "well i am an digital artist and working for content creators like you",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1781912354192\"}",
+        "created_at": "2026-06-19T23:39:13Z",
+        "sender": {
+          "id": 105951729,
+          "slug": "immagreshamm",
+          "username": "immagreshamm",
+          "identity": {
+            "color": "#93EBE0",
+            "badges": [],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/4_f84754ee-17ab-49dc-ac78-734e429d7291.png",
+                "metadata": {
+                  "level": 4
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "0e5c39b7-f2e2-4513-aa6c-9c5cd8dfe585",
+        "chat_id": 138623,
+        "user_id": 105951729,
+        "content": "alright thanks",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1781912345424\"}",
+        "created_at": "2026-06-19T23:39:04Z",
+        "sender": {
+          "id": 105951729,
+          "slug": "immagreshamm",
+          "username": "immagreshamm",
+          "identity": {
+            "color": "#93EBE0",
+            "badges": [],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/4_f84754ee-17ab-49dc-ac78-734e429d7291.png",
+                "metadata": {
+                  "level": 4
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "cb7a5f42-783b-4cde-ac78-8fc058099702",
+        "chat_id": 138623,
+        "user_id": 105951729,
+        "content": "if you don't mind can i ask some thing",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1781912326416\"}",
+        "created_at": "2026-06-19T23:38:45Z",
+        "sender": {
+          "id": 105951729,
+          "slug": "immagreshamm",
+          "username": "immagreshamm",
+          "identity": {
+            "color": "#93EBE0",
+            "badges": [],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/4_f84754ee-17ab-49dc-ac78-734e429d7291.png",
+                "metadata": {
+                  "level": 4
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "0cf4da0e-b38d-4410-a54f-fabcfc9311c4",
+        "chat_id": 138623,
+        "user_id": 105951729,
+        "content": "did you make it by yourself or someone else",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1781912250965\"}",
+        "created_at": "2026-06-19T23:37:30Z",
+        "sender": {
+          "id": 105951729,
+          "slug": "immagreshamm",
+          "username": "immagreshamm",
+          "identity": {
+            "color": "#93EBE0",
+            "badges": [],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/4_f84754ee-17ab-49dc-ac78-734e429d7291.png",
+                "metadata": {
+                  "level": 4
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "075dd9f4-df53-4f23-b119-c51e4016bd2e",
+        "chat_id": 138623,
+        "user_id": 105951729,
+        "content": "i really like your model",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1781912230897\"}",
+        "created_at": "2026-06-19T23:37:10Z",
+        "sender": {
+          "id": 105951729,
+          "slug": "immagreshamm",
+          "username": "immagreshamm",
+          "identity": {
+            "color": "#93EBE0",
+            "badges": [],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/4_f84754ee-17ab-49dc-ac78-734e429d7291.png",
+                "metadata": {
+                  "level": 4
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "c64e18bf-2a98-47ce-b884-5e989b020259",
+        "chat_id": 138623,
+        "user_id": 105951729,
+        "content": "glad to hear",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1781912223301\"}",
+        "created_at": "2026-06-19T23:37:02Z",
+        "sender": {
+          "id": 105951729,
+          "slug": "immagreshamm",
+          "username": "immagreshamm",
+          "identity": {
+            "color": "#93EBE0",
+            "badges": [],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/4_f84754ee-17ab-49dc-ac78-734e429d7291.png",
+                "metadata": {
+                  "level": 4
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "01f8e24f-1c9e-42b0-8b76-1e3199999e5b",
+        "chat_id": 138623,
+        "user_id": 105951729,
+        "content": "hope you are doing well",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1781912202657\"}",
+        "created_at": "2026-06-19T23:36:42Z",
+        "sender": {
+          "id": 105951729,
+          "slug": "immagreshamm",
+          "username": "immagreshamm",
+          "identity": {
+            "color": "#93EBE0",
+            "badges": [],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/4_f84754ee-17ab-49dc-ac78-734e429d7291.png",
+                "metadata": {
+                  "level": 4
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "ce952a33-26b8-4e17-9b7c-a7104a7c3790",
+        "chat_id": 138623,
+        "user_id": 105951729,
+        "content": "aww nice",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1781912195894\"}",
+        "created_at": "2026-06-19T23:36:35Z",
+        "sender": {
+          "id": 105951729,
+          "slug": "immagreshamm",
+          "username": "immagreshamm",
+          "identity": {
+            "color": "#93EBE0",
+            "badges": [],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/4_f84754ee-17ab-49dc-ac78-734e429d7291.png",
+                "metadata": {
+                  "level": 4
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "f32a9814-7ec5-47f7-9c49-9ddde7c45dc5",
+        "chat_id": 138623,
+        "user_id": 105951729,
+        "content": "my pleasure",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1781912189607\"}",
+        "created_at": "2026-06-19T23:36:29Z",
+        "sender": {
+          "id": 105951729,
+          "slug": "immagreshamm",
+          "username": "immagreshamm",
+          "identity": {
+            "color": "#93EBE0",
+            "badges": [],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/4_f84754ee-17ab-49dc-ac78-734e429d7291.png",
+                "metadata": {
+                  "level": 4
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "38013007-8d72-44b3-b5b5-bebe8cbd500c",
+        "chat_id": 138623,
+        "user_id": 105951729,
+        "content": "did you play genshin impact",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1781912183506\"}",
+        "created_at": "2026-06-19T23:36:22Z",
+        "sender": {
+          "id": 105951729,
+          "slug": "immagreshamm",
+          "username": "immagreshamm",
+          "identity": {
+            "color": "#93EBE0",
+            "badges": [],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/4_f84754ee-17ab-49dc-ac78-734e429d7291.png",
+                "metadata": {
+                  "level": 4
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "c6958cae-6255-4f11-a28e-0d9a18f67fa5",
+        "chat_id": 138623,
+        "user_id": 105951729,
+        "content": "yoo wassup",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1781912173731\"}",
+        "created_at": "2026-06-19T23:36:13Z",
+        "sender": {
+          "id": 105951729,
+          "slug": "immagreshamm",
+          "username": "immagreshamm",
+          "identity": {
+            "color": "#93EBE0",
+            "badges": [],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/4_f84754ee-17ab-49dc-ac78-734e429d7291.png",
+                "metadata": {
+                  "level": 4
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "594916e1-99f0-49bf-80c7-f75830c441fb",
+        "chat_id": 138623,
+        "user_id": 7404530,
+        "content": "immagreshamm just followed the stream! \ud83d\udc9a",
+        "type": "message",
+        "metadata": null,
+        "created_at": "2026-06-19T23:36:09Z",
+        "sender": {
+          "id": 7404530,
+          "slug": "fossabot",
+          "username": "Fossabot",
+          "identity": {
+            "color": "#DEB2FF",
+            "badges": [
+              {
+                "type": "moderator",
+                "text": "Moderator",
+                "sort_order": 4
+              },
+              {
+                "type": "verified",
+                "text": "Verified channel",
+                "sort_order": 10
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+                "metadata": {
+                  "level": 1
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "1f29ccd4-c422-49bd-bb07-0dd7a185a4bc",
+        "chat_id": 138623,
+        "user_id": 4377088,
+        "content": "Thanks for the follow @immagreshamm",
+        "type": "message",
+        "metadata": null,
+        "created_at": "2026-06-19T23:36:09Z",
+        "sender": {
+          "id": 4377088,
+          "slug": "kickbot",
+          "username": "KickBot",
+          "identity": {
+            "color": "#E9113C",
+            "badges": [
+              {
+                "type": "moderator",
+                "text": "Moderator",
+                "sort_order": 4
+              },
+              {
+                "type": "verified",
+                "text": "Verified channel",
+                "sort_order": 10
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+                "metadata": {
+                  "level": 1
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
         "id": "216ca6ba-c989-47f5-b165-ddd2a5b38fe6",
         "chat_id": 138623,
         "user_id": 7404530,
@@ -210,706 +832,9 @@
             ]
           }
         }
-      },
-      {
-        "id": "d537e30b-8e01-41e4-a327-a96a3e8b4aec",
-        "chat_id": 138623,
-        "user_id": 7404530,
-        "content": "joqnix changed their title to \"\"!",
-        "type": "message",
-        "metadata": null,
-        "created_at": "2026-06-19T22:02:02Z",
-        "sender": {
-          "id": 7404530,
-          "slug": "fossabot",
-          "username": "Fossabot",
-          "identity": {
-            "color": "#DEB2FF",
-            "badges": [
-              {
-                "type": "moderator",
-                "text": "Moderator",
-                "sort_order": 4
-              },
-              {
-                "type": "verified",
-                "text": "Verified channel",
-                "sort_order": 10
-              }
-            ],
-            "badges_v2": [
-              {
-                "name": "level",
-                "badge_type": "global",
-                "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
-                "metadata": {
-                  "level": 1
-                },
-                "selected": false,
-                "sort_order": 1
-              }
-            ]
-          }
-        }
-      },
-      {
-        "id": "d91ee3a5-1e31-4eb5-a5b6-8918ca4e0fe6",
-        "chat_id": 138623,
-        "user_id": 7404530,
-        "content": "sleepyrogue420x7 just followed the stream! \ud83d\udc9a",
-        "type": "message",
-        "metadata": null,
-        "created_at": "2026-06-19T15:59:27Z",
-        "sender": {
-          "id": 7404530,
-          "slug": "fossabot",
-          "username": "Fossabot",
-          "identity": {
-            "color": "#DEB2FF",
-            "badges": [
-              {
-                "type": "moderator",
-                "text": "Moderator",
-                "sort_order": 4
-              },
-              {
-                "type": "verified",
-                "text": "Verified channel",
-                "sort_order": 10
-              }
-            ],
-            "badges_v2": [
-              {
-                "name": "level",
-                "badge_type": "global",
-                "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
-                "metadata": {
-                  "level": 1
-                },
-                "selected": false,
-                "sort_order": 1
-              }
-            ]
-          }
-        }
-      },
-      {
-        "id": "823f58f7-dfd3-4935-b223-9de36b18860e",
-        "chat_id": 138623,
-        "user_id": 4377088,
-        "content": "Thanks for the follow @sleepyrogue420x7",
-        "type": "message",
-        "metadata": null,
-        "created_at": "2026-06-19T15:59:27Z",
-        "sender": {
-          "id": 4377088,
-          "slug": "kickbot",
-          "username": "KickBot",
-          "identity": {
-            "color": "#E9113C",
-            "badges": [
-              {
-                "type": "moderator",
-                "text": "Moderator",
-                "sort_order": 4
-              },
-              {
-                "type": "verified",
-                "text": "Verified channel",
-                "sort_order": 10
-              }
-            ],
-            "badges_v2": [
-              {
-                "name": "level",
-                "badge_type": "global",
-                "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
-                "metadata": {
-                  "level": 1
-                },
-                "selected": false,
-                "sort_order": 1
-              }
-            ]
-          }
-        }
-      },
-      {
-        "id": "b0e4554d-01e1-450f-951c-856f1c9dec16",
-        "chat_id": 138623,
-        "user_id": 7404530,
-        "content": "whiteswift24 just followed the stream! \ud83d\udc9a",
-        "type": "message",
-        "metadata": null,
-        "created_at": "2026-06-19T15:36:48Z",
-        "sender": {
-          "id": 7404530,
-          "slug": "fossabot",
-          "username": "Fossabot",
-          "identity": {
-            "color": "#DEB2FF",
-            "badges": [
-              {
-                "type": "moderator",
-                "text": "Moderator",
-                "sort_order": 4
-              },
-              {
-                "type": "verified",
-                "text": "Verified channel",
-                "sort_order": 10
-              }
-            ],
-            "badges_v2": [
-              {
-                "name": "level",
-                "badge_type": "global",
-                "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
-                "metadata": {
-                  "level": 1
-                },
-                "selected": false,
-                "sort_order": 1
-              }
-            ]
-          }
-        }
-      },
-      {
-        "id": "75602543-2cf8-43d7-878f-0ae70e6a2fc0",
-        "chat_id": 138623,
-        "user_id": 4377088,
-        "content": "Thanks for the follow @whiteswift24",
-        "type": "message",
-        "metadata": null,
-        "created_at": "2026-06-19T15:36:48Z",
-        "sender": {
-          "id": 4377088,
-          "slug": "kickbot",
-          "username": "KickBot",
-          "identity": {
-            "color": "#E9113C",
-            "badges": [
-              {
-                "type": "moderator",
-                "text": "Moderator",
-                "sort_order": 4
-              },
-              {
-                "type": "verified",
-                "text": "Verified channel",
-                "sort_order": 10
-              }
-            ],
-            "badges_v2": [
-              {
-                "name": "level",
-                "badge_type": "global",
-                "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
-                "metadata": {
-                  "level": 1
-                },
-                "selected": false,
-                "sort_order": 1
-              }
-            ]
-          }
-        }
-      },
-      {
-        "id": "a6a40f74-e2d8-4d7f-9bc9-d8e4f385ac97",
-        "chat_id": 138623,
-        "user_id": 7404530,
-        "content": "slickdemon just followed the stream! \ud83d\udc9a",
-        "type": "message",
-        "metadata": null,
-        "created_at": "2026-06-19T15:22:20Z",
-        "sender": {
-          "id": 7404530,
-          "slug": "fossabot",
-          "username": "Fossabot",
-          "identity": {
-            "color": "#DEB2FF",
-            "badges": [
-              {
-                "type": "moderator",
-                "text": "Moderator",
-                "sort_order": 4
-              },
-              {
-                "type": "verified",
-                "text": "Verified channel",
-                "sort_order": 10
-              }
-            ],
-            "badges_v2": [
-              {
-                "name": "level",
-                "badge_type": "global",
-                "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
-                "metadata": {
-                  "level": 1
-                },
-                "selected": false,
-                "sort_order": 1
-              }
-            ]
-          }
-        }
-      },
-      {
-        "id": "4a88a3d1-49ae-4c58-add2-e872f4d19112",
-        "chat_id": 138623,
-        "user_id": 4377088,
-        "content": "Thanks for the follow @slickdemon",
-        "type": "message",
-        "metadata": null,
-        "created_at": "2026-06-19T15:22:20Z",
-        "sender": {
-          "id": 4377088,
-          "slug": "kickbot",
-          "username": "KickBot",
-          "identity": {
-            "color": "#E9113C",
-            "badges": [
-              {
-                "type": "moderator",
-                "text": "Moderator",
-                "sort_order": 4
-              },
-              {
-                "type": "verified",
-                "text": "Verified channel",
-                "sort_order": 10
-              }
-            ],
-            "badges_v2": [
-              {
-                "name": "level",
-                "badge_type": "global",
-                "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
-                "metadata": {
-                  "level": 1
-                },
-                "selected": false,
-                "sort_order": 1
-              }
-            ]
-          }
-        }
-      },
-      {
-        "id": "5916f254-a2e5-4674-8cd9-dfc479cd97f5",
-        "chat_id": 138623,
-        "user_id": 7404530,
-        "content": "tessa1988 just followed the stream! \ud83d\udc9a",
-        "type": "message",
-        "metadata": null,
-        "created_at": "2026-06-19T15:21:08Z",
-        "sender": {
-          "id": 7404530,
-          "slug": "fossabot",
-          "username": "Fossabot",
-          "identity": {
-            "color": "#DEB2FF",
-            "badges": [
-              {
-                "type": "moderator",
-                "text": "Moderator",
-                "sort_order": 4
-              },
-              {
-                "type": "verified",
-                "text": "Verified channel",
-                "sort_order": 10
-              }
-            ],
-            "badges_v2": [
-              {
-                "name": "level",
-                "badge_type": "global",
-                "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
-                "metadata": {
-                  "level": 1
-                },
-                "selected": false,
-                "sort_order": 1
-              }
-            ]
-          }
-        }
-      },
-      {
-        "id": "0cf29df8-4608-4e15-b078-3a55d71e49d7",
-        "chat_id": 138623,
-        "user_id": 4377088,
-        "content": "Thanks for the follow @tessa1988",
-        "type": "message",
-        "metadata": null,
-        "created_at": "2026-06-19T15:21:07Z",
-        "sender": {
-          "id": 4377088,
-          "slug": "kickbot",
-          "username": "KickBot",
-          "identity": {
-            "color": "#E9113C",
-            "badges": [
-              {
-                "type": "moderator",
-                "text": "Moderator",
-                "sort_order": 4
-              },
-              {
-                "type": "verified",
-                "text": "Verified channel",
-                "sort_order": 10
-              }
-            ],
-            "badges_v2": [
-              {
-                "name": "level",
-                "badge_type": "global",
-                "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
-                "metadata": {
-                  "level": 1
-                },
-                "selected": false,
-                "sort_order": 1
-              }
-            ]
-          }
-        }
-      },
-      {
-        "id": "39ed9954-bb42-44b4-b8b1-010496d3fe4c",
-        "chat_id": 138623,
-        "user_id": 7404530,
-        "content": "maxferal just followed the stream! \ud83d\udc9a",
-        "type": "message",
-        "metadata": null,
-        "created_at": "2026-06-19T15:19:55Z",
-        "sender": {
-          "id": 7404530,
-          "slug": "fossabot",
-          "username": "Fossabot",
-          "identity": {
-            "color": "#DEB2FF",
-            "badges": [
-              {
-                "type": "moderator",
-                "text": "Moderator",
-                "sort_order": 4
-              },
-              {
-                "type": "verified",
-                "text": "Verified channel",
-                "sort_order": 10
-              }
-            ],
-            "badges_v2": [
-              {
-                "name": "level",
-                "badge_type": "global",
-                "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
-                "metadata": {
-                  "level": 1
-                },
-                "selected": false,
-                "sort_order": 1
-              }
-            ]
-          }
-        }
-      },
-      {
-        "id": "8693b760-589c-4084-80ab-79275fa7398d",
-        "chat_id": 138623,
-        "user_id": 4377088,
-        "content": "Thanks for the follow @maxferal",
-        "type": "message",
-        "metadata": null,
-        "created_at": "2026-06-19T15:19:55Z",
-        "sender": {
-          "id": 4377088,
-          "slug": "kickbot",
-          "username": "KickBot",
-          "identity": {
-            "color": "#E9113C",
-            "badges": [
-              {
-                "type": "moderator",
-                "text": "Moderator",
-                "sort_order": 4
-              },
-              {
-                "type": "verified",
-                "text": "Verified channel",
-                "sort_order": 10
-              }
-            ],
-            "badges_v2": [
-              {
-                "name": "level",
-                "badge_type": "global",
-                "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
-                "metadata": {
-                  "level": 1
-                },
-                "selected": false,
-                "sort_order": 1
-              }
-            ]
-          }
-        }
-      },
-      {
-        "id": "f6e6baba-324c-4bd7-8a70-473a054fef00",
-        "chat_id": 138623,
-        "user_id": 7404530,
-        "content": "savagediamond99 just followed the stream! \ud83d\udc9a",
-        "type": "message",
-        "metadata": null,
-        "created_at": "2026-06-19T14:56:00Z",
-        "sender": {
-          "id": 7404530,
-          "slug": "fossabot",
-          "username": "Fossabot",
-          "identity": {
-            "color": "#DEB2FF",
-            "badges": [
-              {
-                "type": "moderator",
-                "text": "Moderator",
-                "sort_order": 4
-              },
-              {
-                "type": "verified",
-                "text": "Verified channel",
-                "sort_order": 10
-              }
-            ],
-            "badges_v2": [
-              {
-                "name": "level",
-                "badge_type": "global",
-                "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
-                "metadata": {
-                  "level": 1
-                },
-                "selected": false,
-                "sort_order": 1
-              }
-            ]
-          }
-        }
-      },
-      {
-        "id": "e69feaec-7656-4294-81e9-345cddc2953b",
-        "chat_id": 138623,
-        "user_id": 4377088,
-        "content": "Thanks for the follow @savagediamond99",
-        "type": "message",
-        "metadata": null,
-        "created_at": "2026-06-19T14:56:00Z",
-        "sender": {
-          "id": 4377088,
-          "slug": "kickbot",
-          "username": "KickBot",
-          "identity": {
-            "color": "#E9113C",
-            "badges": [
-              {
-                "type": "moderator",
-                "text": "Moderator",
-                "sort_order": 4
-              },
-              {
-                "type": "verified",
-                "text": "Verified channel",
-                "sort_order": 10
-              }
-            ],
-            "badges_v2": [
-              {
-                "name": "level",
-                "badge_type": "global",
-                "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
-                "metadata": {
-                  "level": 1
-                },
-                "selected": false,
-                "sort_order": 1
-              }
-            ]
-          }
-        }
-      },
-      {
-        "id": "81bb9651-3ac9-40fe-ae00-5174ce320947",
-        "chat_id": 138623,
-        "user_id": 7404530,
-        "content": "swift_duke (swift-duke) just followed the stream! \ud83d\udc9a",
-        "type": "message",
-        "metadata": null,
-        "created_at": "2026-06-19T14:41:45Z",
-        "sender": {
-          "id": 7404530,
-          "slug": "fossabot",
-          "username": "Fossabot",
-          "identity": {
-            "color": "#DEB2FF",
-            "badges": [
-              {
-                "type": "moderator",
-                "text": "Moderator",
-                "sort_order": 4
-              },
-              {
-                "type": "verified",
-                "text": "Verified channel",
-                "sort_order": 10
-              }
-            ],
-            "badges_v2": [
-              {
-                "name": "level",
-                "badge_type": "global",
-                "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
-                "metadata": {
-                  "level": 1
-                },
-                "selected": false,
-                "sort_order": 1
-              }
-            ]
-          }
-        }
-      },
-      {
-        "id": "88f16e4b-99b1-4df0-988f-fa481bf1f762",
-        "chat_id": 138623,
-        "user_id": 4377088,
-        "content": "Thanks for the follow @swift_duke",
-        "type": "message",
-        "metadata": null,
-        "created_at": "2026-06-19T14:41:45Z",
-        "sender": {
-          "id": 4377088,
-          "slug": "kickbot",
-          "username": "KickBot",
-          "identity": {
-            "color": "#E9113C",
-            "badges": [
-              {
-                "type": "moderator",
-                "text": "Moderator",
-                "sort_order": 4
-              },
-              {
-                "type": "verified",
-                "text": "Verified channel",
-                "sort_order": 10
-              }
-            ],
-            "badges_v2": [
-              {
-                "name": "level",
-                "badge_type": "global",
-                "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
-                "metadata": {
-                  "level": 1
-                },
-                "selected": false,
-                "sort_order": 1
-              }
-            ]
-          }
-        }
-      },
-      {
-        "id": "24ec18bc-f902-425a-b650-6f6bc890497a",
-        "chat_id": 138623,
-        "user_id": 7404530,
-        "content": "joqnix just went live playing VTubers!",
-        "type": "message",
-        "metadata": null,
-        "created_at": "2026-06-19T14:01:16Z",
-        "sender": {
-          "id": 7404530,
-          "slug": "fossabot",
-          "username": "Fossabot",
-          "identity": {
-            "color": "#DEB2FF",
-            "badges": [
-              {
-                "type": "moderator",
-                "text": "Moderator",
-                "sort_order": 4
-              },
-              {
-                "type": "verified",
-                "text": "Verified channel",
-                "sort_order": 10
-              }
-            ],
-            "badges_v2": [
-              {
-                "name": "level",
-                "badge_type": "global",
-                "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
-                "metadata": {
-                  "level": 1
-                },
-                "selected": false,
-                "sort_order": 1
-              }
-            ]
-          }
-        }
-      },
-      {
-        "id": "2ee321f8-bfd4-4de1-b998-2c15b6e4452c",
-        "chat_id": 138623,
-        "user_id": 7404530,
-        "content": "joqnix changed their title to \"\"!",
-        "type": "message",
-        "metadata": null,
-        "created_at": "2026-06-19T11:45:34Z",
-        "sender": {
-          "id": 7404530,
-          "slug": "fossabot",
-          "username": "Fossabot",
-          "identity": {
-            "color": "#DEB2FF",
-            "badges": [
-              {
-                "type": "moderator",
-                "text": "Moderator",
-                "sort_order": 4
-              },
-              {
-                "type": "verified",
-                "text": "Verified channel",
-                "sort_order": 10
-              }
-            ],
-            "badges_v2": [
-              {
-                "name": "level",
-                "badge_type": "global",
-                "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
-                "metadata": {
-                  "level": 1
-                },
-                "selected": false,
-                "sort_order": 1
-              }
-            ]
-          }
-        }
       }
     ],
-    "cursor": "1781685652008823",
+    "cursor": "1781908211366294",
     "pinned_message": null
   }
 }
