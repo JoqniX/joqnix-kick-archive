@@ -59,7 +59,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 141,
+        "viewers": 112,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -128,7 +128,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 141,
+        "viewers": 112,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -197,7 +197,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 141,
+        "viewers": 112,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -266,214 +266,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 141,
-        "is_fallback": false,
-        "banner": {
-          "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
-          "url": "https://files.kick.com/images/subcategories/415/banner/20afafe3-9025-4d93-9bab-5d4e7694807a"
-        }
-      }
-    ]
-  },
-  {
-    "id": 113098870,
-    "slug": "e8446478-6-super-issogashi-dayo-enjp-joqnix",
-    "channel_id": 138623,
-    "created_at": "2026-06-15 08:56:31",
-    "session_title": "\u304a\u305d\u3068\u96d1\u8ac7 #6  \u250a \u2726 Super issogashi dayo~  !  EN/JP | JoqniX",
-    "is_live": false,
-    "risk_level_id": null,
-    "start_time": "2026-06-15 08:56:30",
-    "source": "https://stream.kick.com/0f3cb0ebce7/ivs/v1/196233775518/ZCkulBebTQZR/2026/6/15/8/56/gRv2I9VahUYt/media/hls/master.m3u8",
-    "twitch_channel": null,
-    "duration": 8559000,
-    "language": "English",
-    "is_mature": true,
-    "viewer_count": 0,
-    "tags": [
-      "Constellation",
-      "Engl\u0131sh",
-      "india",
-      "Japan",
-      "vtuber"
-    ],
-    "thumbnail": {
-      "src": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/gRv2I9VahUYt/720.webp",
-      "srcset": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/gRv2I9VahUYt/1080.webp 1920w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/gRv2I9VahUYt/720.webp 1280w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/gRv2I9VahUYt/360.webp 480w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/gRv2I9VahUYt/160.webp 284w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/gRv2I9VahUYt/480.webp 640w"
-    },
-    "views": 1,
-    "video": {
-      "id": 108804891,
-      "live_stream_id": 113098870,
-      "slug": null,
-      "thumb": null,
-      "s3": null,
-      "trading_platform_id": null,
-      "created_at": "2026-06-15T08:56:32.000000Z",
-      "updated_at": "2026-06-15T11:20:44.000000Z",
-      "uuid": "5a40d5a3-3276-4b36-ac2c-d7b72217095c",
-      "views": 1,
-      "deleted_at": null,
-      "is_pruned": false,
-      "is_private": false,
-      "status": "public"
-    },
-    "categories": [
-      {
-        "id": 415,
-        "category_id": 1,
-        "name": "VTubers",
-        "slug": "vtubers",
-        "tags": [
-          "Action",
-          "Puzzle",
-          "Adventure Games",
-          "Shooter",
-          "FPS"
-        ],
-        "description": null,
-        "deleted_at": null,
-        "is_mature": false,
-        "is_promoted": false,
-        "viewers": 141,
-        "is_fallback": false,
-        "banner": {
-          "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
-          "url": "https://files.kick.com/images/subcategories/415/banner/20afafe3-9025-4d93-9bab-5d4e7694807a"
-        }
-      }
-    ]
-  },
-  {
-    "id": 113098635,
-    "slug": "09575339-6-super-issogashi-dayo-enjp-joqnix",
-    "channel_id": 138623,
-    "created_at": "2026-06-15 08:52:15",
-    "session_title": "\u304a\u305d\u3068\u96d1\u8ac7 #6  \u250a \u2726 Super issogashi dayo~  !  EN/JP | JoqniX",
-    "is_live": false,
-    "risk_level_id": null,
-    "start_time": "2026-06-15 08:52:14",
-    "source": "https://stream.kick.com/0f3cb0ebce7/ivs/v1/196233775518/ZCkulBebTQZR/2026/6/15/8/52/ljZtsgst7KjA/media/hls/master.m3u8",
-    "twitch_channel": null,
-    "duration": 215000,
-    "language": "English",
-    "is_mature": true,
-    "viewer_count": 0,
-    "tags": [
-      "Constellation",
-      "Engl\u0131sh",
-      "india",
-      "Japan",
-      "vtuber"
-    ],
-    "thumbnail": {
-      "src": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/ljZtsgst7KjA/720.webp",
-      "srcset": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/ljZtsgst7KjA/1080.webp 1920w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/ljZtsgst7KjA/720.webp 1280w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/ljZtsgst7KjA/360.webp 480w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/ljZtsgst7KjA/160.webp 284w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/ljZtsgst7KjA/480.webp 640w"
-    },
-    "views": 1,
-    "video": {
-      "id": 108804656,
-      "live_stream_id": 113098635,
-      "slug": null,
-      "thumb": null,
-      "s3": null,
-      "trading_platform_id": null,
-      "created_at": "2026-06-15T08:52:16.000000Z",
-      "updated_at": "2026-06-15T08:57:24.000000Z",
-      "uuid": "0aaadf36-2d31-4b81-aa2f-0efeb6e3fe5a",
-      "views": 1,
-      "deleted_at": null,
-      "is_pruned": false,
-      "is_private": false,
-      "status": "public"
-    },
-    "categories": [
-      {
-        "id": 415,
-        "category_id": 1,
-        "name": "VTubers",
-        "slug": "vtubers",
-        "tags": [
-          "Action",
-          "Puzzle",
-          "Adventure Games",
-          "Shooter",
-          "FPS"
-        ],
-        "description": null,
-        "deleted_at": null,
-        "is_mature": false,
-        "is_promoted": false,
-        "viewers": 141,
-        "is_fallback": false,
-        "banner": {
-          "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
-          "url": "https://files.kick.com/images/subcategories/415/banner/20afafe3-9025-4d93-9bab-5d4e7694807a"
-        }
-      }
-    ]
-  },
-  {
-    "id": 113097913,
-    "slug": "3e7c7d8e-6-super-issogashi-dayo-enjp-joqnix",
-    "channel_id": 138623,
-    "created_at": "2026-06-15 08:35:16",
-    "session_title": "\u304a\u305d\u3068\u96d1\u8ac7 #6  \u250a \u2726 Super issogashi dayo~  !  EN/JP | JoqniX",
-    "is_live": false,
-    "risk_level_id": null,
-    "start_time": "2026-06-15 08:35:15",
-    "source": "https://stream.kick.com/0f3cb0ebce7/ivs/v1/196233775518/ZCkulBebTQZR/2026/6/15/8/35/HUoGNyeyi07r/media/hls/master.m3u8",
-    "twitch_channel": null,
-    "duration": 870000,
-    "language": "English",
-    "is_mature": true,
-    "viewer_count": 0,
-    "tags": [
-      "Constellation",
-      "Engl\u0131sh",
-      "india",
-      "Japan",
-      "vtuber"
-    ],
-    "thumbnail": {
-      "src": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/HUoGNyeyi07r/720.webp",
-      "srcset": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/HUoGNyeyi07r/1080.webp 1920w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/HUoGNyeyi07r/720.webp 1280w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/HUoGNyeyi07r/360.webp 480w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/HUoGNyeyi07r/160.webp 284w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/HUoGNyeyi07r/480.webp 640w"
-    },
-    "views": 1,
-    "video": {
-      "id": 108803934,
-      "live_stream_id": 113097913,
-      "slug": null,
-      "thumb": null,
-      "s3": null,
-      "trading_platform_id": null,
-      "created_at": "2026-06-15T08:35:16.000000Z",
-      "updated_at": "2026-06-15T08:51:19.000000Z",
-      "uuid": "8acb05f9-0bfb-48a8-8f3b-9b947d5b0437",
-      "views": 1,
-      "deleted_at": null,
-      "is_pruned": false,
-      "is_private": false,
-      "status": "public"
-    },
-    "categories": [
-      {
-        "id": 415,
-        "category_id": 1,
-        "name": "VTubers",
-        "slug": "vtubers",
-        "tags": [
-          "Action",
-          "Puzzle",
-          "Adventure Games",
-          "Shooter",
-          "FPS"
-        ],
-        "description": null,
-        "deleted_at": null,
-        "is_mature": false,
-        "is_promoted": false,
-        "viewers": 141,
+        "viewers": 112,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
