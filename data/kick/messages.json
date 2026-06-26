@@ -7,6 +7,42 @@
   "data": {
     "messages": [
       {
+        "id": "eef2d9c0-6617-494f-924c-83a7ef06a756",
+        "chat_id": 138623,
+        "user_id": 140223,
+        "content": "arigato minna for coming by~ otsujoq~ cya in the next strream tmrw~!",
+        "type": "message",
+        "metadata": null,
+        "created_at": "2026-06-26T06:50:45Z",
+        "sender": {
+          "id": 140223,
+          "slug": "joqnix",
+          "username": "joqnix",
+          "identity": {
+            "color": "#B9D6F6",
+            "badges": [
+              {
+                "type": "broadcaster",
+                "text": "Broadcaster",
+                "sort_order": 3
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/3_59e3744a-6392-4f99-ad6a-804b7336d546.png",
+                "metadata": {
+                  "level": 3
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
         "id": "fdaf0e1e-7d16-47a1-b3d2-39870248de83",
         "chat_id": 138623,
         "user_id": 7404530,
@@ -89,7 +125,7 @@
         }
       }
     ],
-    "cursor": "1781912182886693",
+    "cursor": "1781912189683031",
     "pinned_message": null
   }
 }
