@@ -13,7 +13,7 @@
     "duration": 0,
     "language": "English",
     "is_mature": true,
-    "viewer_count": 0,
+    "viewer_count": 1,
     "tags": [
       "Constellation",
       "Engl\u0131sh",
@@ -22,8 +22,8 @@
       "vtuber"
     ],
     "thumbnail": {
-      "src": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/efYFYZeo2ZbU/720.webp?versionId=8X6pwjVtW4nvpGRMKeU0iJ.dv_oAk8Vb",
-      "srcset": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/efYFYZeo2ZbU/1080.webp?versionId=dnBRhxCmmDpuzbOqts3N15HHdHE1GY_g 1920w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/efYFYZeo2ZbU/720.webp?versionId=8X6pwjVtW4nvpGRMKeU0iJ.dv_oAk8Vb 1280w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/efYFYZeo2ZbU/360.webp?versionId=PxpGHa78G6q2O_cbVeHSFwf9JpLMkL3l 480w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/efYFYZeo2ZbU/160.webp?versionId=6xXRAGnWv8PAIU.jcvf8uK0V33iAjjzY 284w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/efYFYZeo2ZbU/480.webp?versionId=qYjh6BOiMntbk8XrncFRnkbs.5Ctcgfq 640w"
+      "src": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/efYFYZeo2ZbU/720.webp?versionId=Eu7a_0NcvHBJHHH5MuWxPcaGUnjmrvRM",
+      "srcset": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/efYFYZeo2ZbU/1080.webp?versionId=tdDjAgKgC8lmnalOzlA1jApp4wO22AW2 1920w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/efYFYZeo2ZbU/720.webp?versionId=Eu7a_0NcvHBJHHH5MuWxPcaGUnjmrvRM 1280w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/efYFYZeo2ZbU/360.webp?versionId=8Sv70_NBuI.Y9FfPp2fSIWcP.Yr3DXdZ 480w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/efYFYZeo2ZbU/160.webp?versionId=LdAsH9pHnfDhYAHV5OuVFiOewMQiA.Qb 284w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/efYFYZeo2ZbU/480.webp?versionId=A.b.mgwvHa2fGw5Nu2RkzWDkrTbG.31d 640w"
     },
     "views": 0,
     "video": {
@@ -59,7 +59,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 431,
+        "viewers": 341,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -128,7 +128,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 431,
+        "viewers": 341,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -197,7 +197,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 431,
+        "viewers": 341,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
