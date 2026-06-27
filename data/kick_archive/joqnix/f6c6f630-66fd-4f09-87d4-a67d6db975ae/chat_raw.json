@@ -1,0 +1,824 @@
+[
+  {
+    "id": "e72faebb-c62a-4b0d-ac6b-fd078f187e3a",
+    "chat_id": 138623,
+    "user_id": 7404530,
+    "content": "joqnix just went live playing VTubers!",
+    "type": "message",
+    "metadata": null,
+    "created_at": "2026-06-27T05:30:55Z",
+    "sender": {
+      "id": 7404530,
+      "slug": "fossabot",
+      "username": "Fossabot",
+      "identity": {
+        "color": "#DEB2FF",
+        "badges": [
+          {
+            "type": "moderator",
+            "text": "Moderator",
+            "sort_order": 4
+          },
+          {
+            "type": "verified",
+            "text": "Verified channel",
+            "sort_order": 10
+          }
+        ],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+            "metadata": {
+              "level": 1
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "1e64c406-e3a6-43be-a3ba-d93351aa9eec",
+    "chat_id": 138623,
+    "user_id": 7404530,
+    "content": "Zombie6474 just followed the stream! 💚",
+    "type": "message",
+    "metadata": null,
+    "created_at": "2026-06-27T06:54:21Z",
+    "sender": {
+      "id": 7404530,
+      "slug": "fossabot",
+      "username": "Fossabot",
+      "identity": {
+        "color": "#DEB2FF",
+        "badges": [
+          {
+            "type": "moderator",
+            "text": "Moderator",
+            "sort_order": 4
+          },
+          {
+            "type": "verified",
+            "text": "Verified channel",
+            "sort_order": 10
+          }
+        ],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+            "metadata": {
+              "level": 1
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "02aaa01d-570a-4ca7-b3ff-99b63acf0fae",
+    "chat_id": 138623,
+    "user_id": 4377088,
+    "content": "Thanks for the follow @Zombie6474",
+    "type": "message",
+    "metadata": null,
+    "created_at": "2026-06-27T06:54:21Z",
+    "sender": {
+      "id": 4377088,
+      "slug": "kickbot",
+      "username": "KickBot",
+      "identity": {
+        "color": "#E9113C",
+        "badges": [
+          {
+            "type": "moderator",
+            "text": "Moderator",
+            "sort_order": 4
+          },
+          {
+            "type": "verified",
+            "text": "Verified channel",
+            "sort_order": 10
+          }
+        ],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+            "metadata": {
+              "level": 1
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "5bbf60fc-ba87-4002-b40f-6fc3c7a8e6be",
+    "chat_id": 138623,
+    "user_id": 7404530,
+    "content": "frosty_fawn (frosty-fawn) just followed the stream! 💚",
+    "type": "message",
+    "metadata": null,
+    "created_at": "2026-06-27T06:37:50Z",
+    "sender": {
+      "id": 7404530,
+      "slug": "fossabot",
+      "username": "Fossabot",
+      "identity": {
+        "color": "#DEB2FF",
+        "badges": [
+          {
+            "type": "moderator",
+            "text": "Moderator",
+            "sort_order": 4
+          },
+          {
+            "type": "verified",
+            "text": "Verified channel",
+            "sort_order": 10
+          }
+        ],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+            "metadata": {
+              "level": 1
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "56abc87d-759d-468b-a05c-141886974a4e",
+    "chat_id": 138623,
+    "user_id": 4377088,
+    "content": "Thanks for the follow @frosty_fawn",
+    "type": "message",
+    "metadata": null,
+    "created_at": "2026-06-27T06:37:49Z",
+    "sender": {
+      "id": 4377088,
+      "slug": "kickbot",
+      "username": "KickBot",
+      "identity": {
+        "color": "#E9113C",
+        "badges": [
+          {
+            "type": "moderator",
+            "text": "Moderator",
+            "sort_order": 4
+          },
+          {
+            "type": "verified",
+            "text": "Verified channel",
+            "sort_order": 10
+          }
+        ],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+            "metadata": {
+              "level": 1
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "e72faebb-c62a-4b0d-ac6b-fd078f187e3a",
+    "chat_id": 138623,
+    "user_id": 7404530,
+    "content": "joqnix just went live playing VTubers!",
+    "type": "message",
+    "metadata": null,
+    "created_at": "2026-06-27T05:30:55Z",
+    "sender": {
+      "id": 7404530,
+      "slug": "fossabot",
+      "username": "Fossabot",
+      "identity": {
+        "color": "#DEB2FF",
+        "badges": [
+          {
+            "type": "moderator",
+            "text": "Moderator",
+            "sort_order": 4
+          },
+          {
+            "type": "verified",
+            "text": "Verified channel",
+            "sort_order": 10
+          }
+        ],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+            "metadata": {
+              "level": 1
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "82a1f9c2-7297-4c13-bde2-cae08abc3bc1",
+    "chat_id": 138623,
+    "user_id": 60006880,
+    "content": "hi",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1782551228340\"}",
+    "created_at": "2026-06-27T09:07:08Z",
+    "sender": {
+      "id": 60006880,
+      "slug": "zombie6474",
+      "username": "Zombie6474",
+      "identity": {
+        "color": "#FBCFD8",
+        "badges": [],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/9_4ae06e2e-2c0b-4047-be31-78d7ed0a8724.png",
+            "metadata": {
+              "level": 9
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "4fa5e06f-a194-4a74-83be-7a91d893442f",
+    "chat_id": 138623,
+    "user_id": 60006880,
+    "content": "Joqnix give me Raspberries belly",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1782551305795\"}",
+    "created_at": "2026-06-27T09:08:26Z",
+    "sender": {
+      "id": 60006880,
+      "slug": "zombie6474",
+      "username": "Zombie6474",
+      "identity": {
+        "color": "#FBCFD8",
+        "badges": [],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/9_4ae06e2e-2c0b-4047-be31-78d7ed0a8724.png",
+            "metadata": {
+              "level": 9
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "fde0c5b7-85c2-42ab-99b1-1e6c8461f4b8",
+    "chat_id": 138623,
+    "user_id": 60006880,
+    "content": "[emote:1579052:emojiPleading]",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1782551332652\"}",
+    "created_at": "2026-06-27T09:08:53Z",
+    "sender": {
+      "id": 60006880,
+      "slug": "zombie6474",
+      "username": "Zombie6474",
+      "identity": {
+        "color": "#FBCFD8",
+        "badges": [],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/9_4ae06e2e-2c0b-4047-be31-78d7ed0a8724.png",
+            "metadata": {
+              "level": 9
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "45d69e2a-1127-4eeb-9089-c9b52079f880",
+    "chat_id": 138623,
+    "user_id": 60006880,
+    "content": "please 🙏",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1782551336029\"}",
+    "created_at": "2026-06-27T09:08:56Z",
+    "sender": {
+      "id": 60006880,
+      "slug": "zombie6474",
+      "username": "Zombie6474",
+      "identity": {
+        "color": "#FBCFD8",
+        "badges": [],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/9_4ae06e2e-2c0b-4047-be31-78d7ed0a8724.png",
+            "metadata": {
+              "level": 9
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "554943a1-4a0a-474a-b7b4-2ce32b7cdc72",
+    "chat_id": 138623,
+    "user_id": 60006880,
+    "content": "yes",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1782551352577\"}",
+    "created_at": "2026-06-27T09:09:13Z",
+    "sender": {
+      "id": 60006880,
+      "slug": "zombie6474",
+      "username": "Zombie6474",
+      "identity": {
+        "color": "#FBCFD8",
+        "badges": [],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/9_4ae06e2e-2c0b-4047-be31-78d7ed0a8724.png",
+            "metadata": {
+              "level": 9
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "3ef531e1-fce5-4936-8417-d0704bc774aa",
+    "chat_id": 138623,
+    "user_id": 60006880,
+    "content": "[emote:1579057:emojiSmiling]",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1782551377063\"}",
+    "created_at": "2026-06-27T09:09:37Z",
+    "sender": {
+      "id": 60006880,
+      "slug": "zombie6474",
+      "username": "Zombie6474",
+      "identity": {
+        "color": "#FBCFD8",
+        "badges": [],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/9_4ae06e2e-2c0b-4047-be31-78d7ed0a8724.png",
+            "metadata": {
+              "level": 9
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "64e9e22e-d8c4-42ad-8e11-5563f2e02d46",
+    "chat_id": 138623,
+    "user_id": 60006880,
+    "content": "[emote:1730835:emojiYes]",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1782551397920\"}",
+    "created_at": "2026-06-27T09:09:58Z",
+    "sender": {
+      "id": 60006880,
+      "slug": "zombie6474",
+      "username": "Zombie6474",
+      "identity": {
+        "color": "#FBCFD8",
+        "badges": [],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/9_4ae06e2e-2c0b-4047-be31-78d7ed0a8724.png",
+            "metadata": {
+              "level": 9
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "03987459-e1f4-455f-b6ae-39aecd3c2d5f",
+    "chat_id": 138623,
+    "user_id": 60006880,
+    "content": "Joqnix give me Raspberries belly",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1782551434156\"}",
+    "created_at": "2026-06-27T09:10:34Z",
+    "sender": {
+      "id": 60006880,
+      "slug": "zombie6474",
+      "username": "Zombie6474",
+      "identity": {
+        "color": "#FBCFD8",
+        "badges": [],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/9_4ae06e2e-2c0b-4047-be31-78d7ed0a8724.png",
+            "metadata": {
+              "level": 9
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "f919b493-c09b-4853-8702-d0f832e98ee4",
+    "chat_id": 138623,
+    "user_id": 60006880,
+    "content": "[emote:1730835:emojiYes]",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1782551461689\"}",
+    "created_at": "2026-06-27T09:11:02Z",
+    "sender": {
+      "id": 60006880,
+      "slug": "zombie6474",
+      "username": "Zombie6474",
+      "identity": {
+        "color": "#FBCFD8",
+        "badges": [],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/9_4ae06e2e-2c0b-4047-be31-78d7ed0a8724.png",
+            "metadata": {
+              "level": 9
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "2ab81adb-c54c-404f-9340-5a433589c114",
+    "chat_id": 138623,
+    "user_id": 60006880,
+    "content": "my belly",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1782551483127\"}",
+    "created_at": "2026-06-27T09:11:23Z",
+    "sender": {
+      "id": 60006880,
+      "slug": "zombie6474",
+      "username": "Zombie6474",
+      "identity": {
+        "color": "#FBCFD8",
+        "badges": [],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/9_4ae06e2e-2c0b-4047-be31-78d7ed0a8724.png",
+            "metadata": {
+              "level": 9
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "7cc67878-6b81-46dc-8ae6-4ea17b0724c9",
+    "chat_id": 138623,
+    "user_id": 60006880,
+    "content": "[emote:1579052:emojiPleading]",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1782551472991\"}",
+    "created_at": "2026-06-27T09:11:13Z",
+    "sender": {
+      "id": 60006880,
+      "slug": "zombie6474",
+      "username": "Zombie6474",
+      "identity": {
+        "color": "#FBCFD8",
+        "badges": [],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/9_4ae06e2e-2c0b-4047-be31-78d7ed0a8724.png",
+            "metadata": {
+              "level": 9
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "1286d7cb-d076-468a-b911-1097782a28d4",
+    "chat_id": 138623,
+    "user_id": 60006880,
+    "content": "Joqnix give me Raspberries belly [emote:1730835:emojiYes]",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1782551538879\"}",
+    "created_at": "2026-06-27T09:12:19Z",
+    "sender": {
+      "id": 60006880,
+      "slug": "zombie6474",
+      "username": "Zombie6474",
+      "identity": {
+        "color": "#FBCFD8",
+        "badges": [],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/9_4ae06e2e-2c0b-4047-be31-78d7ed0a8724.png",
+            "metadata": {
+              "level": 9
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "77dfc55f-ec5f-41cb-adb3-3ebe9868e62f",
+    "chat_id": 138623,
+    "user_id": 60006880,
+    "content": "Joqnix give me Raspberries belly",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1782551632868\"}",
+    "created_at": "2026-06-27T09:13:53Z",
+    "sender": {
+      "id": 60006880,
+      "slug": "zombie6474",
+      "username": "Zombie6474",
+      "identity": {
+        "color": "#FBCFD8",
+        "badges": [],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/9_4ae06e2e-2c0b-4047-be31-78d7ed0a8724.png",
+            "metadata": {
+              "level": 9
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "dbecdf92-12a1-4d65-a201-bf94792361ca",
+    "chat_id": 138623,
+    "user_id": 60006880,
+    "content": "[emote:1730835:emojiYes]",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1782551654640\"}",
+    "created_at": "2026-06-27T09:14:15Z",
+    "sender": {
+      "id": 60006880,
+      "slug": "zombie6474",
+      "username": "Zombie6474",
+      "identity": {
+        "color": "#FBCFD8",
+        "badges": [],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/9_4ae06e2e-2c0b-4047-be31-78d7ed0a8724.png",
+            "metadata": {
+              "level": 9
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "8bdc8c60-f5a1-4396-8365-e618ddb0329f",
+    "chat_id": 138623,
+    "user_id": 60006880,
+    "content": "hello 👋",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1782551685277\"}",
+    "created_at": "2026-06-27T09:14:45Z",
+    "sender": {
+      "id": 60006880,
+      "slug": "zombie6474",
+      "username": "Zombie6474",
+      "identity": {
+        "color": "#FBCFD8",
+        "badges": [],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/9_4ae06e2e-2c0b-4047-be31-78d7ed0a8724.png",
+            "metadata": {
+              "level": 9
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "2b5c757f-144a-4e9a-a9e1-49b944754924",
+    "chat_id": 138623,
+    "user_id": 60006880,
+    "content": "hi",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1782552714343\"}",
+    "created_at": "2026-06-27T09:31:54Z",
+    "sender": {
+      "id": 60006880,
+      "slug": "zombie6474",
+      "username": "Zombie6474",
+      "identity": {
+        "color": "#FBCFD8",
+        "badges": [],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/9_4ae06e2e-2c0b-4047-be31-78d7ed0a8724.png",
+            "metadata": {
+              "level": 9
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "495c7224-9291-477f-8f92-140a2802731a",
+    "chat_id": 138623,
+    "user_id": 114639595,
+    "content": "you benchod",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1782553094745\"}",
+    "created_at": "2026-06-27T09:38:16Z",
+    "sender": {
+      "id": 114639595,
+      "slug": "goldderp",
+      "username": "goldderp",
+      "identity": {
+        "color": "#FFC466",
+        "badges": [],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/11_cc84e9ce-84df-4b5f-a92d-9e831ab347a5.png",
+            "metadata": {
+              "level": 11
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "7d3843e8-a43c-452a-a8c3-41cd96269e51",
+    "chat_id": 138623,
+    "user_id": 114639595,
+    "content": "how are you gandu",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1782553091347\"}",
+    "created_at": "2026-06-27T09:38:12Z",
+    "sender": {
+      "id": 114639595,
+      "slug": "goldderp",
+      "username": "goldderp",
+      "identity": {
+        "color": "#FFC466",
+        "badges": [],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/11_cc84e9ce-84df-4b5f-a92d-9e831ab347a5.png",
+            "metadata": {
+              "level": 11
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "0f353252-6844-46b7-9a8b-94279eaa83de",
+    "chat_id": 138623,
+    "user_id": 140223,
+    "content": "thank you to everyone who came by! otsujoq cya in the next stream",
+    "type": "message",
+    "metadata": null,
+    "created_at": "2026-06-27T09:45:16Z",
+    "sender": {
+      "id": 140223,
+      "slug": "joqnix",
+      "username": "joqnix",
+      "identity": {
+        "color": "#B9D6F6",
+        "badges": [
+          {
+            "type": "broadcaster",
+            "text": "Broadcaster",
+            "sort_order": 3
+          }
+        ],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/3_59e3744a-6392-4f99-ad6a-804b7336d546.png",
+            "metadata": {
+              "level": 3
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  }
+]
