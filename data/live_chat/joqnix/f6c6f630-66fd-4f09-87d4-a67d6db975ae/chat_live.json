@@ -39,5 +39,210 @@
         ]
       }
     }
+  },
+  {
+    "id": "1e64c406-e3a6-43be-a3ba-d93351aa9eec",
+    "chat_id": 138623,
+    "user_id": 7404530,
+    "content": "Zombie6474 just followed the stream! 💚",
+    "type": "message",
+    "metadata": null,
+    "created_at": "2026-06-27T06:54:21Z",
+    "sender": {
+      "id": 7404530,
+      "slug": "fossabot",
+      "username": "Fossabot",
+      "identity": {
+        "color": "#DEB2FF",
+        "badges": [
+          {
+            "type": "moderator",
+            "text": "Moderator",
+            "sort_order": 4
+          },
+          {
+            "type": "verified",
+            "text": "Verified channel",
+            "sort_order": 10
+          }
+        ],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+            "metadata": {
+              "level": 1
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "02aaa01d-570a-4ca7-b3ff-99b63acf0fae",
+    "chat_id": 138623,
+    "user_id": 4377088,
+    "content": "Thanks for the follow @Zombie6474",
+    "type": "message",
+    "metadata": null,
+    "created_at": "2026-06-27T06:54:21Z",
+    "sender": {
+      "id": 4377088,
+      "slug": "kickbot",
+      "username": "KickBot",
+      "identity": {
+        "color": "#E9113C",
+        "badges": [
+          {
+            "type": "moderator",
+            "text": "Moderator",
+            "sort_order": 4
+          },
+          {
+            "type": "verified",
+            "text": "Verified channel",
+            "sort_order": 10
+          }
+        ],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+            "metadata": {
+              "level": 1
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "5bbf60fc-ba87-4002-b40f-6fc3c7a8e6be",
+    "chat_id": 138623,
+    "user_id": 7404530,
+    "content": "frosty_fawn (frosty-fawn) just followed the stream! 💚",
+    "type": "message",
+    "metadata": null,
+    "created_at": "2026-06-27T06:37:50Z",
+    "sender": {
+      "id": 7404530,
+      "slug": "fossabot",
+      "username": "Fossabot",
+      "identity": {
+        "color": "#DEB2FF",
+        "badges": [
+          {
+            "type": "moderator",
+            "text": "Moderator",
+            "sort_order": 4
+          },
+          {
+            "type": "verified",
+            "text": "Verified channel",
+            "sort_order": 10
+          }
+        ],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+            "metadata": {
+              "level": 1
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "56abc87d-759d-468b-a05c-141886974a4e",
+    "chat_id": 138623,
+    "user_id": 4377088,
+    "content": "Thanks for the follow @frosty_fawn",
+    "type": "message",
+    "metadata": null,
+    "created_at": "2026-06-27T06:37:49Z",
+    "sender": {
+      "id": 4377088,
+      "slug": "kickbot",
+      "username": "KickBot",
+      "identity": {
+        "color": "#E9113C",
+        "badges": [
+          {
+            "type": "moderator",
+            "text": "Moderator",
+            "sort_order": 4
+          },
+          {
+            "type": "verified",
+            "text": "Verified channel",
+            "sort_order": 10
+          }
+        ],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+            "metadata": {
+              "level": 1
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "e72faebb-c62a-4b0d-ac6b-fd078f187e3a",
+    "chat_id": 138623,
+    "user_id": 7404530,
+    "content": "joqnix just went live playing VTubers!",
+    "type": "message",
+    "metadata": null,
+    "created_at": "2026-06-27T05:30:55Z",
+    "sender": {
+      "id": 7404530,
+      "slug": "fossabot",
+      "username": "Fossabot",
+      "identity": {
+        "color": "#DEB2FF",
+        "badges": [
+          {
+            "type": "moderator",
+            "text": "Moderator",
+            "sort_order": 4
+          },
+          {
+            "type": "verified",
+            "text": "Verified channel",
+            "sort_order": 10
+          }
+        ],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+            "metadata": {
+              "level": 1
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
   }
 ]
