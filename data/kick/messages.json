@@ -7,6 +7,42 @@
   "data": {
     "messages": [
       {
+        "id": "fdcc00bf-5fb5-45df-9dcd-ad19fd3b246c",
+        "chat_id": 138623,
+        "user_id": 140223,
+        "content": "thank you for coming by today~ cya in the next stream~ feel free the follow and support the collabmates!",
+        "type": "message",
+        "metadata": null,
+        "created_at": "2026-06-28T07:22:23Z",
+        "sender": {
+          "id": 140223,
+          "slug": "joqnix",
+          "username": "joqnix",
+          "identity": {
+            "color": "#B9D6F6",
+            "badges": [
+              {
+                "type": "broadcaster",
+                "text": "Broadcaster",
+                "sort_order": 3
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/3_59e3744a-6392-4f99-ad6a-804b7336d546.png",
+                "metadata": {
+                  "level": 3
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
         "id": "54127514-d132-46f8-9113-27a03fac5ffe",
         "chat_id": 138623,
         "user_id": 7404530,
@@ -674,39 +710,9 @@
             ]
           }
         }
-      },
-      {
-        "id": "64e9e22e-d8c4-42ad-8e11-5563f2e02d46",
-        "chat_id": 138623,
-        "user_id": 60006880,
-        "content": "[emote:1730835:emojiYes]",
-        "type": "message",
-        "metadata": "{\"message_ref\":\"1782551397920\"}",
-        "created_at": "2026-06-27T09:09:58Z",
-        "sender": {
-          "id": 60006880,
-          "slug": "zombie6474",
-          "username": "Zombie6474",
-          "identity": {
-            "color": "#FBCFD8",
-            "badges": [],
-            "badges_v2": [
-              {
-                "name": "level",
-                "badge_type": "global",
-                "image_url": "https://ext.cdn.kick.com/chat/badges/9_4ae06e2e-2c0b-4047-be31-78d7ed0a8724.png",
-                "metadata": {
-                  "level": 9
-                },
-                "selected": false,
-                "sort_order": 1
-              }
-            ]
-          }
-        }
       }
     ],
-    "cursor": "1782551398337190",
+    "cursor": "1782551434719089",
     "pinned_message": null
   }
 }
