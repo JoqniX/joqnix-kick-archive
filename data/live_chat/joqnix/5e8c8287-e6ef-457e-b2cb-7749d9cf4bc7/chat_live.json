@@ -1,0 +1,585 @@
+[
+  {
+    "id": "e1c46a4f-d26a-4a6d-b3f5-15f839c0018c",
+    "chat_id": 138623,
+    "user_id": 117156825,
+    "content": "what's your stream schedule usually?",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1783239015001\"}",
+    "created_at": "2026-07-05T08:10:16Z",
+    "sender": {
+      "id": 117156825,
+      "slug": "icyaxe",
+      "username": "icyaxe",
+      "identity": {
+        "color": "#E5FFAB",
+        "badges": [],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+            "metadata": {
+              "level": 1
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "c45d7a21-94ad-4fdb-be38-f81e8c75d7a9",
+    "chat_id": 138623,
+    "user_id": 117156825,
+    "content": "lmao \"what the hell\" is a great way to say welcome",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1783238981748\"}",
+    "created_at": "2026-07-05T08:09:43Z",
+    "sender": {
+      "id": 117156825,
+      "slug": "icyaxe",
+      "username": "icyaxe",
+      "identity": {
+        "color": "#E5FFAB",
+        "badges": [],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+            "metadata": {
+              "level": 1
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "81aa799b-9f7a-498b-8028-2dea2ed3764a",
+    "chat_id": 138623,
+    "user_id": 117156825,
+    "content": "hey wsg joqnix",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1783238914260\"}",
+    "created_at": "2026-07-05T08:08:35Z",
+    "sender": {
+      "id": 117156825,
+      "slug": "icyaxe",
+      "username": "icyaxe",
+      "identity": {
+        "color": "#E5FFAB",
+        "badges": [],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+            "metadata": {
+              "level": 1
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "f35269e1-a33e-4ed1-a3d2-619a1e4d2e8e",
+    "chat_id": 138623,
+    "user_id": 140223,
+    "content": "My internet is a bit bad. But i hope i am live and we should be fine? There maybe stream disconnects if you experience any do let me know nee~",
+    "type": "message",
+    "metadata": null,
+    "created_at": "2026-07-05T08:07:55Z",
+    "sender": {
+      "id": 140223,
+      "slug": "joqnix",
+      "username": "joqnix",
+      "identity": {
+        "color": "#B9D6F6",
+        "badges": [
+          {
+            "type": "broadcaster",
+            "text": "Broadcaster",
+            "sort_order": 3
+          }
+        ],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/3_59e3744a-6392-4f99-ad6a-804b7336d546.png",
+            "metadata": {
+              "level": 3
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "52f1ae54-c502-4d18-b679-33917ce0eda5",
+    "chat_id": 138623,
+    "user_id": 7404530,
+    "content": "joqnix just went live playing VTubers!",
+    "type": "message",
+    "metadata": null,
+    "created_at": "2026-07-05T08:06:33Z",
+    "sender": {
+      "id": 7404530,
+      "slug": "fossabot",
+      "username": "Fossabot",
+      "identity": {
+        "color": "#DEB2FF",
+        "badges": [
+          {
+            "type": "moderator",
+            "text": "Moderator",
+            "sort_order": 4
+          },
+          {
+            "type": "verified",
+            "text": "Verified channel",
+            "sort_order": 10
+          }
+        ],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+            "metadata": {
+              "level": 1
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "7e92e19d-dd56-426e-b309-ab7fe7ce184a",
+    "chat_id": 138623,
+    "user_id": 7404530,
+    "content": "joqnix changed their title to \"\"!",
+    "type": "message",
+    "metadata": null,
+    "created_at": "2026-07-05T01:58:36Z",
+    "sender": {
+      "id": 7404530,
+      "slug": "fossabot",
+      "username": "Fossabot",
+      "identity": {
+        "color": "#DEB2FF",
+        "badges": [
+          {
+            "type": "moderator",
+            "text": "Moderator",
+            "sort_order": 4
+          },
+          {
+            "type": "verified",
+            "text": "Verified channel",
+            "sort_order": 10
+          }
+        ],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+            "metadata": {
+              "level": 1
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "db7d2a3b-a884-4a8d-b257-4a44480e2012",
+    "chat_id": 138623,
+    "user_id": 140223,
+    "content": "*otsujoq",
+    "type": "message",
+    "metadata": null,
+    "created_at": "2026-07-04T14:30:22Z",
+    "sender": {
+      "id": 140223,
+      "slug": "joqnix",
+      "username": "joqnix",
+      "identity": {
+        "color": "#B9D6F6",
+        "badges": [
+          {
+            "type": "broadcaster",
+            "text": "Broadcaster",
+            "sort_order": 3
+          }
+        ],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/3_59e3744a-6392-4f99-ad6a-804b7336d546.png",
+            "metadata": {
+              "level": 3
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "bca8baec-ca65-43ee-8c05-802e28c049c0",
+    "chat_id": 138623,
+    "user_id": 140223,
+    "content": "Thank you for coming by tonight~ cya in the next stream nee otusjoq",
+    "type": "message",
+    "metadata": null,
+    "created_at": "2026-07-04T14:30:08Z",
+    "sender": {
+      "id": 140223,
+      "slug": "joqnix",
+      "username": "joqnix",
+      "identity": {
+        "color": "#B9D6F6",
+        "badges": [
+          {
+            "type": "broadcaster",
+            "text": "Broadcaster",
+            "sort_order": 3
+          }
+        ],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/3_59e3744a-6392-4f99-ad6a-804b7336d546.png",
+            "metadata": {
+              "level": 3
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "d42191d3-7c80-4837-a245-65d4c7b09602",
+    "chat_id": 138623,
+    "user_id": 140223,
+    "content": "Debut stream will be july 18th  - 8pm jst which is 4:30pm IST",
+    "type": "message",
+    "metadata": null,
+    "created_at": "2026-07-04T13:43:33Z",
+    "sender": {
+      "id": 140223,
+      "slug": "joqnix",
+      "username": "joqnix",
+      "identity": {
+        "color": "#B9D6F6",
+        "badges": [
+          {
+            "type": "broadcaster",
+            "text": "Broadcaster",
+            "sort_order": 3
+          }
+        ],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/3_59e3744a-6392-4f99-ad6a-804b7336d546.png",
+            "metadata": {
+              "level": 3
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "24fcccf9-bd3d-44e8-83c6-5e2ad9514176",
+    "chat_id": 138623,
+    "user_id": 140223,
+    "content": "wah my internet is really bad now",
+    "type": "message",
+    "metadata": null,
+    "created_at": "2026-07-04T13:42:31Z",
+    "sender": {
+      "id": 140223,
+      "slug": "joqnix",
+      "username": "joqnix",
+      "identity": {
+        "color": "#B9D6F6",
+        "badges": [
+          {
+            "type": "broadcaster",
+            "text": "Broadcaster",
+            "sort_order": 3
+          }
+        ],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/3_59e3744a-6392-4f99-ad6a-804b7336d546.png",
+            "metadata": {
+              "level": 3
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "baedb5e2-acf6-4863-adab-4c9c6b81fa73",
+    "chat_id": 138623,
+    "user_id": 7404530,
+    "content": "motacob81210 just followed the stream! 💚",
+    "type": "message",
+    "metadata": null,
+    "created_at": "2026-07-04T12:47:05Z",
+    "sender": {
+      "id": 7404530,
+      "slug": "fossabot",
+      "username": "Fossabot",
+      "identity": {
+        "color": "#DEB2FF",
+        "badges": [
+          {
+            "type": "moderator",
+            "text": "Moderator",
+            "sort_order": 4
+          },
+          {
+            "type": "verified",
+            "text": "Verified channel",
+            "sort_order": 10
+          }
+        ],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+            "metadata": {
+              "level": 1
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "24d25c16-036f-4aa3-91ad-a329b5aaf892",
+    "chat_id": 138623,
+    "user_id": 4377088,
+    "content": "Thanks for the follow @motacob81210",
+    "type": "message",
+    "metadata": null,
+    "created_at": "2026-07-04T12:47:05Z",
+    "sender": {
+      "id": 4377088,
+      "slug": "kickbot",
+      "username": "KickBot",
+      "identity": {
+        "color": "#E9113C",
+        "badges": [
+          {
+            "type": "moderator",
+            "text": "Moderator",
+            "sort_order": 4
+          },
+          {
+            "type": "verified",
+            "text": "Verified channel",
+            "sort_order": 10
+          }
+        ],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+            "metadata": {
+              "level": 1
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "5266ad55-a799-4f91-b5bc-ec2c46efac10",
+    "chat_id": 138623,
+    "user_id": 140223,
+    "content": "my internet is bad here in jpan, so  the stream will be a few minutes behind! sorry",
+    "type": "message",
+    "metadata": null,
+    "created_at": "2026-07-04T10:43:33Z",
+    "sender": {
+      "id": 140223,
+      "slug": "joqnix",
+      "username": "joqnix",
+      "identity": {
+        "color": "#B9D6F6",
+        "badges": [
+          {
+            "type": "broadcaster",
+            "text": "Broadcaster",
+            "sort_order": 3
+          }
+        ],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/3_59e3744a-6392-4f99-ad6a-804b7336d546.png",
+            "metadata": {
+              "level": 3
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "3968c069-0ff0-4a32-88fd-2afac602f313",
+    "chat_id": 138623,
+    "user_id": 140223,
+    "content": "seems my internet is bad today ;w; wahh~",
+    "type": "message",
+    "metadata": null,
+    "created_at": "2026-07-04T10:32:38Z",
+    "sender": {
+      "id": 140223,
+      "slug": "joqnix",
+      "username": "joqnix",
+      "identity": {
+        "color": "#B9D6F6",
+        "badges": [
+          {
+            "type": "broadcaster",
+            "text": "Broadcaster",
+            "sort_order": 3
+          }
+        ],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/3_59e3744a-6392-4f99-ad6a-804b7336d546.png",
+            "metadata": {
+              "level": 3
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "f5521e80-7af7-4ebb-8b9d-3333d9e1e6f3",
+    "chat_id": 138623,
+    "user_id": 140223,
+    "content": "Hello everyone! today's stream is a collab stream! I wont be able to read chat much but feel free to comment!",
+    "type": "message",
+    "metadata": null,
+    "created_at": "2026-07-04T10:26:02Z",
+    "sender": {
+      "id": 140223,
+      "slug": "joqnix",
+      "username": "joqnix",
+      "identity": {
+        "color": "#B9D6F6",
+        "badges": [
+          {
+            "type": "broadcaster",
+            "text": "Broadcaster",
+            "sort_order": 3
+          }
+        ],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/3_59e3744a-6392-4f99-ad6a-804b7336d546.png",
+            "metadata": {
+              "level": 3
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "c2931870-1620-46c6-a8df-331edd98ef21",
+    "chat_id": 138623,
+    "user_id": 7404530,
+    "content": "joqnix just went live playing VTubers!",
+    "type": "message",
+    "metadata": null,
+    "created_at": "2026-07-04T10:24:35Z",
+    "sender": {
+      "id": 7404530,
+      "slug": "fossabot",
+      "username": "Fossabot",
+      "identity": {
+        "color": "#DEB2FF",
+        "badges": [
+          {
+            "type": "moderator",
+            "text": "Moderator",
+            "sort_order": 4
+          },
+          {
+            "type": "verified",
+            "text": "Verified channel",
+            "sort_order": 10
+          }
+        ],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+            "metadata": {
+              "level": 1
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  }
+]
