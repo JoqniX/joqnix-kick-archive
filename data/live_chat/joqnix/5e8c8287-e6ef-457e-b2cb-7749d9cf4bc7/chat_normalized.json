@@ -1,0 +1,532 @@
+[
+  {
+    "id": "e1c46a4f-d26a-4a6d-b3f5-15f839c0018c",
+    "timestamp": "2026-07-05T08:10:16Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 117156825,
+      "username": "icyaxe",
+      "avatar": "https://files.kick.com/images/user/117156825/profile_image/conversion/default3-fullsize.webp",
+      "color": "#E5FFAB",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "what's your stream schedule usually?"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "c45d7a21-94ad-4fdb-be38-f81e8c75d7a9",
+    "timestamp": "2026-07-05T08:09:43Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 117156825,
+      "username": "icyaxe",
+      "avatar": "https://files.kick.com/images/user/117156825/profile_image/conversion/default3-fullsize.webp",
+      "color": "#E5FFAB",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "lmao \"what the hell\" is a great way to say welcome"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "81aa799b-9f7a-498b-8028-2dea2ed3764a",
+    "timestamp": "2026-07-05T08:08:35Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 117156825,
+      "username": "icyaxe",
+      "avatar": "https://files.kick.com/images/user/117156825/profile_image/conversion/default3-fullsize.webp",
+      "color": "#E5FFAB",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "hey wsg joqnix"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "f35269e1-a33e-4ed1-a3d2-619a1e4d2e8e",
+    "timestamp": "2026-07-05T08:07:55Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 140223,
+      "username": "joqnix",
+      "avatar": "https://files.kick.com/images/user/140223/profile_image/conversion/ef121a80-5977-40c2-9236-f6970a04bf8e-fullsize.webp",
+      "color": "#B9D6F6",
+      "badges": [
+        {
+          "type": "broadcaster",
+          "text": "Broadcaster"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "My internet is a bit bad. But i hope i am live and we should be fine? There maybe stream disconnects if you experience any do let me know nee~"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "52f1ae54-c502-4d18-b679-33917ce0eda5",
+    "timestamp": "2026-07-05T08:06:33Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 7404530,
+      "username": "Fossabot",
+      "avatar": "https://files.kick.com/images/user/7404530/profile_image/conversion/104a9b9a-3882-49b1-aa55-22eae3dab24f-fullsize.webp",
+      "color": "#DEB2FF",
+      "badges": [
+        {
+          "type": "moderator",
+          "text": "Moderator"
+        },
+        {
+          "type": "verified",
+          "text": "Verified channel"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "joqnix just went live playing VTubers!"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "7e92e19d-dd56-426e-b309-ab7fe7ce184a",
+    "timestamp": "2026-07-05T01:58:36Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 7404530,
+      "username": "Fossabot",
+      "avatar": "https://files.kick.com/images/user/7404530/profile_image/conversion/104a9b9a-3882-49b1-aa55-22eae3dab24f-fullsize.webp",
+      "color": "#DEB2FF",
+      "badges": [
+        {
+          "type": "moderator",
+          "text": "Moderator"
+        },
+        {
+          "type": "verified",
+          "text": "Verified channel"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "joqnix changed their title to \"\"!"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "db7d2a3b-a884-4a8d-b257-4a44480e2012",
+    "timestamp": "2026-07-04T14:30:22Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 140223,
+      "username": "joqnix",
+      "avatar": "https://files.kick.com/images/user/140223/profile_image/conversion/ef121a80-5977-40c2-9236-f6970a04bf8e-fullsize.webp",
+      "color": "#B9D6F6",
+      "badges": [
+        {
+          "type": "broadcaster",
+          "text": "Broadcaster"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "*otsujoq"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "bca8baec-ca65-43ee-8c05-802e28c049c0",
+    "timestamp": "2026-07-04T14:30:08Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 140223,
+      "username": "joqnix",
+      "avatar": "https://files.kick.com/images/user/140223/profile_image/conversion/ef121a80-5977-40c2-9236-f6970a04bf8e-fullsize.webp",
+      "color": "#B9D6F6",
+      "badges": [
+        {
+          "type": "broadcaster",
+          "text": "Broadcaster"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "Thank you for coming by tonight~ cya in the next stream nee otusjoq"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "d42191d3-7c80-4837-a245-65d4c7b09602",
+    "timestamp": "2026-07-04T13:43:33Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 140223,
+      "username": "joqnix",
+      "avatar": "https://files.kick.com/images/user/140223/profile_image/conversion/ef121a80-5977-40c2-9236-f6970a04bf8e-fullsize.webp",
+      "color": "#B9D6F6",
+      "badges": [
+        {
+          "type": "broadcaster",
+          "text": "Broadcaster"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "Debut stream will be july 18th  - 8pm jst which is 4:30pm IST"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "24fcccf9-bd3d-44e8-83c6-5e2ad9514176",
+    "timestamp": "2026-07-04T13:42:31Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 140223,
+      "username": "joqnix",
+      "avatar": "https://files.kick.com/images/user/140223/profile_image/conversion/ef121a80-5977-40c2-9236-f6970a04bf8e-fullsize.webp",
+      "color": "#B9D6F6",
+      "badges": [
+        {
+          "type": "broadcaster",
+          "text": "Broadcaster"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "wah my internet is really bad now"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "baedb5e2-acf6-4863-adab-4c9c6b81fa73",
+    "timestamp": "2026-07-04T12:47:05Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 7404530,
+      "username": "Fossabot",
+      "avatar": "https://files.kick.com/images/user/7404530/profile_image/conversion/104a9b9a-3882-49b1-aa55-22eae3dab24f-fullsize.webp",
+      "color": "#DEB2FF",
+      "badges": [
+        {
+          "type": "moderator",
+          "text": "Moderator"
+        },
+        {
+          "type": "verified",
+          "text": "Verified channel"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "motacob81210 just followed the stream! 💚"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "24d25c16-036f-4aa3-91ad-a329b5aaf892",
+    "timestamp": "2026-07-04T12:47:05Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 4377088,
+      "username": "KickBot",
+      "avatar": "https://files.kick.com/images/user/4377088/profile_image/conversion/dae5ceec-5b25-4f26-82c2-e2fdc98ae958-fullsize.webp",
+      "color": "#E9113C",
+      "badges": [
+        {
+          "type": "moderator",
+          "text": "Moderator"
+        },
+        {
+          "type": "verified",
+          "text": "Verified channel"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "Thanks for the follow @motacob81210"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "5266ad55-a799-4f91-b5bc-ec2c46efac10",
+    "timestamp": "2026-07-04T10:43:33Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 140223,
+      "username": "joqnix",
+      "avatar": "https://files.kick.com/images/user/140223/profile_image/conversion/ef121a80-5977-40c2-9236-f6970a04bf8e-fullsize.webp",
+      "color": "#B9D6F6",
+      "badges": [
+        {
+          "type": "broadcaster",
+          "text": "Broadcaster"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "my internet is bad here in jpan, so  the stream will be a few minutes behind! sorry"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "3968c069-0ff0-4a32-88fd-2afac602f313",
+    "timestamp": "2026-07-04T10:32:38Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 140223,
+      "username": "joqnix",
+      "avatar": "https://files.kick.com/images/user/140223/profile_image/conversion/ef121a80-5977-40c2-9236-f6970a04bf8e-fullsize.webp",
+      "color": "#B9D6F6",
+      "badges": [
+        {
+          "type": "broadcaster",
+          "text": "Broadcaster"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "seems my internet is bad today ;w; wahh~"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "f5521e80-7af7-4ebb-8b9d-3333d9e1e6f3",
+    "timestamp": "2026-07-04T10:26:02Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 140223,
+      "username": "joqnix",
+      "avatar": "https://files.kick.com/images/user/140223/profile_image/conversion/ef121a80-5977-40c2-9236-f6970a04bf8e-fullsize.webp",
+      "color": "#B9D6F6",
+      "badges": [
+        {
+          "type": "broadcaster",
+          "text": "Broadcaster"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "Hello everyone! today's stream is a collab stream! I wont be able to read chat much but feel free to comment!"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "c2931870-1620-46c6-a8df-331edd98ef21",
+    "timestamp": "2026-07-04T10:24:35Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 7404530,
+      "username": "Fossabot",
+      "avatar": "https://files.kick.com/images/user/7404530/profile_image/conversion/104a9b9a-3882-49b1-aa55-22eae3dab24f-fullsize.webp",
+      "color": "#DEB2FF",
+      "badges": [
+        {
+          "type": "moderator",
+          "text": "Moderator"
+        },
+        {
+          "type": "verified",
+          "text": "Verified channel"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "joqnix just went live playing VTubers!"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "ea260700-8e99-4fc3-a80f-ee3fabda34d8",
+    "timestamp": "2026-07-05T09:49:21Z",
+    "vod_offset": 5945,
+    "vod_timestamp": "01:39:05",
+    "user": {
+      "id": 140223,
+      "username": "joqnix",
+      "avatar": "https://files.kick.com/images/user/140223/profile_image/conversion/ef121a80-5977-40c2-9236-f6970a04bf8e-fullsize.webp",
+      "color": "#B9D6F6",
+      "badges": [
+        {
+          "type": "broadcaster",
+          "text": "Broadcaster"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "Am i back?"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "d711522d-7494-4bb5-8e0d-0fbf674f6960",
+    "timestamp": "2026-07-05T09:58:10Z",
+    "vod_offset": 6474,
+    "vod_timestamp": "01:47:54",
+    "user": {
+      "id": 140223,
+      "username": "joqnix",
+      "avatar": "https://files.kick.com/images/user/140223/profile_image/conversion/ef121a80-5977-40c2-9236-f6970a04bf8e-fullsize.webp",
+      "color": "#B9D6F6",
+      "badges": [
+        {
+          "type": "broadcaster",
+          "text": "Broadcaster"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "Yes i hear, am i audiable?"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "a677edda-da11-4449-ab62-ebed6843df2b",
+    "timestamp": "2026-07-05T10:00:42Z",
+    "vod_offset": 6626,
+    "vod_timestamp": "01:50:26",
+    "user": {
+      "id": 140223,
+      "username": "joqnix",
+      "avatar": "https://files.kick.com/images/user/140223/profile_image/conversion/ef121a80-5977-40c2-9236-f6970a04bf8e-fullsize.webp",
+      "color": "#B9D6F6",
+      "badges": [
+        {
+          "type": "broadcaster",
+          "text": "Broadcaster"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "Ah stream cut off again"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "b5ce0732-adbf-4c9a-a817-b568488b2fc0",
+    "timestamp": "2026-07-05T10:03:22Z",
+    "vod_offset": 6786,
+    "vod_timestamp": "01:53:06",
+    "user": {
+      "id": 140223,
+      "username": "joqnix",
+      "avatar": "https://files.kick.com/images/user/140223/profile_image/conversion/ef121a80-5977-40c2-9236-f6970a04bf8e-fullsize.webp",
+      "color": "#B9D6F6",
+      "badges": [
+        {
+          "type": "broadcaster",
+          "text": "Broadcaster"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "Ill wrap up soon! Its 7pm gotta get on a train back home!!!"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "f2acd9f7-9fc1-4345-879c-fb9186bb95bb",
+    "timestamp": "2026-07-05T10:07:30Z",
+    "vod_offset": 7034,
+    "vod_timestamp": "01:57:14",
+    "user": {
+      "id": 140223,
+      "username": "joqnix",
+      "avatar": "https://files.kick.com/images/user/140223/profile_image/conversion/ef121a80-5977-40c2-9236-f6970a04bf8e-fullsize.webp",
+      "color": "#B9D6F6",
+      "badges": [
+        {
+          "type": "broadcaster",
+          "text": "Broadcaster"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "Otsujoq thank you for coming by tonight~ i shall catch the train back home nee~"
+      }
+    ],
+    "type": "message"
+  }
+]

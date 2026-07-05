@@ -42,7 +42,7 @@
   "7404530": {
     "username": "Fossabot",
     "avatar": "https://files.kick.com/images/user/7404530/profile_image/conversion/104a9b9a-3882-49b1-aa55-22eae3dab24f-fullsize.webp",
-    "checked_at": 1782633548.2157784
+    "checked_at": 1783246299.2189195
   },
   "45121772": {
     "username": "MackDaKnife",
@@ -123,5 +123,10 @@
     "username": "motacob81210",
     "avatar": null,
     "checked_at": 1783179009.5103128
+  },
+  "117156825": {
+    "username": "icyaxe",
+    "avatar": "https://files.kick.com/images/user/117156825/profile_image/conversion/default3-fullsize.webp",
+    "checked_at": 1783246298.96537
   }
 }
