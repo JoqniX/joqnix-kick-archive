@@ -1,5 +1,74 @@
 [
   {
+    "id": 116053494,
+    "slug": "562838fd-7-talk-with-me-while-im-visiting-tokyo-for-today-enjp-joqnix",
+    "channel_id": 138623,
+    "created_at": "2026-07-05 08:06:31",
+    "session_title": "\u304a\u305d\u3068\u96d1\u8ac7 #7\u250a\u2726 Talk with me while I'm visiting Tokyo for today!  EN/JP | JoqniX",
+    "is_live": true,
+    "risk_level_id": null,
+    "start_time": "2026-07-05 08:06:31",
+    "source": "https://stream.kick.com/0f3cb0ebce7/ivs/v1/196233775518/ZCkulBebTQZR/2026/7/5/8/6/PDrjzedLUviD/media/hls/master.m3u8",
+    "twitch_channel": null,
+    "duration": 0,
+    "language": "English",
+    "is_mature": true,
+    "viewer_count": 0,
+    "tags": [
+      "Constellation",
+      "Engl\u0131sh",
+      "india",
+      "Japan",
+      "vtuber"
+    ],
+    "thumbnail": {
+      "src": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/PDrjzedLUviD/720.webp?versionId=H.S2D0S6XrbpBVVumRPYe6Pyu8VwaZdS",
+      "srcset": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/PDrjzedLUviD/1080.webp?versionId=iq.AB7MMjhjozeZFSmnp21t_idzN1uje 1920w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/PDrjzedLUviD/720.webp?versionId=H.S2D0S6XrbpBVVumRPYe6Pyu8VwaZdS 1280w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/PDrjzedLUviD/360.webp?versionId=fIYebkybuQb5jYQLpnPHzcQf1d30VlF_ 480w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/PDrjzedLUviD/160.webp?versionId=JbsFuH4b2F27RqopV4bwIHPabbtdazQt 284w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/PDrjzedLUviD/480.webp?versionId=dq0hZUV7Ln0sKdJoxVExzsxujXfATVvN 640w"
+    },
+    "views": 0,
+    "video": {
+      "id": 111757424,
+      "live_stream_id": 116053494,
+      "slug": null,
+      "thumb": null,
+      "s3": null,
+      "trading_platform_id": null,
+      "created_at": "2026-07-05T08:06:32.000000Z",
+      "updated_at": "2026-07-05T08:06:32.000000Z",
+      "uuid": "5e8c8287-e6ef-457e-b2cb-7749d9cf4bc7",
+      "views": 0,
+      "deleted_at": null,
+      "is_pruned": false,
+      "is_private": false,
+      "status": "public"
+    },
+    "categories": [
+      {
+        "id": 415,
+        "category_id": 1,
+        "name": "VTubers",
+        "slug": "vtubers",
+        "tags": [
+          "Action",
+          "Puzzle",
+          "Adventure Games",
+          "Shooter",
+          "FPS"
+        ],
+        "description": null,
+        "deleted_at": null,
+        "is_mature": false,
+        "is_promoted": false,
+        "viewers": 1592,
+        "is_fallback": false,
+        "banner": {
+          "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
+          "url": "https://files.kick.com/images/subcategories/415/banner/20afafe3-9025-4d93-9bab-5d4e7694807a"
+        }
+      }
+    ]
+  },
+  {
     "id": 115911638,
     "slug": "b8056d11-roblox-together-1-playing-together-with-friends-enjp-joqnix",
     "channel_id": 138623,
@@ -59,7 +128,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 2138,
+        "viewers": 1592,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -128,7 +197,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 2138,
+        "viewers": 1592,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
