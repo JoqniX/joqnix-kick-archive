@@ -1,5 +1,74 @@
 [
   {
+    "id": 116936536,
+    "slug": "2759a74b-8-live-vlog-visiting-tanabata-matsuri-enjp-joqnix",
+    "channel_id": 138623,
+    "created_at": "2026-07-11 08:15:27",
+    "session_title": "\u304a\u305d\u3068\u96d1\u8ac7 #8  \u250a \u2726 Live Vlog! Visiting Tanabata  Matsuri ~ EN/JP | JoqniX",
+    "is_live": true,
+    "risk_level_id": null,
+    "start_time": "2026-07-11 08:15:26",
+    "source": "https://stream.kick.com/0f3cb0ebce7/ivs/v1/196233775518/ZCkulBebTQZR/2026/7/11/8/15/GI2IBfVdRq2n/media/hls/master.m3u8",
+    "twitch_channel": null,
+    "duration": 0,
+    "language": "English",
+    "is_mature": true,
+    "viewer_count": 0,
+    "tags": [
+      "Constellation",
+      "Engl\u0131sh",
+      "india",
+      "Japan",
+      "vtuber"
+    ],
+    "thumbnail": {
+      "src": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/GI2IBfVdRq2n/720.webp?versionId=DoFmvL1xFUxX39s37ll9ae65WPxe1pZ9",
+      "srcset": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/GI2IBfVdRq2n/1080.webp?versionId=Lukr0SaAb9kkM.HXaljSWk1yC0PhKt1e 1920w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/GI2IBfVdRq2n/720.webp?versionId=DoFmvL1xFUxX39s37ll9ae65WPxe1pZ9 1280w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/GI2IBfVdRq2n/360.webp?versionId=K6TbAEIcsrdo98jK8vlJ.JOE_5ciJJG_ 480w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/GI2IBfVdRq2n/160.webp?versionId=U.9uYQOLxUc7UPVI8sxJ8JzY6VyAF9x. 284w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/GI2IBfVdRq2n/480.webp?versionId=K5HNIdw6w3ZvyUrAKWvkWPFUVPE09jX1 640w"
+    },
+    "views": 0,
+    "video": {
+      "id": 112639939,
+      "live_stream_id": 116936536,
+      "slug": null,
+      "thumb": null,
+      "s3": null,
+      "trading_platform_id": null,
+      "created_at": "2026-07-11T08:15:27.000000Z",
+      "updated_at": "2026-07-11T08:15:27.000000Z",
+      "uuid": "9671b969-3512-4854-b255-77838b9dc313",
+      "views": 0,
+      "deleted_at": null,
+      "is_pruned": false,
+      "is_private": false,
+      "status": "public"
+    },
+    "categories": [
+      {
+        "id": 415,
+        "category_id": 1,
+        "name": "VTubers",
+        "slug": "vtubers",
+        "tags": [
+          "Action",
+          "Puzzle",
+          "Adventure Games",
+          "Shooter",
+          "FPS"
+        ],
+        "description": null,
+        "deleted_at": null,
+        "is_mature": false,
+        "is_promoted": false,
+        "viewers": 529,
+        "is_fallback": false,
+        "banner": {
+          "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
+          "url": "https://files.kick.com/images/subcategories/415/banner/20afafe3-9025-4d93-9bab-5d4e7694807a"
+        }
+      }
+    ]
+  },
+  {
     "id": 116053494,
     "slug": "562838fd-7-talk-with-me-while-im-visiting-tokyo-for-today-enjp-joqnix",
     "channel_id": 138623,
@@ -59,7 +128,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 697,
+        "viewers": 529,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -128,7 +197,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 697,
+        "viewers": 529,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
