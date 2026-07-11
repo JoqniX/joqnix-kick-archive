@@ -22,8 +22,8 @@
       "vtuber"
     ],
     "thumbnail": {
-      "src": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/GI2IBfVdRq2n/720.webp?versionId=wbQQsEsN4Q4CCuqMLQYSA64UE_SUeAUp",
-      "srcset": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/GI2IBfVdRq2n/1080.webp?versionId=szBJ1qxsrOGoQd13KFqWO2T8ZV4t0DVV 1920w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/GI2IBfVdRq2n/720.webp?versionId=wbQQsEsN4Q4CCuqMLQYSA64UE_SUeAUp 1280w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/GI2IBfVdRq2n/360.webp?versionId=AeqjW5s.Tm08EBIL7Q1gLJliAU5J3hjH 480w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/GI2IBfVdRq2n/160.webp?versionId=4nWTxxm6ENCenSkMdydS63_dYIv2lbBt 284w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/GI2IBfVdRq2n/480.webp?versionId=58P4IjZAFMox9Y8nemsiK9CrfvAdinen 640w"
+      "src": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/GI2IBfVdRq2n/720.webp?versionId=fnaHs5VQ6uxeaMJFS_e1vFj0bAsmbmlq",
+      "srcset": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/GI2IBfVdRq2n/1080.webp?versionId=XM8JrFs061NuN.XKEGNTDElZhqWdO_Be 1920w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/GI2IBfVdRq2n/720.webp?versionId=fnaHs5VQ6uxeaMJFS_e1vFj0bAsmbmlq 1280w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/GI2IBfVdRq2n/360.webp?versionId=1lXMNMd6OrZJgZfdGCGjIlui8pXoGv8M 480w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/GI2IBfVdRq2n/160.webp?versionId=9GRcRJTUJJjQTc2prU9HgVlqsNiEp7gU 284w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/GI2IBfVdRq2n/480.webp?versionId=xO12VUm.h5p9c7kCek5MOZVnrc_KlKsI 640w"
     },
     "views": 0,
     "video": {
@@ -59,7 +59,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 480,
+        "viewers": 719,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -128,76 +128,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 480,
-        "is_fallback": false,
-        "banner": {
-          "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
-          "url": "https://files.kick.com/images/subcategories/415/banner/20afafe3-9025-4d93-9bab-5d4e7694807a"
-        }
-      }
-    ]
-  },
-  {
-    "id": 115911638,
-    "slug": "b8056d11-roblox-together-1-playing-together-with-friends-enjp-joqnix",
-    "channel_id": 138623,
-    "created_at": "2026-07-04 10:24:34",
-    "session_title": "ROBLOX - Together #1 \u250a \u2726 Playing Together with friends~   EN/JP | JoqniX",
-    "is_live": false,
-    "risk_level_id": null,
-    "start_time": "2026-07-04 10:24:33",
-    "source": "https://stream.kick.com/0f3cb0ebce7/ivs/v1/196233775518/ZCkulBebTQZR/2026/7/4/10/24/XKONUTNt6YE0/media/hls/master.m3u8",
-    "twitch_channel": null,
-    "duration": 14771000,
-    "language": "English",
-    "is_mature": true,
-    "viewer_count": 1,
-    "tags": [
-      "Constellation",
-      "Engl\u0131sh",
-      "india",
-      "Japan",
-      "vtuber"
-    ],
-    "thumbnail": {
-      "src": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/XKONUTNt6YE0/720.webp",
-      "srcset": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/XKONUTNt6YE0/1080.webp 1920w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/XKONUTNt6YE0/720.webp 1280w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/XKONUTNt6YE0/360.webp 480w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/XKONUTNt6YE0/160.webp 284w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/XKONUTNt6YE0/480.webp 640w"
-    },
-    "views": 39,
-    "video": {
-      "id": 111615659,
-      "live_stream_id": 115911638,
-      "slug": null,
-      "thumb": null,
-      "s3": null,
-      "trading_platform_id": null,
-      "created_at": "2026-07-04T10:24:34.000000Z",
-      "updated_at": "2026-07-04T14:32:23.000000Z",
-      "uuid": "f97c6dfc-2163-4c47-a1d6-8cc8bdd195f2",
-      "views": 39,
-      "deleted_at": null,
-      "is_pruned": false,
-      "is_private": false,
-      "status": "public"
-    },
-    "categories": [
-      {
-        "id": 415,
-        "category_id": 1,
-        "name": "VTubers",
-        "slug": "vtubers",
-        "tags": [
-          "Action",
-          "Puzzle",
-          "Adventure Games",
-          "Shooter",
-          "FPS"
-        ],
-        "description": null,
-        "deleted_at": null,
-        "is_mature": false,
-        "is_promoted": false,
-        "viewers": 480,
+        "viewers": 719,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
