@@ -7,6 +7,78 @@
   "data": {
     "messages": [
       {
+        "id": "ba1db2c8-975e-41be-86dc-4134392456b1",
+        "chat_id": 138623,
+        "user_id": 140223,
+        "content": "Ah am i back",
+        "type": "message",
+        "metadata": null,
+        "created_at": "2026-07-11T09:01:26Z",
+        "sender": {
+          "id": 140223,
+          "slug": "joqnix",
+          "username": "joqnix",
+          "identity": {
+            "color": "#B9D6F6",
+            "badges": [
+              {
+                "type": "broadcaster",
+                "text": "Broadcaster",
+                "sort_order": 3
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/3_59e3744a-6392-4f99-ad6a-804b7336d546.png",
+                "metadata": {
+                  "level": 3
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "f6ecde5c-af6c-42aa-ab32-e768aff5b877",
+        "chat_id": 138623,
+        "user_id": 140223,
+        "content": "Is the stream back?",
+        "type": "message",
+        "metadata": null,
+        "created_at": "2026-07-11T08:47:41Z",
+        "sender": {
+          "id": 140223,
+          "slug": "joqnix",
+          "username": "joqnix",
+          "identity": {
+            "color": "#B9D6F6",
+            "badges": [
+              {
+                "type": "broadcaster",
+                "text": "Broadcaster",
+                "sort_order": 3
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/3_59e3744a-6392-4f99-ad6a-804b7336d546.png",
+                "metadata": {
+                  "level": 3
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
         "id": "647665a2-a4fc-409f-9a4e-82af60efcf6d",
         "chat_id": 138623,
         "user_id": 7404530,
@@ -89,7 +161,7 @@
         }
       }
     ],
-    "cursor": "1783160762910346",
+    "cursor": "1783161813984935",
     "pinned_message": null
   }
 }
