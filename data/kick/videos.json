@@ -1,5 +1,74 @@
 [
   {
+    "id": 117085155,
+    "slug": "7c79d442-9-live-vlog-final-day-of-the-tanabata-enjp-joqnix",
+    "channel_id": 138623,
+    "created_at": "2026-07-12 09:25:44",
+    "session_title": "\u304a\u305d\u3068\u96d1\u8ac7 #9 \u250a  \ud83c\udf8b \u4e03\u5915\u796d\u308a\u7de8 \u2726 Live Vlog! Final day of the Tanabata ~ EN/JP | JoqniX",
+    "is_live": true,
+    "risk_level_id": null,
+    "start_time": "2026-07-12 09:25:43",
+    "source": "https://stream.kick.com/0f3cb0ebce7/ivs/v1/196233775518/ZCkulBebTQZR/2026/7/12/9/25/xrDXbefveczg/media/hls/master.m3u8",
+    "twitch_channel": null,
+    "duration": 0,
+    "language": "English",
+    "is_mature": true,
+    "viewer_count": 0,
+    "tags": [
+      "Constellation",
+      "Engl\u0131sh",
+      "india",
+      "Japan",
+      "vtuber"
+    ],
+    "thumbnail": {
+      "src": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/xrDXbefveczg/720.webp?versionId=J7bqdeRFFptjsZc2c8qSH8EysT3iV7ka",
+      "srcset": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/xrDXbefveczg/1080.webp?versionId=e3olCnPMW_0XDLnDkw4uKhqLuec9Amp5 1920w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/xrDXbefveczg/720.webp?versionId=J7bqdeRFFptjsZc2c8qSH8EysT3iV7ka 1280w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/xrDXbefveczg/360.webp?versionId=Z1TiAMjYZZRIEZWxii_eG9_ty9_JmC10 480w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/xrDXbefveczg/160.webp?versionId=yIHmC4QVxWBUyUcbFh4sp6k3x0BDGNFo 284w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/xrDXbefveczg/480.webp?versionId=XD5gmJq3hGCKiqFHMYiBJBPdFfPd0rYL 640w"
+    },
+    "views": 0,
+    "video": {
+      "id": 112788475,
+      "live_stream_id": 117085155,
+      "slug": null,
+      "thumb": null,
+      "s3": null,
+      "trading_platform_id": null,
+      "created_at": "2026-07-12T09:25:45.000000Z",
+      "updated_at": "2026-07-12T09:25:45.000000Z",
+      "uuid": "5efed79c-761c-4d32-ad95-172e0dc5787a",
+      "views": 0,
+      "deleted_at": null,
+      "is_pruned": false,
+      "is_private": false,
+      "status": "public"
+    },
+    "categories": [
+      {
+        "id": 415,
+        "category_id": 1,
+        "name": "VTubers",
+        "slug": "vtubers",
+        "tags": [
+          "Action",
+          "Puzzle",
+          "Adventure Games",
+          "Shooter",
+          "FPS"
+        ],
+        "description": null,
+        "deleted_at": null,
+        "is_mature": false,
+        "is_promoted": false,
+        "viewers": 134,
+        "is_fallback": false,
+        "banner": {
+          "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
+          "url": "https://files.kick.com/images/subcategories/415/banner/20afafe3-9025-4d93-9bab-5d4e7694807a"
+        }
+      }
+    ]
+  },
+  {
     "id": 116936536,
     "slug": "2759a74b-8-live-vlog-visiting-tanabata-matsuri-enjp-joqnix",
     "channel_id": 138623,
@@ -59,7 +128,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 262,
+        "viewers": 134,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
