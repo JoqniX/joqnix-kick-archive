@@ -7,6 +7,474 @@
   "data": {
     "messages": [
       {
+        "id": "f8f6ca25-66ad-4124-b8ca-c75a7268d62d",
+        "chat_id": 138623,
+        "user_id": 140223,
+        "content": "as",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1783819568114\"}",
+        "created_at": "2026-07-12T01:26:09Z",
+        "sender": {
+          "id": 140223,
+          "slug": "joqnix",
+          "username": "joqnix",
+          "identity": {
+            "color": "#B9D6F6",
+            "badges": [
+              {
+                "type": "broadcaster",
+                "text": "Broadcaster",
+                "sort_order": 3
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/3_59e3744a-6392-4f99-ad6a-804b7336d546.png",
+                "metadata": {
+                  "level": 3
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "1dcaa7f1-6f35-4b6c-99c5-152c5926b135",
+        "chat_id": 138623,
+        "user_id": 140223,
+        "content": "[emote:4147900:catKISS]",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1783819512235\"}",
+        "created_at": "2026-07-12T01:25:13Z",
+        "sender": {
+          "id": 140223,
+          "slug": "joqnix",
+          "username": "joqnix",
+          "identity": {
+            "color": "#B9D6F6",
+            "badges": [
+              {
+                "type": "broadcaster",
+                "text": "Broadcaster",
+                "sort_order": 3
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/3_59e3744a-6392-4f99-ad6a-804b7336d546.png",
+                "metadata": {
+                  "level": 3
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "4a8d44f9-958b-4bee-9ed8-e5d4d427ac7e",
+        "chat_id": 138623,
+        "user_id": 140223,
+        "content": "slksdjflsdkfjsdlkfjsdlkfsdlkfs",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1783819510587\"}",
+        "created_at": "2026-07-12T01:25:12Z",
+        "sender": {
+          "id": 140223,
+          "slug": "joqnix",
+          "username": "joqnix",
+          "identity": {
+            "color": "#B9D6F6",
+            "badges": [
+              {
+                "type": "broadcaster",
+                "text": "Broadcaster",
+                "sort_order": 3
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/3_59e3744a-6392-4f99-ad6a-804b7336d546.png",
+                "metadata": {
+                  "level": 3
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "1387faa6-b14d-4cec-98f3-bfb6eaa89198",
+        "chat_id": 138623,
+        "user_id": 140223,
+        "content": "ljslkdfjsdlkfjsdlkfjsdlkfjsdlkfjsldkfjsldkfj",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1783819508799\"}",
+        "created_at": "2026-07-12T01:25:10Z",
+        "sender": {
+          "id": 140223,
+          "slug": "joqnix",
+          "username": "joqnix",
+          "identity": {
+            "color": "#B9D6F6",
+            "badges": [
+              {
+                "type": "broadcaster",
+                "text": "Broadcaster",
+                "sort_order": 3
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/3_59e3744a-6392-4f99-ad6a-804b7336d546.png",
+                "metadata": {
+                  "level": 3
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "16a1df9c-b0fd-463a-9f23-2c519a8b9bc2",
+        "chat_id": 138623,
+        "user_id": 140223,
+        "content": "12ISDJFSDJHFOSDJFOSDKJFOSDKFJJSDKFJSDLKFJSDLKlkjlsdkjfsldkfjsd",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1783819506330\"}",
+        "created_at": "2026-07-12T01:25:07Z",
+        "sender": {
+          "id": 140223,
+          "slug": "joqnix",
+          "username": "joqnix",
+          "identity": {
+            "color": "#B9D6F6",
+            "badges": [
+              {
+                "type": "broadcaster",
+                "text": "Broadcaster",
+                "sort_order": 3
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/3_59e3744a-6392-4f99-ad6a-804b7336d546.png",
+                "metadata": {
+                  "level": 3
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "d293b4ba-e8c9-4a50-9f17-848acf65b991",
+        "chat_id": 138623,
+        "user_id": 140223,
+        "content": "W",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1783819476573\"}",
+        "created_at": "2026-07-12T01:24:38Z",
+        "sender": {
+          "id": 140223,
+          "slug": "joqnix",
+          "username": "joqnix",
+          "identity": {
+            "color": "#B9D6F6",
+            "badges": [
+              {
+                "type": "broadcaster",
+                "text": "Broadcaster",
+                "sort_order": 3
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/3_59e3744a-6392-4f99-ad6a-804b7336d546.png",
+                "metadata": {
+                  "level": 3
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "aff114c4-ade4-4f55-b33a-732b08468a62",
+        "chat_id": 138623,
+        "user_id": 140223,
+        "content": "[emote:3571124:joqnixteasip][emote:4147900:catKISS]",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1783819047840\"}",
+        "created_at": "2026-07-12T01:17:29Z",
+        "sender": {
+          "id": 140223,
+          "slug": "joqnix",
+          "username": "joqnix",
+          "identity": {
+            "color": "#B9D6F6",
+            "badges": [
+              {
+                "type": "broadcaster",
+                "text": "Broadcaster",
+                "sort_order": 3
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/3_59e3744a-6392-4f99-ad6a-804b7336d546.png",
+                "metadata": {
+                  "level": 3
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "99b5b9d7-d759-46a3-831d-f5fd686fff8e",
+        "chat_id": 138623,
+        "user_id": 140223,
+        "content": "[emote:3571096:joqnixcomfy]",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1783819033519\"}",
+        "created_at": "2026-07-12T01:17:15Z",
+        "sender": {
+          "id": 140223,
+          "slug": "joqnix",
+          "username": "joqnix",
+          "identity": {
+            "color": "#B9D6F6",
+            "badges": [
+              {
+                "type": "broadcaster",
+                "text": "Broadcaster",
+                "sort_order": 3
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/3_59e3744a-6392-4f99-ad6a-804b7336d546.png",
+                "metadata": {
+                  "level": 3
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "da8bf527-2f44-40d4-b0f8-843dbaf80177",
+        "chat_id": 138623,
+        "user_id": 140223,
+        "content": "[emote:1730753:emojiAngry]",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1783819015623\"}",
+        "created_at": "2026-07-12T01:16:57Z",
+        "sender": {
+          "id": 140223,
+          "slug": "joqnix",
+          "username": "joqnix",
+          "identity": {
+            "color": "#B9D6F6",
+            "badges": [
+              {
+                "type": "broadcaster",
+                "text": "Broadcaster",
+                "sort_order": 3
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/3_59e3744a-6392-4f99-ad6a-804b7336d546.png",
+                "metadata": {
+                  "level": 3
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "941871a2-7cf6-450d-8daf-b8a2579e89e8",
+        "chat_id": 138623,
+        "user_id": 140223,
+        "content": "[emote:1730760:emojiCrave]",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1783818979204\"}",
+        "created_at": "2026-07-12T01:16:20Z",
+        "sender": {
+          "id": 140223,
+          "slug": "joqnix",
+          "username": "joqnix",
+          "identity": {
+            "color": "#B9D6F6",
+            "badges": [
+              {
+                "type": "broadcaster",
+                "text": "Broadcaster",
+                "sort_order": 3
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/3_59e3744a-6392-4f99-ad6a-804b7336d546.png",
+                "metadata": {
+                  "level": 3
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "c5b36de8-4cef-4637-a6b5-1a7bb6b83ec8",
+        "chat_id": 138623,
+        "user_id": 140223,
+        "content": "[emote:1730758:emojiClown]",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1783818971187\"}",
+        "created_at": "2026-07-12T01:16:12Z",
+        "sender": {
+          "id": 140223,
+          "slug": "joqnix",
+          "username": "joqnix",
+          "identity": {
+            "color": "#B9D6F6",
+            "badges": [
+              {
+                "type": "broadcaster",
+                "text": "Broadcaster",
+                "sort_order": 3
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/3_59e3744a-6392-4f99-ad6a-804b7336d546.png",
+                "metadata": {
+                  "level": 3
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "34ae12d9-fefb-4492-8ece-d1040db1de76",
+        "chat_id": 138623,
+        "user_id": 140223,
+        "content": "[emote:1579036:emojiBlowKiss]",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1783818970768\"}",
+        "created_at": "2026-07-12T01:16:12Z",
+        "sender": {
+          "id": 140223,
+          "slug": "joqnix",
+          "username": "joqnix",
+          "identity": {
+            "color": "#B9D6F6",
+            "badges": [
+              {
+                "type": "broadcaster",
+                "text": "Broadcaster",
+                "sort_order": 3
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/3_59e3744a-6392-4f99-ad6a-804b7336d546.png",
+                "metadata": {
+                  "level": 3
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "fa6c469c-e6b1-4cb7-88a2-44a76a12ff36",
+        "chat_id": 138623,
+        "user_id": 140223,
+        "content": "[emote:1730755:emojiBubbly]",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1783818961436\"}",
+        "created_at": "2026-07-12T01:16:03Z",
+        "sender": {
+          "id": 140223,
+          "slug": "joqnix",
+          "username": "joqnix",
+          "identity": {
+            "color": "#B9D6F6",
+            "badges": [
+              {
+                "type": "broadcaster",
+                "text": "Broadcaster",
+                "sort_order": 3
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/3_59e3744a-6392-4f99-ad6a-804b7336d546.png",
+                "metadata": {
+                  "level": 3
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
         "id": "b014852a-f651-4052-a445-b2134696e762",
         "chat_id": 138623,
         "user_id": 140223,
@@ -197,7 +665,7 @@
         }
       }
     ],
-    "cursor": "1783169225696441",
+    "cursor": "1783239016473490",
     "pinned_message": null
   }
 }
