@@ -7,6 +7,42 @@
   "data": {
     "messages": [
       {
+        "id": "4389d397-e4ae-4bdd-9d77-241f5169f1d0",
+        "chat_id": 138623,
+        "user_id": 140223,
+        "content": "Is the stream okay?",
+        "type": "message",
+        "metadata": null,
+        "created_at": "2026-07-12T11:56:36Z",
+        "sender": {
+          "id": 140223,
+          "slug": "joqnix",
+          "username": "joqnix",
+          "identity": {
+            "color": "#B9D6F6",
+            "badges": [
+              {
+                "type": "broadcaster",
+                "text": "Broadcaster",
+                "sort_order": 3
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/3_59e3744a-6392-4f99-ad6a-804b7336d546.png",
+                "metadata": {
+                  "level": 3
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
         "id": "c27e9509-9a6e-4f1b-919d-e5a1a93ef545",
         "chat_id": 138623,
         "user_id": 7404530,
@@ -557,7 +593,7 @@
         }
       }
     ],
-    "cursor": "1783244961251031",
+    "cursor": "1783245490312995",
     "pinned_message": null
   }
 }
