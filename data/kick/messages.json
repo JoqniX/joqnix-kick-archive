@@ -5,8 +5,127 @@
     "message": "SUCCESS"
   },
   "data": {
-    "messages": [],
-    "cursor": "1783753987749380",
+    "messages": [
+      {
+        "id": "b3f5f457-6035-42fc-a115-6b7713c391ab",
+        "chat_id": 138623,
+        "user_id": 140223,
+        "content": "Hello",
+        "type": "message",
+        "metadata": null,
+        "created_at": "2026-07-17T08:45:36Z",
+        "sender": {
+          "id": 140223,
+          "slug": "joqnix",
+          "username": "joqnix",
+          "identity": {
+            "color": "#B9D6F6",
+            "badges": [
+              {
+                "type": "broadcaster",
+                "text": "Broadcaster",
+                "sort_order": 3
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/3_59e3744a-6392-4f99-ad6a-804b7336d546.png",
+                "metadata": {
+                  "level": 3
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "1c404d30-80ab-41cc-8d11-b4a743b98450",
+        "chat_id": 138623,
+        "user_id": 7404530,
+        "content": "joqnix just went live playing VTubers!",
+        "type": "message",
+        "metadata": null,
+        "created_at": "2026-07-17T08:33:56Z",
+        "sender": {
+          "id": 7404530,
+          "slug": "fossabot",
+          "username": "Fossabot",
+          "identity": {
+            "color": "#DEB2FF",
+            "badges": [
+              {
+                "type": "moderator",
+                "text": "Moderator",
+                "sort_order": 4
+              },
+              {
+                "type": "verified",
+                "text": "Verified channel",
+                "sort_order": 10
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+                "metadata": {
+                  "level": 1
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "7bc820d9-dec2-403d-8ee2-e53ff3cf22bf",
+        "chat_id": 138623,
+        "user_id": 7404530,
+        "content": "joqnix changed their title to \"\"!",
+        "type": "message",
+        "metadata": null,
+        "created_at": "2026-07-17T08:13:05Z",
+        "sender": {
+          "id": 7404530,
+          "slug": "fossabot",
+          "username": "Fossabot",
+          "identity": {
+            "color": "#DEB2FF",
+            "badges": [
+              {
+                "type": "moderator",
+                "text": "Moderator",
+                "sort_order": 4
+              },
+              {
+                "type": "verified",
+                "text": "Verified channel",
+                "sort_order": 10
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+                "metadata": {
+                  "level": 1
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "cursor": "1783760486376680",
     "pinned_message": null
   }
 }
