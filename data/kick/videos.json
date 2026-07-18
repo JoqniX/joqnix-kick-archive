@@ -1,5 +1,74 @@
 [
   {
+    "id": 117985784,
+    "slug": "b71b4472-astral-genesis-a-new-chapter-begins-joqnix",
+    "channel_id": 138623,
+    "created_at": "2026-07-18 11:01:14",
+    "session_title": "ASTRAL GENESIS \u250a \u2726  A New Chapter Begins | JoqniX",
+    "is_live": true,
+    "risk_level_id": null,
+    "start_time": "2026-07-18 11:01:14",
+    "source": "https://stream.kick.com/0f3cb0ebce7/ivs/v1/196233775518/ZCkulBebTQZR/2026/7/18/11/1/xci9H5AIHOG4/media/hls/master.m3u8",
+    "twitch_channel": null,
+    "duration": 0,
+    "language": "English",
+    "is_mature": true,
+    "viewer_count": 0,
+    "tags": [
+      "Constellation",
+      "Engl\u0131sh",
+      "india",
+      "Japan",
+      "vtuber"
+    ],
+    "thumbnail": {
+      "src": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/xci9H5AIHOG4/720.webp?versionId=j4CW2FWtIdc.R8i.q1Uxlk_Kp6wfIc6p",
+      "srcset": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/xci9H5AIHOG4/1080.webp?versionId=RXXnljd5xiQnfkDZsgPBBInqbpE2658. 1920w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/xci9H5AIHOG4/720.webp?versionId=j4CW2FWtIdc.R8i.q1Uxlk_Kp6wfIc6p 1280w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/xci9H5AIHOG4/360.webp?versionId=Os1jAP7nzgYch7N_5Llq3YtpBkR69bGz 480w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/xci9H5AIHOG4/160.webp?versionId=kRMAAz9uNdBPsnN.toPpexveNTsjzrHi 284w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/xci9H5AIHOG4/480.webp?versionId=UH3J6C._511oWQjd34h16dqeMfDCeI1W 640w"
+    },
+    "views": 0,
+    "video": {
+      "id": 113687774,
+      "live_stream_id": 117985784,
+      "slug": null,
+      "thumb": null,
+      "s3": null,
+      "trading_platform_id": null,
+      "created_at": "2026-07-18T11:01:15.000000Z",
+      "updated_at": "2026-07-18T11:01:15.000000Z",
+      "uuid": "e3af4ce6-91d3-4b0e-bd67-6fb6cabf796e",
+      "views": 0,
+      "deleted_at": null,
+      "is_pruned": false,
+      "is_private": false,
+      "status": "public"
+    },
+    "categories": [
+      {
+        "id": 415,
+        "category_id": 1,
+        "name": "VTubers",
+        "slug": "vtubers",
+        "tags": [
+          "Action",
+          "Puzzle",
+          "Adventure Games",
+          "Shooter",
+          "FPS"
+        ],
+        "description": null,
+        "deleted_at": null,
+        "is_mature": false,
+        "is_promoted": false,
+        "viewers": 76,
+        "is_fallback": false,
+        "banner": {
+          "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
+          "url": "https://files.kick.com/images/subcategories/415/banner/20afafe3-9025-4d93-9bab-5d4e7694807a"
+        }
+      }
+    ]
+  },
+  {
     "id": 117821851,
     "slug": "746a42aa-10-last-day-of-me-enjp-joqnix",
     "channel_id": 138623,
@@ -59,7 +128,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 59,
+        "viewers": 76,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -128,7 +197,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 59,
+        "viewers": 76,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
