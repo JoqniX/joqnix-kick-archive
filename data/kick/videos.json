@@ -1,5 +1,74 @@
 [
   {
+    "id": 118154176,
+    "slug": "43b86b75-astral-genesis-20-soft-debut-after-talk-joqnix",
+    "channel_id": 138623,
+    "created_at": "2026-07-19 14:09:41",
+    "session_title": "ASTRAL GENESIS 2.0 \u250a \u2726 Soft Debut After-Talk | JoqniX",
+    "is_live": true,
+    "risk_level_id": null,
+    "start_time": "2026-07-19 14:09:40",
+    "source": "https://stream.kick.com/0f3cb0ebce7/ivs/v1/196233775518/ZCkulBebTQZR/2026/7/19/14/9/2UfWIdKxTOm2/media/hls/master.m3u8",
+    "twitch_channel": null,
+    "duration": 0,
+    "language": "English",
+    "is_mature": true,
+    "viewer_count": 1,
+    "tags": [
+      "Constellation",
+      "Engl\u0131sh",
+      "india",
+      "Japan",
+      "vtuber"
+    ],
+    "thumbnail": {
+      "src": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/2UfWIdKxTOm2/720.webp?versionId=Mcc3bKKTyKUB9F4uGr0tJ9KTBjR7rljk",
+      "srcset": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/2UfWIdKxTOm2/1080.webp?versionId=dlyAJChWSPw8002zVXlkS2Q5dprqEtlP 1920w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/2UfWIdKxTOm2/720.webp?versionId=Mcc3bKKTyKUB9F4uGr0tJ9KTBjR7rljk 1280w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/2UfWIdKxTOm2/360.webp?versionId=nzXFs.CnvGLZ3YLJLuWPnAZsuTfVIOdm 480w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/2UfWIdKxTOm2/160.webp?versionId=f46p4EPycQQhpZeDxila8b6PdnnPh4yW 284w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/2UfWIdKxTOm2/480.webp?versionId=9QryqjDKrv7vJU_OPREDNSZwzlK8LWlJ 640w"
+    },
+    "views": 0,
+    "video": {
+      "id": 113856096,
+      "live_stream_id": 118154176,
+      "slug": null,
+      "thumb": null,
+      "s3": null,
+      "trading_platform_id": null,
+      "created_at": "2026-07-19T14:09:41.000000Z",
+      "updated_at": "2026-07-19T14:09:41.000000Z",
+      "uuid": "67956a57-3fe7-4f5c-90e2-ac16a73eb79d",
+      "views": 0,
+      "deleted_at": null,
+      "is_pruned": false,
+      "is_private": false,
+      "status": "public"
+    },
+    "categories": [
+      {
+        "id": 415,
+        "category_id": 1,
+        "name": "VTubers",
+        "slug": "vtubers",
+        "tags": [
+          "Action",
+          "Puzzle",
+          "Adventure Games",
+          "Shooter",
+          "FPS"
+        ],
+        "description": null,
+        "deleted_at": null,
+        "is_mature": false,
+        "is_promoted": false,
+        "viewers": 389,
+        "is_fallback": false,
+        "banner": {
+          "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
+          "url": "https://files.kick.com/images/subcategories/415/banner/20afafe3-9025-4d93-9bab-5d4e7694807a"
+        }
+      }
+    ]
+  },
+  {
     "id": 117985784,
     "slug": "b71b4472-astral-genesis-a-new-chapter-begins-joqnix",
     "channel_id": 138623,
@@ -59,7 +128,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 326,
+        "viewers": 389,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -128,7 +197,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 326,
+        "viewers": 389,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
