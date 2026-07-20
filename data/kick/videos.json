@@ -1,5 +1,74 @@
 [
   {
+    "id": 118262527,
+    "slug": "dc6fc8ae-echoes-of-aincrad-first-time-playing-sao-game-joqnix",
+    "channel_id": 138623,
+    "created_at": "2026-07-20 06:35:22",
+    "session_title": "Echoes of Aincrad\u250a \u2726 First time playing SAO GAME!! | JoqniX",
+    "is_live": true,
+    "risk_level_id": null,
+    "start_time": "2026-07-20 06:35:22",
+    "source": "https://stream.kick.com/0f3cb0ebce7/ivs/v1/196233775518/ZCkulBebTQZR/2026/7/20/6/35/mjI75OXBncmY/media/hls/master.m3u8",
+    "twitch_channel": null,
+    "duration": 0,
+    "language": "English",
+    "is_mature": true,
+    "viewer_count": 0,
+    "tags": [
+      "Constellation",
+      "Engl\u0131sh",
+      "india",
+      "Japan",
+      "vtuber"
+    ],
+    "thumbnail": {
+      "src": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/mjI75OXBncmY/720.webp?versionId=AWclsLdFgxW38zLsYKVwTAtP29E5xigJ",
+      "srcset": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/mjI75OXBncmY/1080.webp?versionId=V_v9bc6HEe6zufKJ.QcRCsCRxe9N4F7h 1920w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/mjI75OXBncmY/720.webp?versionId=AWclsLdFgxW38zLsYKVwTAtP29E5xigJ 1280w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/mjI75OXBncmY/360.webp?versionId=xlX3o7RSc4YVTkH41Ui3b529518CEOTD 480w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/mjI75OXBncmY/160.webp?versionId=HJH1T7AZSqjRzF9Q9ij6RkQ1ZVPO68Rf 284w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/mjI75OXBncmY/480.webp?versionId=mnmj5332E2c_IqwgHClUtN_Ejr1Lfmnq 640w"
+    },
+    "views": 0,
+    "video": {
+      "id": 113964377,
+      "live_stream_id": 118262527,
+      "slug": null,
+      "thumb": null,
+      "s3": null,
+      "trading_platform_id": null,
+      "created_at": "2026-07-20T06:35:23.000000Z",
+      "updated_at": "2026-07-20T06:35:23.000000Z",
+      "uuid": "31ad08a1-b219-42e3-9702-a901869e3e6b",
+      "views": 0,
+      "deleted_at": null,
+      "is_pruned": false,
+      "is_private": false,
+      "status": "public"
+    },
+    "categories": [
+      {
+        "id": 415,
+        "category_id": 1,
+        "name": "VTubers",
+        "slug": "vtubers",
+        "tags": [
+          "Action",
+          "Puzzle",
+          "Adventure Games",
+          "Shooter",
+          "FPS"
+        ],
+        "description": null,
+        "deleted_at": null,
+        "is_mature": false,
+        "is_promoted": false,
+        "viewers": 406,
+        "is_fallback": false,
+        "banner": {
+          "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
+          "url": "https://files.kick.com/images/subcategories/415/banner/20afafe3-9025-4d93-9bab-5d4e7694807a"
+        }
+      }
+    ]
+  },
+  {
     "id": 118154176,
     "slug": "43b86b75-astral-genesis-20-soft-debut-after-talk-joqnix",
     "channel_id": 138623,
@@ -59,7 +128,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 1099,
+        "viewers": 406,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -128,7 +197,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 1099,
+        "viewers": 406,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -197,7 +266,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 1099,
+        "viewers": 406,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
