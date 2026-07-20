@@ -7,6 +7,178 @@
   "data": {
     "messages": [
       {
+        "id": "9b2896f6-8f5e-4dfe-a1e0-460addecbf09",
+        "chat_id": 138623,
+        "user_id": 7404530,
+        "content": "farfightro10 just followed the stream! \ud83d\udc9a",
+        "type": "message",
+        "metadata": null,
+        "created_at": "2026-07-20T09:24:54Z",
+        "sender": {
+          "id": 7404530,
+          "slug": "fossabot",
+          "username": "Fossabot",
+          "identity": {
+            "color": "#DEB2FF",
+            "badges": [
+              {
+                "type": "moderator",
+                "text": "Moderator",
+                "sort_order": 4
+              },
+              {
+                "type": "verified",
+                "text": "Verified channel",
+                "sort_order": 10
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+                "metadata": {
+                  "level": 1
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "a8ecc1a8-c105-4fcf-b74e-baa2e1f9b3ec",
+        "chat_id": 138623,
+        "user_id": 4377088,
+        "content": "Thanks for the follow @farfightro10",
+        "type": "message",
+        "metadata": null,
+        "created_at": "2026-07-20T09:24:53Z",
+        "sender": {
+          "id": 4377088,
+          "slug": "kickbot",
+          "username": "KickBot",
+          "identity": {
+            "color": "#E9113C",
+            "badges": [
+              {
+                "type": "moderator",
+                "text": "Moderator",
+                "sort_order": 4
+              },
+              {
+                "type": "verified",
+                "text": "Verified channel",
+                "sort_order": 10
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+                "metadata": {
+                  "level": 1
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "cf751736-407a-4abc-a578-c01150f444df",
+        "chat_id": 138623,
+        "user_id": 118129964,
+        "content": "you been streaming long?",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1784535242987\"}",
+        "created_at": "2026-07-20T08:14:04Z",
+        "sender": {
+          "id": 118129964,
+          "slug": "vividblaze13",
+          "username": "vividblaze13",
+          "identity": {
+            "color": "#55FFC7",
+            "badges": [],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+                "metadata": {
+                  "level": 1
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "63c5536b-9b95-4ef9-8eae-b542775bf30b",
+        "chat_id": 138623,
+        "user_id": 118129964,
+        "content": "nah the items are literally the whole game though [emote:37226:KEKW]",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1784535209732\"}",
+        "created_at": "2026-07-20T08:13:31Z",
+        "sender": {
+          "id": 118129964,
+          "slug": "vividblaze13",
+          "username": "vividblaze13",
+          "identity": {
+            "color": "#55FFC7",
+            "badges": [],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+                "metadata": {
+                  "level": 1
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "1ddafbe1-68ec-477b-8789-fb216fc0ee7f",
+        "chat_id": 138623,
+        "user_id": 118129964,
+        "content": "hey joqnix",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1784535139708\"}",
+        "created_at": "2026-07-20T08:12:21Z",
+        "sender": {
+          "id": 118129964,
+          "slug": "vividblaze13",
+          "username": "vividblaze13",
+          "identity": {
+            "color": "#55FFC7",
+            "badges": [],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+                "metadata": {
+                  "level": 1
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
         "id": "a8d1409f-365c-47a1-86df-e09f52d23d0a",
         "chat_id": 138623,
         "user_id": 140223,
@@ -236,50 +408,9 @@
             ]
           }
         }
-      },
-      {
-        "id": "28140460-bac2-4359-83a7-d32fc1f18b9a",
-        "chat_id": 138623,
-        "user_id": 7404530,
-        "content": "joqnix changed their title to \"\"!",
-        "type": "message",
-        "metadata": null,
-        "created_at": "2026-07-19T09:27:09Z",
-        "sender": {
-          "id": 7404530,
-          "slug": "fossabot",
-          "username": "Fossabot",
-          "identity": {
-            "color": "#DEB2FF",
-            "badges": [
-              {
-                "type": "moderator",
-                "text": "Moderator",
-                "sort_order": 4
-              },
-              {
-                "type": "verified",
-                "text": "Verified channel",
-                "sort_order": 10
-              }
-            ],
-            "badges_v2": [
-              {
-                "name": "level",
-                "badge_type": "global",
-                "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
-                "metadata": {
-                  "level": 1
-                },
-                "selected": false,
-                "sort_order": 1
-              }
-            ]
-          }
-        }
       }
     ],
-    "cursor": "1784300279013488",
+    "cursor": "1784300950956780",
     "pinned_message": null
   }
 }
