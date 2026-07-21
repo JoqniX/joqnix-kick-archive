@@ -1,0 +1,249 @@
+[
+  {
+    "id": "decdb6a6-85ae-4f7c-883c-e406157c7c4c",
+    "chat_id": 138623,
+    "user_id": 120293933,
+    "content": "sup joqnix",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1784629931176\"}",
+    "created_at": "2026-07-21T10:32:12Z",
+    "sender": {
+      "id": 120293933,
+      "slug": "rebecca-samurai",
+      "username": "rebecca_samurai",
+      "identity": {
+        "color": "#55FFC7",
+        "badges": [],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+            "metadata": {
+              "level": 1
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "befce681-fbdf-4e67-9d31-64a0e465e492",
+    "chat_id": 138623,
+    "user_id": 7404530,
+    "content": "joqnix just went live playing VTubers!",
+    "type": "message",
+    "metadata": null,
+    "created_at": "2026-07-21T10:31:06Z",
+    "sender": {
+      "id": 7404530,
+      "slug": "fossabot",
+      "username": "Fossabot",
+      "identity": {
+        "color": "#DEB2FF",
+        "badges": [
+          {
+            "type": "moderator",
+            "text": "Moderator",
+            "sort_order": 4
+          },
+          {
+            "type": "verified",
+            "text": "Verified channel",
+            "sort_order": 10
+          }
+        ],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+            "metadata": {
+              "level": 1
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "e3f93e33-5fe9-464b-accb-980879b37e05",
+    "chat_id": 138623,
+    "user_id": 120293933,
+    "content": "still in the starting soon screen or did i miss something",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1784630000557\"}",
+    "created_at": "2026-07-21T10:33:22Z",
+    "sender": {
+      "id": 120293933,
+      "slug": "rebecca-samurai",
+      "username": "rebecca_samurai",
+      "identity": {
+        "color": "#55FFC7",
+        "badges": [],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+            "metadata": {
+              "level": 1
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "da48eeec-3e4f-4f72-b046-162649f4a528",
+    "chat_id": 138623,
+    "user_id": 120293933,
+    "content": "you stream every day or just when you feel it?",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1784630034757\"}",
+    "created_at": "2026-07-21T10:33:56Z",
+    "sender": {
+      "id": 120293933,
+      "slug": "rebecca-samurai",
+      "username": "rebecca_samurai",
+      "identity": {
+        "color": "#55FFC7",
+        "badges": [],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+            "metadata": {
+              "level": 1
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "90cca2a1-8f55-4b3f-8f29-18baf04207ff",
+    "chat_id": 138623,
+    "user_id": 120293933,
+    "content": "you should try kickchatters/com, phree trial too",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1784630093126\"}",
+    "created_at": "2026-07-21T10:34:54Z",
+    "sender": {
+      "id": 120293933,
+      "slug": "rebecca-samurai",
+      "username": "rebecca_samurai",
+      "identity": {
+        "color": "#55FFC7",
+        "badges": [],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+            "metadata": {
+              "level": 1
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "68e3dad7-2677-4f07-b383-9f647fa55834",
+    "chat_id": 138623,
+    "user_id": 140223,
+    "content": "ah internet is bad tonight so there might be a bit of delay! sorry!",
+    "type": "message",
+    "metadata": null,
+    "created_at": "2026-07-21T11:09:51Z",
+    "sender": {
+      "id": 140223,
+      "slug": "joqnix",
+      "username": "joqnix",
+      "identity": {
+        "color": "#B9D6F6",
+        "badges": [
+          {
+            "type": "broadcaster",
+            "text": "Broadcaster",
+            "sort_order": 3
+          }
+        ],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/3_59e3744a-6392-4f99-ad6a-804b7336d546.png",
+            "metadata": {
+              "level": 3
+            },
+            "selected": false,
+            "sort_order": 1
+          },
+          {
+            "name": "kick_founder22",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/kick_founder22_2a2d3875-276e-4d87-ab63-d7578d2e10c0.png",
+            "selected": false,
+            "sort_order": 99
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "1b2b57d1-3d76-40d9-9e98-4868839965fb",
+    "chat_id": 138623,
+    "user_id": 140223,
+    "content": "thank you all for coming by! cya in the next stream nee~ otsujoq",
+    "type": "message",
+    "metadata": null,
+    "created_at": "2026-07-21T13:04:05Z",
+    "sender": {
+      "id": 140223,
+      "slug": "joqnix",
+      "username": "joqnix",
+      "identity": {
+        "color": "#B9D6F6",
+        "badges": [
+          {
+            "type": "broadcaster",
+            "text": "Broadcaster",
+            "sort_order": 3
+          }
+        ],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/3_59e3744a-6392-4f99-ad6a-804b7336d546.png",
+            "metadata": {
+              "level": 3
+            },
+            "selected": false,
+            "sort_order": 1
+          },
+          {
+            "name": "kick_founder22",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/kick_founder22_2a2d3875-276e-4d87-ab63-d7578d2e10c0.png",
+            "selected": false,
+            "sort_order": 99
+          }
+        ]
+      }
+    }
+  }
+]
