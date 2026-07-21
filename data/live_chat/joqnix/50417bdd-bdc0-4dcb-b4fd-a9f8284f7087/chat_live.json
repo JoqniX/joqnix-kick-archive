@@ -69,5 +69,35 @@
         ]
       }
     }
+  },
+  {
+    "id": "e3f93e33-5fe9-464b-accb-980879b37e05",
+    "chat_id": 138623,
+    "user_id": 120293933,
+    "content": "still in the starting soon screen or did i miss something",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1784630000557\"}",
+    "created_at": "2026-07-21T10:33:22Z",
+    "sender": {
+      "id": 120293933,
+      "slug": "rebecca-samurai",
+      "username": "rebecca_samurai",
+      "identity": {
+        "color": "#55FFC7",
+        "badges": [],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+            "metadata": {
+              "level": 1
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
   }
 ]
