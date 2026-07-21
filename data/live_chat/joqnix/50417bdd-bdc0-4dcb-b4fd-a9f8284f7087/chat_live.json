@@ -99,5 +99,35 @@
         ]
       }
     }
+  },
+  {
+    "id": "da48eeec-3e4f-4f72-b046-162649f4a528",
+    "chat_id": 138623,
+    "user_id": 120293933,
+    "content": "you stream every day or just when you feel it?",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1784630034757\"}",
+    "created_at": "2026-07-21T10:33:56Z",
+    "sender": {
+      "id": 120293933,
+      "slug": "rebecca-samurai",
+      "username": "rebecca_samurai",
+      "identity": {
+        "color": "#55FFC7",
+        "badges": [],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+            "metadata": {
+              "level": 1
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
   }
 ]
