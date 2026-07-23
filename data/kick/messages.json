@@ -7,6 +7,88 @@
   "data": {
     "messages": [
       {
+        "id": "c8112108-cb14-4313-9170-9aa4b32db097",
+        "chat_id": 138623,
+        "user_id": 7404530,
+        "content": "joqnix just went live playing VTubers!",
+        "type": "message",
+        "metadata": null,
+        "created_at": "2026-07-23T09:04:44Z",
+        "sender": {
+          "id": 7404530,
+          "slug": "fossabot",
+          "username": "Fossabot",
+          "identity": {
+            "color": "#DEB2FF",
+            "badges": [
+              {
+                "type": "moderator",
+                "text": "Moderator",
+                "sort_order": 12
+              },
+              {
+                "type": "verified",
+                "text": "Verified channel",
+                "sort_order": 14
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+                "metadata": {
+                  "level": 1
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "6da0fe1c-3a42-47c5-bf45-06ee7d6663be",
+        "chat_id": 138623,
+        "user_id": 7404530,
+        "content": "joqnix changed their title to \"\"!",
+        "type": "message",
+        "metadata": null,
+        "created_at": "2026-07-23T08:28:18Z",
+        "sender": {
+          "id": 7404530,
+          "slug": "fossabot",
+          "username": "Fossabot",
+          "identity": {
+            "color": "#DEB2FF",
+            "badges": [
+              {
+                "type": "moderator",
+                "text": "Moderator",
+                "sort_order": 12
+              },
+              {
+                "type": "verified",
+                "text": "Verified channel",
+                "sort_order": 14
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+                "metadata": {
+                  "level": 1
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
         "id": "890d91f2-1d0f-4892-bc16-b1502d71f670",
         "chat_id": 138623,
         "user_id": 140223,
@@ -302,50 +384,9 @@
             ]
           }
         }
-      },
-      {
-        "id": "eed88ebf-7ec8-4be4-a2ed-1ed0143be607",
-        "chat_id": 138623,
-        "user_id": 7404530,
-        "content": "joqnix changed their title to \"\"!",
-        "type": "message",
-        "metadata": null,
-        "created_at": "2026-07-22T08:45:04Z",
-        "sender": {
-          "id": 7404530,
-          "slug": "fossabot",
-          "username": "Fossabot",
-          "identity": {
-            "color": "#DEB2FF",
-            "badges": [
-              {
-                "type": "moderator",
-                "text": "Moderator",
-                "sort_order": 4
-              },
-              {
-                "type": "verified",
-                "text": "Verified channel",
-                "sort_order": 10
-              }
-            ],
-            "badges_v2": [
-              {
-                "name": "level",
-                "badge_type": "global",
-                "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
-                "metadata": {
-                  "level": 1
-                },
-                "selected": false,
-                "sort_order": 1
-              }
-            ]
-          }
-        }
       }
     ],
-    "cursor": "1784535141442144",
+    "cursor": "1784535244441358",
     "pinned_message": null
   }
 }
