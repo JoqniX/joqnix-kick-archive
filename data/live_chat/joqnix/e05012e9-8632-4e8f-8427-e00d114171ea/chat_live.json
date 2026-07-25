@@ -219,5 +219,35 @@
         ]
       }
     }
+  },
+  {
+    "id": "85781808-e2da-4ee2-9705-dafe3a63047a",
+    "chat_id": 138623,
+    "user_id": 60006880,
+    "content": "lifting shirt hand belly slap",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1784972588017\"}",
+    "created_at": "2026-07-25T09:43:08Z",
+    "sender": {
+      "id": 60006880,
+      "slug": "zombie6474",
+      "username": "Zombie6474",
+      "identity": {
+        "color": "#FBCFD8",
+        "badges": [],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/22_f0dcac43-ed99-482b-a0ff-d9048b25475d.png",
+            "metadata": {
+              "level": 22
+            },
+            "selected": true,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
   }
 ]
