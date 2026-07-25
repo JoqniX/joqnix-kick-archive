@@ -1,0 +1,27 @@
+[
+  {
+    "id": "ee853460-80c8-4e79-a70f-1438b99aad2c",
+    "timestamp": "2026-07-25T13:18:08Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 140223,
+      "username": "joqnix",
+      "avatar": "https://files.kick.com/images/user/140223/profile_image/conversion/f1154229-3d49-4651-888f-861228baf077-fullsize.webp",
+      "color": "#B9D6F6",
+      "badges": [
+        {
+          "type": "broadcaster",
+          "text": "Broadcaster"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "Am i liv?."
+      }
+    ],
+    "type": "message"
+  }
+]
