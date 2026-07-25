@@ -7,6 +7,133 @@
   "data": {
     "messages": [
       {
+        "id": "9f8bf821-edbf-48e4-9341-23cdd5f0e229",
+        "chat_id": 138623,
+        "user_id": 140223,
+        "content": "Thank you for coming by tonight~ i reallly had fun otsujoq~",
+        "type": "message",
+        "metadata": null,
+        "created_at": "2026-07-25T13:50:04Z",
+        "sender": {
+          "id": 140223,
+          "slug": "joqnix",
+          "username": "joqnix",
+          "identity": {
+            "color": "#B9D6F6",
+            "badges": [
+              {
+                "type": "broadcaster",
+                "text": "Broadcaster",
+                "sort_order": 13
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/4_f84754ee-17ab-49dc-ac78-734e429d7291.png",
+                "metadata": {
+                  "level": 4
+                },
+                "selected": false,
+                "sort_order": 1
+              },
+              {
+                "name": "kick_founder22",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/kick_founder22_2a2d3875-276e-4d87-ab63-d7578d2e10c0.png",
+                "selected": false,
+                "sort_order": 2
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "ee853460-80c8-4e79-a70f-1438b99aad2c",
+        "chat_id": 138623,
+        "user_id": 140223,
+        "content": "Am i liv?.",
+        "type": "message",
+        "metadata": null,
+        "created_at": "2026-07-25T13:18:08Z",
+        "sender": {
+          "id": 140223,
+          "slug": "joqnix",
+          "username": "joqnix",
+          "identity": {
+            "color": "#B9D6F6",
+            "badges": [
+              {
+                "type": "broadcaster",
+                "text": "Broadcaster",
+                "sort_order": 13
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/4_f84754ee-17ab-49dc-ac78-734e429d7291.png",
+                "metadata": {
+                  "level": 4
+                },
+                "selected": false,
+                "sort_order": 1
+              },
+              {
+                "name": "kick_founder22",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/kick_founder22_2a2d3875-276e-4d87-ab63-d7578d2e10c0.png",
+                "selected": false,
+                "sort_order": 2
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "723a6f94-496b-4847-aeb5-eaffea42684d",
+        "chat_id": 138623,
+        "user_id": 7404530,
+        "content": "joqnix just went live playing VTubers!",
+        "type": "message",
+        "metadata": null,
+        "created_at": "2026-07-25T13:15:59Z",
+        "sender": {
+          "id": 7404530,
+          "slug": "fossabot",
+          "username": "Fossabot",
+          "identity": {
+            "color": "#DEB2FF",
+            "badges": [
+              {
+                "type": "moderator",
+                "text": "Moderator",
+                "sort_order": 12
+              },
+              {
+                "type": "verified",
+                "text": "Verified channel",
+                "sort_order": 14
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+                "metadata": {
+                  "level": 1
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
         "id": "e4cc8cba-da28-45c7-b247-19b57eac0e41",
         "chat_id": 138623,
         "user_id": 60006880,
@@ -509,7 +636,7 @@
         }
       }
     ],
-    "cursor": "1784722812209678",
+    "cursor": "1784731003409124",
     "pinned_message": null
   }
 }
