@@ -13,7 +13,7 @@
     "duration": 0,
     "language": "English",
     "is_mature": true,
-    "viewer_count": 0,
+    "viewer_count": 2,
     "tags": [
       "Constellation",
       "Engl\u0131sh",
@@ -22,8 +22,8 @@
       "vtuber"
     ],
     "thumbnail": {
-      "src": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/ojTMLSnfxOwe/720.webp?versionId=.1hiew2L9BYLTR.aaNtGt1fBSMz6N9SX",
-      "srcset": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/ojTMLSnfxOwe/1080.webp?versionId=zbv9DguKg8mydo.Wmixvj_GOZT5lG3ED 1920w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/ojTMLSnfxOwe/720.webp?versionId=.1hiew2L9BYLTR.aaNtGt1fBSMz6N9SX 1280w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/ojTMLSnfxOwe/360.webp?versionId=.vXGmGDwRVs6nkDGeDrMg0NcATiKimlu 480w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/ojTMLSnfxOwe/160.webp?versionId=KhPNlbRto9ne4HnIQVjFyXr.M8j.XNpz 284w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/ojTMLSnfxOwe/480.webp?versionId=NhrGaxMUGJS9I73pwODJtn5_v.VhC_TD 640w"
+      "src": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/ojTMLSnfxOwe/720.webp?versionId=aFqGBRor9ySSLSAO213hIdbqANc0ZBaG",
+      "srcset": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/ojTMLSnfxOwe/1080.webp?versionId=9WVFiZnrAqj.CI0wIl3T15tIqKvi7nN_ 1920w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/ojTMLSnfxOwe/720.webp?versionId=aFqGBRor9ySSLSAO213hIdbqANc0ZBaG 1280w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/ojTMLSnfxOwe/360.webp?versionId=iSsmv6h9o07u5klEbZl2J0Lcj.4IJaMx 480w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/ojTMLSnfxOwe/160.webp?versionId=ChohtFsX8IKiy2uPVwRiR9po9..RoN_Y 284w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/ojTMLSnfxOwe/480.webp?versionId=H4s4jdRRqeAfSWQZtTS8JO9BrK2fMiov 640w"
     },
     "views": 0,
     "video": {
@@ -59,7 +59,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 75,
+        "viewers": 39,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -128,7 +128,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 75,
+        "viewers": 39,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -197,7 +197,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 75,
+        "viewers": 39,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -266,7 +266,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 75,
+        "viewers": 39,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -335,7 +335,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 75,
+        "viewers": 39,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -404,7 +404,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 75,
+        "viewers": 39,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -473,7 +473,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 75,
+        "viewers": 39,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
