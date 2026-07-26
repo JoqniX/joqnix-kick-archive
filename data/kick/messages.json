@@ -7,6 +7,92 @@
   "data": {
     "messages": [
       {
+        "id": "e0014468-c0f1-405b-854f-065210304286",
+        "chat_id": 138623,
+        "user_id": 140223,
+        "content": "I feel like its better end  here rather than waiting 2 more hour in train. Thank you everyone who came by~ otsujoq",
+        "type": "message",
+        "metadata": null,
+        "created_at": "2026-07-26T13:06:26Z",
+        "sender": {
+          "id": 140223,
+          "slug": "joqnix",
+          "username": "joqnix",
+          "identity": {
+            "color": "#B9D6F6",
+            "badges": [
+              {
+                "type": "broadcaster",
+                "text": "Broadcaster",
+                "sort_order": 13
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/4_f84754ee-17ab-49dc-ac78-734e429d7291.png",
+                "metadata": {
+                  "level": 4
+                },
+                "selected": false,
+                "sort_order": 1
+              },
+              {
+                "name": "kick_founder22",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/kick_founder22_2a2d3875-276e-4d87-ab63-d7578d2e10c0.png",
+                "selected": false,
+                "sort_order": 2
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "4470a3cb-b097-4f57-81d8-186947f40357",
+        "chat_id": 138623,
+        "user_id": 140223,
+        "content": "Currently on train~ its so packed!",
+        "type": "message",
+        "metadata": null,
+        "created_at": "2026-07-26T12:44:36Z",
+        "sender": {
+          "id": 140223,
+          "slug": "joqnix",
+          "username": "joqnix",
+          "identity": {
+            "color": "#B9D6F6",
+            "badges": [
+              {
+                "type": "broadcaster",
+                "text": "Broadcaster",
+                "sort_order": 13
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/4_f84754ee-17ab-49dc-ac78-734e429d7291.png",
+                "metadata": {
+                  "level": 4
+                },
+                "selected": false,
+                "sort_order": 1
+              },
+              {
+                "name": "kick_founder22",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/kick_founder22_2a2d3875-276e-4d87-ab63-d7578d2e10c0.png",
+                "selected": false,
+                "sort_order": 2
+              }
+            ]
+          }
+        }
+      },
+      {
         "id": "8bed9d26-fe6a-4702-a1f5-47daebba4fde",
         "chat_id": 138623,
         "user_id": 140223,
@@ -470,136 +556,9 @@
             ]
           }
         }
-      },
-      {
-        "id": "9f8bf821-edbf-48e4-9341-23cdd5f0e229",
-        "chat_id": 138623,
-        "user_id": 140223,
-        "content": "Thank you for coming by tonight~ i reallly had fun otsujoq~",
-        "type": "message",
-        "metadata": null,
-        "created_at": "2026-07-25T13:50:04Z",
-        "sender": {
-          "id": 140223,
-          "slug": "joqnix",
-          "username": "joqnix",
-          "identity": {
-            "color": "#B9D6F6",
-            "badges": [
-              {
-                "type": "broadcaster",
-                "text": "Broadcaster",
-                "sort_order": 13
-              }
-            ],
-            "badges_v2": [
-              {
-                "name": "level",
-                "badge_type": "global",
-                "image_url": "https://ext.cdn.kick.com/chat/badges/4_f84754ee-17ab-49dc-ac78-734e429d7291.png",
-                "metadata": {
-                  "level": 4
-                },
-                "selected": false,
-                "sort_order": 1
-              },
-              {
-                "name": "kick_founder22",
-                "badge_type": "global",
-                "image_url": "https://ext.cdn.kick.com/chat/badges/kick_founder22_2a2d3875-276e-4d87-ab63-d7578d2e10c0.png",
-                "selected": false,
-                "sort_order": 2
-              }
-            ]
-          }
-        }
-      },
-      {
-        "id": "ee853460-80c8-4e79-a70f-1438b99aad2c",
-        "chat_id": 138623,
-        "user_id": 140223,
-        "content": "Am i liv?.",
-        "type": "message",
-        "metadata": null,
-        "created_at": "2026-07-25T13:18:08Z",
-        "sender": {
-          "id": 140223,
-          "slug": "joqnix",
-          "username": "joqnix",
-          "identity": {
-            "color": "#B9D6F6",
-            "badges": [
-              {
-                "type": "broadcaster",
-                "text": "Broadcaster",
-                "sort_order": 13
-              }
-            ],
-            "badges_v2": [
-              {
-                "name": "level",
-                "badge_type": "global",
-                "image_url": "https://ext.cdn.kick.com/chat/badges/4_f84754ee-17ab-49dc-ac78-734e429d7291.png",
-                "metadata": {
-                  "level": 4
-                },
-                "selected": false,
-                "sort_order": 1
-              },
-              {
-                "name": "kick_founder22",
-                "badge_type": "global",
-                "image_url": "https://ext.cdn.kick.com/chat/badges/kick_founder22_2a2d3875-276e-4d87-ab63-d7578d2e10c0.png",
-                "selected": false,
-                "sort_order": 2
-              }
-            ]
-          }
-        }
-      },
-      {
-        "id": "723a6f94-496b-4847-aeb5-eaffea42684d",
-        "chat_id": 138623,
-        "user_id": 7404530,
-        "content": "joqnix just went live playing VTubers!",
-        "type": "message",
-        "metadata": null,
-        "created_at": "2026-07-25T13:15:59Z",
-        "sender": {
-          "id": 7404530,
-          "slug": "fossabot",
-          "username": "Fossabot",
-          "identity": {
-            "color": "#DEB2FF",
-            "badges": [
-              {
-                "type": "moderator",
-                "text": "Moderator",
-                "sort_order": 12
-              },
-              {
-                "type": "verified",
-                "text": "Verified channel",
-                "sort_order": 14
-              }
-            ],
-            "badges_v2": [
-              {
-                "name": "level",
-                "badge_type": "global",
-                "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
-                "metadata": {
-                  "level": 1
-                },
-                "selected": false,
-                "sort_order": 1
-              }
-            ]
-          }
-        }
       }
     ],
-    "cursor": "1784972566050162",
+    "cursor": "1784972579171612",
     "pinned_message": null
   }
 }
