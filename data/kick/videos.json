@@ -1,5 +1,68 @@
 [
   {
+    "id": 119514032,
+    "slug": "951116d0-outdoor-stream-13-talk-with-me-while-im-outside-indian-vtuber-enjp-joqnix",
+    "channel_id": 138623,
+    "created_at": "2026-07-28 10:04:05",
+    "session_title": "\u304a\u305d\u3068\u96d1\u8ac7\u30fbOutdoor Stream #13\u250a \u2726 talk with me while im outside INDIAN VTUBER  ~ EN/JP | JoqniX",
+    "is_live": true,
+    "risk_level_id": null,
+    "start_time": "2026-07-28 10:04:04",
+    "source": "https://stream.kick.com/0f3cb0ebce7/ivs/v1/196233775518/ZCkulBebTQZR/2026/7/28/10/4/yMJwAd1jPhgM/media/hls/master.m3u8",
+    "twitch_channel": null,
+    "duration": 0,
+    "language": "English",
+    "is_mature": true,
+    "viewer_count": 0,
+    "tags": [],
+    "thumbnail": {
+      "src": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/yMJwAd1jPhgM/720.webp?versionId=tNtbocK4R0n_G1edIpteGfP9VboOUCVD",
+      "srcset": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/yMJwAd1jPhgM/1080.webp?versionId=EzCk8cfQ10hgpzFFCT5Lu_c8pZ.bkqWA 1920w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/yMJwAd1jPhgM/720.webp?versionId=tNtbocK4R0n_G1edIpteGfP9VboOUCVD 1280w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/yMJwAd1jPhgM/360.webp?versionId=UYlm_P941msLqCeS4XebQSIylmETDBYP 480w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/yMJwAd1jPhgM/160.webp?versionId=ge1LH1ypYILl0hf_33SFodSvfXlVf4_Z 284w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/yMJwAd1jPhgM/480.webp?versionId=FaTKnMMukNBKdNcqxinpsAKG6xTmdoZD 640w"
+    },
+    "views": 0,
+    "video": {
+      "id": 115215151,
+      "live_stream_id": 119514032,
+      "slug": null,
+      "thumb": null,
+      "s3": null,
+      "trading_platform_id": null,
+      "created_at": "2026-07-28T10:04:05.000000Z",
+      "updated_at": "2026-07-28T10:04:05.000000Z",
+      "uuid": "343327cd-467e-4264-a7f9-9d5c647979f5",
+      "views": 0,
+      "deleted_at": null,
+      "is_pruned": false,
+      "is_private": false,
+      "status": "public"
+    },
+    "categories": [
+      {
+        "id": 415,
+        "category_id": 1,
+        "name": "VTubers",
+        "slug": "vtubers",
+        "tags": [
+          "Action",
+          "Puzzle",
+          "Adventure Games",
+          "Shooter",
+          "FPS"
+        ],
+        "description": null,
+        "deleted_at": null,
+        "is_mature": false,
+        "is_promoted": false,
+        "viewers": 54,
+        "is_fallback": false,
+        "banner": {
+          "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
+          "url": "https://files.kick.com/images/subcategories/415/banner/20afafe3-9025-4d93-9bab-5d4e7694807a"
+        }
+      }
+    ]
+  },
+  {
     "id": 119218588,
     "slug": "49ff0013-outdoor-stream-12-live-from-shinjuku-indian-vtuber-enjp-joqnix",
     "channel_id": 138623,
@@ -59,7 +122,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 89,
+        "viewers": 54,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -128,7 +191,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 89,
+        "viewers": 54,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -197,7 +260,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 89,
+        "viewers": 54,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -266,7 +329,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 89,
+        "viewers": 54,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -335,7 +398,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 89,
+        "viewers": 54,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -404,7 +467,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 89,
+        "viewers": 54,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -473,7 +536,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 89,
+        "viewers": 54,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -542,7 +605,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 89,
+        "viewers": 54,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -611,76 +674,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 89,
-        "is_fallback": false,
-        "banner": {
-          "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
-          "url": "https://files.kick.com/images/subcategories/415/banner/20afafe3-9025-4d93-9bab-5d4e7694807a"
-        }
-      }
-    ]
-  },
-  {
-    "id": 118423400,
-    "slug": "30abe7d1-echoes-of-aincrad-2-sao-time-joqnix",
-    "channel_id": 138623,
-    "created_at": "2026-07-21 10:31:04",
-    "session_title": "Echoes of Aincrad #2\u250a \u2726 SAO TIME!! | JoqniX",
-    "is_live": false,
-    "risk_level_id": null,
-    "start_time": "2026-07-21 10:31:03",
-    "source": "https://stream.kick.com/0f3cb0ebce7/ivs/v1/196233775518/ZCkulBebTQZR/2026/7/21/10/30/aj0e5tLDqY2A/media/hls/master.m3u8",
-    "twitch_channel": null,
-    "duration": 9170000,
-    "language": "English",
-    "is_mature": true,
-    "viewer_count": 0,
-    "tags": [
-      "Constellation",
-      "Engl\u0131sh",
-      "india",
-      "Japan",
-      "vtuber"
-    ],
-    "thumbnail": {
-      "src": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/aj0e5tLDqY2A/720.webp",
-      "srcset": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/aj0e5tLDqY2A/1080.webp 1920w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/aj0e5tLDqY2A/720.webp 1280w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/aj0e5tLDqY2A/360.webp 480w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/aj0e5tLDqY2A/160.webp 284w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/aj0e5tLDqY2A/480.webp 640w"
-    },
-    "views": 4,
-    "video": {
-      "id": 114125174,
-      "live_stream_id": 118423400,
-      "slug": null,
-      "thumb": null,
-      "s3": null,
-      "trading_platform_id": null,
-      "created_at": "2026-07-21T10:31:04.000000Z",
-      "updated_at": "2026-07-21T13:05:30.000000Z",
-      "uuid": "50417bdd-bdc0-4dcb-b4fd-a9f8284f7087",
-      "views": 4,
-      "deleted_at": null,
-      "is_pruned": false,
-      "is_private": false,
-      "status": "public"
-    },
-    "categories": [
-      {
-        "id": 415,
-        "category_id": 1,
-        "name": "VTubers",
-        "slug": "vtubers",
-        "tags": [
-          "Action",
-          "Puzzle",
-          "Adventure Games",
-          "Shooter",
-          "FPS"
-        ],
-        "description": null,
-        "deleted_at": null,
-        "is_mature": false,
-        "is_promoted": false,
-        "viewers": 89,
+        "viewers": 54,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
