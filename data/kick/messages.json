@@ -7,6 +7,88 @@
   "data": {
     "messages": [
       {
+        "id": "2aafdce0-d4bf-440e-a7fa-a4e3cb1b340d",
+        "chat_id": 138623,
+        "user_id": 7404530,
+        "content": "deep_star_f3 (deep-star-f3) just followed the stream! \ud83d\udc9a",
+        "type": "message",
+        "metadata": null,
+        "created_at": "2026-08-02T14:09:01Z",
+        "sender": {
+          "id": 7404530,
+          "slug": "fossabot",
+          "username": "Fossabot",
+          "identity": {
+            "color": "#DEB2FF",
+            "badges": [
+              {
+                "type": "moderator",
+                "text": "Moderator",
+                "sort_order": 12
+              },
+              {
+                "type": "verified",
+                "text": "Verified channel",
+                "sort_order": 14
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+                "metadata": {
+                  "level": 1
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "ddaa80a3-197b-4896-974f-fcf8082fe864",
+        "chat_id": 138623,
+        "user_id": 4377088,
+        "content": "Thanks for the follow @deep_star_f3",
+        "type": "message",
+        "metadata": null,
+        "created_at": "2026-08-02T14:09:01Z",
+        "sender": {
+          "id": 4377088,
+          "slug": "kickbot",
+          "username": "KickBot",
+          "identity": {
+            "color": "#E9113C",
+            "badges": [
+              {
+                "type": "moderator",
+                "text": "Moderator",
+                "sort_order": 12
+              },
+              {
+                "type": "verified",
+                "text": "Verified channel",
+                "sort_order": 14
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+                "metadata": {
+                  "level": 1
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
         "id": "28dffc7b-6e03-49a6-be58-a910b0baa7b1",
         "chat_id": 138623,
         "user_id": 7404530,
@@ -212,7 +294,7 @@
         }
       }
     ],
-    "cursor": "1785240099709863",
+    "cursor": "1785317331978956",
     "pinned_message": null
   }
 }
