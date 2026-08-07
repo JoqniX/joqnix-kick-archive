@@ -1,0 +1,286 @@
+[
+  {
+    "id": "f97ee397-dbd5-48a8-bbb3-0719f94752e2",
+    "timestamp": "2026-08-06T10:16:52Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 140223,
+      "username": "joqnix",
+      "avatar": "https://files.kick.com/images/user/140223/profile_image/conversion/f1154229-3d49-4651-888f-861228baf077-fullsize.webp",
+      "color": "#B9D6F6",
+      "badges": [
+        {
+          "type": "broadcaster",
+          "text": "Broadcaster"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "oh my internet is bad bad???"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "dc4f9acc-b2c0-45bd-968c-94ccf7fb1707",
+    "timestamp": "2026-08-06T09:30:14Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 7404530,
+      "username": "Fossabot",
+      "avatar": "https://files.kick.com/images/user/7404530/profile_image/conversion/104a9b9a-3882-49b1-aa55-22eae3dab24f-fullsize.webp",
+      "color": "#DEB2FF",
+      "badges": [
+        {
+          "type": "moderator",
+          "text": "Moderator"
+        },
+        {
+          "type": "verified",
+          "text": "Verified channel"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "joqnix just went live playing VTubers!"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "998dae2a-9aad-47e2-9d87-bcd1fbf41694",
+    "timestamp": "2026-08-06T09:22:33Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 7404530,
+      "username": "Fossabot",
+      "avatar": "https://files.kick.com/images/user/7404530/profile_image/conversion/104a9b9a-3882-49b1-aa55-22eae3dab24f-fullsize.webp",
+      "color": "#DEB2FF",
+      "badges": [
+        {
+          "type": "moderator",
+          "text": "Moderator"
+        },
+        {
+          "type": "verified",
+          "text": "Verified channel"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "joqnix changed their title to \"\"!"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "25629660-c784-4f2d-a3ff-df3f9a1fa5a7",
+    "timestamp": "2026-08-05T22:51:52Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 7404530,
+      "username": "Fossabot",
+      "avatar": "https://files.kick.com/images/user/7404530/profile_image/conversion/104a9b9a-3882-49b1-aa55-22eae3dab24f-fullsize.webp",
+      "color": "#DEB2FF",
+      "badges": [
+        {
+          "type": "moderator",
+          "text": "Moderator"
+        },
+        {
+          "type": "verified",
+          "text": "Verified channel"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "Juanluid just followed the stream! 💚"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "cd67fe31-eacc-440d-93e2-2173c1c7836d",
+    "timestamp": "2026-08-05T22:51:52Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 4377088,
+      "username": "KickBot",
+      "avatar": "https://files.kick.com/images/user/4377088/profile_image/conversion/dae5ceec-5b25-4f26-82c2-e2fdc98ae958-fullsize.webp",
+      "color": "#E9113C",
+      "badges": [
+        {
+          "type": "moderator",
+          "text": "Moderator"
+        },
+        {
+          "type": "verified",
+          "text": "Verified channel"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "Thanks for the follow @Juanluid"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "14054d76-001c-43c1-895c-e22a68035ac2",
+    "timestamp": "2026-08-06T15:23:43Z",
+    "vod_offset": 18411,
+    "vod_timestamp": "05:06:51",
+    "user": {
+      "id": 7404530,
+      "username": "Fossabot",
+      "avatar": "https://files.kick.com/images/user/7404530/profile_image/conversion/104a9b9a-3882-49b1-aa55-22eae3dab24f-fullsize.webp",
+      "color": "#DEB2FF",
+      "badges": [
+        {
+          "type": "moderator",
+          "text": "Moderator"
+        },
+        {
+          "type": "verified",
+          "text": "Verified channel"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "Akakakashi015 just followed the stream! 💚"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "d23bd1af-25be-464d-b40c-94abbf50bed4",
+    "timestamp": "2026-08-06T15:23:43Z",
+    "vod_offset": 18411,
+    "vod_timestamp": "05:06:51",
+    "user": {
+      "id": 4377088,
+      "username": "KickBot",
+      "avatar": "https://files.kick.com/images/user/4377088/profile_image/conversion/dae5ceec-5b25-4f26-82c2-e2fdc98ae958-fullsize.webp",
+      "color": "#E9113C",
+      "badges": [
+        {
+          "type": "moderator",
+          "text": "Moderator"
+        },
+        {
+          "type": "verified",
+          "text": "Verified channel"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "Thanks for the follow @Akakakashi015"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "6c4d2b0f-dbda-4db3-99e7-37b4b792c111",
+    "timestamp": "2026-08-06T15:23:46Z",
+    "vod_offset": 18414,
+    "vod_timestamp": "05:06:54",
+    "user": {
+      "id": 8467641,
+      "username": "Akakakashi015",
+      "avatar": "https://files.kick.com/images/user/8467641/profile_image/conversion/75056445-4d0d-4490-9674-15f362c9b3f5-fullsize.webp",
+      "color": "#E5FFAB",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "Greetings from Türkiye"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "d7465694-9c72-4d39-a20f-ef30aee76781",
+    "timestamp": "2026-08-06T15:24:25Z",
+    "vod_offset": 18453,
+    "vod_timestamp": "05:07:33",
+    "user": {
+      "id": 8467641,
+      "username": "Akakakashi015",
+      "avatar": "https://files.kick.com/images/user/8467641/profile_image/conversion/75056445-4d0d-4490-9674-15f362c9b3f5-fullsize.webp",
+      "color": "#E5FFAB",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "aka kakashi"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "24bcde44-1e4c-4e97-ab20-9a4e39b25c83",
+    "timestamp": "2026-08-06T15:25:00Z",
+    "vod_offset": 18488,
+    "vod_timestamp": "05:08:08",
+    "user": {
+      "id": 8467641,
+      "username": "Akakakashi015",
+      "avatar": "https://files.kick.com/images/user/8467641/profile_image/conversion/75056445-4d0d-4490-9674-15f362c9b3f5-fullsize.webp",
+      "color": "#E5FFAB",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "Your voice is very pleasant."
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "1c86fe3c-121a-4140-9710-0011ee6dcfa2",
+    "timestamp": "2026-08-06T16:29:34Z",
+    "vod_offset": 22362,
+    "vod_timestamp": "06:12:42",
+    "user": {
+      "id": 140223,
+      "username": "joqnix",
+      "avatar": "https://files.kick.com/images/user/140223/profile_image/conversion/f1154229-3d49-4651-888f-861228baf077-fullsize.webp",
+      "color": "#B9D6F6",
+      "badges": [
+        {
+          "type": "broadcaster",
+          "text": "Broadcaster"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "thank you for coming by tonight~ cya in the next stream~ .w. otsujoq~"
+      }
+    ],
+    "type": "message"
+  }
+]
