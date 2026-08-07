@@ -5,21 +5,21 @@
     "channel_id": 138623,
     "created_at": "2026-08-07 11:33:54",
     "session_title": "Palworld #6\u250a \u2726 Leveling up and questing!! ~ INDIAN VTUBER  ~ EN/JP | JoqniX",
-    "is_live": true,
+    "is_live": false,
     "risk_level_id": null,
     "start_time": "2026-08-07 11:33:53",
     "source": "https://stream.kick.com/0f3cb0ebce7/ivs/v1/196233775518/ZCkulBebTQZR/2026/8/7/11/33/5RN56eyceYKh/media/hls/master.m3u8",
     "twitch_channel": null,
-    "duration": 0,
+    "duration": 16895000,
     "language": "English",
     "is_mature": false,
     "viewer_count": 2,
     "tags": [],
     "thumbnail": {
-      "src": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/5RN56eyceYKh/720.webp?versionId=aPMGHU44nW3vw5cEkLit.6bSHny6GWjd",
-      "srcset": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/5RN56eyceYKh/1080.webp?versionId=v6jNI7blVj4TAsddG6gQ3FjyGOfoScQi 1920w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/5RN56eyceYKh/720.webp?versionId=aPMGHU44nW3vw5cEkLit.6bSHny6GWjd 1280w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/5RN56eyceYKh/360.webp?versionId=KF13LK5t0TvUiMJUs6Qlp9k1FBtNYenF 480w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/5RN56eyceYKh/160.webp?versionId=d1zbglAjusLxVOPj.EWaGX85jnCzh5V_ 284w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/5RN56eyceYKh/480.webp?versionId=zuj3ghcsEC3T0jU.EjBMKTN9_JvkW6MU 640w"
+      "src": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/5RN56eyceYKh/720.webp",
+      "srcset": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/5RN56eyceYKh/1080.webp 1920w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/5RN56eyceYKh/720.webp 1280w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/5RN56eyceYKh/360.webp 480w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/5RN56eyceYKh/160.webp 284w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/5RN56eyceYKh/480.webp 640w"
     },
-    "views": 0,
+    "views": 8,
     "video": {
       "id": 116783444,
       "live_stream_id": 121083009,
@@ -28,9 +28,9 @@
       "s3": null,
       "trading_platform_id": null,
       "created_at": "2026-08-07T11:33:54.000000Z",
-      "updated_at": "2026-08-07T11:33:54.000000Z",
+      "updated_at": "2026-08-07T16:17:08.000000Z",
       "uuid": "c32f32f6-09bb-4b32-be4c-a1ea2b8c66b9",
-      "views": 0,
+      "views": 8,
       "deleted_at": null,
       "is_pruned": false,
       "is_private": false,
@@ -53,7 +53,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 240,
+        "viewers": 271,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -116,7 +116,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 240,
+        "viewers": 271,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -179,7 +179,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 240,
+        "viewers": 271,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -242,7 +242,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 240,
+        "viewers": 271,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -305,7 +305,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 240,
+        "viewers": 271,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",

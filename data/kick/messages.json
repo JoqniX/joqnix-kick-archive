@@ -7,6 +7,49 @@
   "data": {
     "messages": [
       {
+        "id": "b78baf37-5d79-407e-a809-9626fa2302f5",
+        "chat_id": 138623,
+        "user_id": 140223,
+        "content": "thank you for coming by to the stream minna~ cya in the fireworks stream tmrw!",
+        "type": "message",
+        "metadata": "{\"sender_type\":\"user\"}",
+        "created_at": "2026-08-07T16:14:58Z",
+        "sender": {
+          "id": 140223,
+          "slug": "joqnix",
+          "username": "joqnix",
+          "identity": {
+            "color": "#B9D6F6",
+            "badges": [
+              {
+                "type": "broadcaster",
+                "text": "Broadcaster",
+                "sort_order": 13
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "kick_founder22",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/kick_founder22_2a2d3875-276e-4d87-ab63-d7578d2e10c0.png",
+                "selected": false,
+                "sort_order": 2
+              },
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/4_f84754ee-17ab-49dc-ac78-734e429d7291.png",
+                "metadata": {
+                  "level": 4
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
         "id": "3462e234-3b9e-49d4-91a9-d63115250727",
         "chat_id": 138623,
         "user_id": 7404530,
@@ -130,52 +173,9 @@
             ]
           }
         }
-      },
-      {
-        "id": "1c86fe3c-121a-4140-9710-0011ee6dcfa2",
-        "chat_id": 138623,
-        "user_id": 140223,
-        "content": "thank you for coming by tonight~ cya in the next stream~ .w. otsujoq~",
-        "type": "message",
-        "metadata": null,
-        "created_at": "2026-08-06T16:29:34Z",
-        "sender": {
-          "id": 140223,
-          "slug": "joqnix",
-          "username": "joqnix",
-          "identity": {
-            "color": "#B9D6F6",
-            "badges": [
-              {
-                "type": "broadcaster",
-                "text": "Broadcaster",
-                "sort_order": 13
-              }
-            ],
-            "badges_v2": [
-              {
-                "name": "kick_founder22",
-                "badge_type": "global",
-                "image_url": "https://ext.cdn.kick.com/chat/badges/kick_founder22_2a2d3875-276e-4d87-ab63-d7578d2e10c0.png",
-                "selected": false,
-                "sort_order": 2
-              },
-              {
-                "name": "level",
-                "badge_type": "global",
-                "image_url": "https://ext.cdn.kick.com/chat/badges/4_f84754ee-17ab-49dc-ac78-734e429d7291.png",
-                "metadata": {
-                  "level": 4
-                },
-                "selected": false,
-                "sort_order": 1
-              }
-            ]
-          }
-        }
       }
     ],
-    "cursor": "1785756772946304",
+    "cursor": "1785757510763127",
     "pinned_message": {
       "message": {
         "id": "daffdacc-af3b-40e0-af16-6b803ed58b72",
@@ -257,7 +257,7 @@
           ]
         }
       },
-      "duration": 969
+      "duration": 910
     }
   }
 }
