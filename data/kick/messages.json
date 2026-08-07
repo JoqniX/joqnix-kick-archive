@@ -7,6 +7,221 @@
   "data": {
     "messages": [
       {
+        "id": "1c86fe3c-121a-4140-9710-0011ee6dcfa2",
+        "chat_id": 138623,
+        "user_id": 140223,
+        "content": "thank you for coming by tonight~ cya in the next stream~ .w. otsujoq~",
+        "type": "message",
+        "metadata": null,
+        "created_at": "2026-08-06T16:29:34Z",
+        "sender": {
+          "id": 140223,
+          "slug": "joqnix",
+          "username": "joqnix",
+          "identity": {
+            "color": "#B9D6F6",
+            "badges": [
+              {
+                "type": "broadcaster",
+                "text": "Broadcaster",
+                "sort_order": 13
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "kick_founder22",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/kick_founder22_2a2d3875-276e-4d87-ab63-d7578d2e10c0.png",
+                "selected": false,
+                "sort_order": 2
+              },
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/4_f84754ee-17ab-49dc-ac78-734e429d7291.png",
+                "metadata": {
+                  "level": 4
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "24bcde44-1e4c-4e97-ab20-9a4e39b25c83",
+        "chat_id": 138623,
+        "user_id": 8467641,
+        "content": "Your voice is very pleasant.",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1786029899844\"}",
+        "created_at": "2026-08-06T15:25:00Z",
+        "sender": {
+          "id": 8467641,
+          "slug": "akakakashi015",
+          "username": "Akakakashi015",
+          "identity": {
+            "color": "#E5FFAB",
+            "badges": [],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/18_cd2f7f82-87c8-418b-8758-93789e5d1a14.png",
+                "metadata": {
+                  "level": 18
+                },
+                "selected": true,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "d7465694-9c72-4d39-a20f-ef30aee76781",
+        "chat_id": 138623,
+        "user_id": 8467641,
+        "content": "aka kakashi",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1786029864166\"}",
+        "created_at": "2026-08-06T15:24:25Z",
+        "sender": {
+          "id": 8467641,
+          "slug": "akakakashi015",
+          "username": "Akakakashi015",
+          "identity": {
+            "color": "#E5FFAB",
+            "badges": [],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/18_cd2f7f82-87c8-418b-8758-93789e5d1a14.png",
+                "metadata": {
+                  "level": 18
+                },
+                "selected": true,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "6c4d2b0f-dbda-4db3-99e7-37b4b792c111",
+        "chat_id": 138623,
+        "user_id": 8467641,
+        "content": "Greetings from T\u00fcrkiye",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1786029826080\"}",
+        "created_at": "2026-08-06T15:23:46Z",
+        "sender": {
+          "id": 8467641,
+          "slug": "akakakashi015",
+          "username": "Akakakashi015",
+          "identity": {
+            "color": "#E5FFAB",
+            "badges": [],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/18_cd2f7f82-87c8-418b-8758-93789e5d1a14.png",
+                "metadata": {
+                  "level": 18
+                },
+                "selected": true,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "14054d76-001c-43c1-895c-e22a68035ac2",
+        "chat_id": 138623,
+        "user_id": 7404530,
+        "content": "Akakakashi015 just followed the stream! \ud83d\udc9a",
+        "type": "message",
+        "metadata": null,
+        "created_at": "2026-08-06T15:23:43Z",
+        "sender": {
+          "id": 7404530,
+          "slug": "fossabot",
+          "username": "Fossabot",
+          "identity": {
+            "color": "#DEB2FF",
+            "badges": [
+              {
+                "type": "moderator",
+                "text": "Moderator",
+                "sort_order": 12
+              },
+              {
+                "type": "verified",
+                "text": "Verified channel",
+                "sort_order": 14
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+                "metadata": {
+                  "level": 1
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "d23bd1af-25be-464d-b40c-94abbf50bed4",
+        "chat_id": 138623,
+        "user_id": 4377088,
+        "content": "Thanks for the follow @Akakakashi015",
+        "type": "message",
+        "metadata": null,
+        "created_at": "2026-08-06T15:23:43Z",
+        "sender": {
+          "id": 4377088,
+          "slug": "kickbot",
+          "username": "KickBot",
+          "identity": {
+            "color": "#E9113C",
+            "badges": [
+              {
+                "type": "moderator",
+                "text": "Moderator",
+                "sort_order": 12
+              },
+              {
+                "type": "verified",
+                "text": "Verified channel",
+                "sort_order": 14
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+                "metadata": {
+                  "level": 1
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
         "id": "f97ee397-dbd5-48a8-bbb3-0719f94752e2",
         "chat_id": 138623,
         "user_id": 140223,
@@ -130,91 +345,9 @@
             ]
           }
         }
-      },
-      {
-        "id": "25629660-c784-4f2d-a3ff-df3f9a1fa5a7",
-        "chat_id": 138623,
-        "user_id": 7404530,
-        "content": "Juanluid just followed the stream! \ud83d\udc9a",
-        "type": "message",
-        "metadata": null,
-        "created_at": "2026-08-05T22:51:52Z",
-        "sender": {
-          "id": 7404530,
-          "slug": "fossabot",
-          "username": "Fossabot",
-          "identity": {
-            "color": "#DEB2FF",
-            "badges": [
-              {
-                "type": "moderator",
-                "text": "Moderator",
-                "sort_order": 12
-              },
-              {
-                "type": "verified",
-                "text": "Verified channel",
-                "sort_order": 14
-              }
-            ],
-            "badges_v2": [
-              {
-                "name": "level",
-                "badge_type": "global",
-                "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
-                "metadata": {
-                  "level": 1
-                },
-                "selected": false,
-                "sort_order": 1
-              }
-            ]
-          }
-        }
-      },
-      {
-        "id": "cd67fe31-eacc-440d-93e2-2173c1c7836d",
-        "chat_id": 138623,
-        "user_id": 4377088,
-        "content": "Thanks for the follow @Juanluid",
-        "type": "message",
-        "metadata": null,
-        "created_at": "2026-08-05T22:51:52Z",
-        "sender": {
-          "id": 4377088,
-          "slug": "kickbot",
-          "username": "KickBot",
-          "identity": {
-            "color": "#E9113C",
-            "badges": [
-              {
-                "type": "moderator",
-                "text": "Moderator",
-                "sort_order": 12
-              },
-              {
-                "type": "verified",
-                "text": "Verified channel",
-                "sort_order": 14
-              }
-            ],
-            "badges_v2": [
-              {
-                "name": "level",
-                "badge_type": "global",
-                "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
-                "metadata": {
-                  "level": 1
-                },
-                "selected": false,
-                "sort_order": 1
-              }
-            ]
-          }
-        }
       }
     ],
-    "cursor": "1785633788487799",
+    "cursor": "1785679741350878",
     "pinned_message": null
   }
 }
