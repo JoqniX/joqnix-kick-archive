@@ -1,5 +1,68 @@
 [
   {
+    "id": 121083009,
+    "slug": "aabc0c31-palworld-6-leveling-up-and-questing-indian-vtuber-enjp-joqnix",
+    "channel_id": 138623,
+    "created_at": "2026-08-07 11:33:54",
+    "session_title": "Palworld #6\u250a \u2726 Leveling up and questing!! ~ INDIAN VTUBER  ~ EN/JP | JoqniX",
+    "is_live": true,
+    "risk_level_id": null,
+    "start_time": "2026-08-07 11:33:53",
+    "source": "https://stream.kick.com/0f3cb0ebce7/ivs/v1/196233775518/ZCkulBebTQZR/2026/8/7/11/33/5RN56eyceYKh/media/hls/master.m3u8",
+    "twitch_channel": null,
+    "duration": 0,
+    "language": "English",
+    "is_mature": false,
+    "viewer_count": 2,
+    "tags": [],
+    "thumbnail": {
+      "src": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/5RN56eyceYKh/720.webp?versionId=uPiHtCafe2QMNu9u4V1D9HrYdsnLOlva",
+      "srcset": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/5RN56eyceYKh/1080.webp?versionId=s2zRFguVlY3EQE5utDKd5Bkfb_czN2jO 1920w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/5RN56eyceYKh/720.webp?versionId=uPiHtCafe2QMNu9u4V1D9HrYdsnLOlva 1280w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/5RN56eyceYKh/360.webp?versionId=OrsYJVHurOzzIpwvR4ZuM6FMjYU4xGkt 480w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/5RN56eyceYKh/160.webp?versionId=53RMuU.S7_lYx9GzUQr4.TkGR6wtRmKc 284w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/5RN56eyceYKh/480.webp?versionId=xcK9K8_cn4x8dcggz.AElZQcIe9PZkFv 640w"
+    },
+    "views": 0,
+    "video": {
+      "id": 116783444,
+      "live_stream_id": 121083009,
+      "slug": null,
+      "thumb": null,
+      "s3": null,
+      "trading_platform_id": null,
+      "created_at": "2026-08-07T11:33:54.000000Z",
+      "updated_at": "2026-08-07T11:33:54.000000Z",
+      "uuid": "c32f32f6-09bb-4b32-be4c-a1ea2b8c66b9",
+      "views": 0,
+      "deleted_at": null,
+      "is_pruned": false,
+      "is_private": false,
+      "status": "public"
+    },
+    "categories": [
+      {
+        "id": 415,
+        "category_id": 1,
+        "name": "VTubers",
+        "slug": "vtubers",
+        "tags": [
+          "Action",
+          "Puzzle",
+          "Adventure Games",
+          "Shooter",
+          "FPS"
+        ],
+        "description": null,
+        "deleted_at": null,
+        "is_mature": false,
+        "is_promoted": false,
+        "viewers": 135,
+        "is_fallback": false,
+        "banner": {
+          "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
+          "url": "https://files.kick.com/images/subcategories/415/banner/20afafe3-9025-4d93-9bab-5d4e7694807a"
+        }
+      }
+    ]
+  },
+  {
     "id": 120913055,
     "slug": "9f893c38-palworld-5-leveling-up-and-questing-indian-vtuber-enjp-joqnix",
     "channel_id": 138623,
@@ -53,7 +116,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 214,
+        "viewers": 135,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -116,7 +179,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 214,
+        "viewers": 135,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -179,7 +242,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 214,
+        "viewers": 135,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -242,7 +305,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 214,
+        "viewers": 135,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -305,7 +368,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 214,
+        "viewers": 135,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -368,70 +431,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 214,
-        "is_fallback": false,
-        "banner": {
-          "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
-          "url": "https://files.kick.com/images/subcategories/415/banner/20afafe3-9025-4d93-9bab-5d4e7694807a"
-        }
-      }
-    ]
-  },
-  {
-    "id": 119990308,
-    "slug": "0e98fbe7-palworld-1-first-time-ever-playing-palworld-indian-vtuber-enjp-joqnix",
-    "channel_id": 138623,
-    "created_at": "2026-07-31 12:00:14",
-    "session_title": "Palworld #1\u250a \u2726 First time ever playing Palworld! INDIAN VTUBER  ~ EN/JP | JoqniX",
-    "is_live": false,
-    "risk_level_id": null,
-    "start_time": "2026-07-31 12:00:11",
-    "source": "https://stream.kick.com/0f3cb0ebce7/ivs/v1/196233775518/ZCkulBebTQZR/2026/7/31/12/0/5DwFYiJ4syIM/media/hls/master.m3u8",
-    "twitch_channel": null,
-    "duration": 689000,
-    "language": "English",
-    "is_mature": true,
-    "viewer_count": 2,
-    "tags": [],
-    "thumbnail": {
-      "src": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/5DwFYiJ4syIM/720.webp",
-      "srcset": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/5DwFYiJ4syIM/1080.webp 1920w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/5DwFYiJ4syIM/720.webp 1280w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/5DwFYiJ4syIM/360.webp 480w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/5DwFYiJ4syIM/160.webp 284w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/5DwFYiJ4syIM/480.webp 640w"
-    },
-    "views": 8,
-    "video": {
-      "id": 115691225,
-      "live_stream_id": 119990308,
-      "slug": null,
-      "thumb": null,
-      "s3": null,
-      "trading_platform_id": null,
-      "created_at": "2026-07-31T12:00:15.000000Z",
-      "updated_at": "2026-07-31T12:13:14.000000Z",
-      "uuid": "44a79aa7-cc3f-4cb4-b724-89327c1cb006",
-      "views": 8,
-      "deleted_at": null,
-      "is_pruned": false,
-      "is_private": false,
-      "status": "public"
-    },
-    "categories": [
-      {
-        "id": 415,
-        "category_id": 1,
-        "name": "VTubers",
-        "slug": "vtubers",
-        "tags": [
-          "Action",
-          "Puzzle",
-          "Adventure Games",
-          "Shooter",
-          "FPS"
-        ],
-        "description": null,
-        "deleted_at": null,
-        "is_mature": false,
-        "is_promoted": false,
-        "viewers": 214,
+        "viewers": 135,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
