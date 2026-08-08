@@ -289,5 +289,35 @@
         ]
       }
     }
+  },
+  {
+    "id": "3c8182c0-84d3-4bc0-b6da-d982f8a38f3c",
+    "chat_id": 138623,
+    "user_id": 89110955,
+    "content": "are you a woman",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1786200817095\"}",
+    "created_at": "2026-08-08T14:53:38Z",
+    "sender": {
+      "id": 89110955,
+      "slug": "whynotpregnantyet",
+      "username": "WhyNotPregnantYet",
+      "identity": {
+        "color": "#55FFC7",
+        "badges": [],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/8_47c056a6-e00e-41dd-a540-df0e10f98329.png",
+            "metadata": {
+              "level": 8
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
   }
 ]
