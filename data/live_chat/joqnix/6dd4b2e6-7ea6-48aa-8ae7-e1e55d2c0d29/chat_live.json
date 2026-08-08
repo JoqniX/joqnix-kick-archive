@@ -319,5 +319,48 @@
         ]
       }
     }
+  },
+  {
+    "id": "0d9d91e6-009a-4d3d-80bf-10c56910b49b",
+    "chat_id": 138623,
+    "user_id": 140223,
+    "content": "thank you for coming by tonight! cya in the next one otsukareee~",
+    "type": "message",
+    "metadata": "{\"sender_type\":\"user\"}",
+    "created_at": "2026-08-08T15:03:25Z",
+    "sender": {
+      "id": 140223,
+      "slug": "joqnix",
+      "username": "joqnix",
+      "identity": {
+        "color": "#B9D6F6",
+        "badges": [
+          {
+            "type": "broadcaster",
+            "text": "Broadcaster",
+            "sort_order": 13
+          }
+        ],
+        "badges_v2": [
+          {
+            "name": "kick_founder22",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/kick_founder22_2a2d3875-276e-4d87-ab63-d7578d2e10c0.png",
+            "selected": false,
+            "sort_order": 2
+          },
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/4_f84754ee-17ab-49dc-ac78-734e429d7291.png",
+            "metadata": {
+              "level": 4
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
   }
 ]
