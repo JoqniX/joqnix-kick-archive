@@ -71,5 +71,35 @@
         ]
       }
     }
+  },
+  {
+    "id": "ef39ab4e-2c2a-45c3-a351-99bd88203d68",
+    "chat_id": 138623,
+    "user_id": 39302531,
+    "content": "buffering",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1786447816302\"}",
+    "created_at": "2026-08-11T11:30:17Z",
+    "sender": {
+      "id": 39302531,
+      "slug": "jobiltwiggy",
+      "username": "Jobiltwiggy",
+      "identity": {
+        "color": "#E26EFF",
+        "badges": [],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/20_8778162c-8b1f-4b3a-88fe-4dbddb629d16.png",
+            "metadata": {
+              "level": 20
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
   }
 ]
