@@ -1,5 +1,194 @@
 [
   {
+    "id": 121724107,
+    "slug": "0c0a19d9bca7fe96-birthday-stream-counting-stars-joqnixbday2026-enjp-joqnix",
+    "channel_id": 138623,
+    "created_at": "2026-08-11 11:13:39",
+    "session_title": "Birthday Stream\u30fb\u8a95\u751f\u65e5\u914d\u4fe1\u250a \u2726 Counting Stars \u2728#JoqniXBDAY2026 ~ EN/JP | JoqniX",
+    "is_live": true,
+    "risk_level_id": null,
+    "start_time": "2026-08-11 11:13:38",
+    "source": "https://stream.kick.com/0f3cb0ebce7/ivs/v1/196233775518/ZCkulBebTQZR/2026/8/11/11/13/zXxa13vibRtO/media/hls/master.m3u8",
+    "twitch_channel": null,
+    "duration": 0,
+    "language": "English",
+    "is_mature": false,
+    "viewer_count": 0,
+    "tags": [],
+    "thumbnail": {
+      "src": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/zXxa13vibRtO/720.webp",
+      "srcset": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/zXxa13vibRtO/1080.webp 1920w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/zXxa13vibRtO/720.webp 1280w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/zXxa13vibRtO/360.webp 480w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/zXxa13vibRtO/160.webp 284w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/zXxa13vibRtO/480.webp 640w"
+    },
+    "views": 0,
+    "video": {
+      "id": 117424259,
+      "live_stream_id": 121724107,
+      "slug": null,
+      "thumb": null,
+      "s3": null,
+      "trading_platform_id": null,
+      "created_at": "2026-08-11T11:13:39.000000Z",
+      "updated_at": "2026-08-11T11:13:39.000000Z",
+      "uuid": "1acd998c-c0e2-4be9-be0f-b112b2926ff2",
+      "views": 0,
+      "deleted_at": null,
+      "is_pruned": false,
+      "is_private": false,
+      "status": "public"
+    },
+    "categories": [
+      {
+        "id": 415,
+        "category_id": 1,
+        "name": "VTubers",
+        "slug": "vtubers",
+        "tags": [
+          "Action",
+          "Puzzle",
+          "Adventure Games",
+          "Shooter",
+          "FPS"
+        ],
+        "description": null,
+        "deleted_at": null,
+        "is_mature": false,
+        "is_promoted": false,
+        "viewers": 103,
+        "is_fallback": false,
+        "banner": {
+          "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
+          "url": "https://files.kick.com/images/subcategories/415/banner/20afafe3-9025-4d93-9bab-5d4e7694807a"
+        }
+      }
+    ]
+  },
+  {
+    "id": 121723761,
+    "slug": "2802d3b5f0096982-birthday-stream-counting-stars-joqnixbday2026-enjp-joqnix",
+    "channel_id": 138623,
+    "created_at": "2026-08-11 11:08:35",
+    "session_title": "Birthday Stream\u30fb\u8a95\u751f\u65e5\u914d\u4fe1\u250a \u2726 Counting Stars \u2728#JoqniXBDAY2026 ~ EN/JP | JoqniX",
+    "is_live": false,
+    "risk_level_id": null,
+    "start_time": "2026-08-11 11:08:34",
+    "source": "https://stream.kick.com/0f3cb0ebce7/ivs/v1/196233775518/ZCkulBebTQZR/2026/8/11/11/8/R1fMz5bpvzP8/media/hls/master.m3u8",
+    "twitch_channel": null,
+    "duration": 19000,
+    "language": "English",
+    "is_mature": false,
+    "viewer_count": 1,
+    "tags": [],
+    "thumbnail": {
+      "src": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/R1fMz5bpvzP8/720.webp",
+      "srcset": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/R1fMz5bpvzP8/1080.webp 1920w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/R1fMz5bpvzP8/720.webp 1280w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/R1fMz5bpvzP8/360.webp 480w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/R1fMz5bpvzP8/160.webp 284w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/R1fMz5bpvzP8/480.webp 640w"
+    },
+    "views": 4,
+    "video": {
+      "id": 117423913,
+      "live_stream_id": 121723761,
+      "slug": null,
+      "thumb": null,
+      "s3": null,
+      "trading_platform_id": null,
+      "created_at": "2026-08-11T11:08:35.000000Z",
+      "updated_at": "2026-08-11T11:10:31.000000Z",
+      "uuid": "cfb18042-7d44-405e-a861-35b8985cdf46",
+      "views": 4,
+      "deleted_at": null,
+      "is_pruned": false,
+      "is_private": false,
+      "status": "public"
+    },
+    "categories": [
+      {
+        "id": 415,
+        "category_id": 1,
+        "name": "VTubers",
+        "slug": "vtubers",
+        "tags": [
+          "Action",
+          "Puzzle",
+          "Adventure Games",
+          "Shooter",
+          "FPS"
+        ],
+        "description": null,
+        "deleted_at": null,
+        "is_mature": false,
+        "is_promoted": false,
+        "viewers": 103,
+        "is_fallback": false,
+        "banner": {
+          "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
+          "url": "https://files.kick.com/images/subcategories/415/banner/20afafe3-9025-4d93-9bab-5d4e7694807a"
+        }
+      }
+    ]
+  },
+  {
+    "id": 121723673,
+    "slug": "451f9ccab4cbc00e-birthday-stream-counting-stars-joqnixbday2026-enjp-joqnix",
+    "channel_id": 138623,
+    "created_at": "2026-08-11 11:07:20",
+    "session_title": "Birthday Stream\u30fb\u8a95\u751f\u65e5\u914d\u4fe1\u250a \u2726 Counting Stars \u2728#JoqniXBDAY2026 ~ EN/JP | JoqniX",
+    "is_live": false,
+    "risk_level_id": null,
+    "start_time": "2026-08-11 11:07:19",
+    "source": "https://stream.kick.com/0f3cb0ebce7/ivs/v1/196233775518/ZCkulBebTQZR/2026/8/11/11/7/Ks5kRm3UhdIZ/media/hls/master.m3u8",
+    "twitch_channel": null,
+    "duration": 46000,
+    "language": "English",
+    "is_mature": false,
+    "viewer_count": 1,
+    "tags": [],
+    "thumbnail": {
+      "src": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/Ks5kRm3UhdIZ/720.webp",
+      "srcset": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/Ks5kRm3UhdIZ/1080.webp 1920w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/Ks5kRm3UhdIZ/720.webp 1280w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/Ks5kRm3UhdIZ/360.webp 480w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/Ks5kRm3UhdIZ/160.webp 284w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/Ks5kRm3UhdIZ/480.webp 640w"
+    },
+    "views": 4,
+    "video": {
+      "id": 117423825,
+      "live_stream_id": 121723673,
+      "slug": null,
+      "thumb": null,
+      "s3": null,
+      "trading_platform_id": null,
+      "created_at": "2026-08-11T11:07:20.000000Z",
+      "updated_at": "2026-08-11T11:09:38.000000Z",
+      "uuid": "c4658a09-e1d1-45d7-a8f3-dc83bc3974b7",
+      "views": 4,
+      "deleted_at": null,
+      "is_pruned": false,
+      "is_private": false,
+      "status": "public"
+    },
+    "categories": [
+      {
+        "id": 415,
+        "category_id": 1,
+        "name": "VTubers",
+        "slug": "vtubers",
+        "tags": [
+          "Action",
+          "Puzzle",
+          "Adventure Games",
+          "Shooter",
+          "FPS"
+        ],
+        "description": null,
+        "deleted_at": null,
+        "is_mature": false,
+        "is_promoted": false,
+        "viewers": 103,
+        "is_fallback": false,
+        "banner": {
+          "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
+          "url": "https://files.kick.com/images/subcategories/415/banner/20afafe3-9025-4d93-9bab-5d4e7694807a"
+        }
+      }
+    ]
+  },
+  {
     "id": 121581394,
     "slug": "d67de7ab-birthday-countdown-counting-down-to-my-birthday-joqnixbday2026-enjp-joqnix",
     "channel_id": 138623,
@@ -53,7 +242,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 127,
+        "viewers": 103,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -116,7 +305,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 127,
+        "viewers": 103,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -179,7 +368,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 127,
+        "viewers": 103,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -242,7 +431,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 127,
+        "viewers": 103,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -305,7 +494,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 127,
+        "viewers": 103,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -368,7 +557,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 127,
+        "viewers": 103,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
