@@ -1,0 +1,27 @@
+[
+  {
+    "id": "dd4608c8-ee87-4b5d-b429-4446cfab66f8",
+    "timestamp": "2026-08-11T11:14:47Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 140223,
+      "username": "joqnix",
+      "avatar": "https://files.kick.com/images/user/140223/profile_image/conversion/f1154229-3d49-4651-888f-861228baf077-fullsize.webp",
+      "color": "#B9D6F6",
+      "badges": [
+        {
+          "type": "broadcaster",
+          "text": "Broadcaster"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "wah why internet issues tonight wah"
+      }
+    ],
+    "type": "message"
+  }
+]
