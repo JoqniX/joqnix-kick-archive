@@ -7,6 +7,49 @@
   "data": {
     "messages": [
       {
+        "id": "e9734b89-102c-495c-9ebf-d5b95a6f1bf3",
+        "chat_id": 138623,
+        "user_id": 140223,
+        "content": "You can still post your birthday wishes for me here - https://onxa.link/JoqniXBDay2026",
+        "type": "message",
+        "metadata": "{\"sender_type\":\"user\"}",
+        "created_at": "2026-08-12T11:47:30Z",
+        "sender": {
+          "id": 140223,
+          "slug": "joqnix",
+          "username": "joqnix",
+          "identity": {
+            "color": "#B9D6F6",
+            "badges": [
+              {
+                "type": "broadcaster",
+                "text": "Broadcaster",
+                "sort_order": 13
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "kick_founder22",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/kick_founder22_2a2d3875-276e-4d87-ab63-d7578d2e10c0.png",
+                "selected": true,
+                "sort_order": 2
+              },
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/5_62167108-f245-406a-9ff6-284bf314c535.png",
+                "metadata": {
+                  "level": 5
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
         "id": "90d051de-04f7-4c3e-81bf-2024c13087d8",
         "chat_id": 138623,
         "user_id": 140223,
@@ -343,39 +386,91 @@
             ]
           }
         }
-      },
-      {
-        "id": "ef39ab4e-2c2a-45c3-a351-99bd88203d68",
-        "chat_id": 138623,
-        "user_id": 39302531,
-        "content": "buffering",
+      }
+    ],
+    "cursor": "1786368105199725",
+    "pinned_message": {
+      "message": {
+        "id": "90d051de-04f7-4c3e-81bf-2024c13087d8",
+        "chatroom_id": 138621,
+        "content": "My Internet is unstable today! so please bear with me!",
         "type": "message",
-        "metadata": "{\"message_ref\":\"1786447816302\"}",
-        "created_at": "2026-08-11T11:30:17Z",
+        "created_at": "2026-08-12T11:22:41+00:00",
         "sender": {
-          "id": 39302531,
-          "slug": "jobiltwiggy",
-          "username": "Jobiltwiggy",
+          "id": 140223,
+          "username": "joqnix",
+          "slug": "joqnix",
           "identity": {
-            "color": "#E26EFF",
-            "badges": [],
+            "color": "#B9D6F6",
+            "badges": [
+              {
+                "type": "broadcaster",
+                "text": "Broadcaster",
+                "sort_order": 13
+              }
+            ],
             "badges_v2": [
+              {
+                "name": "kick_founder22",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/kick_founder22_2a2d3875-276e-4d87-ab63-d7578d2e10c0.png",
+                "selected": true,
+                "sort_order": 2
+              },
               {
                 "name": "level",
                 "badge_type": "global",
-                "image_url": "https://ext.cdn.kick.com/chat/badges/20_8778162c-8b1f-4b3a-88fe-4dbddb629d16.png",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/5_62167108-f245-406a-9ff6-284bf314c535.png",
                 "metadata": {
-                  "level": 20
+                  "level": 5
                 },
                 "selected": false,
                 "sort_order": 1
               }
             ]
           }
+        },
+        "metadata": {
+          "sender_type": "user"
         }
-      }
-    ],
-    "cursor": "1786201405249936",
-    "pinned_message": null
+      },
+      "finish_at": "2026-08-13T07:29:22.185546Z",
+      "pinned_by": {
+        "id": 140223,
+        "username": "joqnix",
+        "slug": "joqnix",
+        "identity": {
+          "color": "#B9D6F6",
+          "badges": [
+            {
+              "type": "broadcaster",
+              "text": "Broadcaster",
+              "active": true,
+              "sort_order": 13
+            }
+          ],
+          "badges_v2": [
+            {
+              "name": "kick_founder22",
+              "badge_type": "global",
+              "image_url": "https://ext.cdn.kick.com/chat/badges/kick_founder22_2a2d3875-276e-4d87-ab63-d7578d2e10c0.png",
+              "selected": true,
+              "sort_order": 2
+            },
+            {
+              "name": "level",
+              "badge_type": "global",
+              "image_url": "https://ext.cdn.kick.com/chat/badges/5_62167108-f245-406a-9ff6-284bf314c535.png",
+              "metadata": {
+                "level": 5
+              },
+              "selected": false,
+              "sort_order": 1
+            }
+          ]
+        }
+      },
+      "duration": 1163
+    }
   }
 }
