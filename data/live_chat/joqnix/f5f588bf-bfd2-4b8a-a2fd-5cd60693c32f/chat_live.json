@@ -82,5 +82,46 @@
         ]
       }
     }
+  },
+  {
+    "id": "58fe328c-2309-453d-8241-fade1438ad99",
+    "chat_id": 138623,
+    "user_id": 4377088,
+    "content": "Thanks for the follow @Ethangood7094",
+    "type": "message",
+    "metadata": null,
+    "created_at": "2026-08-14T13:06:32Z",
+    "sender": {
+      "id": 4377088,
+      "slug": "kickbot",
+      "username": "KickBot",
+      "identity": {
+        "color": "#E9113C",
+        "badges": [
+          {
+            "type": "moderator",
+            "text": "Moderator",
+            "sort_order": 12
+          },
+          {
+            "type": "verified",
+            "text": "Verified channel",
+            "sort_order": 14
+          }
+        ],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+            "metadata": {
+              "level": 1
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
   }
 ]
