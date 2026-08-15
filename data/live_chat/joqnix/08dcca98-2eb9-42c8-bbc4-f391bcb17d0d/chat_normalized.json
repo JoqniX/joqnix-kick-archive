@@ -1,0 +1,31 @@
+[
+  {
+    "id": "c32f6fdb-ce1b-4406-8b76-48b836c099a7",
+    "timestamp": "2026-08-15T13:01:43Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 7404530,
+      "username": "Fossabot",
+      "avatar": "https://files.kick.com/images/user/7404530/profile_image/conversion/104a9b9a-3882-49b1-aa55-22eae3dab24f-fullsize.webp",
+      "color": "#DEB2FF",
+      "badges": [
+        {
+          "type": "moderator",
+          "text": "Moderator"
+        },
+        {
+          "type": "verified",
+          "text": "Verified channel"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "joqnix just went live playing VTubers!"
+      }
+    ],
+    "type": "message"
+  }
+]
