@@ -53,7 +53,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 194,
+        "viewers": 141,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -116,7 +116,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 194,
+        "viewers": 141,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -179,7 +179,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 194,
+        "viewers": 141,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -242,196 +242,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 194,
-        "is_fallback": false,
-        "banner": {
-          "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
-          "url": "https://files.kick.com/images/subcategories/415/banner/20afafe3-9025-4d93-9bab-5d4e7694807a"
-        }
-      }
-    ]
-  },
-  {
-    "id": 121888138,
-    "slug": "318038989460794a-birthday-afterparty-after-party-dayoo-joqnixbday2026-enjp-joqnix",
-    "channel_id": 138623,
-    "created_at": "2026-08-12 11:10:20",
-    "session_title": "Birthday AfterParty\u30fb\u8a95\u751f\u65e5\u914d\u4fe1\u250a \u2726 After party dayoo!  \u2728#JoqniXBDAY2026 ~ EN/JP | JoqniX",
-    "is_live": false,
-    "risk_level_id": null,
-    "start_time": "2026-08-12 11:10:18",
-    "source": "https://stream.kick.com/0f3cb0ebce7/ivs/v1/196233775518/ZCkulBebTQZR/2026/8/12/11/9/voRennFArVAu/media/hls/master.m3u8",
-    "twitch_channel": null,
-    "duration": 6296000,
-    "language": "English",
-    "is_mature": false,
-    "viewer_count": 2,
-    "tags": [],
-    "thumbnail": {
-      "src": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/voRennFArVAu/720.webp",
-      "srcset": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/voRennFArVAu/1080.webp 1920w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/voRennFArVAu/720.webp 1280w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/voRennFArVAu/360.webp 480w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/voRennFArVAu/160.webp 284w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/voRennFArVAu/480.webp 640w"
-    },
-    "views": 8,
-    "video": {
-      "id": 117587753,
-      "live_stream_id": 121888138,
-      "slug": null,
-      "thumb": null,
-      "s3": null,
-      "trading_platform_id": null,
-      "created_at": "2026-08-12T11:10:20.000000Z",
-      "updated_at": "2026-08-12T12:56:52.000000Z",
-      "uuid": "64d223fe-463a-4e83-a6a9-59af2d6d21eb",
-      "views": 8,
-      "deleted_at": null,
-      "is_pruned": false,
-      "is_private": false,
-      "status": "public"
-    },
-    "categories": [
-      {
-        "id": 415,
-        "category_id": 1,
-        "name": "VTubers",
-        "slug": "vtubers",
-        "tags": [
-          "Action",
-          "Puzzle",
-          "Adventure Games",
-          "Shooter",
-          "FPS"
-        ],
-        "description": null,
-        "deleted_at": null,
-        "is_mature": false,
-        "is_promoted": false,
-        "viewers": 194,
-        "is_fallback": false,
-        "banner": {
-          "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
-          "url": "https://files.kick.com/images/subcategories/415/banner/20afafe3-9025-4d93-9bab-5d4e7694807a"
-        }
-      }
-    ]
-  },
-  {
-    "id": 121887703,
-    "slug": "242f6fac53e605f7-birthday-afterparty-after-party-dayoo-joqnixbday2026-enjp-joqnix",
-    "channel_id": 138623,
-    "created_at": "2026-08-12 11:04:39",
-    "session_title": "Birthday AfterParty\u30fb\u8a95\u751f\u65e5\u914d\u4fe1\u250a \u2726 After party dayoo!  \u2728#JoqniXBDAY2026 ~ EN/JP | JoqniX",
-    "is_live": false,
-    "risk_level_id": null,
-    "start_time": "2026-08-12 11:04:38",
-    "source": "https://stream.kick.com/0f3cb0ebce7/ivs/v1/196233775518/ZCkulBebTQZR/2026/8/12/11/4/ATQigAdZiMja/media/hls/master.m3u8",
-    "twitch_channel": null,
-    "duration": 319000,
-    "language": "English",
-    "is_mature": false,
-    "viewer_count": 0,
-    "tags": [],
-    "thumbnail": {
-      "src": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/ATQigAdZiMja/720.webp",
-      "srcset": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/ATQigAdZiMja/1080.webp 1920w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/ATQigAdZiMja/720.webp 1280w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/ATQigAdZiMja/360.webp 480w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/ATQigAdZiMja/160.webp 284w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/ATQigAdZiMja/480.webp 640w"
-    },
-    "views": 4,
-    "video": {
-      "id": 117587319,
-      "live_stream_id": 121887703,
-      "slug": null,
-      "thumb": null,
-      "s3": null,
-      "trading_platform_id": null,
-      "created_at": "2026-08-12T11:04:39.000000Z",
-      "updated_at": "2026-08-12T11:11:34.000000Z",
-      "uuid": "a8bb312f-bf67-4d05-bdfe-ceb2f2fcc385",
-      "views": 4,
-      "deleted_at": null,
-      "is_pruned": false,
-      "is_private": false,
-      "status": "public"
-    },
-    "categories": [
-      {
-        "id": 415,
-        "category_id": 1,
-        "name": "VTubers",
-        "slug": "vtubers",
-        "tags": [
-          "Action",
-          "Puzzle",
-          "Adventure Games",
-          "Shooter",
-          "FPS"
-        ],
-        "description": null,
-        "deleted_at": null,
-        "is_mature": false,
-        "is_promoted": false,
-        "viewers": 194,
-        "is_fallback": false,
-        "banner": {
-          "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
-          "url": "https://files.kick.com/images/subcategories/415/banner/20afafe3-9025-4d93-9bab-5d4e7694807a"
-        }
-      }
-    ]
-  },
-  {
-    "id": 121887494,
-    "slug": "cf2337b90db78598-birthday-afterparty-after-party-dayoo-joqnixbday2026-enjp-joqnix",
-    "channel_id": 138623,
-    "created_at": "2026-08-12 11:02:13",
-    "session_title": "Birthday AfterParty\u30fb\u8a95\u751f\u65e5\u914d\u4fe1\u250a \u2726 After party dayoo!  \u2728#JoqniXBDAY2026 ~ EN/JP | JoqniX",
-    "is_live": false,
-    "risk_level_id": null,
-    "start_time": "2026-08-12 11:02:11",
-    "source": "https://stream.kick.com/0f3cb0ebce7/ivs/v1/196233775518/ZCkulBebTQZR/2026/8/12/11/1/0iqEIqdQ4qXO/media/hls/master.m3u8",
-    "twitch_channel": null,
-    "duration": 37000,
-    "language": "English",
-    "is_mature": false,
-    "viewer_count": 1,
-    "tags": [],
-    "thumbnail": {
-      "src": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/0iqEIqdQ4qXO/720.webp",
-      "srcset": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/0iqEIqdQ4qXO/1080.webp 1920w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/0iqEIqdQ4qXO/720.webp 1280w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/0iqEIqdQ4qXO/360.webp 480w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/0iqEIqdQ4qXO/160.webp 284w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/0iqEIqdQ4qXO/480.webp 640w"
-    },
-    "views": 4,
-    "video": {
-      "id": 117587110,
-      "live_stream_id": 121887494,
-      "slug": null,
-      "thumb": null,
-      "s3": null,
-      "trading_platform_id": null,
-      "created_at": "2026-08-12T11:02:13.000000Z",
-      "updated_at": "2026-08-12T11:04:23.000000Z",
-      "uuid": "7c664363-867d-4786-8ce7-69acdf76d110",
-      "views": 4,
-      "deleted_at": null,
-      "is_pruned": false,
-      "is_private": false,
-      "status": "public"
-    },
-    "categories": [
-      {
-        "id": 415,
-        "category_id": 1,
-        "name": "VTubers",
-        "slug": "vtubers",
-        "tags": [
-          "Action",
-          "Puzzle",
-          "Adventure Games",
-          "Shooter",
-          "FPS"
-        ],
-        "description": null,
-        "deleted_at": null,
-        "is_mature": false,
-        "is_promoted": false,
-        "viewers": 194,
+        "viewers": 141,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
