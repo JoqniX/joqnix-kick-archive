@@ -1,0 +1,213 @@
+[
+  {
+    "id": "1e7c5e54-33ed-43a3-aae6-7c302c785dfd",
+    "chat_id": 138623,
+    "user_id": 7404530,
+    "content": "joqnix just went live playing VTubers!",
+    "type": "message",
+    "metadata": "{\"sender_type\":\"user\"}",
+    "created_at": "2026-08-26T11:03:14Z",
+    "sender": {
+      "id": 7404530,
+      "slug": "fossabot",
+      "username": "Fossabot",
+      "identity": {
+        "color": "#DEB2FF",
+        "badges": [
+          {
+            "type": "moderator",
+            "text": "Moderator",
+            "sort_order": 12
+          },
+          {
+            "type": "verified",
+            "text": "Verified channel",
+            "sort_order": 14
+          }
+        ],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+            "metadata": {
+              "level": 1
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "b7f5dcad-24a7-4520-be10-8cf873f78eff",
+    "chat_id": 138623,
+    "user_id": 140223,
+    "content": "Welcome in everyone! Tonight we doing valorant! feel free to come chat with me! please do follow the stream rules! and have a good time! thank you! <3",
+    "type": "message",
+    "metadata": "{\"sender_type\":\"user\"}",
+    "created_at": "2026-08-26T11:12:02Z",
+    "sender": {
+      "id": 140223,
+      "slug": "joqnix",
+      "username": "joqnix",
+      "identity": {
+        "color": "#B9D6F6",
+        "badges": [
+          {
+            "type": "broadcaster",
+            "text": "Broadcaster",
+            "sort_order": 13
+          }
+        ],
+        "badges_v2": [
+          {
+            "name": "kick_founder22",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/kick_founder22_2a2d3875-276e-4d87-ab63-d7578d2e10c0.png",
+            "selected": true,
+            "sort_order": 2
+          },
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/5_62167108-f245-406a-9ff6-284bf314c535.png",
+            "metadata": {
+              "level": 5
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "b7f5dcad-24a7-4520-be10-8cf873f78eff",
+    "chat_id": 138623,
+    "user_id": 140223,
+    "content": "Welcome in everyone! Tonight we doing valorant! feel free to come chat with me! please do follow the stream rules! and have a good time! thank you! <3",
+    "type": "message",
+    "metadata": "{\"sender_type\":\"user\"}",
+    "created_at": "2026-08-26T11:12:02Z",
+    "sender": {
+      "id": 140223,
+      "slug": "joqnix",
+      "username": "joqnix",
+      "identity": {
+        "color": "#B9D6F6",
+        "badges": [
+          {
+            "type": "broadcaster",
+            "text": "Broadcaster",
+            "sort_order": 13
+          }
+        ],
+        "badges_v2": [
+          {
+            "name": "kick_founder22",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/kick_founder22_2a2d3875-276e-4d87-ab63-d7578d2e10c0.png",
+            "selected": true,
+            "sort_order": 2
+          },
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/5_62167108-f245-406a-9ff6-284bf314c535.png",
+            "metadata": {
+              "level": 5
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "1e7c5e54-33ed-43a3-aae6-7c302c785dfd",
+    "chat_id": 138623,
+    "user_id": 7404530,
+    "content": "joqnix just went live playing VTubers!",
+    "type": "message",
+    "metadata": "{\"sender_type\":\"user\"}",
+    "created_at": "2026-08-26T11:03:14Z",
+    "sender": {
+      "id": 7404530,
+      "slug": "fossabot",
+      "username": "Fossabot",
+      "identity": {
+        "color": "#DEB2FF",
+        "badges": [
+          {
+            "type": "moderator",
+            "text": "Moderator",
+            "sort_order": 12
+          },
+          {
+            "type": "verified",
+            "text": "Verified channel",
+            "sort_order": 14
+          }
+        ],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+            "metadata": {
+              "level": 1
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "7efb99d4-83fb-4ed9-a850-9e30145f95e4",
+    "chat_id": 138623,
+    "user_id": 140223,
+    "content": "Thank you everyone for coming by tonight! otsujoq~ cya in the next stream!",
+    "type": "message",
+    "metadata": "{\"sender_type\":\"user\"}",
+    "created_at": "2026-08-26T14:06:41Z",
+    "sender": {
+      "id": 140223,
+      "slug": "joqnix",
+      "username": "joqnix",
+      "identity": {
+        "color": "#B9D6F6",
+        "badges": [
+          {
+            "type": "broadcaster",
+            "text": "Broadcaster",
+            "sort_order": 13
+          }
+        ],
+        "badges_v2": [
+          {
+            "name": "kick_founder22",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/kick_founder22_2a2d3875-276e-4d87-ab63-d7578d2e10c0.png",
+            "selected": true,
+            "sort_order": 2
+          },
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/5_62167108-f245-406a-9ff6-284bf314c535.png",
+            "metadata": {
+              "level": 5
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  }
+]
