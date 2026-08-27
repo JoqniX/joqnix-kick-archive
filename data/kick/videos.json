@@ -1,5 +1,194 @@
 [
   {
+    "id": 124314480,
+    "slug": "b66c6e0ff5752026-delta-force-1-pew-pew-in-delta-force-enjp-joqnix",
+    "channel_id": 138623,
+    "created_at": "2026-08-27 13:29:36",
+    "session_title": "DELTA FORCE #1 \u250a \u2726 Pew Pew in Delta Force~  EN/JP | JoqniX",
+    "is_live": false,
+    "risk_level_id": null,
+    "start_time": "2026-08-27 13:29:36",
+    "source": "https://stream.kick.com/0f3cb0ebce7/ivs/v1/196233775518/ZCkulBebTQZR/2026/8/27/13/29/VIaUIpjQglLh/media/hls/master.m3u8",
+    "twitch_channel": null,
+    "duration": 8479000,
+    "language": "English",
+    "is_mature": false,
+    "viewer_count": 1,
+    "tags": [],
+    "thumbnail": {
+      "src": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/VIaUIpjQglLh/720.webp",
+      "srcset": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/VIaUIpjQglLh/1080.webp 1920w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/VIaUIpjQglLh/720.webp 1280w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/VIaUIpjQglLh/360.webp 480w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/VIaUIpjQglLh/160.webp 284w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/VIaUIpjQglLh/480.webp 640w"
+    },
+    "views": 8,
+    "video": {
+      "id": 120013875,
+      "live_stream_id": 124314480,
+      "slug": null,
+      "thumb": null,
+      "s3": null,
+      "trading_platform_id": null,
+      "created_at": "2026-08-27T13:29:37.000000Z",
+      "updated_at": "2026-08-27T15:52:34.000000Z",
+      "uuid": "9fdcb131-e948-49b4-a5e8-0aee32782a74",
+      "views": 8,
+      "deleted_at": null,
+      "is_pruned": false,
+      "is_private": false,
+      "status": "public"
+    },
+    "categories": [
+      {
+        "id": 415,
+        "category_id": 1,
+        "name": "VTubers",
+        "slug": "vtubers",
+        "tags": [
+          "Action",
+          "Puzzle",
+          "Adventure Games",
+          "Shooter",
+          "FPS"
+        ],
+        "description": null,
+        "deleted_at": null,
+        "is_mature": false,
+        "is_promoted": false,
+        "viewers": 448,
+        "is_fallback": false,
+        "banner": {
+          "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
+          "url": "https://files.kick.com/images/subcategories/415/banner/20afafe3-9025-4d93-9bab-5d4e7694807a"
+        }
+      }
+    ]
+  },
+  {
+    "id": 124314255,
+    "slug": "d7d323dab0f06c33-delta-force-1-pew-pew-in-delta-force-enjp-joqnix",
+    "channel_id": 138623,
+    "created_at": "2026-08-27 13:27:18",
+    "session_title": "DELTA FORCE #1 \u250a \u2726 Pew Pew in Delta Force~  EN/JP | JoqniX",
+    "is_live": false,
+    "risk_level_id": null,
+    "start_time": "2026-08-27 13:27:17",
+    "source": "https://stream.kick.com/0f3cb0ebce7/ivs/v1/196233775518/ZCkulBebTQZR/2026/8/27/13/27/8QEeQliZ5cwt/media/hls/master.m3u8",
+    "twitch_channel": null,
+    "duration": 126000,
+    "language": "English",
+    "is_mature": false,
+    "viewer_count": 0,
+    "tags": [],
+    "thumbnail": {
+      "src": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/8QEeQliZ5cwt/720.webp",
+      "srcset": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/8QEeQliZ5cwt/1080.webp 1920w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/8QEeQliZ5cwt/720.webp 1280w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/8QEeQliZ5cwt/360.webp 480w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/8QEeQliZ5cwt/160.webp 284w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/8QEeQliZ5cwt/480.webp 640w"
+    },
+    "views": 4,
+    "video": {
+      "id": 120013651,
+      "live_stream_id": 124314255,
+      "slug": null,
+      "thumb": null,
+      "s3": null,
+      "trading_platform_id": null,
+      "created_at": "2026-08-27T13:27:18.000000Z",
+      "updated_at": "2026-08-27T13:30:59.000000Z",
+      "uuid": "fe44e0bf-7a1b-4e93-8056-02b549d50f17",
+      "views": 4,
+      "deleted_at": null,
+      "is_pruned": false,
+      "is_private": false,
+      "status": "public"
+    },
+    "categories": [
+      {
+        "id": 415,
+        "category_id": 1,
+        "name": "VTubers",
+        "slug": "vtubers",
+        "tags": [
+          "Action",
+          "Puzzle",
+          "Adventure Games",
+          "Shooter",
+          "FPS"
+        ],
+        "description": null,
+        "deleted_at": null,
+        "is_mature": false,
+        "is_promoted": false,
+        "viewers": 448,
+        "is_fallback": false,
+        "banner": {
+          "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
+          "url": "https://files.kick.com/images/subcategories/415/banner/20afafe3-9025-4d93-9bab-5d4e7694807a"
+        }
+      }
+    ]
+  },
+  {
+    "id": 124312824,
+    "slug": "18a107109c7c90a9-delta-force-1-pew-pew-in-delta-force-enjp-joqnix",
+    "channel_id": 138623,
+    "created_at": "2026-08-27 13:11:42",
+    "session_title": "DELTA FORCE #1 \u250a \u2726 Pew Pew in Delta Force~  EN/JP | JoqniX",
+    "is_live": false,
+    "risk_level_id": null,
+    "start_time": "2026-08-27 13:11:39",
+    "source": "https://stream.kick.com/0f3cb0ebce7/ivs/v1/196233775518/ZCkulBebTQZR/2026/8/27/13/11/XbYRdwNO8eXR/media/hls/master.m3u8",
+    "twitch_channel": null,
+    "duration": 933000,
+    "language": "English",
+    "is_mature": false,
+    "viewer_count": 2,
+    "tags": [],
+    "thumbnail": {
+      "src": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/XbYRdwNO8eXR/720.webp",
+      "srcset": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/XbYRdwNO8eXR/1080.webp 1920w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/XbYRdwNO8eXR/720.webp 1280w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/XbYRdwNO8eXR/360.webp 480w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/XbYRdwNO8eXR/160.webp 284w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/XbYRdwNO8eXR/480.webp 640w"
+    },
+    "views": 8,
+    "video": {
+      "id": 120012220,
+      "live_stream_id": 124312824,
+      "slug": null,
+      "thumb": null,
+      "s3": null,
+      "trading_platform_id": null,
+      "created_at": "2026-08-27T13:11:43.000000Z",
+      "updated_at": "2026-08-27T13:28:47.000000Z",
+      "uuid": "5467dea2-0078-43d5-8b27-3637b8c95e81",
+      "views": 8,
+      "deleted_at": null,
+      "is_pruned": false,
+      "is_private": false,
+      "status": "public"
+    },
+    "categories": [
+      {
+        "id": 415,
+        "category_id": 1,
+        "name": "VTubers",
+        "slug": "vtubers",
+        "tags": [
+          "Action",
+          "Puzzle",
+          "Adventure Games",
+          "Shooter",
+          "FPS"
+        ],
+        "description": null,
+        "deleted_at": null,
+        "is_mature": false,
+        "is_promoted": false,
+        "viewers": 448,
+        "is_fallback": false,
+        "banner": {
+          "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
+          "url": "https://files.kick.com/images/subcategories/415/banner/20afafe3-9025-4d93-9bab-5d4e7694807a"
+        }
+      }
+    ]
+  },
+  {
     "id": 124139633,
     "slug": "70615836d4601ae9-valorant-44-pew-pew-in-valo-since-me-waiting-for-codmw4-open-beta-this-weekend-enjp-joqnix",
     "channel_id": 138623,
@@ -53,7 +242,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 152,
+        "viewers": 448,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -116,7 +305,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 152,
+        "viewers": 448,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -179,7 +368,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 152,
+        "viewers": 448,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -242,7 +431,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 152,
+        "viewers": 448,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",

@@ -7,13 +7,13 @@
   "data": {
     "messages": [
       {
-        "id": "7efb99d4-83fb-4ed9-a850-9e30145f95e4",
+        "id": "cd420914-b713-492d-b923-2a4f0ad82a6f",
         "chat_id": 138623,
         "user_id": 140223,
-        "content": "Thank you everyone for coming by tonight! otsujoq~ cya in the next stream!",
+        "content": "Thank you everyone who came by tonight! otsujoq~ cya in the next one~",
         "type": "message",
         "metadata": "{\"sender_type\":\"user\"}",
-        "created_at": "2026-08-26T14:06:41Z",
+        "created_at": "2026-08-27T15:50:00Z",
         "sender": {
           "id": 140223,
           "slug": "joqnix",
@@ -50,13 +50,13 @@
         }
       },
       {
-        "id": "b7f5dcad-24a7-4520-be10-8cf873f78eff",
+        "id": "49c5828e-f2c3-43d2-805d-d6965aa9a4e0",
         "chat_id": 138623,
         "user_id": 140223,
-        "content": "Welcome in everyone! Tonight we doing valorant! feel free to come chat with me! please do follow the stream rules! and have a good time! thank you! <3",
+        "content": "the video i was talking about for the game - bodycam - https://www.youtube.com/watch?v=Oz66Ek1RYWU",
         "type": "message",
         "metadata": "{\"sender_type\":\"user\"}",
-        "created_at": "2026-08-26T11:12:02Z",
+        "created_at": "2026-08-27T14:07:29Z",
         "sender": {
           "id": 140223,
           "slug": "joqnix",
@@ -93,13 +93,142 @@
         }
       },
       {
-        "id": "1e7c5e54-33ed-43a3-aae6-7c302c785dfd",
+        "id": "67506ae8-a8ca-41fd-960f-fdd30e2b3112",
+        "chat_id": 138623,
+        "user_id": 140223,
+        "content": "DID STREAM END?",
+        "type": "message",
+        "metadata": "{\"sender_type\":\"user\"}",
+        "created_at": "2026-08-27T13:29:07Z",
+        "sender": {
+          "id": 140223,
+          "slug": "joqnix",
+          "username": "joqnix",
+          "identity": {
+            "color": "#B9D6F6",
+            "badges": [
+              {
+                "type": "broadcaster",
+                "text": "Broadcaster",
+                "sort_order": 13
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "kick_founder22",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/kick_founder22_2a2d3875-276e-4d87-ab63-d7578d2e10c0.png",
+                "selected": true,
+                "sort_order": 2
+              },
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/5_62167108-f245-406a-9ff6-284bf314c535.png",
+                "metadata": {
+                  "level": 5
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "23276cf5-3493-4dbf-ad0b-e9124494c84b",
+        "chat_id": 138623,
+        "user_id": 140223,
+        "content": "WAIT WHAT",
+        "type": "message",
+        "metadata": "{\"sender_type\":\"user\"}",
+        "created_at": "2026-08-27T13:29:03Z",
+        "sender": {
+          "id": 140223,
+          "slug": "joqnix",
+          "username": "joqnix",
+          "identity": {
+            "color": "#B9D6F6",
+            "badges": [
+              {
+                "type": "broadcaster",
+                "text": "Broadcaster",
+                "sort_order": 13
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "kick_founder22",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/kick_founder22_2a2d3875-276e-4d87-ab63-d7578d2e10c0.png",
+                "selected": true,
+                "sort_order": 2
+              },
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/5_62167108-f245-406a-9ff6-284bf314c535.png",
+                "metadata": {
+                  "level": 5
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "82f7b2c4-cfe5-48ef-a16c-bc94e5d39451",
+        "chat_id": 138623,
+        "user_id": 140223,
+        "content": ".w.",
+        "type": "message",
+        "metadata": "{\"sender_type\":\"user\"}",
+        "created_at": "2026-08-27T13:16:23Z",
+        "sender": {
+          "id": 140223,
+          "slug": "joqnix",
+          "username": "joqnix",
+          "identity": {
+            "color": "#B9D6F6",
+            "badges": [
+              {
+                "type": "broadcaster",
+                "text": "Broadcaster",
+                "sort_order": 13
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "kick_founder22",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/kick_founder22_2a2d3875-276e-4d87-ab63-d7578d2e10c0.png",
+                "selected": true,
+                "sort_order": 2
+              },
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/5_62167108-f245-406a-9ff6-284bf314c535.png",
+                "metadata": {
+                  "level": 5
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "ddebf85c-b25d-4e32-a21c-bcaf79373504",
         "chat_id": 138623,
         "user_id": 7404530,
         "content": "joqnix just went live playing VTubers!",
         "type": "message",
         "metadata": "{\"sender_type\":\"user\"}",
-        "created_at": "2026-08-26T11:03:14Z",
+        "created_at": "2026-08-27T13:11:44Z",
         "sender": {
           "id": 7404530,
           "slug": "fossabot",
@@ -134,13 +263,13 @@
         }
       },
       {
-        "id": "477fc851-51bc-4063-b76b-211de8d2e260",
+        "id": "69727acd-54fa-4483-971c-d23acb70a857",
         "chat_id": 138623,
         "user_id": 7404530,
         "content": "joqnix changed their title to \"\"!",
         "type": "message",
         "metadata": "{\"sender_type\":\"user\"}",
-        "created_at": "2026-08-26T10:55:30Z",
+        "created_at": "2026-08-27T13:05:50Z",
         "sender": {
           "id": 7404530,
           "slug": "fossabot",
@@ -175,7 +304,7 @@
         }
       }
     ],
-    "cursor": "1786723042060759",
+    "cursor": "1787474969325757",
     "pinned_message": null
   }
 }
