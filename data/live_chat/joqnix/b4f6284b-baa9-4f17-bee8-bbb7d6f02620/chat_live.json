@@ -39,5 +39,35 @@
         ]
       }
     }
+  },
+  {
+    "id": "7930ff5b-30d0-4c46-b089-236a8191da95",
+    "chat_id": 138623,
+    "user_id": 39302531,
+    "content": "do u have baito today?",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1787949669024\"}",
+    "created_at": "2026-08-28T20:41:09Z",
+    "sender": {
+      "id": 39302531,
+      "slug": "jobiltwiggy",
+      "username": "Jobiltwiggy",
+      "identity": {
+        "color": "#E26EFF",
+        "badges": [],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/21_45650ac2-eab5-4ec8-a295-a939b4ef9f0f.png",
+            "metadata": {
+              "level": 21
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
   }
 ]
