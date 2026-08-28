@@ -1,0 +1,378 @@
+[
+  {
+    "id": "e9f20ad2-40a2-4fd2-b3ab-05e1a6714159",
+    "chat_id": 138623,
+    "user_id": 7404530,
+    "content": "joqnix just went live playing VTubers!",
+    "type": "message",
+    "metadata": "{\"sender_type\":\"user\"}",
+    "created_at": "2026-08-28T20:35:02Z",
+    "sender": {
+      "id": 7404530,
+      "slug": "fossabot",
+      "username": "Fossabot",
+      "identity": {
+        "color": "#DEB2FF",
+        "badges": [
+          {
+            "type": "moderator",
+            "text": "Moderator",
+            "sort_order": 12
+          },
+          {
+            "type": "verified",
+            "text": "Verified channel",
+            "sort_order": 14
+          }
+        ],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+            "metadata": {
+              "level": 1
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "7930ff5b-30d0-4c46-b089-236a8191da95",
+    "chat_id": 138623,
+    "user_id": 39302531,
+    "content": "do u have baito today?",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1787949669024\"}",
+    "created_at": "2026-08-28T20:41:09Z",
+    "sender": {
+      "id": 39302531,
+      "slug": "jobiltwiggy",
+      "username": "Jobiltwiggy",
+      "identity": {
+        "color": "#E26EFF",
+        "badges": [],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/21_45650ac2-eab5-4ec8-a295-a939b4ef9f0f.png",
+            "metadata": {
+              "level": 21
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "8a482ba1-9cdd-401d-914b-21a7f28b0922",
+    "chat_id": 138623,
+    "user_id": 39302531,
+    "content": "wakata",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1787949817847\"}",
+    "created_at": "2026-08-28T20:43:38Z",
+    "sender": {
+      "id": 39302531,
+      "slug": "jobiltwiggy",
+      "username": "Jobiltwiggy",
+      "identity": {
+        "color": "#E26EFF",
+        "badges": [],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/21_45650ac2-eab5-4ec8-a295-a939b4ef9f0f.png",
+            "metadata": {
+              "level": 21
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "d8721749-1fc7-40fc-813b-6d3ba94c61ce",
+    "chat_id": 138623,
+    "user_id": 140223,
+    "content": "ahh my internet is super bad today whyyy",
+    "type": "message",
+    "metadata": "{\"sender_type\":\"user\"}",
+    "created_at": "2026-08-28T20:45:47Z",
+    "sender": {
+      "id": 140223,
+      "slug": "joqnix",
+      "username": "joqnix",
+      "identity": {
+        "color": "#B9D6F6",
+        "badges": [
+          {
+            "type": "broadcaster",
+            "text": "Broadcaster",
+            "sort_order": 13
+          }
+        ],
+        "badges_v2": [
+          {
+            "name": "kick_founder22",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/kick_founder22_2a2d3875-276e-4d87-ab63-d7578d2e10c0.png",
+            "selected": true,
+            "sort_order": 2
+          },
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/5_62167108-f245-406a-9ff6-284bf314c535.png",
+            "metadata": {
+              "level": 5
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "3e589fd2-7e5a-4ab5-8f08-5f87cccd0016",
+    "chat_id": 138623,
+    "user_id": 39302531,
+    "content": "yhh but i am noob",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1787950028331\"}",
+    "created_at": "2026-08-28T20:47:08Z",
+    "sender": {
+      "id": 39302531,
+      "slug": "jobiltwiggy",
+      "username": "Jobiltwiggy",
+      "identity": {
+        "color": "#E26EFF",
+        "badges": [],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/21_45650ac2-eab5-4ec8-a295-a939b4ef9f0f.png",
+            "metadata": {
+              "level": 21
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "fcd0bf22-16f6-488e-bb74-1c00aef7f5b8",
+    "chat_id": 138623,
+    "user_id": 140223,
+    "content": "restarting stream please wait nee",
+    "type": "message",
+    "metadata": "{\"sender_type\":\"user\"}",
+    "created_at": "2026-08-28T20:48:00Z",
+    "sender": {
+      "id": 140223,
+      "slug": "joqnix",
+      "username": "joqnix",
+      "identity": {
+        "color": "#B9D6F6",
+        "badges": [
+          {
+            "type": "broadcaster",
+            "text": "Broadcaster",
+            "sort_order": 13
+          }
+        ],
+        "badges_v2": [
+          {
+            "name": "kick_founder22",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/kick_founder22_2a2d3875-276e-4d87-ab63-d7578d2e10c0.png",
+            "selected": true,
+            "sort_order": 2
+          },
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/5_62167108-f245-406a-9ff6-284bf314c535.png",
+            "metadata": {
+              "level": 5
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "b1c7c9fe-9fa6-4f06-a35c-b29f27d01ed4",
+    "chat_id": 138623,
+    "user_id": 39302531,
+    "content": "bro change your wifi",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1787950230573\"}",
+    "created_at": "2026-08-28T20:50:30Z",
+    "sender": {
+      "id": 39302531,
+      "slug": "jobiltwiggy",
+      "username": "Jobiltwiggy",
+      "identity": {
+        "color": "#E26EFF",
+        "badges": [],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/21_45650ac2-eab5-4ec8-a295-a939b4ef9f0f.png",
+            "metadata": {
+              "level": 21
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "9f6dbe91-f3b7-4ebc-9510-69b88010aa0a",
+    "chat_id": 138623,
+    "user_id": 140223,
+    "content": "no okane dayo",
+    "type": "message",
+    "metadata": "{\"sender_type\":\"user\"}",
+    "created_at": "2026-08-28T20:50:50Z",
+    "sender": {
+      "id": 140223,
+      "slug": "joqnix",
+      "username": "joqnix",
+      "identity": {
+        "color": "#B9D6F6",
+        "badges": [
+          {
+            "type": "broadcaster",
+            "text": "Broadcaster",
+            "sort_order": 13
+          }
+        ],
+        "badges_v2": [
+          {
+            "name": "kick_founder22",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/kick_founder22_2a2d3875-276e-4d87-ab63-d7578d2e10c0.png",
+            "selected": true,
+            "sort_order": 2
+          },
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/5_62167108-f245-406a-9ff6-284bf314c535.png",
+            "metadata": {
+              "level": 5
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "6becfc18-9344-4003-9cbe-255764fc944d",
+    "chat_id": 138623,
+    "user_id": 140223,
+    "content": ";w; pein",
+    "type": "message",
+    "metadata": "{\"sender_type\":\"user\"}",
+    "created_at": "2026-08-28T20:52:48Z",
+    "sender": {
+      "id": 140223,
+      "slug": "joqnix",
+      "username": "joqnix",
+      "identity": {
+        "color": "#B9D6F6",
+        "badges": [
+          {
+            "type": "broadcaster",
+            "text": "Broadcaster",
+            "sort_order": 13
+          }
+        ],
+        "badges_v2": [
+          {
+            "name": "kick_founder22",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/kick_founder22_2a2d3875-276e-4d87-ab63-d7578d2e10c0.png",
+            "selected": true,
+            "sort_order": 2
+          },
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/5_62167108-f245-406a-9ff6-284bf314c535.png",
+            "metadata": {
+              "level": 5
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "605cb9f3-958c-4769-b3a9-fa4015a7199e",
+    "chat_id": 138623,
+    "user_id": 140223,
+    "content": "restarting stream again",
+    "type": "message",
+    "metadata": "{\"sender_type\":\"user\"}",
+    "created_at": "2026-08-28T20:53:02Z",
+    "sender": {
+      "id": 140223,
+      "slug": "joqnix",
+      "username": "joqnix",
+      "identity": {
+        "color": "#B9D6F6",
+        "badges": [
+          {
+            "type": "broadcaster",
+            "text": "Broadcaster",
+            "sort_order": 13
+          }
+        ],
+        "badges_v2": [
+          {
+            "name": "kick_founder22",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/kick_founder22_2a2d3875-276e-4d87-ab63-d7578d2e10c0.png",
+            "selected": true,
+            "sort_order": 2
+          },
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/5_62167108-f245-406a-9ff6-284bf314c535.png",
+            "metadata": {
+              "level": 5
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  }
+]
