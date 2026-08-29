@@ -39,5 +39,48 @@
         ]
       }
     }
+  },
+  {
+    "id": "148993ae-e17a-46d9-91bd-b2976fdf9df3",
+    "chat_id": 138623,
+    "user_id": 140223,
+    "content": "Hello everyone! it seems my wifi is still bad today! so there will be blurry moments and a huge delay! once bitrate is stable it would be fixed! please do check the time above on top right!",
+    "type": "message",
+    "metadata": "{\"sender_type\":\"user\"}",
+    "created_at": "2026-08-29T05:40:48Z",
+    "sender": {
+      "id": 140223,
+      "slug": "joqnix",
+      "username": "joqnix",
+      "identity": {
+        "color": "#B9D6F6",
+        "badges": [
+          {
+            "type": "broadcaster",
+            "text": "Broadcaster",
+            "sort_order": 13
+          }
+        ],
+        "badges_v2": [
+          {
+            "name": "kick_founder22",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/kick_founder22_2a2d3875-276e-4d87-ab63-d7578d2e10c0.png",
+            "selected": true,
+            "sort_order": 2
+          },
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/6_3a05b0c9-55bd-4719-9589-a7a27859e84b.png",
+            "metadata": {
+              "level": 6
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
   }
 ]
