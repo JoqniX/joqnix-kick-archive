@@ -7,6 +7,49 @@
   "data": {
     "messages": [
       {
+        "id": "5f1094a8-e964-4850-b011-12d42236756d",
+        "chat_id": 138623,
+        "user_id": 140223,
+        "content": "thank you everyone for coming by tonight! otsujoq and cya in the next one~",
+        "type": "message",
+        "metadata": "{\"sender_type\":\"user\"}",
+        "created_at": "2026-08-29T16:39:50Z",
+        "sender": {
+          "id": 140223,
+          "slug": "joqnix",
+          "username": "joqnix",
+          "identity": {
+            "color": "#B9D6F6",
+            "badges": [
+              {
+                "type": "broadcaster",
+                "text": "Broadcaster",
+                "sort_order": 13
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "kick_founder22",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/kick_founder22_2a2d3875-276e-4d87-ab63-d7578d2e10c0.png",
+                "selected": true,
+                "sort_order": 2
+              },
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/7_bce852c7-f8c0-43e9-bba1-5ae987199625.png",
+                "metadata": {
+                  "level": 7
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
         "id": "c8ee6f8c-17cc-4232-b1ba-f227afb7d76c",
         "chat_id": 138623,
         "user_id": 7404530,
@@ -1003,39 +1046,9 @@
             ]
           }
         }
-      },
-      {
-        "id": "8a482ba1-9cdd-401d-914b-21a7f28b0922",
-        "chat_id": 138623,
-        "user_id": 39302531,
-        "content": "wakata",
-        "type": "message",
-        "metadata": "{\"message_ref\":\"1787949817847\"}",
-        "created_at": "2026-08-28T20:43:38Z",
-        "sender": {
-          "id": 39302531,
-          "slug": "jobiltwiggy",
-          "username": "Jobiltwiggy",
-          "identity": {
-            "color": "#E26EFF",
-            "badges": [],
-            "badges_v2": [
-              {
-                "name": "level",
-                "badge_type": "global",
-                "image_url": "https://ext.cdn.kick.com/chat/badges/21_45650ac2-eab5-4ec8-a295-a939b4ef9f0f.png",
-                "metadata": {
-                  "level": 21
-                },
-                "selected": false,
-                "sort_order": 1
-              }
-            ]
-          }
-        }
       }
     ],
-    "cursor": "1787949818276039",
+    "cursor": "1787949947129282",
     "pinned_message": {
       "message": {
         "id": "148993ae-e17a-46d9-91bd-b2976fdf9df3",
@@ -1117,7 +1130,7 @@
           ]
         }
       },
-      "duration": 744
+      "duration": 506
     }
   }
 }
