@@ -1,0 +1,27 @@
+[
+  {
+    "id": "6aa0375a-c8ef-48b3-89c5-d35b6b96f3c1",
+    "timestamp": "2026-08-28T21:24:16Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 140223,
+      "username": "joqnix",
+      "avatar": "https://files.kick.com/images/user/140223/profile_image/conversion/f1154229-3d49-4651-888f-861228baf077-fullsize.webp",
+      "color": "#B9D6F6",
+      "badges": [
+        {
+          "type": "broadcaster",
+          "text": "Broadcaster"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "My Wifi is bad today! so there will be huge delay on this stream! im really sorry! ;w;"
+      }
+    ],
+    "type": "message"
+  }
+]
