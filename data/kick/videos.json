@@ -1,36 +1,36 @@
 [
   {
-    "id": 124813028,
-    "slug": "1b9d26fdf4b2877d-call-of-duty-modern-warfare-4-6-open-beta-is-live-indian-vtuber-enjp-joqnix",
+    "id": 124826468,
+    "slug": "72cad687a39b1288-call-of-duty-modern-warfare-4-6-open-beta-is-live-indian-vtuber-enjp-joqnix",
     "channel_id": 138623,
-    "created_at": "2026-08-30 13:07:23",
+    "created_at": "2026-08-30 15:13:06",
     "session_title": "Call of Duty: Modern Warfare 4 #6\u250a \u2726 OPEN BETA IS LIVE!!!  ~ INDIAN VTUBER  ~ EN/JP | JoqniX",
-    "is_live": true,
+    "is_live": false,
     "risk_level_id": null,
-    "start_time": "2026-08-30 13:07:22",
-    "source": "https://stream.kick.com/0f3cb0ebce7/ivs/v1/196233775518/ZCkulBebTQZR/2026/8/30/13/7/Ocz03qMrm4rQ/media/hls/master.m3u8",
+    "start_time": "2026-08-30 15:13:06",
+    "source": "https://stream.kick.com/0f3cb0ebce7/ivs/v1/196233775518/ZCkulBebTQZR/2026/8/30/15/13/UBuhJg9DMiZd/media/hls/master.m3u8",
     "twitch_channel": null,
-    "duration": 0,
+    "duration": 41000,
     "language": "English",
     "is_mature": false,
     "viewer_count": 2,
     "tags": [],
     "thumbnail": {
-      "src": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/Ocz03qMrm4rQ/720.webp?versionId=Es02iktijD_dZjSxWZBuO3d3xXI_23mo",
-      "srcset": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/Ocz03qMrm4rQ/1080.webp?versionId=.Vo4LBntwz37E1ko.2U3n1zcRFcx05XO 1920w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/Ocz03qMrm4rQ/720.webp?versionId=Es02iktijD_dZjSxWZBuO3d3xXI_23mo 1280w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/Ocz03qMrm4rQ/360.webp?versionId=PSpZxchmK1lbSQxz.Dv9qabmDgfKVljH 480w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/Ocz03qMrm4rQ/160.webp?versionId=7tQ3tAcKbbSdcm53TNInuSzPn1g.jOZ0 284w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/Ocz03qMrm4rQ/480.webp?versionId=6rWEpjpVp_ECpeb3_AqSRZr8LTE_3o.0 640w"
+      "src": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/UBuhJg9DMiZd/720.webp",
+      "srcset": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/UBuhJg9DMiZd/1080.webp 1920w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/UBuhJg9DMiZd/720.webp 1280w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/UBuhJg9DMiZd/360.webp 480w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/UBuhJg9DMiZd/160.webp 284w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/UBuhJg9DMiZd/480.webp 640w"
     },
-    "views": 0,
+    "views": 12,
     "video": {
-      "id": 120512372,
-      "live_stream_id": 124813028,
+      "id": 120525812,
+      "live_stream_id": 124826468,
       "slug": null,
       "thumb": null,
       "s3": null,
       "trading_platform_id": null,
-      "created_at": "2026-08-30T13:07:23.000000Z",
-      "updated_at": "2026-08-30T13:07:23.000000Z",
-      "uuid": "aeea425e-2f80-4ddb-8948-0a7a55fe91e7",
-      "views": 0,
+      "created_at": "2026-08-30T15:13:06.000000Z",
+      "updated_at": "2026-08-30T15:15:20.000000Z",
+      "uuid": "b3b8d7b7-93eb-4b93-8043-4971c6d7b068",
+      "views": 12,
       "deleted_at": null,
       "is_pruned": false,
       "is_private": false,
@@ -53,7 +53,133 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 330,
+        "viewers": 521,
+        "is_fallback": false,
+        "banner": {
+          "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
+          "url": "https://files.kick.com/images/subcategories/415/banner/20afafe3-9025-4d93-9bab-5d4e7694807a"
+        }
+      }
+    ]
+  },
+  {
+    "id": 124823434,
+    "slug": "1bb366274ad9d34e-call-of-duty-modern-warfare-4-6-open-beta-is-live-indian-vtuber-enjp-joqnix",
+    "channel_id": 138623,
+    "created_at": "2026-08-30 14:49:15",
+    "session_title": "Call of Duty: Modern Warfare 4 #6\u250a \u2726 OPEN BETA IS LIVE!!!  ~ INDIAN VTUBER  ~ EN/JP | JoqniX",
+    "is_live": false,
+    "risk_level_id": null,
+    "start_time": "2026-08-30 14:49:11",
+    "source": "https://stream.kick.com/0f3cb0ebce7/ivs/v1/196233775518/ZCkulBebTQZR/2026/8/30/14/49/IWGW7X4ApLlN/media/hls/master.m3u8",
+    "twitch_channel": null,
+    "duration": 1420000,
+    "language": "English",
+    "is_mature": false,
+    "viewer_count": 3,
+    "tags": [],
+    "thumbnail": {
+      "src": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/IWGW7X4ApLlN/720.webp",
+      "srcset": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/IWGW7X4ApLlN/1080.webp 1920w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/IWGW7X4ApLlN/720.webp 1280w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/IWGW7X4ApLlN/360.webp 480w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/IWGW7X4ApLlN/160.webp 284w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/IWGW7X4ApLlN/480.webp 640w"
+    },
+    "views": 12,
+    "video": {
+      "id": 120522778,
+      "live_stream_id": 124823434,
+      "slug": null,
+      "thumb": null,
+      "s3": null,
+      "trading_platform_id": null,
+      "created_at": "2026-08-30T14:49:15.000000Z",
+      "updated_at": "2026-08-30T15:14:25.000000Z",
+      "uuid": "20a3be3a-c608-455e-a416-91a2bb9e983d",
+      "views": 12,
+      "deleted_at": null,
+      "is_pruned": false,
+      "is_private": false,
+      "status": "public"
+    },
+    "categories": [
+      {
+        "id": 415,
+        "category_id": 1,
+        "name": "VTubers",
+        "slug": "vtubers",
+        "tags": [
+          "Action",
+          "Puzzle",
+          "Adventure Games",
+          "Shooter",
+          "FPS"
+        ],
+        "description": null,
+        "deleted_at": null,
+        "is_mature": false,
+        "is_promoted": false,
+        "viewers": 521,
+        "is_fallback": false,
+        "banner": {
+          "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
+          "url": "https://files.kick.com/images/subcategories/415/banner/20afafe3-9025-4d93-9bab-5d4e7694807a"
+        }
+      }
+    ]
+  },
+  {
+    "id": 124813028,
+    "slug": "1b9d26fdf4b2877d-call-of-duty-modern-warfare-4-6-open-beta-is-live-indian-vtuber-enjp-joqnix",
+    "channel_id": 138623,
+    "created_at": "2026-08-30 13:07:23",
+    "session_title": "Call of Duty: Modern Warfare 4 #6\u250a \u2726 OPEN BETA IS LIVE!!!  ~ INDIAN VTUBER  ~ EN/JP | JoqniX",
+    "is_live": false,
+    "risk_level_id": null,
+    "start_time": "2026-08-30 13:07:22",
+    "source": "https://stream.kick.com/0f3cb0ebce7/ivs/v1/196233775518/ZCkulBebTQZR/2026/8/30/13/7/Ocz03qMrm4rQ/media/hls/master.m3u8",
+    "twitch_channel": null,
+    "duration": 6075000,
+    "language": "English",
+    "is_mature": false,
+    "viewer_count": 1,
+    "tags": [],
+    "thumbnail": {
+      "src": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/Ocz03qMrm4rQ/720.webp",
+      "srcset": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/Ocz03qMrm4rQ/1080.webp 1920w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/Ocz03qMrm4rQ/720.webp 1280w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/Ocz03qMrm4rQ/360.webp 480w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/Ocz03qMrm4rQ/160.webp 284w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/Ocz03qMrm4rQ/480.webp 640w"
+    },
+    "views": 8,
+    "video": {
+      "id": 120512372,
+      "live_stream_id": 124813028,
+      "slug": null,
+      "thumb": null,
+      "s3": null,
+      "trading_platform_id": null,
+      "created_at": "2026-08-30T13:07:23.000000Z",
+      "updated_at": "2026-08-30T14:50:18.000000Z",
+      "uuid": "aeea425e-2f80-4ddb-8948-0a7a55fe91e7",
+      "views": 8,
+      "deleted_at": null,
+      "is_pruned": false,
+      "is_private": false,
+      "status": "public"
+    },
+    "categories": [
+      {
+        "id": 415,
+        "category_id": 1,
+        "name": "VTubers",
+        "slug": "vtubers",
+        "tags": [
+          "Action",
+          "Puzzle",
+          "Adventure Games",
+          "Shooter",
+          "FPS"
+        ],
+        "description": null,
+        "deleted_at": null,
+        "is_mature": false,
+        "is_promoted": false,
+        "viewers": 521,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -116,7 +242,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 330,
+        "viewers": 521,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -179,7 +305,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 330,
+        "viewers": 521,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -242,7 +368,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 330,
+        "viewers": 521,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -305,7 +431,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 330,
+        "viewers": 521,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -368,7 +494,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 330,
+        "viewers": 521,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -431,7 +557,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 330,
+        "viewers": 521,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -494,7 +620,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 330,
+        "viewers": 521,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -557,7 +683,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 330,
+        "viewers": 521,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -620,7 +746,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 330,
+        "viewers": 521,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -683,7 +809,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 330,
+        "viewers": 521,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -746,7 +872,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 330,
+        "viewers": 521,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
