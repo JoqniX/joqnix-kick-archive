@@ -1,0 +1,27 @@
+[
+  {
+    "id": "74d0b14d-7498-481f-9132-ec3a12c459ac",
+    "timestamp": "2026-08-30T15:12:01Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 140223,
+      "username": "joqnix",
+      "avatar": "https://files.kick.com/images/user/140223/profile_image/conversion/f1154229-3d49-4651-888f-861228baf077-fullsize.webp",
+      "color": "#B9D6F6",
+      "badges": [
+        {
+          "type": "broadcaster",
+          "text": "Broadcaster"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "otsujoq~ thank you everyone who came by tonight! cya in the next one!"
+      }
+    ],
+    "type": "message"
+  }
+]
