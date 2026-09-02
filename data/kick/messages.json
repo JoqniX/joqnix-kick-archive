@@ -5,51 +5,7 @@
     "message": "SUCCESS"
   },
   "data": {
-    "messages": [
-      {
-        "id": "2babc7a2-76ed-4a3c-8007-b5e689c687a4",
-        "chat_id": 138623,
-        "user_id": 140223,
-        "content": "thank you for coming  by tonight minna! cya  in the next strream nee~",
-        "type": "message",
-        "metadata": "{\"sender_type\":\"user\"}",
-        "created_at": "2026-09-01T16:31:07Z",
-        "sender": {
-          "id": 140223,
-          "slug": "joqnix",
-          "username": "joqnix",
-          "identity": {
-            "color": "#B9D6F6",
-            "badges": [
-              {
-                "type": "broadcaster",
-                "text": "Broadcaster",
-                "sort_order": 13
-              }
-            ],
-            "badges_v2": [
-              {
-                "name": "kick_founder22",
-                "badge_type": "global",
-                "image_url": "https://ext.cdn.kick.com/chat/badges/kick_founder22_2a2d3875-276e-4d87-ab63-d7578d2e10c0.png",
-                "selected": true,
-                "sort_order": 2
-              },
-              {
-                "name": "level",
-                "badge_type": "global",
-                "image_url": "https://ext.cdn.kick.com/chat/badges/7_bce852c7-f8c0-43e9-bba1-5ae987199625.png",
-                "metadata": {
-                  "level": 7
-                },
-                "selected": false,
-                "sort_order": 1
-              }
-            ]
-          }
-        }
-      }
-    ],
+    "messages": [],
     "cursor": "1787962158100096",
     "pinned_message": null
   }
