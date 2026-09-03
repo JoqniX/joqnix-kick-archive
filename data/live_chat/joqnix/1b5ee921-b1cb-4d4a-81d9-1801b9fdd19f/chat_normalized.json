@@ -1,0 +1,230 @@
+[
+  {
+    "id": "de6459e4-e443-4baa-a8e4-4a470fe86825",
+    "timestamp": "2026-09-03T11:56:03Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 7404530,
+      "username": "Fossabot",
+      "avatar": "https://files.kick.com/images/user/7404530/profile_image/conversion/104a9b9a-3882-49b1-aa55-22eae3dab24f-fullsize.webp",
+      "color": "#DEB2FF",
+      "badges": [
+        {
+          "type": "moderator",
+          "text": "Moderator"
+        },
+        {
+          "type": "verified",
+          "text": "Verified channel"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "Gerarditopro019101 just followed the stream! 💚"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "3c2f5e1b-7303-4c39-b2fe-7016814c4894",
+    "timestamp": "2026-09-03T11:56:02Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 4377088,
+      "username": "KickBot",
+      "avatar": "https://files.kick.com/images/user/4377088/profile_image/conversion/dae5ceec-5b25-4f26-82c2-e2fdc98ae958-fullsize.webp",
+      "color": "#E9113C",
+      "badges": [
+        {
+          "type": "moderator",
+          "text": "Moderator"
+        },
+        {
+          "type": "verified",
+          "text": "Verified channel"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "Thanks for the follow @Gerarditopro019101"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "9150f1c5-4c6d-4b4d-afbd-4dbc473c2c94",
+    "timestamp": "2026-09-03T11:55:58Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 120755790,
+      "username": "Gerarditopro019101",
+      "avatar": null,
+      "color": "#E5FFAB",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "HII ME NEW FOLLOWWW"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "7bb7e74b-3ffe-4514-8f55-87ef1ceb7130",
+    "timestamp": "2026-09-03T11:57:11Z",
+    "vod_offset": 68,
+    "vod_timestamp": "00:01:08",
+    "user": {
+      "id": 140223,
+      "username": "joqnix",
+      "avatar": "https://files.kick.com/images/user/140223/profile_image/conversion/f1154229-3d49-4651-888f-861228baf077-fullsize.webp",
+      "color": "#B9D6F6",
+      "badges": [
+        {
+          "type": "broadcaster",
+          "text": "Broadcaster"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "hello! welcome in ! the stream has a huge delay so its 10mins behind ;w;"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "700a26be-ba49-4317-9b58-b7e8639f7de4",
+    "timestamp": "2026-09-03T12:17:30Z",
+    "vod_offset": 1287,
+    "vod_timestamp": "00:21:27",
+    "user": {
+      "id": 140223,
+      "username": "joqnix",
+      "avatar": "https://files.kick.com/images/user/140223/profile_image/conversion/f1154229-3d49-4651-888f-861228baf077-fullsize.webp",
+      "color": "#B9D6F6",
+      "badges": [
+        {
+          "type": "broadcaster",
+          "text": "Broadcaster"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "ahh its 16 mins behind ;w;"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "9a26d35d-b94b-45ab-9ded-267f1090b2e1",
+    "timestamp": "2026-09-03T12:17:41Z",
+    "vod_offset": 1298,
+    "vod_timestamp": "00:21:38",
+    "user": {
+      "id": 140223,
+      "username": "joqnix",
+      "avatar": "https://files.kick.com/images/user/140223/profile_image/conversion/f1154229-3d49-4651-888f-861228baf077-fullsize.webp",
+      "color": "#B9D6F6",
+      "badges": [
+        {
+          "type": "broadcaster",
+          "text": "Broadcaster"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "hello! yu gs"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "ac923502-15fd-4a23-9e35-4c045f8f81ad",
+    "timestamp": "2026-09-03T12:17:37Z",
+    "vod_offset": 1294,
+    "vod_timestamp": "00:21:34",
+    "user": {
+      "id": 140223,
+      "username": "joqnix",
+      "avatar": "https://files.kick.com/images/user/140223/profile_image/conversion/f1154229-3d49-4651-888f-861228baf077-fullsize.webp",
+      "color": "#B9D6F6",
+      "badges": [
+        {
+          "type": "broadcaster",
+          "text": "Broadcaster"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "my internet so bad ;w; whyyy"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "bdd38554-9bc3-4cb0-b4dd-917c393da32b",
+    "timestamp": "2026-09-03T12:22:18Z",
+    "vod_offset": 1575,
+    "vod_timestamp": "00:26:15",
+    "user": {
+      "id": 140223,
+      "username": "joqnix",
+      "avatar": "https://files.kick.com/images/user/140223/profile_image/conversion/f1154229-3d49-4651-888f-861228baf077-fullsize.webp",
+      "color": "#B9D6F6",
+      "badges": [
+        {
+          "type": "broadcaster",
+          "text": "Broadcaster"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "okie its catching up  to  real time! finally!"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "2105bd04-ae65-4349-a196-6c2118a0a941",
+    "timestamp": "2026-09-03T13:45:08Z",
+    "vod_offset": 6545,
+    "vod_timestamp": "01:49:05",
+    "user": {
+      "id": 140223,
+      "username": "joqnix",
+      "avatar": "https://files.kick.com/images/user/140223/profile_image/conversion/f1154229-3d49-4651-888f-861228baf077-fullsize.webp",
+      "color": "#B9D6F6",
+      "badges": [
+        {
+          "type": "broadcaster",
+          "text": "Broadcaster"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "Thank you for coming by tonight! cya on the next stream~ otsujoq~"
+      }
+    ],
+    "type": "message"
+  }
+]
