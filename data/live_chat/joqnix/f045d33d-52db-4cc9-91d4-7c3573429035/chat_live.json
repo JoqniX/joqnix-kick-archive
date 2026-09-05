@@ -162,5 +162,35 @@
         ]
       }
     }
+  },
+  {
+    "id": "0b44e5f4-5f88-43fe-9f50-4e6673399bc5",
+    "chat_id": 138623,
+    "user_id": 119183858,
+    "content": "call me gutsy goos",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1788582045993\"}",
+    "created_at": "2026-09-05T04:20:46Z",
+    "sender": {
+      "id": 119183858,
+      "slug": "gutsy2007",
+      "username": "gutsy2007",
+      "identity": {
+        "color": "#FF2C56",
+        "badges": [],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/21_45650ac2-eab5-4ec8-a295-a939b4ef9f0f.png",
+            "metadata": {
+              "level": 21
+            },
+            "selected": true,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
   }
 ]
