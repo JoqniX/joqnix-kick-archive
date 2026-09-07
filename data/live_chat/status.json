@@ -1,15 +1,12 @@
 {
   "active_streams": {
-    "joqnix247": "b23cf883-35eb-40bd-962d-350a112c39b8",
-    "joqnix": "986f4395-368e-4454-8dbe-29af08985d55"
+    "joqnix247": "b23cf883-35eb-40bd-962d-350a112c39b8"
   },
   "stream_start_times": {
-    "joqnix247": 1788704357,
-    "joqnix": 1788785099
+    "joqnix247": 1788704357
   },
   "livestream_ids": {
-    "joqnix247": 125951841,
-    "joqnix": 126100925
+    "joqnix247": 125951841
   },
   "channel_ids": {
     "joqnix247": 91090947,
