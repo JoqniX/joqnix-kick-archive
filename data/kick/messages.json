@@ -7,6 +7,251 @@
   "data": {
     "messages": [
       {
+        "id": "efb8a87d-47c5-4a88-9a88-bce682bf40b4",
+        "chat_id": 138623,
+        "user_id": 140223,
+        "content": "thank you for coming by tonight otsujoq~",
+        "type": "message",
+        "metadata": "{\"sender_type\":\"user\"}",
+        "created_at": "2026-09-10T19:52:39Z",
+        "sender": {
+          "id": 140223,
+          "slug": "joqnix",
+          "username": "joqnix",
+          "identity": {
+            "color": "#B9D6F6",
+            "badges": [
+              {
+                "type": "broadcaster",
+                "text": "Broadcaster",
+                "sort_order": 13
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "kick_founder22",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/kick_founder22_2a2d3875-276e-4d87-ab63-d7578d2e10c0.png",
+                "selected": true,
+                "sort_order": 2
+              },
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/13_984e9f19-a4b7-44e2-8a39-3b240abeddc9.png",
+                "metadata": {
+                  "level": 13
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "d9d77f1f-4b1c-4bcd-94f7-fdf914ef2277",
+        "chat_id": 138623,
+        "user_id": 113150895,
+        "content": "\u0130t will be ready in 3 hours \u0131 guess",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1789069281998\"}",
+        "created_at": "2026-09-10T19:41:22Z",
+        "sender": {
+          "id": 113150895,
+          "slug": "tupragchan",
+          "username": "TupragChan",
+          "identity": {
+            "color": "#FFAE76",
+            "badges": [],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/24_0aa9e9ff-8f0c-42cd-9d95-09b4800348ee.png",
+                "metadata": {
+                  "level": 24
+                },
+                "selected": true,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "4b564531-2d84-44fc-a6f6-025fa85aaab5",
+        "chat_id": 138623,
+        "user_id": 113150895,
+        "content": "I find your account account",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1789069247855\"}",
+        "created_at": "2026-09-10T19:40:48Z",
+        "sender": {
+          "id": 113150895,
+          "slug": "tupragchan",
+          "username": "TupragChan",
+          "identity": {
+            "color": "#FFAE76",
+            "badges": [],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/24_0aa9e9ff-8f0c-42cd-9d95-09b4800348ee.png",
+                "metadata": {
+                  "level": 24
+                },
+                "selected": true,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "b0a93253-14b2-46e3-a343-53b82c6376be",
+        "chat_id": 138623,
+        "user_id": 7404530,
+        "content": "TupragChan just followed the stream! \ud83d\udc9a",
+        "type": "message",
+        "metadata": "{\"sender_type\":\"user\"}",
+        "created_at": "2026-09-10T19:39:46Z",
+        "sender": {
+          "id": 7404530,
+          "slug": "fossabot",
+          "username": "Fossabot",
+          "identity": {
+            "color": "#DEB2FF",
+            "badges": [
+              {
+                "type": "moderator",
+                "text": "Moderator",
+                "sort_order": 12
+              },
+              {
+                "type": "verified",
+                "text": "Verified channel",
+                "sort_order": 14
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+                "metadata": {
+                  "level": 1
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "f853f1ac-67c8-434e-903e-3c3b04a6f8d8",
+        "chat_id": 138623,
+        "user_id": 4377088,
+        "content": "Thanks for the follow @TupragChan",
+        "type": "message",
+        "metadata": null,
+        "created_at": "2026-09-10T19:39:45Z",
+        "sender": {
+          "id": 4377088,
+          "slug": "kickbot",
+          "username": "KickBot",
+          "identity": {
+            "color": "#E9113C",
+            "badges": [
+              {
+                "type": "moderator",
+                "text": "Moderator",
+                "sort_order": 12
+              },
+              {
+                "type": "verified",
+                "text": "Verified channel",
+                "sort_order": 14
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+                "metadata": {
+                  "level": 1
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "2d008c98-244b-4583-94e6-ee2023caf9be",
+        "chat_id": 138623,
+        "user_id": 113150895,
+        "content": "Thank youu \u0131f tou have an instagram account \u0131 will send it to youu",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1789069168048\"}",
+        "created_at": "2026-09-10T19:39:28Z",
+        "sender": {
+          "id": 113150895,
+          "slug": "tupragchan",
+          "username": "TupragChan",
+          "identity": {
+            "color": "#FFAE76",
+            "badges": [],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/24_0aa9e9ff-8f0c-42cd-9d95-09b4800348ee.png",
+                "metadata": {
+                  "level": 24
+                },
+                "selected": true,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "05af1876-8c53-40e1-bb9b-202515a9a8d9",
+        "chat_id": 138623,
+        "user_id": 113150895,
+        "content": "Please don't misunderstand me \u0131m not one of the bots that go to everyones stream amd try make them see my art but \u0131 dont know what to draw so can \u0131 draw you as a fanart",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1789069097111\"}",
+        "created_at": "2026-09-10T19:38:17Z",
+        "sender": {
+          "id": 113150895,
+          "slug": "tupragchan",
+          "username": "TupragChan",
+          "identity": {
+            "color": "#FFAE76",
+            "badges": [],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/24_0aa9e9ff-8f0c-42cd-9d95-09b4800348ee.png",
+                "metadata": {
+                  "level": 24
+                },
+                "selected": true,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
         "id": "85a72148-dbe7-4d28-8f46-ad8b63802401",
         "chat_id": 138623,
         "user_id": 113150895,
@@ -239,7 +484,7 @@
         }
       }
     ],
-    "cursor": "1788582005411311",
+    "cursor": "1788674598396732",
     "pinned_message": null
   }
 }
