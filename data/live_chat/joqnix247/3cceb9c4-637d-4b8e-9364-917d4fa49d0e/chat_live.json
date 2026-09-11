@@ -121,5 +121,87 @@
         ]
       }
     }
+  },
+  {
+    "id": "f76c5523-93ff-4863-b319-f45dc9b3b6ce",
+    "chat_id": 91090947,
+    "user_id": 4377088,
+    "content": "Thanks for the follow @lucia_rossi",
+    "type": "message",
+    "metadata": null,
+    "created_at": "2026-09-11T01:31:12Z",
+    "sender": {
+      "id": 4377088,
+      "slug": "kickbot",
+      "username": "KickBot",
+      "identity": {
+        "color": "#E9113C",
+        "badges": [
+          {
+            "type": "moderator",
+            "text": "Moderator",
+            "sort_order": 12
+          },
+          {
+            "type": "verified",
+            "text": "Verified channel",
+            "sort_order": 14
+          }
+        ],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+            "metadata": {
+              "level": 1
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "ef342077-8b58-4c8b-95a4-82ffcebd9ae2",
+    "chat_id": 91090947,
+    "user_id": 4377088,
+    "content": "Thanks for the follow @lucia_rossi",
+    "type": "message",
+    "metadata": null,
+    "created_at": "2026-09-11T00:59:48Z",
+    "sender": {
+      "id": 4377088,
+      "slug": "kickbot",
+      "username": "KickBot",
+      "identity": {
+        "color": "#E9113C",
+        "badges": [
+          {
+            "type": "moderator",
+            "text": "Moderator",
+            "sort_order": 12
+          },
+          {
+            "type": "verified",
+            "text": "Verified channel",
+            "sort_order": 14
+          }
+        ],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+            "metadata": {
+              "level": 1
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
   }
 ]
