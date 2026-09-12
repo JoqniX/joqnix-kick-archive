@@ -7,6 +7,696 @@
   "data": {
     "messages": [
       {
+        "id": "0111f42b-84db-4809-8f22-b3c212beff21",
+        "chat_id": 138623,
+        "user_id": 64501301,
+        "content": "ok",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1789204351943\"}",
+        "created_at": "2026-09-12T09:12:32Z",
+        "sender": {
+          "id": 64501301,
+          "slug": "arcane-pixels",
+          "username": "Arcane_Pixels",
+          "identity": {
+            "color": "#FF9D00",
+            "badges": [],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/8_47c056a6-e00e-41dd-a540-df0e10f98329.png",
+                "metadata": {
+                  "level": 8
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "e749c2b1-a8ba-492a-a87e-684c8a8b2d6f",
+        "chat_id": 138623,
+        "user_id": 64501301,
+        "content": "link please?",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1789204274224\"}",
+        "created_at": "2026-09-12T09:11:14Z",
+        "sender": {
+          "id": 64501301,
+          "slug": "arcane-pixels",
+          "username": "Arcane_Pixels",
+          "identity": {
+            "color": "#FF9D00",
+            "badges": [],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/8_47c056a6-e00e-41dd-a540-df0e10f98329.png",
+                "metadata": {
+                  "level": 8
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "e9b1dcb4-ae94-44fd-a857-3199e8e8a44b",
+        "chat_id": 138623,
+        "user_id": 64501301,
+        "content": "do u have discord?",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1789204268061\"}",
+        "created_at": "2026-09-12T09:11:08Z",
+        "sender": {
+          "id": 64501301,
+          "slug": "arcane-pixels",
+          "username": "Arcane_Pixels",
+          "identity": {
+            "color": "#FF9D00",
+            "badges": [],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/8_47c056a6-e00e-41dd-a540-df0e10f98329.png",
+                "metadata": {
+                  "level": 8
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "2eaf82b9-9d91-42b9-97d7-0224f2ea2968",
+        "chat_id": 138623,
+        "user_id": 64501301,
+        "content": "so true",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1789203918692\"}",
+        "created_at": "2026-09-12T09:05:19Z",
+        "sender": {
+          "id": 64501301,
+          "slug": "arcane-pixels",
+          "username": "Arcane_Pixels",
+          "identity": {
+            "color": "#FF9D00",
+            "badges": [],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/8_47c056a6-e00e-41dd-a540-df0e10f98329.png",
+                "metadata": {
+                  "level": 8
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "8f698773-5609-4580-89be-8929c04cac63",
+        "chat_id": 138623,
+        "user_id": 64501301,
+        "content": "ohh.. Congratulations",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1789203902221\"}",
+        "created_at": "2026-09-12T09:05:02Z",
+        "sender": {
+          "id": 64501301,
+          "slug": "arcane-pixels",
+          "username": "Arcane_Pixels",
+          "identity": {
+            "color": "#FF9D00",
+            "badges": [],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/8_47c056a6-e00e-41dd-a540-df0e10f98329.png",
+                "metadata": {
+                  "level": 8
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "2bcfa722-cdbf-4f0b-80c4-393a68bb6e44",
+        "chat_id": 138623,
+        "user_id": 64501301,
+        "content": "for money?",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1789203819739\"}",
+        "created_at": "2026-09-12T09:03:40Z",
+        "sender": {
+          "id": 64501301,
+          "slug": "arcane-pixels",
+          "username": "Arcane_Pixels",
+          "identity": {
+            "color": "#FF9D00",
+            "badges": [],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/8_47c056a6-e00e-41dd-a540-df0e10f98329.png",
+                "metadata": {
+                  "level": 8
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "e4ffd603-407c-4abc-bf4b-bb396f1565c2",
+        "chat_id": 138623,
+        "user_id": 64501301,
+        "content": "which one is better.. kick or twitch?",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1789203812070\"}",
+        "created_at": "2026-09-12T09:03:32Z",
+        "sender": {
+          "id": 64501301,
+          "slug": "arcane-pixels",
+          "username": "Arcane_Pixels",
+          "identity": {
+            "color": "#FF9D00",
+            "badges": [],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/8_47c056a6-e00e-41dd-a540-df0e10f98329.png",
+                "metadata": {
+                  "level": 8
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "8e651fc6-921c-4341-97ba-ac2a1a90c485",
+        "chat_id": 138623,
+        "user_id": 64501301,
+        "content": "wow",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1789203788474\"}",
+        "created_at": "2026-09-12T09:03:08Z",
+        "sender": {
+          "id": 64501301,
+          "slug": "arcane-pixels",
+          "username": "Arcane_Pixels",
+          "identity": {
+            "color": "#FF9D00",
+            "badges": [],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/8_47c056a6-e00e-41dd-a540-df0e10f98329.png",
+                "metadata": {
+                  "level": 8
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "9e7a92b7-2411-44e8-95b0-f390b001eec0",
+        "chat_id": 138623,
+        "user_id": 64501301,
+        "content": "ap ka twitch pe account hey?",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1789203751773\"}",
+        "created_at": "2026-09-12T09:02:32Z",
+        "sender": {
+          "id": 64501301,
+          "slug": "arcane-pixels",
+          "username": "Arcane_Pixels",
+          "identity": {
+            "color": "#FF9D00",
+            "badges": [],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/8_47c056a6-e00e-41dd-a540-df0e10f98329.png",
+                "metadata": {
+                  "level": 8
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "c21ce9bb-52ed-4856-b93e-a57832b39799",
+        "chat_id": 138623,
+        "user_id": 64501301,
+        "content": "new in kick",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1789203719978\"}",
+        "created_at": "2026-09-12T09:02:00Z",
+        "sender": {
+          "id": 64501301,
+          "slug": "arcane-pixels",
+          "username": "Arcane_Pixels",
+          "identity": {
+            "color": "#FF9D00",
+            "badges": [],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/8_47c056a6-e00e-41dd-a540-df0e10f98329.png",
+                "metadata": {
+                  "level": 8
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "f1dbca19-08bb-41b8-9fe7-15bf35fb6e92",
+        "chat_id": 138623,
+        "user_id": 64501301,
+        "content": "i use twitch",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1789203713150\"}",
+        "created_at": "2026-09-12T09:01:53Z",
+        "sender": {
+          "id": 64501301,
+          "slug": "arcane-pixels",
+          "username": "Arcane_Pixels",
+          "identity": {
+            "color": "#FF9D00",
+            "badges": [],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/8_47c056a6-e00e-41dd-a540-df0e10f98329.png",
+                "metadata": {
+                  "level": 8
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "7850cfce-e481-4e49-9816-c33c406de276",
+        "chat_id": 138623,
+        "user_id": 64501301,
+        "content": "randomly",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1789203700297\"}",
+        "created_at": "2026-09-12T09:01:40Z",
+        "sender": {
+          "id": 64501301,
+          "slug": "arcane-pixels",
+          "username": "Arcane_Pixels",
+          "identity": {
+            "color": "#FF9D00",
+            "badges": [],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/8_47c056a6-e00e-41dd-a540-df0e10f98329.png",
+                "metadata": {
+                  "level": 8
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "877e74de-2ba8-4eb2-8a59-9a88e3998b28",
+        "chat_id": 138623,
+        "user_id": 64501301,
+        "content": "[emote:1730769:emojiDJ]",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1789203646685\"}",
+        "created_at": "2026-09-12T09:00:47Z",
+        "sender": {
+          "id": 64501301,
+          "slug": "arcane-pixels",
+          "username": "Arcane_Pixels",
+          "identity": {
+            "color": "#FF9D00",
+            "badges": [],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/8_47c056a6-e00e-41dd-a540-df0e10f98329.png",
+                "metadata": {
+                  "level": 8
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "439ca147-f5fd-4f24-8d88-62665bbeedb6",
+        "chat_id": 138623,
+        "user_id": 64501301,
+        "content": "looks like far cry 3",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1789203616380\"}",
+        "created_at": "2026-09-12T09:00:16Z",
+        "sender": {
+          "id": 64501301,
+          "slug": "arcane-pixels",
+          "username": "Arcane_Pixels",
+          "identity": {
+            "color": "#FF9D00",
+            "badges": [],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/8_47c056a6-e00e-41dd-a540-df0e10f98329.png",
+                "metadata": {
+                  "level": 8
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "7f7c1624-9bd6-4aa4-a9b4-97683ce1654e",
+        "chat_id": 138623,
+        "user_id": 64501301,
+        "content": "I see.. [emote:4148144:catblobDance]",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1789203582255\"}",
+        "created_at": "2026-09-12T08:59:42Z",
+        "sender": {
+          "id": 64501301,
+          "slug": "arcane-pixels",
+          "username": "Arcane_Pixels",
+          "identity": {
+            "color": "#FF9D00",
+            "badges": [],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/8_47c056a6-e00e-41dd-a540-df0e10f98329.png",
+                "metadata": {
+                  "level": 8
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "8e5fe136-19a5-4a36-80bc-412d6483f581",
+        "chat_id": 138623,
+        "user_id": 64501301,
+        "content": "try karna parega",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1789203549743\"}",
+        "created_at": "2026-09-12T08:59:10Z",
+        "sender": {
+          "id": 64501301,
+          "slug": "arcane-pixels",
+          "username": "Arcane_Pixels",
+          "identity": {
+            "color": "#FF9D00",
+            "badges": [],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/8_47c056a6-e00e-41dd-a540-df0e10f98329.png",
+                "metadata": {
+                  "level": 8
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "64faf414-5180-4321-8727-94d85f0a47a0",
+        "chat_id": 138623,
+        "user_id": 64501301,
+        "content": "Ohh cool..",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1789203539706\"}",
+        "created_at": "2026-09-12T08:59:00Z",
+        "sender": {
+          "id": 64501301,
+          "slug": "arcane-pixels",
+          "username": "Arcane_Pixels",
+          "identity": {
+            "color": "#FF9D00",
+            "badges": [],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/8_47c056a6-e00e-41dd-a540-df0e10f98329.png",
+                "metadata": {
+                  "level": 8
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "81733019-ca79-4e8e-882c-d720a07e1d8a",
+        "chat_id": 138623,
+        "user_id": 64501301,
+        "content": "PUBG?",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1789203458218\"}",
+        "created_at": "2026-09-12T08:57:39Z",
+        "sender": {
+          "id": 64501301,
+          "slug": "arcane-pixels",
+          "username": "Arcane_Pixels",
+          "identity": {
+            "color": "#FF9D00",
+            "badges": [],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/8_47c056a6-e00e-41dd-a540-df0e10f98329.png",
+                "metadata": {
+                  "level": 8
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "f8a766e8-7a96-48fe-a11d-e82c188201ef",
+        "chat_id": 138623,
+        "user_id": 64501301,
+        "content": "konsa game hey ye?",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1789203450907\"}",
+        "created_at": "2026-09-12T08:57:31Z",
+        "sender": {
+          "id": 64501301,
+          "slug": "arcane-pixels",
+          "username": "Arcane_Pixels",
+          "identity": {
+            "color": "#FF9D00",
+            "badges": [],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/7_bce852c7-f8c0-43e9-bba1-5ae987199625.png",
+                "metadata": {
+                  "level": 7
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "18f92b49-25dc-44e5-b9a2-b53645069a71",
+        "chat_id": 138623,
+        "user_id": 64501301,
+        "content": "i m fine [emote:39251:beeBobble]",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1789203416499\"}",
+        "created_at": "2026-09-12T08:56:56Z",
+        "sender": {
+          "id": 64501301,
+          "slug": "arcane-pixels",
+          "username": "Arcane_Pixels",
+          "identity": {
+            "color": "#FF9D00",
+            "badges": [],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/7_bce852c7-f8c0-43e9-bba1-5ae987199625.png",
+                "metadata": {
+                  "level": 7
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "ee14ec51-49a3-4a50-a1d7-cf78be643552",
+        "chat_id": 138623,
+        "user_id": 64501301,
+        "content": "How r u?",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1789203393662\"}",
+        "created_at": "2026-09-12T08:56:34Z",
+        "sender": {
+          "id": 64501301,
+          "slug": "arcane-pixels",
+          "username": "Arcane_Pixels",
+          "identity": {
+            "color": "#FF9D00",
+            "badges": [],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/7_bce852c7-f8c0-43e9-bba1-5ae987199625.png",
+                "metadata": {
+                  "level": 7
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "10f655c1-b190-48f4-9699-dd5cfd639f8a",
+        "chat_id": 138623,
+        "user_id": 64501301,
+        "content": "Hey.. Good Afternoon",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1789203379066\"}",
+        "created_at": "2026-09-12T08:56:19Z",
+        "sender": {
+          "id": 64501301,
+          "slug": "arcane-pixels",
+          "username": "Arcane_Pixels",
+          "identity": {
+            "color": "#FF9D00",
+            "badges": [],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/7_bce852c7-f8c0-43e9-bba1-5ae987199625.png",
+                "metadata": {
+                  "level": 7
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "f41cd7b1-4c40-4602-9a27-3c80e30f4628",
+        "chat_id": 138623,
+        "user_id": 117765114,
+        "content": "What up",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1789193818607\"}",
+        "created_at": "2026-09-12T06:16:58Z",
+        "sender": {
+          "id": 117765114,
+          "slug": "aarom-is07",
+          "username": "Aarom_is07",
+          "identity": {
+            "color": "#FF4117",
+            "badges": [],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/9_4ae06e2e-2c0b-4047-be31-78d7ed0a8724.png",
+                "metadata": {
+                  "level": 9
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
         "id": "1a188f76-2c72-4a01-a6bc-15a529ad2a73",
         "chat_id": 138623,
         "user_id": 140223,
@@ -89,50 +779,9 @@
             ]
           }
         }
-      },
-      {
-        "id": "d38bfba7-095d-48ed-b0ea-a3c8798424e7",
-        "chat_id": 138623,
-        "user_id": 7404530,
-        "content": "joqnix changed their title to \"\"!",
-        "type": "message",
-        "metadata": "{\"sender_type\":\"user\"}",
-        "created_at": "2026-09-12T00:16:54Z",
-        "sender": {
-          "id": 7404530,
-          "slug": "fossabot",
-          "username": "Fossabot",
-          "identity": {
-            "color": "#DEB2FF",
-            "badges": [
-              {
-                "type": "moderator",
-                "text": "Moderator",
-                "sort_order": 12
-              },
-              {
-                "type": "verified",
-                "text": "Verified channel",
-                "sort_order": 14
-              }
-            ],
-            "badges_v2": [
-              {
-                "name": "level",
-                "badge_type": "global",
-                "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
-                "metadata": {
-                  "level": 1
-                },
-                "selected": false,
-                "sort_order": 1
-              }
-            ]
-          }
-        }
       }
     ],
-    "cursor": "1788777895911386",
+    "cursor": "1789172743102454",
     "pinned_message": null
   }
 }
