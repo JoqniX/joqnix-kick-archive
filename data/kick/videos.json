@@ -1,5 +1,68 @@
 [
   {
+    "id": 127059158,
+    "slug": "145926add6edb15a-wardogs-6-playing-wardogs-and-leveling-up-indian-vtuber-enjp-joqnix",
+    "channel_id": 138623,
+    "created_at": "2026-09-13 04:00:13",
+    "session_title": "WARDOGS #6\u250a \u2726 Playing wardogs and leveling up~ ~ INDIAN VTUBER  ~ EN/JP | JoqniX",
+    "is_live": true,
+    "risk_level_id": null,
+    "start_time": "2026-09-13 04:00:10",
+    "source": "https://stream.kick.com/0f3cb0ebce7/ivs/v1/196233775518/ZCkulBebTQZR/2026/9/13/4/0/OZe73CIXLZnl/media/hls/master.m3u8",
+    "twitch_channel": null,
+    "duration": 0,
+    "language": "English",
+    "is_mature": false,
+    "viewer_count": 1,
+    "tags": [],
+    "thumbnail": {
+      "src": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/OZe73CIXLZnl/720.webp?versionId=jDt2RmSkYxJEs6pJyfb5zHK0CNfEYXd.",
+      "srcset": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/OZe73CIXLZnl/1080.webp?versionId=yG.7PYQ55h6hsN19HdmAlKTmwAuqsa86 1920w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/OZe73CIXLZnl/720.webp?versionId=jDt2RmSkYxJEs6pJyfb5zHK0CNfEYXd. 1280w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/OZe73CIXLZnl/360.webp?versionId=Ta57WXkOiG85WZtjy9eYAveBtRwD1zvT 480w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/OZe73CIXLZnl/160.webp?versionId=yaNAZZsVGbEloFEaMCypBNgoULaFXYfw 284w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/OZe73CIXLZnl/480.webp?versionId=7ieXG_muDDifKlI.GK2aaMsj5HAPVjiS 640w"
+    },
+    "views": 0,
+    "video": {
+      "id": 122758147,
+      "live_stream_id": 127059158,
+      "slug": null,
+      "thumb": null,
+      "s3": null,
+      "trading_platform_id": null,
+      "created_at": "2026-09-13T04:00:14.000000Z",
+      "updated_at": "2026-09-13T04:00:14.000000Z",
+      "uuid": "caf1b9ed-e48c-482c-bd0a-70c27c0cc811",
+      "views": 0,
+      "deleted_at": null,
+      "is_pruned": false,
+      "is_private": false,
+      "status": "public"
+    },
+    "categories": [
+      {
+        "id": 415,
+        "category_id": 1,
+        "name": "VTubers",
+        "slug": "vtubers",
+        "tags": [
+          "Action",
+          "Puzzle",
+          "Adventure Games",
+          "Shooter",
+          "FPS"
+        ],
+        "description": null,
+        "deleted_at": null,
+        "is_mature": false,
+        "is_promoted": false,
+        "viewers": 1187,
+        "is_fallback": false,
+        "banner": {
+          "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
+          "url": "https://files.kick.com/images/subcategories/415/banner/20afafe3-9025-4d93-9bab-5d4e7694807a"
+        }
+      }
+    ]
+  },
+  {
     "id": 127027650,
     "slug": "0336c3a76afc1862-wardogs-5-playing-wardogs-all-day-indian-vtuber-enjp-joqnix",
     "channel_id": 138623,
@@ -53,7 +116,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 604,
+        "viewers": 1187,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -116,7 +179,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 604,
+        "viewers": 1187,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -179,7 +242,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 604,
+        "viewers": 1187,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -242,7 +305,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 604,
+        "viewers": 1187,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -305,7 +368,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 604,
+        "viewers": 1187,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -368,70 +431,7 @@
         "deleted_at": null,
         "is_mature": false,
         "is_promoted": false,
-        "viewers": 604,
-        "is_fallback": false,
-        "banner": {
-          "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
-          "url": "https://files.kick.com/images/subcategories/415/banner/20afafe3-9025-4d93-9bab-5d4e7694807a"
-        }
-      }
-    ]
-  },
-  {
-    "id": 125912211,
-    "slug": "86bb3e6184cfa071-wardogs-2-last-day-of-closed-beta-test-indian-vtuber-enjp-joqnix",
-    "channel_id": 138623,
-    "created_at": "2026-09-06 06:03:17",
-    "session_title": "WARDOGS #2\u250a \u2726 LAST DAY OF CLOSED BETA TEST !!  ~ INDIAN VTUBER  ~ EN/JP | JoqniX",
-    "is_live": false,
-    "risk_level_id": null,
-    "start_time": "2026-09-06 06:03:16",
-    "source": "https://stream.kick.com/0f3cb0ebce7/ivs/v1/196233775518/ZCkulBebTQZR/2026/9/6/6/3/EdUE6wSGq2zR/media/hls/master.m3u8",
-    "twitch_channel": null,
-    "duration": 13254000,
-    "language": "English",
-    "is_mature": false,
-    "viewer_count": 1,
-    "tags": [],
-    "thumbnail": {
-      "src": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/EdUE6wSGq2zR/720.webp",
-      "srcset": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/EdUE6wSGq2zR/1080.webp 1920w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/EdUE6wSGq2zR/720.webp 1280w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/EdUE6wSGq2zR/360.webp 480w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/EdUE6wSGq2zR/160.webp 284w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/EdUE6wSGq2zR/480.webp 640w"
-    },
-    "views": 8,
-    "video": {
-      "id": 121611362,
-      "live_stream_id": 125912211,
-      "slug": null,
-      "thumb": null,
-      "s3": null,
-      "trading_platform_id": null,
-      "created_at": "2026-09-06T06:03:17.000000Z",
-      "updated_at": "2026-09-06T09:45:48.000000Z",
-      "uuid": "08beb1ff-47e4-423d-9dce-fb6a58e29039",
-      "views": 8,
-      "deleted_at": null,
-      "is_pruned": false,
-      "is_private": false,
-      "status": "public"
-    },
-    "categories": [
-      {
-        "id": 415,
-        "category_id": 1,
-        "name": "VTubers",
-        "slug": "vtubers",
-        "tags": [
-          "Action",
-          "Puzzle",
-          "Adventure Games",
-          "Shooter",
-          "FPS"
-        ],
-        "description": null,
-        "deleted_at": null,
-        "is_mature": false,
-        "is_promoted": false,
-        "viewers": 604,
+        "viewers": 1187,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
