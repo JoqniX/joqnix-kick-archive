@@ -69,5 +69,117 @@
         ]
       }
     }
+  },
+  {
+    "id": "6d0ae6ed-1f0b-4ec0-95cc-430f9d9e58d3",
+    "chat_id": 138623,
+    "user_id": 119183858,
+    "content": "hey",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1789822846241\"}",
+    "created_at": "2026-09-19T13:00:46Z",
+    "sender": {
+      "id": 119183858,
+      "slug": "gutsy2007",
+      "username": "gutsy2007",
+      "identity": {
+        "color": "#FF2C56",
+        "badges": [],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/22_f0dcac43-ed99-482b-a0ff-d9048b25475d.png",
+            "metadata": {
+              "level": 22
+            },
+            "selected": true,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "53761b2e-33d0-4a68-a77b-38a524f24fb5",
+    "chat_id": 138623,
+    "user_id": 7404530,
+    "content": "joqnix just went live playing VTubers!",
+    "type": "message",
+    "metadata": "{\"sender_type\":\"user\"}",
+    "created_at": "2026-09-19T13:00:30Z",
+    "sender": {
+      "id": 7404530,
+      "slug": "fossabot",
+      "username": "Fossabot",
+      "identity": {
+        "color": "#DEB2FF",
+        "badges": [
+          {
+            "type": "moderator",
+            "text": "Moderator",
+            "sort_order": 12
+          },
+          {
+            "type": "verified",
+            "text": "Verified channel",
+            "sort_order": 14
+          }
+        ],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+            "metadata": {
+              "level": 1
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "ea7ad274-31e1-4b10-a216-65386690c564",
+    "chat_id": 138623,
+    "user_id": 7404530,
+    "content": "joqnix just went live playing VTubers!",
+    "type": "message",
+    "metadata": "{\"sender_type\":\"user\"}",
+    "created_at": "2026-09-19T15:31:27Z",
+    "sender": {
+      "id": 7404530,
+      "slug": "fossabot",
+      "username": "Fossabot",
+      "identity": {
+        "color": "#DEB2FF",
+        "badges": [
+          {
+            "type": "moderator",
+            "text": "Moderator",
+            "sort_order": 12
+          },
+          {
+            "type": "verified",
+            "text": "Verified channel",
+            "sort_order": 14
+          }
+        ],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+            "metadata": {
+              "level": 1
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
   }
 ]
