@@ -1,0 +1,27 @@
+[
+  {
+    "id": "83045b2f-309d-4a66-aa6b-875b5c49d215",
+    "timestamp": "2026-09-19T15:34:31Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 140223,
+      "username": "joqnix",
+      "avatar": "https://files.kick.com/images/user/140223/profile_image/conversion/f1154229-3d49-4651-888f-861228baf077-fullsize.webp",
+      "color": "#B9D6F6",
+      "badges": [
+        {
+          "type": "broadcaster",
+          "text": "Broadcaster"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "Man my wifi actually died wah. Nyooo"
+      }
+    ],
+    "type": "message"
+  }
+]
