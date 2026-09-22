@@ -7,13 +7,13 @@
   "data": {
     "messages": [
       {
-        "id": "c3fdba8a-ebe8-4199-a24f-bdd8bc9b6b41",
+        "id": "26958433-f79f-4201-b200-4edd569af127",
         "chat_id": 138623,
         "user_id": 7404530,
-        "content": "George4HD just followed the stream! \ud83d\udc9a",
+        "content": "NyxuneVT just followed the stream! \ud83d\udc9a",
         "type": "message",
         "metadata": "{\"sender_type\":\"user\"}",
-        "created_at": "2026-09-21T14:45:21Z",
+        "created_at": "2026-09-22T15:15:54Z",
         "sender": {
           "id": 7404530,
           "slug": "fossabot",
@@ -48,13 +48,13 @@
         }
       },
       {
-        "id": "7d604750-cb73-4fad-9582-064a2d7b237f",
+        "id": "3907235e-6069-4f3d-9eb4-d203257ea7f5",
         "chat_id": 138623,
         "user_id": 4377088,
-        "content": "Thanks for the follow @George4HD",
+        "content": "Thanks for the follow @NyxuneVT",
         "type": "message",
         "metadata": null,
-        "created_at": "2026-09-21T14:45:20Z",
+        "created_at": "2026-09-22T15:15:53Z",
         "sender": {
           "id": 4377088,
           "slug": "kickbot",
@@ -87,52 +87,9 @@
             ]
           }
         }
-      },
-      {
-        "id": "a02a7728-d6a6-4c89-91b5-a1aba26f8bb5",
-        "chat_id": 138623,
-        "user_id": 140223,
-        "content": "i thought my internet was fixed switching to 4g ;w; but welp its going downhil inbetween wah!",
-        "type": "message",
-        "metadata": "{\"sender_type\":\"user\"}",
-        "created_at": "2026-09-21T13:16:38Z",
-        "sender": {
-          "id": 140223,
-          "slug": "joqnix",
-          "username": "joqnix",
-          "identity": {
-            "color": "#B9D6F6",
-            "badges": [
-              {
-                "type": "broadcaster",
-                "text": "Broadcaster",
-                "sort_order": 13
-              }
-            ],
-            "badges_v2": [
-              {
-                "name": "kick_founder22",
-                "badge_type": "global",
-                "image_url": "https://ext.cdn.kick.com/chat/badges/kick_founder22_2a2d3875-276e-4d87-ab63-d7578d2e10c0.png",
-                "selected": true,
-                "sort_order": 2
-              },
-              {
-                "name": "level",
-                "badge_type": "global",
-                "image_url": "https://ext.cdn.kick.com/chat/badges/19_5d6341dc-feee-4a6d-becd-1f9cdef30a53.png",
-                "metadata": {
-                  "level": 19
-                },
-                "selected": false,
-                "sort_order": 1
-              }
-            ]
-          }
-        }
       }
     ],
-    "cursor": "1789203919180139",
+    "cursor": "1789204274741719",
     "pinned_message": null
   }
 }
