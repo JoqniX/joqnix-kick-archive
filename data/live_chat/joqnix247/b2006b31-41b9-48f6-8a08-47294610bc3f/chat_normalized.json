@@ -1,0 +1,234 @@
+[
+  {
+    "id": "4ba1acb3-2b96-4b47-8ed1-d646bda7c615",
+    "timestamp": "2026-09-23T09:48:05Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 4377088,
+      "username": "KickBot",
+      "avatar": null,
+      "color": "#E9113C",
+      "badges": [
+        {
+          "type": "moderator",
+          "text": "Moderator"
+        },
+        {
+          "type": "verified",
+          "text": "Verified channel"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "Thanks for the follow @alyanawatson78"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "69c0ed0c-fcaa-4b9b-a232-94af04abdb48",
+    "timestamp": "2026-09-23T07:53:21Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 4377088,
+      "username": "KickBot",
+      "avatar": null,
+      "color": "#E9113C",
+      "badges": [
+        {
+          "type": "moderator",
+          "text": "Moderator"
+        },
+        {
+          "type": "verified",
+          "text": "Verified channel"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "Thanks for the follow @Kakashi_hatake_420"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "95dd0738-f2f1-45ba-9ea1-60b038239742",
+    "timestamp": "2026-09-22T22:35:18Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 4377088,
+      "username": "KickBot",
+      "avatar": null,
+      "color": "#E9113C",
+      "badges": [
+        {
+          "type": "moderator",
+          "text": "Moderator"
+        },
+        {
+          "type": "verified",
+          "text": "Verified channel"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "Thanks for the follow @salemu582"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "47f8361c-c09d-4a6a-8958-07b57f1af681",
+    "timestamp": "2026-09-22T18:26:00Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 4377088,
+      "username": "KickBot",
+      "avatar": null,
+      "color": "#E9113C",
+      "badges": [
+        {
+          "type": "moderator",
+          "text": "Moderator"
+        },
+        {
+          "type": "verified",
+          "text": "Verified channel"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "Thanks for the follow @QUAINTx"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "4ba1acb3-2b96-4b47-8ed1-d646bda7c615",
+    "timestamp": "2026-09-23T09:48:05Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 4377088,
+      "username": "KickBot",
+      "avatar": null,
+      "color": "#E9113C",
+      "badges": [
+        {
+          "type": "moderator",
+          "text": "Moderator"
+        },
+        {
+          "type": "verified",
+          "text": "Verified channel"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "Thanks for the follow @alyanawatson78"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "69c0ed0c-fcaa-4b9b-a232-94af04abdb48",
+    "timestamp": "2026-09-23T07:53:21Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 4377088,
+      "username": "KickBot",
+      "avatar": null,
+      "color": "#E9113C",
+      "badges": [
+        {
+          "type": "moderator",
+          "text": "Moderator"
+        },
+        {
+          "type": "verified",
+          "text": "Verified channel"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "Thanks for the follow @Kakashi_hatake_420"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "95dd0738-f2f1-45ba-9ea1-60b038239742",
+    "timestamp": "2026-09-22T22:35:18Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 4377088,
+      "username": "KickBot",
+      "avatar": null,
+      "color": "#E9113C",
+      "badges": [
+        {
+          "type": "moderator",
+          "text": "Moderator"
+        },
+        {
+          "type": "verified",
+          "text": "Verified channel"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "Thanks for the follow @salemu582"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "487f4a5a-860b-498a-8114-453da771777e",
+    "timestamp": "2026-09-23T22:27:47Z",
+    "vod_offset": 45582,
+    "vod_timestamp": "12:39:42",
+    "user": {
+      "id": 4377088,
+      "username": "KickBot",
+      "avatar": null,
+      "color": "#E9113C",
+      "badges": [
+        {
+          "type": "moderator",
+          "text": "Moderator"
+        },
+        {
+          "type": "verified",
+          "text": "Verified channel"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "Thanks for the follow @galaxianerd1"
+      }
+    ],
+    "type": "message"
+  }
+]
