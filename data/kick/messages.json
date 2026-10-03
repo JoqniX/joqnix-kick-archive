@@ -7,6 +7,49 @@
   "data": {
     "messages": [
       {
+        "id": "d923d187-2dd9-4d89-b85f-ec150be1f96f",
+        "chat_id": 138623,
+        "user_id": 140223,
+        "content": "thank you everyone for coming by tonight~ cya in the next one~ goodnight~",
+        "type": "message",
+        "metadata": "{\"sender_type\":\"user\"}",
+        "created_at": "2026-10-03T15:49:52Z",
+        "sender": {
+          "id": 140223,
+          "slug": "joqnix",
+          "username": "joqnix",
+          "identity": {
+            "color": "#B9D6F6",
+            "badges": [
+              {
+                "type": "broadcaster",
+                "text": "Broadcaster",
+                "sort_order": 13
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "kick_founder22",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/kick_founder22_2a2d3875-276e-4d87-ab63-d7578d2e10c0.png",
+                "selected": true,
+                "sort_order": 2
+              },
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/28_2a14f4f6-7793-431b-8ffc-79f045c425fc.png",
+                "metadata": {
+                  "level": 28
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
         "id": "c9509695-88c8-4965-8e9d-6dd24290d59b",
         "chat_id": 138623,
         "user_id": 7404530,
@@ -89,7 +132,7 @@
         }
       }
     ],
-    "cursor": "1789270082103352",
+    "cursor": "1789272014951071",
     "pinned_message": null
   }
 }
