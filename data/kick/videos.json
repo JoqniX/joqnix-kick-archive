@@ -1,5 +1,191 @@
 [
   {
+    "id": 130889963,
+    "slug": "0befbd462a6a3757-outdoor-stream-18-its-so-windy-tonight-enjp-joqnix",
+    "channel_id": 138623,
+    "created_at": "2026-10-06 13:36:03",
+    "session_title": "\u304a\u305d\u3068\u96d1\u8ac7\u30fbOutdoor Stream #18\u250a \u2726 its so windy tonight~ EN/JP | JoqniX",
+    "is_live": false,
+    "risk_level_id": null,
+    "start_time": "2026-10-06 13:36:00",
+    "source": "https://stream.kick.com/0f3cb0ebce7/ivs/v1/196233775518/ZCkulBebTQZR/2026/10/6/13/35/HsLeK8ImfH0c/media/hls/master.m3u8",
+    "twitch_channel": null,
+    "duration": 1808000,
+    "language": "English",
+    "is_mature": false,
+    "viewer_count": 0,
+    "tags": [],
+    "thumbnail": {
+      "src": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/HsLeK8ImfH0c/720.webp",
+      "srcset": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/HsLeK8ImfH0c/1080.webp 1920w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/HsLeK8ImfH0c/720.webp 1280w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/HsLeK8ImfH0c/360.webp 480w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/HsLeK8ImfH0c/160.webp 284w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/HsLeK8ImfH0c/480.webp 640w"
+    },
+    "views": 4,
+    "video": {
+      "id": 126588541,
+      "live_stream_id": 130889963,
+      "slug": null,
+      "thumb": null,
+      "s3": null,
+      "trading_platform_id": null,
+      "created_at": "2026-10-06T13:36:03.000000Z",
+      "updated_at": "2026-10-06T14:07:39.000000Z",
+      "uuid": "ba71760b-0687-4fc8-88ac-933dc54bbeb6",
+      "views": 4,
+      "deleted_at": null,
+      "is_pruned": false,
+      "is_private": false,
+      "status": "public"
+    },
+    "categories": [
+      {
+        "id": 415,
+        "category_id": 1,
+        "name": "VTubers",
+        "slug": "vtubers",
+        "tags": [
+          "Action",
+          "Puzzle",
+          "Adventure Games",
+          "Shooter",
+          "FPS"
+        ],
+        "description": null,
+        "deleted_at": null,
+        "is_mature": false,
+        "viewers": 486,
+        "is_fallback": false,
+        "banner": {
+          "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
+          "url": "https://files.kick.com/images/subcategories/415/banner/20afafe3-9025-4d93-9bab-5d4e7694807a"
+        }
+      }
+    ]
+  },
+  {
+    "id": 130888963,
+    "slug": "f504d09dbb956525-outdoor-stream-18-its-so-windy-tonight-enjp-joqnix",
+    "channel_id": 138623,
+    "created_at": "2026-10-06 13:25:45",
+    "session_title": "\u304a\u305d\u3068\u96d1\u8ac7\u30fbOutdoor Stream #18\u250a \u2726 its so windy tonight~ EN/JP | JoqniX",
+    "is_live": false,
+    "risk_level_id": null,
+    "start_time": "2026-10-06 13:25:44",
+    "source": "https://stream.kick.com/0f3cb0ebce7/ivs/v1/196233775518/ZCkulBebTQZR/2026/10/6/13/25/sZaYkUr5Z2QT/media/hls/master.m3u8",
+    "twitch_channel": null,
+    "duration": 601000,
+    "language": "English",
+    "is_mature": false,
+    "viewer_count": 0,
+    "tags": [],
+    "thumbnail": {
+      "src": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/sZaYkUr5Z2QT/720.webp",
+      "srcset": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/sZaYkUr5Z2QT/1080.webp 1920w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/sZaYkUr5Z2QT/720.webp 1280w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/sZaYkUr5Z2QT/360.webp 480w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/sZaYkUr5Z2QT/160.webp 284w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/sZaYkUr5Z2QT/480.webp 640w"
+    },
+    "views": 4,
+    "video": {
+      "id": 126587541,
+      "live_stream_id": 130888963,
+      "slug": null,
+      "thumb": null,
+      "s3": null,
+      "trading_platform_id": null,
+      "created_at": "2026-10-06T13:25:45.000000Z",
+      "updated_at": "2026-10-06T13:37:18.000000Z",
+      "uuid": "f1b5b528-7532-44d6-a1c6-5b148af05a7e",
+      "views": 4,
+      "deleted_at": null,
+      "is_pruned": false,
+      "is_private": false,
+      "status": "public"
+    },
+    "categories": [
+      {
+        "id": 415,
+        "category_id": 1,
+        "name": "VTubers",
+        "slug": "vtubers",
+        "tags": [
+          "Action",
+          "Puzzle",
+          "Adventure Games",
+          "Shooter",
+          "FPS"
+        ],
+        "description": null,
+        "deleted_at": null,
+        "is_mature": false,
+        "viewers": 486,
+        "is_fallback": false,
+        "banner": {
+          "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
+          "url": "https://files.kick.com/images/subcategories/415/banner/20afafe3-9025-4d93-9bab-5d4e7694807a"
+        }
+      }
+    ]
+  },
+  {
+    "id": 130881212,
+    "slug": "29cb59c890b6af2c-outdoor-stream-18-its-so-windy-tonight-enjp-joqnix",
+    "channel_id": 138623,
+    "created_at": "2026-10-06 11:54:50",
+    "session_title": "\u304a\u305d\u3068\u96d1\u8ac7\u30fbOutdoor Stream #18\u250a \u2726 its so windy tonight~ EN/JP | JoqniX",
+    "is_live": false,
+    "risk_level_id": null,
+    "start_time": "2026-10-06 11:54:47",
+    "source": "https://stream.kick.com/0f3cb0ebce7/ivs/v1/196233775518/ZCkulBebTQZR/2026/10/6/11/54/IRk26X24BB7i/media/hls/master.m3u8",
+    "twitch_channel": null,
+    "duration": 4736000,
+    "language": "English",
+    "is_mature": false,
+    "viewer_count": 2,
+    "tags": [],
+    "thumbnail": {
+      "src": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/IRk26X24BB7i/720.webp",
+      "srcset": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/IRk26X24BB7i/1080.webp 1920w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/IRk26X24BB7i/720.webp 1280w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/IRk26X24BB7i/360.webp 480w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/IRk26X24BB7i/160.webp 284w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/IRk26X24BB7i/480.webp 640w"
+    },
+    "views": 8,
+    "video": {
+      "id": 126579790,
+      "live_stream_id": 130881212,
+      "slug": null,
+      "thumb": null,
+      "s3": null,
+      "trading_platform_id": null,
+      "created_at": "2026-10-06T11:54:51.000000Z",
+      "updated_at": "2026-10-06T13:15:21.000000Z",
+      "uuid": "4d7e17db-1363-41a9-ad04-228f784be606",
+      "views": 8,
+      "deleted_at": null,
+      "is_pruned": false,
+      "is_private": false,
+      "status": "public"
+    },
+    "categories": [
+      {
+        "id": 415,
+        "category_id": 1,
+        "name": "VTubers",
+        "slug": "vtubers",
+        "tags": [
+          "Action",
+          "Puzzle",
+          "Adventure Games",
+          "Shooter",
+          "FPS"
+        ],
+        "description": null,
+        "deleted_at": null,
+        "is_mature": false,
+        "viewers": 486,
+        "is_fallback": false,
+        "banner": {
+          "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
+          "url": "https://files.kick.com/images/subcategories/415/banner/20afafe3-9025-4d93-9bab-5d4e7694807a"
+        }
+      }
+    ]
+  },
+  {
     "id": 130384544,
     "slug": "243ad33a9c948878-puyo-puyo-champions-1-first-time-playing-training-for-tourney-indian-vtuber-enjp-joqnix",
     "channel_id": 138623,
@@ -52,7 +238,7 @@
         "description": null,
         "deleted_at": null,
         "is_mature": false,
-        "viewers": 109,
+        "viewers": 486,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -114,7 +300,7 @@
         "description": null,
         "deleted_at": null,
         "is_mature": false,
-        "viewers": 109,
+        "viewers": 486,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -176,7 +362,7 @@
         "description": null,
         "deleted_at": null,
         "is_mature": false,
-        "viewers": 109,
+        "viewers": 486,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
