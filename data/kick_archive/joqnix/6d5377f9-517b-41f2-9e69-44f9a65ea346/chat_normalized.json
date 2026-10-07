@@ -1,0 +1,411 @@
+[
+  {
+    "id": "3f86f6ff-f428-4fd2-8f8f-5bdb3f7f327c",
+    "timestamp": "2026-10-07T10:55:52Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 127839982,
+      "username": "radidoficial",
+      "avatar": null,
+      "color": "#FFAE76",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "emote",
+        "id": "5756675",
+        "name": "peepoRiot",
+        "url": "https://files.kick.com/emotes/5756675/fullsize"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "217e11a2-f4d3-44be-ac32-45db9bb21079",
+    "timestamp": "2026-10-07T10:35:48Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 127839982,
+      "username": "radidoficial",
+      "avatar": null,
+      "color": "#FFAE76",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "visit"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "fa99b8c2-ec15-4619-aa13-6ab3ccce516b",
+    "timestamp": "2026-10-07T10:35:28Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 127839982,
+      "username": "radidoficial",
+      "avatar": null,
+      "color": "#FFAE76",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "what countries did You visi"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "0b1140b8-16c9-4151-918e-29d649c99bb9",
+    "timestamp": "2026-10-07T10:28:26Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 127839982,
+      "username": "radidoficial",
+      "avatar": null,
+      "color": "#FFAE76",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "how old are you?"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "ec4fa526-ac1e-48c9-98c6-aa58ac2abb35",
+    "timestamp": "2026-10-07T10:26:44Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 127839982,
+      "username": "radidoficial",
+      "avatar": null,
+      "color": "#FFAE76",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "do you know latam or latín  america"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "7212dc58-cdf9-46c8-b994-4762cb382230",
+    "timestamp": "2026-10-07T10:25:37Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 127839982,
+      "username": "radidoficial",
+      "avatar": null,
+      "color": "#FFAE76",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "hello?"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "3c2e2dc3-4336-41e6-b747-cf9e1e0ad13d",
+    "timestamp": "2026-10-07T10:18:36Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 127839982,
+      "username": "radidoficial",
+      "avatar": null,
+      "color": "#FFAE76",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "have you ever played Pokémon"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "b304a7f8-ee36-4ed4-adee-2c5aa70f1705",
+    "timestamp": "2026-10-07T10:11:17Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 127839982,
+      "username": "radidoficial",
+      "avatar": null,
+      "color": "#FFAE76",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "where are you going"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "4fa80cdc-ffad-4827-b990-4c977b2d3e51",
+    "timestamp": "2026-10-07T10:07:14Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 127839982,
+      "username": "radidoficial",
+      "avatar": null,
+      "color": "#FFAE76",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "You went from a river to a path of total darkness"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "007b27c5-c75a-4d77-98fe-5ff42bac6fdd",
+    "timestamp": "2026-10-07T09:55:44Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 127839982,
+      "username": "radidoficial",
+      "avatar": null,
+      "color": "#FFAE76",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "oh shhit"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "64f7da26-b5c2-4c22-97f5-821af0d7e25e",
+    "timestamp": "2026-10-07T09:53:07Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 127839982,
+      "username": "radidoficial",
+      "avatar": null,
+      "color": "#FFAE76",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "how did you get there I only left they stream for about  10 minutes to fix my internet"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "a04b48f2-4a79-4ecd-82d1-ac0af5ea01aa",
+    "timestamp": "2026-10-07T09:12:00Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 127839982,
+      "username": "radidoficial",
+      "avatar": null,
+      "color": "#FFAE76",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "do you speak spanish even if it's just a little?"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "dbdffc4d-429c-40dc-96e4-6808b06907ae",
+    "timestamp": "2026-10-07T09:07:50Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 127839982,
+      "username": "radidoficial",
+      "avatar": null,
+      "color": "#FFAE76",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "It's getting light"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "7a8e3ff2-6c08-45fe-b97f-fa683046dd85",
+    "timestamp": "2026-10-07T08:58:19Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 7404530,
+      "username": "Fossabot",
+      "avatar": "https://files.kick.com/images/user/7404530/profile_image/conversion/104a9b9a-3882-49b1-aa55-22eae3dab24f-fullsize.webp",
+      "color": "#DEB2FF",
+      "badges": [
+        {
+          "type": "moderator",
+          "text": "Moderator"
+        },
+        {
+          "type": "verified",
+          "text": "Verified channel"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "radidoficial just followed the stream! 💚"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "84277499-7134-4cc4-91ae-9b7f736a8cbb",
+    "timestamp": "2026-10-07T08:58:18Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 4377088,
+      "username": "KickBot",
+      "avatar": "https://files.kick.com/images/user/4377088/profile_image/conversion/dae5ceec-5b25-4f26-82c2-e2fdc98ae958-fullsize.webp",
+      "color": "#E9113C",
+      "badges": [
+        {
+          "type": "moderator",
+          "text": "Moderator"
+        },
+        {
+          "type": "verified",
+          "text": "Verified channel"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "Thanks for the follow @radidoficial"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "34b8aa9e-5fd1-4bd5-a1fe-5d1e69779c7f",
+    "timestamp": "2026-10-07T08:57:35Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 127839982,
+      "username": "radidoficial",
+      "avatar": null,
+      "color": "#FFAE76",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "I think Im the only one"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "bf7fcbff-834b-4b25-ab01-db191d899b25",
+    "timestamp": "2026-10-07T08:51:33Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 127839982,
+      "username": "radidoficial",
+      "avatar": null,
+      "color": "#FFAE76",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "what country are you?"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "4859d63a-20ab-4f7e-9c79-8028cd596cf2",
+    "timestamp": "2026-10-07T08:44:38Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 127839982,
+      "username": "radidoficial",
+      "avatar": null,
+      "color": "#FFAE76",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "Holaaaaaaaa"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "01d945b2-0471-455f-93bc-7673f4d1b145",
+    "timestamp": "2026-10-07T08:23:35Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 7404530,
+      "username": "Fossabot",
+      "avatar": "https://files.kick.com/images/user/7404530/profile_image/conversion/104a9b9a-3882-49b1-aa55-22eae3dab24f-fullsize.webp",
+      "color": "#DEB2FF",
+      "badges": [
+        {
+          "type": "moderator",
+          "text": "Moderator"
+        },
+        {
+          "type": "verified",
+          "text": "Verified channel"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "joqnix just went live playing VTubers!"
+      }
+    ],
+    "type": "message"
+  }
+]
