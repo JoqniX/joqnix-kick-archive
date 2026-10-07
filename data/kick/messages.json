@@ -7,6 +7,320 @@
   "data": {
     "messages": [
       {
+        "id": "a04b48f2-4a79-4ecd-82d1-ac0af5ea01aa",
+        "chat_id": 138623,
+        "user_id": 127839982,
+        "content": "do you speak spanish even if it's just a little?",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1791364319029\"}",
+        "created_at": "2026-10-07T09:12:00Z",
+        "sender": {
+          "id": 127839982,
+          "slug": "radidoficial",
+          "username": "radidoficial",
+          "identity": {
+            "color": "#FFAE76",
+            "badges": [],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/7_bce852c7-f8c0-43e9-bba1-5ae987199625.png",
+                "metadata": {
+                  "level": 7
+                },
+                "selected": true,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "dbdffc4d-429c-40dc-96e4-6808b06907ae",
+        "chat_id": 138623,
+        "user_id": 127839982,
+        "content": "It's getting light",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1791364068925\"}",
+        "created_at": "2026-10-07T09:07:50Z",
+        "sender": {
+          "id": 127839982,
+          "slug": "radidoficial",
+          "username": "radidoficial",
+          "identity": {
+            "color": "#FFAE76",
+            "badges": [],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/7_bce852c7-f8c0-43e9-bba1-5ae987199625.png",
+                "metadata": {
+                  "level": 7
+                },
+                "selected": true,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "7a8e3ff2-6c08-45fe-b97f-fa683046dd85",
+        "chat_id": 138623,
+        "user_id": 7404530,
+        "content": "radidoficial just followed the stream! \ud83d\udc9a",
+        "type": "message",
+        "metadata": "{\"sender_type\":\"user\"}",
+        "created_at": "2026-10-07T08:58:19Z",
+        "sender": {
+          "id": 7404530,
+          "slug": "fossabot",
+          "username": "Fossabot",
+          "identity": {
+            "color": "#DEB2FF",
+            "badges": [
+              {
+                "type": "moderator",
+                "text": "Moderator",
+                "sort_order": 12
+              },
+              {
+                "type": "verified",
+                "text": "Verified channel",
+                "sort_order": 14
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+                "metadata": {
+                  "level": 1
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "84277499-7134-4cc4-91ae-9b7f736a8cbb",
+        "chat_id": 138623,
+        "user_id": 4377088,
+        "content": "Thanks for the follow @radidoficial",
+        "type": "message",
+        "metadata": null,
+        "created_at": "2026-10-07T08:58:18Z",
+        "sender": {
+          "id": 4377088,
+          "slug": "kickbot",
+          "username": "KickBot",
+          "identity": {
+            "color": "#E9113C",
+            "badges": [
+              {
+                "type": "moderator",
+                "text": "Moderator",
+                "sort_order": 12
+              },
+              {
+                "type": "verified",
+                "text": "Verified channel",
+                "sort_order": 14
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+                "metadata": {
+                  "level": 1
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "34b8aa9e-5fd1-4bd5-a1fe-5d1e69779c7f",
+        "chat_id": 138623,
+        "user_id": 127839982,
+        "content": "I think Im the only one",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1791363454503\"}",
+        "created_at": "2026-10-07T08:57:35Z",
+        "sender": {
+          "id": 127839982,
+          "slug": "radidoficial",
+          "username": "radidoficial",
+          "identity": {
+            "color": "#FFAE76",
+            "badges": [],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/7_bce852c7-f8c0-43e9-bba1-5ae987199625.png",
+                "metadata": {
+                  "level": 7
+                },
+                "selected": true,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "bf7fcbff-834b-4b25-ab01-db191d899b25",
+        "chat_id": 138623,
+        "user_id": 127839982,
+        "content": "what country are you?",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1791363091603\"}",
+        "created_at": "2026-10-07T08:51:33Z",
+        "sender": {
+          "id": 127839982,
+          "slug": "radidoficial",
+          "username": "radidoficial",
+          "identity": {
+            "color": "#FFAE76",
+            "badges": [],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/7_bce852c7-f8c0-43e9-bba1-5ae987199625.png",
+                "metadata": {
+                  "level": 7
+                },
+                "selected": true,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "4859d63a-20ab-4f7e-9c79-8028cd596cf2",
+        "chat_id": 138623,
+        "user_id": 127839982,
+        "content": "Holaaaaaaaa",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1791362677422\"}",
+        "created_at": "2026-10-07T08:44:38Z",
+        "sender": {
+          "id": 127839982,
+          "slug": "radidoficial",
+          "username": "radidoficial",
+          "identity": {
+            "color": "#FFAE76",
+            "badges": [],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/7_bce852c7-f8c0-43e9-bba1-5ae987199625.png",
+                "metadata": {
+                  "level": 7
+                },
+                "selected": true,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "01d945b2-0471-455f-93bc-7673f4d1b145",
+        "chat_id": 138623,
+        "user_id": 7404530,
+        "content": "joqnix just went live playing VTubers!",
+        "type": "message",
+        "metadata": "{\"sender_type\":\"user\"}",
+        "created_at": "2026-10-07T08:23:35Z",
+        "sender": {
+          "id": 7404530,
+          "slug": "fossabot",
+          "username": "Fossabot",
+          "identity": {
+            "color": "#DEB2FF",
+            "badges": [
+              {
+                "type": "moderator",
+                "text": "Moderator",
+                "sort_order": 12
+              },
+              {
+                "type": "verified",
+                "text": "Verified channel",
+                "sort_order": 14
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+                "metadata": {
+                  "level": 1
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "6a65ed0c-0b38-4d92-ab94-020830fa879d",
+        "chat_id": 138623,
+        "user_id": 7404530,
+        "content": "joqnix changed their title to \"\"!",
+        "type": "message",
+        "metadata": "{\"sender_type\":\"user\"}",
+        "created_at": "2026-10-07T08:19:04Z",
+        "sender": {
+          "id": 7404530,
+          "slug": "fossabot",
+          "username": "Fossabot",
+          "identity": {
+            "color": "#DEB2FF",
+            "badges": [
+              {
+                "type": "moderator",
+                "text": "Moderator",
+                "sort_order": 12
+              },
+              {
+                "type": "verified",
+                "text": "Verified channel",
+                "sort_order": 14
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+                "metadata": {
+                  "level": 1
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
         "id": "2df88bca-1159-427c-adec-3848cc50ef34",
         "chat_id": 138623,
         "user_id": 7404530,
@@ -216,7 +530,7 @@
         }
       }
     ],
-    "cursor": "1789565577624931",
+    "cursor": "1789990277713382",
     "pinned_message": null
   }
 }
