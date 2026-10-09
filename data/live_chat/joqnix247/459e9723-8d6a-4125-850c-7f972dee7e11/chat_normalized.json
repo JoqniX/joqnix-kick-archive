@@ -1,0 +1,31 @@
+[
+  {
+    "id": "f9753d1f-9da3-4f9c-8fa5-9a5e9e7f2678",
+    "timestamp": "2026-10-09T15:26:00Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 4377088,
+      "username": "KickBot",
+      "avatar": "https://files.kick.com/images/user/4377088/profile_image/conversion/dae5ceec-5b25-4f26-82c2-e2fdc98ae958-fullsize.webp",
+      "color": "#E9113C",
+      "badges": [
+        {
+          "type": "moderator",
+          "text": "Moderator"
+        },
+        {
+          "type": "verified",
+          "text": "Verified channel"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "Thanks for the follow @bangkiaa"
+      }
+    ],
+    "type": "message"
+  }
+]
