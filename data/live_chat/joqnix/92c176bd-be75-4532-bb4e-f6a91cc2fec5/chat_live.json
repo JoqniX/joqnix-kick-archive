@@ -252,5 +252,35 @@
         ]
       }
     }
+  },
+  {
+    "id": "a37fb6c6-8dd1-4d57-b054-98bb8c6e6cb2",
+    "chat_id": 138623,
+    "user_id": 39302531,
+    "content": "[emote:5748013:collectiblesRAGEY]",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1791818274503\"}",
+    "created_at": "2026-10-12T15:17:54Z",
+    "sender": {
+      "id": 39302531,
+      "slug": "jobiltwiggy",
+      "username": "Jobiltwiggy",
+      "identity": {
+        "color": "#E26EFF",
+        "badges": [],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/24_0aa9e9ff-8f0c-42cd-9d95-09b4800348ee.png",
+            "metadata": {
+              "level": 24
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
   }
 ]
