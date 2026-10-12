@@ -7,13 +7,340 @@
   "data": {
     "messages": [
       {
-        "id": "d8c93581-6303-4851-85ca-b1a093969291",
+        "id": "6d1922ba-1ff1-47c0-9ce5-a377f63adbe9",
         "chat_id": 138623,
-        "user_id": 7404530,
-        "content": "joqnix just went live playing VTubers!",
+        "user_id": 140223,
+        "content": "thank you everyone for coming by tonight! cya in the next stream otsujoq!",
         "type": "message",
         "metadata": "{\"sender_type\":\"user\"}",
-        "created_at": "2026-10-11T15:09:09Z",
+        "created_at": "2026-10-12T16:06:38Z",
+        "sender": {
+          "id": 140223,
+          "slug": "joqnix",
+          "username": "joqnix",
+          "identity": {
+            "color": "#B9D6F6",
+            "badges": [
+              {
+                "type": "broadcaster",
+                "text": "Broadcaster",
+                "sort_order": 13
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "kick_founder22",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/kick_founder22_2a2d3875-276e-4d87-ab63-d7578d2e10c0.png",
+                "selected": true,
+                "sort_order": 2
+              },
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/33_019f35ce-472b-7d58-83fa-2675b04a99bc.png",
+                "metadata": {
+                  "level": 33
+                },
+                "selected": false,
+                "sort_order": 1
+              },
+              {
+                "name": "DEDsafioNutria",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/DEDsafioNutria_01a0cbff-5134-75df-9dd4-8b073e36da21.png",
+                "selected": false,
+                "sort_order": 4
+              },
+              {
+                "name": "WorldofWarcraftForeverBeta",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/WorldofWarcraftForeverBeta_c4ae6085-8ec5-4905-bca5-23c56b9787d8.png",
+                "selected": false,
+                "sort_order": 4
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "40b49e4c-fa80-44b7-b1df-eb28ea44c1cf",
+        "chat_id": 138623,
+        "user_id": 39302531,
+        "content": "its a community for vibe coders and diy projects",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1791818636181\"}",
+        "created_at": "2026-10-12T15:23:56Z",
+        "sender": {
+          "id": 39302531,
+          "slug": "jobiltwiggy",
+          "username": "Jobiltwiggy",
+          "identity": {
+            "color": "#E26EFF",
+            "badges": [],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/24_0aa9e9ff-8f0c-42cd-9d95-09b4800348ee.png",
+                "metadata": {
+                  "level": 24
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "0ab42d80-cfd2-4070-ab65-bb380a91af91",
+        "chat_id": 138623,
+        "user_id": 39302531,
+        "content": "y man claude code is good man",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1791818525341\"}",
+        "created_at": "2026-10-12T15:22:05Z",
+        "sender": {
+          "id": 39302531,
+          "slug": "jobiltwiggy",
+          "username": "Jobiltwiggy",
+          "identity": {
+            "color": "#E26EFF",
+            "badges": [],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/24_0aa9e9ff-8f0c-42cd-9d95-09b4800348ee.png",
+                "metadata": {
+                  "level": 24
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "750b6bdf-d228-46a5-bee9-d56718c1a43f",
+        "chat_id": 138623,
+        "user_id": 39302531,
+        "content": "im 24",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1791818356973\"}",
+        "created_at": "2026-10-12T15:19:17Z",
+        "sender": {
+          "id": 39302531,
+          "slug": "jobiltwiggy",
+          "username": "Jobiltwiggy",
+          "identity": {
+            "color": "#E26EFF",
+            "badges": [],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/24_0aa9e9ff-8f0c-42cd-9d95-09b4800348ee.png",
+                "metadata": {
+                  "level": 24
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "1c41b0ec-5dca-420c-b535-0eca2a412b48",
+        "chat_id": 138623,
+        "user_id": 39302531,
+        "content": "[emote:5748042:collectiblesAAAA][emote:5748042:collectiblesAAAA][emote:5748042:collectiblesAAAA][emote:5748042:collectiblesAAAA][emote:5748042:collectiblesAAAA]",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1791818323016\"}",
+        "created_at": "2026-10-12T15:18:43Z",
+        "sender": {
+          "id": 39302531,
+          "slug": "jobiltwiggy",
+          "username": "Jobiltwiggy",
+          "identity": {
+            "color": "#E26EFF",
+            "badges": [],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/24_0aa9e9ff-8f0c-42cd-9d95-09b4800348ee.png",
+                "metadata": {
+                  "level": 24
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "6a742d82-e4ab-44f4-be1f-1725a956309e",
+        "chat_id": 138623,
+        "user_id": 39302531,
+        "content": "thanks man",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1791818306727\"}",
+        "created_at": "2026-10-12T15:18:27Z",
+        "sender": {
+          "id": 39302531,
+          "slug": "jobiltwiggy",
+          "username": "Jobiltwiggy",
+          "identity": {
+            "color": "#E26EFF",
+            "badges": [],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/24_0aa9e9ff-8f0c-42cd-9d95-09b4800348ee.png",
+                "metadata": {
+                  "level": 24
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "a37fb6c6-8dd1-4d57-b054-98bb8c6e6cb2",
+        "chat_id": 138623,
+        "user_id": 39302531,
+        "content": "[emote:5748013:collectiblesRAGEY]",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1791818274503\"}",
+        "created_at": "2026-10-12T15:17:54Z",
+        "sender": {
+          "id": 39302531,
+          "slug": "jobiltwiggy",
+          "username": "Jobiltwiggy",
+          "identity": {
+            "color": "#E26EFF",
+            "badges": [],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/24_0aa9e9ff-8f0c-42cd-9d95-09b4800348ee.png",
+                "metadata": {
+                  "level": 24
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "45b4774d-6930-458d-b665-6e5f65177470",
+        "chat_id": 138623,
+        "user_id": 39302531,
+        "content": "u can say some greetings",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1791818208774\"}",
+        "created_at": "2026-10-12T15:16:49Z",
+        "sender": {
+          "id": 39302531,
+          "slug": "jobiltwiggy",
+          "username": "Jobiltwiggy",
+          "identity": {
+            "color": "#E26EFF",
+            "badges": [],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/24_0aa9e9ff-8f0c-42cd-9d95-09b4800348ee.png",
+                "metadata": {
+                  "level": 24
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "82abbecc-196c-433b-9615-615b920421c2",
+        "chat_id": 138623,
+        "user_id": 39302531,
+        "content": "can u plz speak in malayalam",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1791818093347\"}",
+        "created_at": "2026-10-12T15:14:53Z",
+        "sender": {
+          "id": 39302531,
+          "slug": "jobiltwiggy",
+          "username": "Jobiltwiggy",
+          "identity": {
+            "color": "#E26EFF",
+            "badges": [],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/24_0aa9e9ff-8f0c-42cd-9d95-09b4800348ee.png",
+                "metadata": {
+                  "level": 24
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "0cd670aa-d04d-485d-9ff1-dc4f256b7b80",
+        "chat_id": 138623,
+        "user_id": 39302531,
+        "content": "[emote:5748008:collectiblesGoldenLOOT]",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1791818047018\"}",
+        "created_at": "2026-10-12T15:14:07Z",
+        "sender": {
+          "id": 39302531,
+          "slug": "jobiltwiggy",
+          "username": "Jobiltwiggy",
+          "identity": {
+            "color": "#E26EFF",
+            "badges": [],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/24_0aa9e9ff-8f0c-42cd-9d95-09b4800348ee.png",
+                "metadata": {
+                  "level": 24
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "6c4af38a-3090-4cb0-8a1d-c1a336358d18",
+        "chat_id": 138623,
+        "user_id": 7404530,
+        "content": "joqnix changed their title to \"ARC Raiders #10\u250a \u2726 Raiding after a long time! Frozen Trail update!~ EN/JP | JoqniX\"!",
+        "type": "message",
+        "metadata": "{\"sender_type\":\"user\"}",
+        "created_at": "2026-10-12T13:21:29Z",
         "sender": {
           "id": 7404530,
           "slug": "fossabot",
@@ -48,13 +375,54 @@
         }
       },
       {
-        "id": "8222b362-82be-4262-b58d-19d902639749",
+        "id": "d142b18f-b880-4ffd-b572-ee120512cf1b",
+        "chat_id": 138623,
+        "user_id": 7404530,
+        "content": "joqnix just went live playing VTubers!",
+        "type": "message",
+        "metadata": "{\"sender_type\":\"user\"}",
+        "created_at": "2026-10-12T13:15:40Z",
+        "sender": {
+          "id": 7404530,
+          "slug": "fossabot",
+          "username": "Fossabot",
+          "identity": {
+            "color": "#DEB2FF",
+            "badges": [
+              {
+                "type": "moderator",
+                "text": "Moderator",
+                "sort_order": 12
+              },
+              {
+                "type": "verified",
+                "text": "Verified channel",
+                "sort_order": 14
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+                "metadata": {
+                  "level": 1
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "7b63513d-c61b-4286-b100-8d7f98bdeb4b",
         "chat_id": 138623,
         "user_id": 7404530,
         "content": "joqnix changed their title to \"\"!",
         "type": "message",
         "metadata": "{\"sender_type\":\"user\"}",
-        "created_at": "2026-10-11T15:01:26Z",
+        "created_at": "2026-10-12T13:06:07Z",
         "sender": {
           "id": 7404530,
           "slug": "fossabot",
@@ -89,7 +457,7 @@
         }
       }
     ],
-    "cursor": "1791293146496875",
+    "cursor": "1791368316125715",
     "pinned_message": null
   }
 }
