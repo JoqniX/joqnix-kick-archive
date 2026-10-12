@@ -222,5 +222,35 @@
         ]
       }
     }
+  },
+  {
+    "id": "45b4774d-6930-458d-b665-6e5f65177470",
+    "chat_id": 138623,
+    "user_id": 39302531,
+    "content": "u can say some greetings",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1791818208774\"}",
+    "created_at": "2026-10-12T15:16:49Z",
+    "sender": {
+      "id": 39302531,
+      "slug": "jobiltwiggy",
+      "username": "Jobiltwiggy",
+      "identity": {
+        "color": "#E26EFF",
+        "badges": [],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/24_0aa9e9ff-8f0c-42cd-9d95-09b4800348ee.png",
+            "metadata": {
+              "level": 24
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
   }
 ]
