@@ -1,0 +1,89 @@
+[
+  {
+    "id": "198112b0-f6e8-4933-a83a-0bc543691587",
+    "timestamp": "2026-10-13T05:21:45Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 4377088,
+      "username": "KickBot",
+      "avatar": "https://files.kick.com/images/user/4377088/profile_image/conversion/dae5ceec-5b25-4f26-82c2-e2fdc98ae958-fullsize.webp",
+      "color": "#E9113C",
+      "badges": [
+        {
+          "type": "moderator",
+          "text": "Moderator"
+        },
+        {
+          "type": "verified",
+          "text": "Verified channel"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "Thanks for the follow @Arianaalucass"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "198112b0-f6e8-4933-a83a-0bc543691587",
+    "timestamp": "2026-10-13T05:21:45Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 4377088,
+      "username": "KickBot",
+      "avatar": "https://files.kick.com/images/user/4377088/profile_image/conversion/dae5ceec-5b25-4f26-82c2-e2fdc98ae958-fullsize.webp",
+      "color": "#E9113C",
+      "badges": [
+        {
+          "type": "moderator",
+          "text": "Moderator"
+        },
+        {
+          "type": "verified",
+          "text": "Verified channel"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "Thanks for the follow @Arianaalucass"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "87eb0d78-6ff1-4d93-8949-4f2111482c82",
+    "timestamp": "2026-10-13T13:36:53Z",
+    "vod_offset": 29708,
+    "vod_timestamp": "08:15:08",
+    "user": {
+      "id": 4377088,
+      "username": "KickBot",
+      "avatar": "https://files.kick.com/images/user/4377088/profile_image/conversion/dae5ceec-5b25-4f26-82c2-e2fdc98ae958-fullsize.webp",
+      "color": "#E9113C",
+      "badges": [
+        {
+          "type": "moderator",
+          "text": "Moderator"
+        },
+        {
+          "type": "verified",
+          "text": "Verified channel"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "Thanks for the follow @haleemah_58"
+      }
+    ],
+    "type": "message"
+  }
+]
