@@ -1,0 +1,59 @@
+[
+  {
+    "id": "107a22d9-fdca-4d03-817c-541752a2bdc5",
+    "chat_id": 138623,
+    "user_id": 140223,
+    "content": "Thank you for coming by ~ cya in the next stream nee otsujoq",
+    "type": "message",
+    "metadata": "{\"sender_type\":\"user\"}",
+    "created_at": "2026-10-16T03:18:03Z",
+    "sender": {
+      "id": 140223,
+      "slug": "joqnix",
+      "username": "joqnix",
+      "identity": {
+        "color": "#B9D6F6",
+        "badges": [
+          {
+            "type": "broadcaster",
+            "text": "Broadcaster",
+            "sort_order": 13
+          }
+        ],
+        "badges_v2": [
+          {
+            "name": "kick_founder22",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/kick_founder22_2a2d3875-276e-4d87-ab63-d7578d2e10c0.png",
+            "selected": true,
+            "sort_order": 2
+          },
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/35_019f35ce-472b-7696-9b84-ad0c5488a4e4.png",
+            "metadata": {
+              "level": 35
+            },
+            "selected": false,
+            "sort_order": 1
+          },
+          {
+            "name": "DEDsafioNutria",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/DEDsafioNutria_01a0cbff-5134-75df-9dd4-8b073e36da21.png",
+            "selected": false,
+            "sort_order": 4
+          },
+          {
+            "name": "WorldofWarcraftForeverBeta",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/WorldofWarcraftForeverBeta_c4ae6085-8ec5-4905-bca5-23c56b9787d8.png",
+            "selected": false,
+            "sort_order": 4
+          }
+        ]
+      }
+    }
+  }
+]
