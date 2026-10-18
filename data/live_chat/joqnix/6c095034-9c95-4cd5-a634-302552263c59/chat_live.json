@@ -1017,5 +1017,62 @@
         ]
       }
     }
+  },
+  {
+    "id": "3a76d5f1-deca-4e3f-903b-74bce87b40f7",
+    "chat_id": 138623,
+    "user_id": 140223,
+    "content": "thank you for coming by tonight everyone for cheering me on for the tournament! have a good night ahead! otsujoq!",
+    "type": "message",
+    "metadata": "{\"sender_type\":\"user\"}",
+    "created_at": "2026-10-18T19:50:36Z",
+    "sender": {
+      "id": 140223,
+      "slug": "joqnix",
+      "username": "joqnix",
+      "identity": {
+        "color": "#B9D6F6",
+        "badges": [
+          {
+            "type": "broadcaster",
+            "text": "Broadcaster",
+            "sort_order": 13
+          }
+        ],
+        "badges_v2": [
+          {
+            "name": "kick_founder22",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/kick_founder22_2a2d3875-276e-4d87-ab63-d7578d2e10c0.png",
+            "selected": true,
+            "sort_order": 2
+          },
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/36_019f35ce-472c-788f-b36a-dbedaa04d6c5.png",
+            "metadata": {
+              "level": 36
+            },
+            "selected": false,
+            "sort_order": 1
+          },
+          {
+            "name": "DEDsafioNutria",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/DEDsafioNutria_01a0cbff-5134-75df-9dd4-8b073e36da21.png",
+            "selected": false,
+            "sort_order": 4
+          },
+          {
+            "name": "WorldofWarcraftForeverBeta",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/WorldofWarcraftForeverBeta_c4ae6085-8ec5-4905-bca5-23c56b9787d8.png",
+            "selected": false,
+            "sort_order": 4
+          }
+        ]
+      }
+    }
   }
 ]
