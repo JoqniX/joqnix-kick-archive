@@ -80,5 +80,62 @@
         ]
       }
     }
+  },
+  {
+    "id": "db7088a8-a099-4115-836e-f9aba8de7065",
+    "chat_id": 138623,
+    "user_id": 140223,
+    "content": "I forgot to mention im connected to mall's wifi wah.",
+    "type": "message",
+    "metadata": "{\"sender_type\":\"user\"}",
+    "created_at": "2026-10-21T02:31:28Z",
+    "sender": {
+      "id": 140223,
+      "slug": "joqnix",
+      "username": "joqnix",
+      "identity": {
+        "color": "#B9D6F6",
+        "badges": [
+          {
+            "type": "broadcaster",
+            "text": "Broadcaster",
+            "sort_order": 13
+          }
+        ],
+        "badges_v2": [
+          {
+            "name": "kick_founder22",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/kick_founder22_2a2d3875-276e-4d87-ab63-d7578d2e10c0.png",
+            "selected": true,
+            "sort_order": 2
+          },
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/37_019f35ce-472c-749c-8e50-5f53afb1de7b.png",
+            "metadata": {
+              "level": 37
+            },
+            "selected": false,
+            "sort_order": 1
+          },
+          {
+            "name": "DEDsafioNutria",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/DEDsafioNutria_01a0cbff-5134-75df-9dd4-8b073e36da21.png",
+            "selected": false,
+            "sort_order": 4
+          },
+          {
+            "name": "WorldofWarcraftForeverBeta",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/WorldofWarcraftForeverBeta_c4ae6085-8ec5-4905-bca5-23c56b9787d8.png",
+            "selected": false,
+            "sort_order": 4
+          }
+        ]
+      }
+    }
   }
 ]
