@@ -43,6 +43,6 @@ jobs:
 
           git commit -m "Normalize kick chats"
 
-          git pull --rebase origin Main-day || true
+          git pull --rebase origin Main-dayo
 
-          git push || echo "Push failed but continuing"
+          git push origin Main-dayo

@@ -31,4 +31,5 @@ jobs:
           git config user.email "actions@github.com"
           git add data
           git commit -m "Update Kick VOD metadata" || echo "No changes"
-          git push
+          git pull --rebase origin Main-dayo
+          git push origin Main-dayo

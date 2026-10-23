@@ -36,5 +36,6 @@ jobs:
           git config user.email "actions@github.com"
           git add data/kick/
           git commit -m "Update Kick channel data" || echo "No changes"
-          git push
+          git pull --rebase origin Main-dayo
+          git push origin Main-dayo
 
