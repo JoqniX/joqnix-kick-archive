@@ -1,0 +1,280 @@
+[
+  {
+    "id": "c36ef6d6-6c12-4553-b165-52232948bdf5",
+    "chat_id": 138623,
+    "user_id": 7404530,
+    "content": "joqnix just went live playing VTubers!",
+    "type": "message",
+    "metadata": "{\"sender_type\":\"user\",\"app_id\":\"01JME84SJP9NKNEAQK6PE17JK8\"}",
+    "created_at": "2026-10-23T14:04:59Z",
+    "sender": {
+      "id": 7404530,
+      "slug": "fossabot",
+      "username": "Fossabot",
+      "identity": {
+        "color": "#DEB2FF",
+        "badges": [
+          {
+            "type": "moderator",
+            "text": "Moderator",
+            "sort_order": 12
+          },
+          {
+            "type": "verified",
+            "text": "Verified channel",
+            "sort_order": 14
+          }
+        ],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+            "metadata": {
+              "level": 1
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "4ff4bb5c-1441-4518-97cd-1e2195b6962c",
+    "chat_id": 138623,
+    "user_id": 140223,
+    "content": "guys give me 4mins nee~! some technical issues",
+    "type": "message",
+    "metadata": "{\"sender_type\":\"user\",\"app_id\":\"01JT43R2EY9VTN54R98RJQG42T\"}",
+    "created_at": "2026-10-23T14:09:44Z",
+    "sender": {
+      "id": 140223,
+      "slug": "joqnix",
+      "username": "joqnix",
+      "identity": {
+        "color": "#B9D6F6",
+        "badges": [
+          {
+            "type": "broadcaster",
+            "text": "Broadcaster",
+            "sort_order": 13
+          }
+        ],
+        "badges_v2": [
+          {
+            "name": "kick_founder22",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/kick_founder22_2a2d3875-276e-4d87-ab63-d7578d2e10c0.png",
+            "selected": true,
+            "sort_order": 2
+          },
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/38_019f35ce-472d-7f0e-8f57-85ad80d14680.png",
+            "metadata": {
+              "level": 38
+            },
+            "selected": false,
+            "sort_order": 1
+          },
+          {
+            "name": "DEDsafioNutria",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/DEDsafioNutria_01a0cbff-5134-75df-9dd4-8b073e36da21.png",
+            "selected": false,
+            "sort_order": 4
+          },
+          {
+            "name": "WorldofWarcraftForeverBeta",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/WorldofWarcraftForeverBeta_c4ae6085-8ec5-4905-bca5-23c56b9787d8.png",
+            "selected": false,
+            "sort_order": 4
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "b8946198-41fe-4542-9f99-82b2eca2d6cc",
+    "chat_id": 138623,
+    "user_id": 7404530,
+    "content": "DJ_Warrior906 (dj-warrior906) just followed the stream! 💚",
+    "type": "message",
+    "metadata": "{\"sender_type\":\"user\",\"app_id\":\"01JME84SJP9NKNEAQK6PE17JK8\"}",
+    "created_at": "2026-10-23T15:46:37Z",
+    "sender": {
+      "id": 7404530,
+      "slug": "fossabot",
+      "username": "Fossabot",
+      "identity": {
+        "color": "#DEB2FF",
+        "badges": [
+          {
+            "type": "moderator",
+            "text": "Moderator",
+            "sort_order": 12
+          },
+          {
+            "type": "verified",
+            "text": "Verified channel",
+            "sort_order": 14
+          }
+        ],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+            "metadata": {
+              "level": 1
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "b8946198-41fe-4542-9f99-82b2eca2d6cc",
+    "chat_id": 138623,
+    "user_id": 7404530,
+    "content": "DJ_Warrior906 (dj-warrior906) just followed the stream! 💚",
+    "type": "message",
+    "metadata": "{\"sender_type\":\"user\",\"app_id\":\"01JME84SJP9NKNEAQK6PE17JK8\"}",
+    "created_at": "2026-10-23T15:46:37Z",
+    "sender": {
+      "id": 7404530,
+      "slug": "fossabot",
+      "username": "Fossabot",
+      "identity": {
+        "color": "#DEB2FF",
+        "badges": [
+          {
+            "type": "moderator",
+            "text": "Moderator",
+            "sort_order": 12
+          },
+          {
+            "type": "verified",
+            "text": "Verified channel",
+            "sort_order": 14
+          }
+        ],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+            "metadata": {
+              "level": 1
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "4ff4bb5c-1441-4518-97cd-1e2195b6962c",
+    "chat_id": 138623,
+    "user_id": 140223,
+    "content": "guys give me 4mins nee~! some technical issues",
+    "type": "message",
+    "metadata": "{\"sender_type\":\"user\",\"app_id\":\"01JT43R2EY9VTN54R98RJQG42T\"}",
+    "created_at": "2026-10-23T14:09:44Z",
+    "sender": {
+      "id": 140223,
+      "slug": "joqnix",
+      "username": "joqnix",
+      "identity": {
+        "color": "#B9D6F6",
+        "badges": [
+          {
+            "type": "broadcaster",
+            "text": "Broadcaster",
+            "sort_order": 13
+          }
+        ],
+        "badges_v2": [
+          {
+            "name": "kick_founder22",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/kick_founder22_2a2d3875-276e-4d87-ab63-d7578d2e10c0.png",
+            "selected": true,
+            "sort_order": 2
+          },
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/38_019f35ce-472d-7f0e-8f57-85ad80d14680.png",
+            "metadata": {
+              "level": 38
+            },
+            "selected": false,
+            "sort_order": 1
+          },
+          {
+            "name": "DEDsafioNutria",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/DEDsafioNutria_01a0cbff-5134-75df-9dd4-8b073e36da21.png",
+            "selected": false,
+            "sort_order": 4
+          },
+          {
+            "name": "WorldofWarcraftForeverBeta",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/WorldofWarcraftForeverBeta_c4ae6085-8ec5-4905-bca5-23c56b9787d8.png",
+            "selected": false,
+            "sort_order": 4
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "c36ef6d6-6c12-4553-b165-52232948bdf5",
+    "chat_id": 138623,
+    "user_id": 7404530,
+    "content": "joqnix just went live playing VTubers!",
+    "type": "message",
+    "metadata": "{\"sender_type\":\"user\",\"app_id\":\"01JME84SJP9NKNEAQK6PE17JK8\"}",
+    "created_at": "2026-10-23T14:04:59Z",
+    "sender": {
+      "id": 7404530,
+      "slug": "fossabot",
+      "username": "Fossabot",
+      "identity": {
+        "color": "#DEB2FF",
+        "badges": [
+          {
+            "type": "moderator",
+            "text": "Moderator",
+            "sort_order": 12
+          },
+          {
+            "type": "verified",
+            "text": "Verified channel",
+            "sort_order": 14
+          }
+        ],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+            "metadata": {
+              "level": 1
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  }
+]
