@@ -32,5 +32,9 @@ jobs:
           git config user.email "actions@github.com"
           git add data
           git commit -m "Update Kick VOD metadata" || echo "No changes"
-          git pull --rebase --autostash origin Main-dayo
-          git push origin Main-dayo
+          # other workflows push to this branch too; retry if we lose the race
+          for attempt in 1 2 3 4 5; do
+            git pull --rebase --autostash origin Main-dayo && git push origin Main-dayo && exit 0
+            sleep $((RANDOM % 8 + 2))
+          done
+          exit 1
