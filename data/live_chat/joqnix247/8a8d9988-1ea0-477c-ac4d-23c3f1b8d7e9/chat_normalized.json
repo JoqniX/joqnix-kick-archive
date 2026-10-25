@@ -1,0 +1,442 @@
+[
+  {
+    "id": "0e808df1-a975-4891-ab37-8c7bbcd67815",
+    "timestamp": "2026-10-24T03:40:56Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 75844488,
+      "username": "Kakashi_hatake_420",
+      "avatar": "https://files.kick.com/images/user/75844488/profile_image/conversion/a0b8a26d-a2a1-45d2-b471-2019f102de3d-fullsize.webp",
+      "color": "#AAA9FF",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "emote",
+        "id": "5748021",
+        "name": "collectiblesCinema",
+        "url": "https://files.kick.com/emotes/5748021/fullsize"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "1a4aecd3-a399-4acd-82c6-aa09c10709e1",
+    "timestamp": "2026-10-24T03:41:05Z",
+    "vod_offset": 9,
+    "vod_timestamp": "00:00:09",
+    "user": {
+      "id": 75844488,
+      "username": "Kakashi_hatake_420",
+      "avatar": "https://files.kick.com/images/user/75844488/profile_image/conversion/a0b8a26d-a2a1-45d2-b471-2019f102de3d-fullsize.webp",
+      "color": "#AAA9FF",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "emote",
+        "id": "5748037",
+        "name": "collectibleswidepeepoHug",
+        "url": "https://files.kick.com/emotes/5748037/fullsize"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "418b585b-7f8f-471c-b17e-9d37d4d0ae00",
+    "timestamp": "2026-10-24T03:41:14Z",
+    "vod_offset": 18,
+    "vod_timestamp": "00:00:18",
+    "user": {
+      "id": 75844488,
+      "username": "Kakashi_hatake_420",
+      "avatar": "https://files.kick.com/images/user/75844488/profile_image/conversion/a0b8a26d-a2a1-45d2-b471-2019f102de3d-fullsize.webp",
+      "color": "#AAA9FF",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "emote",
+        "id": "5748036",
+        "name": "collectibleswidepeepoHappy",
+        "url": "https://files.kick.com/emotes/5748036/fullsize"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "6052a517-ce55-4604-b950-5f2709f4f82d",
+    "timestamp": "2026-10-24T03:41:31Z",
+    "vod_offset": 35,
+    "vod_timestamp": "00:00:35",
+    "user": {
+      "id": 75844488,
+      "username": "Kakashi_hatake_420",
+      "avatar": "https://files.kick.com/images/user/75844488/profile_image/conversion/a0b8a26d-a2a1-45d2-b471-2019f102de3d-fullsize.webp",
+      "color": "#AAA9FF",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "emote",
+        "id": "5747996",
+        "name": "collectiblesGoldenKEKW",
+        "url": "https://files.kick.com/emotes/5747996/fullsize"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "6052a517-ce55-4604-b950-5f2709f4f82d",
+    "timestamp": "2026-10-24T03:41:31Z",
+    "vod_offset": 35,
+    "vod_timestamp": "00:00:35",
+    "user": {
+      "id": 75844488,
+      "username": "Kakashi_hatake_420",
+      "avatar": "https://files.kick.com/images/user/75844488/profile_image/conversion/a0b8a26d-a2a1-45d2-b471-2019f102de3d-fullsize.webp",
+      "color": "#AAA9FF",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "emote",
+        "id": "5747996",
+        "name": "collectiblesGoldenKEKW",
+        "url": "https://files.kick.com/emotes/5747996/fullsize"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "418b585b-7f8f-471c-b17e-9d37d4d0ae00",
+    "timestamp": "2026-10-24T03:41:14Z",
+    "vod_offset": 18,
+    "vod_timestamp": "00:00:18",
+    "user": {
+      "id": 75844488,
+      "username": "Kakashi_hatake_420",
+      "avatar": "https://files.kick.com/images/user/75844488/profile_image/conversion/a0b8a26d-a2a1-45d2-b471-2019f102de3d-fullsize.webp",
+      "color": "#AAA9FF",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "emote",
+        "id": "5748036",
+        "name": "collectibleswidepeepoHappy",
+        "url": "https://files.kick.com/emotes/5748036/fullsize"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "1a4aecd3-a399-4acd-82c6-aa09c10709e1",
+    "timestamp": "2026-10-24T03:41:05Z",
+    "vod_offset": 9,
+    "vod_timestamp": "00:00:09",
+    "user": {
+      "id": 75844488,
+      "username": "Kakashi_hatake_420",
+      "avatar": "https://files.kick.com/images/user/75844488/profile_image/conversion/a0b8a26d-a2a1-45d2-b471-2019f102de3d-fullsize.webp",
+      "color": "#AAA9FF",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "emote",
+        "id": "5748037",
+        "name": "collectibleswidepeepoHug",
+        "url": "https://files.kick.com/emotes/5748037/fullsize"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "0e808df1-a975-4891-ab37-8c7bbcd67815",
+    "timestamp": "2026-10-24T03:40:56Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 75844488,
+      "username": "Kakashi_hatake_420",
+      "avatar": "https://files.kick.com/images/user/75844488/profile_image/conversion/a0b8a26d-a2a1-45d2-b471-2019f102de3d-fullsize.webp",
+      "color": "#AAA9FF",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "emote",
+        "id": "5748021",
+        "name": "collectiblesCinema",
+        "url": "https://files.kick.com/emotes/5748021/fullsize"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "6052a517-ce55-4604-b950-5f2709f4f82d",
+    "timestamp": "2026-10-24T03:41:31Z",
+    "vod_offset": 35,
+    "vod_timestamp": "00:00:35",
+    "user": {
+      "id": 75844488,
+      "username": "Kakashi_hatake_420",
+      "avatar": "https://files.kick.com/images/user/75844488/profile_image/conversion/a0b8a26d-a2a1-45d2-b471-2019f102de3d-fullsize.webp",
+      "color": "#AAA9FF",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "emote",
+        "id": "5747996",
+        "name": "collectiblesGoldenKEKW",
+        "url": "https://files.kick.com/emotes/5747996/fullsize"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "418b585b-7f8f-471c-b17e-9d37d4d0ae00",
+    "timestamp": "2026-10-24T03:41:14Z",
+    "vod_offset": 18,
+    "vod_timestamp": "00:00:18",
+    "user": {
+      "id": 75844488,
+      "username": "Kakashi_hatake_420",
+      "avatar": "https://files.kick.com/images/user/75844488/profile_image/conversion/a0b8a26d-a2a1-45d2-b471-2019f102de3d-fullsize.webp",
+      "color": "#AAA9FF",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "emote",
+        "id": "5748036",
+        "name": "collectibleswidepeepoHappy",
+        "url": "https://files.kick.com/emotes/5748036/fullsize"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "1a4aecd3-a399-4acd-82c6-aa09c10709e1",
+    "timestamp": "2026-10-24T03:41:05Z",
+    "vod_offset": 9,
+    "vod_timestamp": "00:00:09",
+    "user": {
+      "id": 75844488,
+      "username": "Kakashi_hatake_420",
+      "avatar": "https://files.kick.com/images/user/75844488/profile_image/conversion/a0b8a26d-a2a1-45d2-b471-2019f102de3d-fullsize.webp",
+      "color": "#AAA9FF",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "emote",
+        "id": "5748037",
+        "name": "collectibleswidepeepoHug",
+        "url": "https://files.kick.com/emotes/5748037/fullsize"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "0e808df1-a975-4891-ab37-8c7bbcd67815",
+    "timestamp": "2026-10-24T03:40:56Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 75844488,
+      "username": "Kakashi_hatake_420",
+      "avatar": "https://files.kick.com/images/user/75844488/profile_image/conversion/a0b8a26d-a2a1-45d2-b471-2019f102de3d-fullsize.webp",
+      "color": "#AAA9FF",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "emote",
+        "id": "5748021",
+        "name": "collectiblesCinema",
+        "url": "https://files.kick.com/emotes/5748021/fullsize"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "6052a517-ce55-4604-b950-5f2709f4f82d",
+    "timestamp": "2026-10-24T03:41:31Z",
+    "vod_offset": 35,
+    "vod_timestamp": "00:00:35",
+    "user": {
+      "id": 75844488,
+      "username": "Kakashi_hatake_420",
+      "avatar": "https://files.kick.com/images/user/75844488/profile_image/conversion/a0b8a26d-a2a1-45d2-b471-2019f102de3d-fullsize.webp",
+      "color": "#AAA9FF",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "emote",
+        "id": "5747996",
+        "name": "collectiblesGoldenKEKW",
+        "url": "https://files.kick.com/emotes/5747996/fullsize"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "418b585b-7f8f-471c-b17e-9d37d4d0ae00",
+    "timestamp": "2026-10-24T03:41:14Z",
+    "vod_offset": 18,
+    "vod_timestamp": "00:00:18",
+    "user": {
+      "id": 75844488,
+      "username": "Kakashi_hatake_420",
+      "avatar": "https://files.kick.com/images/user/75844488/profile_image/conversion/a0b8a26d-a2a1-45d2-b471-2019f102de3d-fullsize.webp",
+      "color": "#AAA9FF",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "emote",
+        "id": "5748036",
+        "name": "collectibleswidepeepoHappy",
+        "url": "https://files.kick.com/emotes/5748036/fullsize"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "1a4aecd3-a399-4acd-82c6-aa09c10709e1",
+    "timestamp": "2026-10-24T03:41:05Z",
+    "vod_offset": 9,
+    "vod_timestamp": "00:00:09",
+    "user": {
+      "id": 75844488,
+      "username": "Kakashi_hatake_420",
+      "avatar": "https://files.kick.com/images/user/75844488/profile_image/conversion/a0b8a26d-a2a1-45d2-b471-2019f102de3d-fullsize.webp",
+      "color": "#AAA9FF",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "emote",
+        "id": "5748037",
+        "name": "collectibleswidepeepoHug",
+        "url": "https://files.kick.com/emotes/5748037/fullsize"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "0e808df1-a975-4891-ab37-8c7bbcd67815",
+    "timestamp": "2026-10-24T03:40:56Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 75844488,
+      "username": "Kakashi_hatake_420",
+      "avatar": "https://files.kick.com/images/user/75844488/profile_image/conversion/a0b8a26d-a2a1-45d2-b471-2019f102de3d-fullsize.webp",
+      "color": "#AAA9FF",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "emote",
+        "id": "5748021",
+        "name": "collectiblesCinema",
+        "url": "https://files.kick.com/emotes/5748021/fullsize"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "6052a517-ce55-4604-b950-5f2709f4f82d",
+    "timestamp": "2026-10-24T03:41:31Z",
+    "vod_offset": 35,
+    "vod_timestamp": "00:00:35",
+    "user": {
+      "id": 75844488,
+      "username": "Kakashi_hatake_420",
+      "avatar": "https://files.kick.com/images/user/75844488/profile_image/conversion/a0b8a26d-a2a1-45d2-b471-2019f102de3d-fullsize.webp",
+      "color": "#AAA9FF",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "emote",
+        "id": "5747996",
+        "name": "collectiblesGoldenKEKW",
+        "url": "https://files.kick.com/emotes/5747996/fullsize"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "418b585b-7f8f-471c-b17e-9d37d4d0ae00",
+    "timestamp": "2026-10-24T03:41:14Z",
+    "vod_offset": 18,
+    "vod_timestamp": "00:00:18",
+    "user": {
+      "id": 75844488,
+      "username": "Kakashi_hatake_420",
+      "avatar": "https://files.kick.com/images/user/75844488/profile_image/conversion/a0b8a26d-a2a1-45d2-b471-2019f102de3d-fullsize.webp",
+      "color": "#AAA9FF",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "emote",
+        "id": "5748036",
+        "name": "collectibleswidepeepoHappy",
+        "url": "https://files.kick.com/emotes/5748036/fullsize"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "1a4aecd3-a399-4acd-82c6-aa09c10709e1",
+    "timestamp": "2026-10-24T03:41:05Z",
+    "vod_offset": 9,
+    "vod_timestamp": "00:00:09",
+    "user": {
+      "id": 75844488,
+      "username": "Kakashi_hatake_420",
+      "avatar": "https://files.kick.com/images/user/75844488/profile_image/conversion/a0b8a26d-a2a1-45d2-b471-2019f102de3d-fullsize.webp",
+      "color": "#AAA9FF",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "emote",
+        "id": "5748037",
+        "name": "collectibleswidepeepoHug",
+        "url": "https://files.kick.com/emotes/5748037/fullsize"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "0e808df1-a975-4891-ab37-8c7bbcd67815",
+    "timestamp": "2026-10-24T03:40:56Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 75844488,
+      "username": "Kakashi_hatake_420",
+      "avatar": "https://files.kick.com/images/user/75844488/profile_image/conversion/a0b8a26d-a2a1-45d2-b471-2019f102de3d-fullsize.webp",
+      "color": "#AAA9FF",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "emote",
+        "id": "5748021",
+        "name": "collectiblesCinema",
+        "url": "https://files.kick.com/emotes/5748021/fullsize"
+      }
+    ],
+    "type": "message"
+  }
+]
