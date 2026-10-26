@@ -1,5 +1,67 @@
 [
   {
+    "id": 134367912,
+    "slug": "e7e24afc00001e84-valorant-45-late-night-valo-pew-pew-enjp-joqnix",
+    "channel_id": 138623,
+    "created_at": "2026-10-26 13:30:54",
+    "session_title": "VALORANT #45 \u250a \u2726 Late night valo pew pew~  EN/JP | JoqniX",
+    "is_live": false,
+    "risk_level_id": null,
+    "start_time": "2026-10-26 13:30:50",
+    "source": "https://stream.kick.com/0f3cb0ebce7/ivs/v1/196233775518/ZCkulBebTQZR/2026/10/26/13/30/yHmwK9vqFO5l/media/hls/master.m3u8",
+    "twitch_channel": null,
+    "duration": 6453000,
+    "language": "English",
+    "is_mature": false,
+    "viewer_count": 2,
+    "tags": [],
+    "thumbnail": {
+      "src": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/yHmwK9vqFO5l/720.webp",
+      "srcset": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/yHmwK9vqFO5l/1080.webp 1920w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/yHmwK9vqFO5l/720.webp 1280w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/yHmwK9vqFO5l/360.webp 480w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/yHmwK9vqFO5l/160.webp 284w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/yHmwK9vqFO5l/480.webp 640w"
+    },
+    "views": 8,
+    "video": {
+      "id": 130066116,
+      "live_stream_id": 134367912,
+      "slug": null,
+      "thumb": null,
+      "s3": null,
+      "trading_platform_id": null,
+      "created_at": "2026-10-26T13:30:54.000000Z",
+      "updated_at": "2026-10-26T15:20:04.000000Z",
+      "uuid": "498f08fc-63d0-4b9f-bff4-3ac3077d7f5d",
+      "views": 8,
+      "deleted_at": null,
+      "is_pruned": false,
+      "is_private": false,
+      "status": "public"
+    },
+    "categories": [
+      {
+        "id": 415,
+        "category_id": 1,
+        "name": "VTubers",
+        "slug": "vtubers",
+        "tags": [
+          "Action",
+          "Puzzle",
+          "Adventure Games",
+          "Shooter",
+          "FPS"
+        ],
+        "description": null,
+        "deleted_at": null,
+        "is_mature": false,
+        "viewers": 297,
+        "is_fallback": false,
+        "banner": {
+          "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
+          "url": "https://files.kick.com/images/subcategories/415/banner/20afafe3-9025-4d93-9bab-5d4e7694807a"
+        }
+      }
+    ]
+  },
+  {
     "id": 133841132,
     "slug": "2035bfca2f6d817c-the-finals-4-pew-pew-in-finals-after-a-long-time-indian-vtuber-enjp-joqnix",
     "channel_id": 138623,
@@ -52,7 +114,7 @@
         "description": null,
         "deleted_at": null,
         "is_mature": false,
-        "viewers": 258,
+        "viewers": 297,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
@@ -114,7 +176,7 @@
         "description": null,
         "deleted_at": null,
         "is_mature": false,
-        "viewers": 258,
+        "viewers": 297,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/20afafe3-9025-4d93-9bab-5d4e7694807a___banner_238_238.webp 238w",
