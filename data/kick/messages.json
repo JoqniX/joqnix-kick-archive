@@ -7,43 +7,13 @@
   "data": {
     "messages": [
       {
-        "id": "6991ecc3-2449-4106-9023-33c5ac535d7a",
-        "chat_id": 138623,
-        "user_id": 85225447,
-        "content": "OwO",
-        "type": "message",
-        "metadata": "{\"message_ref\":\"1792913067554\"}",
-        "created_at": "2026-10-25T07:24:27Z",
-        "sender": {
-          "id": 85225447,
-          "slug": "kaedeyure",
-          "username": "KaedeYure",
-          "identity": {
-            "color": "#31D6C2",
-            "badges": [],
-            "badges_v2": [
-              {
-                "name": "level",
-                "badge_type": "global",
-                "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
-                "metadata": {
-                  "level": 1
-                },
-                "selected": false,
-                "sort_order": 1
-              }
-            ]
-          }
-        }
-      },
-      {
-        "id": "7ba3aea2-3cca-48b5-a969-e1f3ce163b48",
+        "id": "612f22e8-c880-4970-88a0-449ef453234c",
         "chat_id": 138623,
         "user_id": 7404530,
-        "content": "KaedeYure just followed the stream! \ud83d\udc9a",
+        "content": "joqnix changed their title to \"\"!",
         "type": "message",
         "metadata": "{\"sender_type\":\"user\",\"app_id\":\"01JME84SJP9NKNEAQK6PE17JK8\"}",
-        "created_at": "2026-10-25T07:24:14Z",
+        "created_at": "2026-10-26T13:01:18Z",
         "sender": {
           "id": 7404530,
           "slug": "fossabot",
@@ -78,7 +48,7 @@
         }
       }
     ],
-    "cursor": "1792332575474349",
+    "cursor": "1792335878509056",
     "pinned_message": null
   }
 }
