@@ -118,5 +118,65 @@
         ]
       }
     }
+  },
+  {
+    "id": "3cc6be97-581f-4f06-90cf-2177798487e1",
+    "chat_id": 91090947,
+    "user_id": 75844488,
+    "content": "[emote:4148128:mericCat]",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1793140352158\"}",
+    "created_at": "2026-10-27T22:32:32Z",
+    "sender": {
+      "id": 75844488,
+      "slug": "kakashi-hatake-420",
+      "username": "Kakashi_hatake_420",
+      "identity": {
+        "color": "#AAA9FF",
+        "badges": [],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/16_d3bd37f4-2442-43cb-99b8-eeaec77d1e61.png",
+            "metadata": {
+              "level": 16
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "fc85c127-f2e3-4917-bfdc-31dbd4771cb9",
+    "chat_id": 91090947,
+    "user_id": 75844488,
+    "content": "[emote:5747905:collectiblesPauseChamp]",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1793140313530\"}",
+    "created_at": "2026-10-27T22:31:54Z",
+    "sender": {
+      "id": 75844488,
+      "slug": "kakashi-hatake-420",
+      "username": "Kakashi_hatake_420",
+      "identity": {
+        "color": "#AAA9FF",
+        "badges": [],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/16_d3bd37f4-2442-43cb-99b8-eeaec77d1e61.png",
+            "metadata": {
+              "level": 16
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
   }
 ]
