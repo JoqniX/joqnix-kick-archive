@@ -1,0 +1,31 @@
+[
+  {
+    "id": "9e9169dc-611a-4e8b-bf0c-6b3cd0b4f273",
+    "timestamp": "2026-10-28T03:37:44Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 7404530,
+      "username": "Fossabot",
+      "avatar": null,
+      "color": "#DEB2FF",
+      "badges": [
+        {
+          "type": "moderator",
+          "text": "Moderator"
+        },
+        {
+          "type": "verified",
+          "text": "Verified channel"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "joqnix just went live playing VTubers!"
+      }
+    ],
+    "type": "message"
+  }
+]
