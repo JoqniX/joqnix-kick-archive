@@ -88,5 +88,95 @@
         ]
       }
     }
+  },
+  {
+    "id": "23231f39-5d63-4536-b340-bbd8b7daf494",
+    "chat_id": 91090947,
+    "user_id": 75844488,
+    "content": "[emote:37234:Prayge]",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1793254319272\"}",
+    "created_at": "2026-10-29T06:11:59Z",
+    "sender": {
+      "id": 75844488,
+      "slug": "kakashi-hatake-420",
+      "username": "Kakashi_hatake_420",
+      "identity": {
+        "color": "#AAA9FF",
+        "badges": [],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/16_d3bd37f4-2442-43cb-99b8-eeaec77d1e61.png",
+            "metadata": {
+              "level": 16
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "f4aa8e1d-52c3-4ab2-8e20-5e27f07d86a3",
+    "chat_id": 91090947,
+    "user_id": 75844488,
+    "content": "[emote:5747905:collectiblesPauseChamp]",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1793254300414\"}",
+    "created_at": "2026-10-29T06:11:40Z",
+    "sender": {
+      "id": 75844488,
+      "slug": "kakashi-hatake-420",
+      "username": "Kakashi_hatake_420",
+      "identity": {
+        "color": "#AAA9FF",
+        "badges": [],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/16_d3bd37f4-2442-43cb-99b8-eeaec77d1e61.png",
+            "metadata": {
+              "level": 16
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "f77e5072-1b2b-4a13-8291-7a7d796b2f34",
+    "chat_id": 91090947,
+    "user_id": 75844488,
+    "content": "[emote:5747905:collectiblesPauseChamp]",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1793254298466\"}",
+    "created_at": "2026-10-29T06:11:38Z",
+    "sender": {
+      "id": 75844488,
+      "slug": "kakashi-hatake-420",
+      "username": "Kakashi_hatake_420",
+      "identity": {
+        "color": "#AAA9FF",
+        "badges": [],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/16_d3bd37f4-2442-43cb-99b8-eeaec77d1e61.png",
+            "metadata": {
+              "level": 16
+            },
+            "selected": false,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
   }
 ]
