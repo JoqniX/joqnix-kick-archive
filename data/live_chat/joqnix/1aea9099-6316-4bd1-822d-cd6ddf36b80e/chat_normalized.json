@@ -1,0 +1,154 @@
+[
+  {
+    "id": "0d308c58-d6d2-4042-af38-1bec81de3044",
+    "timestamp": "2026-11-02T14:14:39Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 7404530,
+      "username": "Fossabot",
+      "avatar": "https://files.kick.com/images/user/7404530/profile_image/conversion/104a9b9a-3882-49b1-aa55-22eae3dab24f-fullsize.webp",
+      "color": "#DEB2FF",
+      "badges": [
+        {
+          "type": "moderator",
+          "text": "Moderator"
+        },
+        {
+          "type": "verified",
+          "text": "Verified channel"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "webbotgunclay102 just followed the stream! 💚"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "c067fc0f-e346-4792-9345-90e1be24144e",
+    "timestamp": "2026-11-02T14:14:16Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 7404530,
+      "username": "Fossabot",
+      "avatar": "https://files.kick.com/images/user/7404530/profile_image/conversion/104a9b9a-3882-49b1-aa55-22eae3dab24f-fullsize.webp",
+      "color": "#DEB2FF",
+      "badges": [
+        {
+          "type": "moderator",
+          "text": "Moderator"
+        },
+        {
+          "type": "verified",
+          "text": "Verified channel"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "joqnix just went live playing VTubers!"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "0fb48d79-3d28-425d-815f-c518fdf2445f",
+    "timestamp": "2026-11-02T15:48:03Z",
+    "vod_offset": 5604,
+    "vod_timestamp": "01:33:24",
+    "user": {
+      "id": 7404530,
+      "username": "Fossabot",
+      "avatar": "https://files.kick.com/images/user/7404530/profile_image/conversion/104a9b9a-3882-49b1-aa55-22eae3dab24f-fullsize.webp",
+      "color": "#DEB2FF",
+      "badges": [
+        {
+          "type": "moderator",
+          "text": "Moderator"
+        },
+        {
+          "type": "verified",
+          "text": "Verified channel"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "Patmahomeslover just followed the stream! 💚"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "59fb9cd7-6f11-43ff-b528-4a726dfed844",
+    "timestamp": "2026-11-02T15:48:20Z",
+    "vod_offset": 5621,
+    "vod_timestamp": "01:33:41",
+    "user": {
+      "id": 52870801,
+      "username": "vtubersaregntfdgdf",
+      "avatar": null,
+      "color": "#6F87FF",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "damn you know you a bad bih can we crack ong? aha.. @patmahomeslover fuck you stop tryna steal joqnix from me they're MINE boy"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "ffb6cea4-0755-473e-9a49-75272a5fd9f1",
+    "timestamp": "2026-11-02T15:48:57Z",
+    "vod_offset": 5658,
+    "vod_timestamp": "01:34:18",
+    "user": {
+      "id": 52870801,
+      "username": "vtubersaregntfdgdf",
+      "avatar": null,
+      "color": "#6F87FF",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "please mommy arf arf~"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "77d9df90-4bb4-407a-b2db-fd867dcb8c33",
+    "timestamp": "2026-11-02T16:40:43Z",
+    "vod_offset": 8764,
+    "vod_timestamp": "02:26:04",
+    "user": {
+      "id": 140223,
+      "username": "joqnix",
+      "avatar": "https://files.kick.com/images/user/140223/profile_image/conversion/f1154229-3d49-4651-888f-861228baf077-fullsize.webp",
+      "color": "#B9D6F6",
+      "badges": [
+        {
+          "type": "broadcaster",
+          "text": "Broadcaster"
+        }
+      ]
+    },
+    "message": [
+      {
+        "type": "text",
+        "text": "thank you all for coming byh tonight~ cya in the next stream otsujoq~"
+      }
+    ],
+    "type": "message"
+  }
+]
