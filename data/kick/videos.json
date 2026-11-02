@@ -1,5 +1,129 @@
 [
   {
+    "id": 135617324,
+    "slug": "b6f60f4c42ef4b82-minecraft-19-first-time-in-eden-smp-enjp-joqnix",
+    "channel_id": 138623,
+    "created_at": "2026-11-02 14:14:16",
+    "session_title": "Minecraft #19 \u250a \u2726 First time in Eden SMP! ~  EN/JP | JoqniX",
+    "is_live": false,
+    "risk_level_id": null,
+    "start_time": "2026-11-02 14:14:13",
+    "source": "https://stream.kick.com/0f3cb0ebce7/ivs/v1/196233775518/ZCkulBebTQZR/2026/11/2/14/14/hGwhErfBofLp/media/hls/master.m3u8",
+    "twitch_channel": null,
+    "duration": 8852000,
+    "language": "English",
+    "is_mature": false,
+    "viewer_count": 1,
+    "tags": [],
+    "thumbnail": {
+      "src": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/hGwhErfBofLp/720.webp",
+      "srcset": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/hGwhErfBofLp/1080.webp 1920w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/hGwhErfBofLp/720.webp 1280w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/hGwhErfBofLp/360.webp 480w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/hGwhErfBofLp/160.webp 284w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/hGwhErfBofLp/480.webp 640w"
+    },
+    "views": 16,
+    "video": {
+      "id": 131315494,
+      "live_stream_id": 135617324,
+      "slug": null,
+      "thumb": null,
+      "s3": null,
+      "trading_platform_id": null,
+      "created_at": "2026-11-02T14:14:16.000000Z",
+      "updated_at": "2026-11-02T16:43:25.000000Z",
+      "uuid": "1aea9099-6316-4bd1-822d-cd6ddf36b80e",
+      "views": 16,
+      "deleted_at": null,
+      "is_pruned": false,
+      "is_private": false,
+      "status": "public"
+    },
+    "categories": [
+      {
+        "id": 415,
+        "category_id": 1,
+        "name": "VTubers",
+        "slug": "vtubers",
+        "tags": [
+          "Action",
+          "Puzzle",
+          "Adventure Games",
+          "Shooter",
+          "FPS"
+        ],
+        "description": null,
+        "deleted_at": null,
+        "is_mature": false,
+        "viewers": 272,
+        "is_fallback": false,
+        "banner": {
+          "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/cbee4afe-c6d2-40d2-ae0d-e8f1bb6d6e6b___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/cbee4afe-c6d2-40d2-ae0d-e8f1bb6d6e6b___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/cbee4afe-c6d2-40d2-ae0d-e8f1bb6d6e6b___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/cbee4afe-c6d2-40d2-ae0d-e8f1bb6d6e6b___banner_238_238.webp 238w",
+          "url": "https://files.kick.com/images/subcategories/415/banner/cbee4afe-c6d2-40d2-ae0d-e8f1bb6d6e6b"
+        }
+      }
+    ]
+  },
+  {
+    "id": 135602363,
+    "slug": "abbbc4952c67be87-minecraft-19-first-time-in-eden-smp-enjp-joqnix",
+    "channel_id": 138623,
+    "created_at": "2026-11-02 11:32:42",
+    "session_title": "Minecraft #19 \u250a \u2726 First time in Eden SMP! ~  EN/JP | JoqniX",
+    "is_live": false,
+    "risk_level_id": null,
+    "start_time": "2026-11-02 11:32:41",
+    "source": "https://stream.kick.com/0f3cb0ebce7/ivs/v1/196233775518/ZCkulBebTQZR/2026/11/2/11/32/UD8Tz9kUkGWG/media/hls/master.m3u8",
+    "twitch_channel": null,
+    "duration": 8178000,
+    "language": "English",
+    "is_mature": false,
+    "viewer_count": 1,
+    "tags": [],
+    "thumbnail": {
+      "src": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/UD8Tz9kUkGWG/720.webp",
+      "srcset": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/UD8Tz9kUkGWG/1080.webp 1920w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/UD8Tz9kUkGWG/720.webp 1280w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/UD8Tz9kUkGWG/360.webp 480w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/UD8Tz9kUkGWG/160.webp 284w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/UD8Tz9kUkGWG/480.webp 640w"
+    },
+    "views": 12,
+    "video": {
+      "id": 131300533,
+      "live_stream_id": 135602363,
+      "slug": null,
+      "thumb": null,
+      "s3": null,
+      "trading_platform_id": null,
+      "created_at": "2026-11-02T11:32:42.000000Z",
+      "updated_at": "2026-11-02T13:50:38.000000Z",
+      "uuid": "576077fd-7008-4d0e-abd4-a46686d132cd",
+      "views": 12,
+      "deleted_at": null,
+      "is_pruned": false,
+      "is_private": false,
+      "status": "public"
+    },
+    "categories": [
+      {
+        "id": 415,
+        "category_id": 1,
+        "name": "VTubers",
+        "slug": "vtubers",
+        "tags": [
+          "Action",
+          "Puzzle",
+          "Adventure Games",
+          "Shooter",
+          "FPS"
+        ],
+        "description": null,
+        "deleted_at": null,
+        "is_mature": false,
+        "viewers": 272,
+        "is_fallback": false,
+        "banner": {
+          "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/cbee4afe-c6d2-40d2-ae0d-e8f1bb6d6e6b___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/cbee4afe-c6d2-40d2-ae0d-e8f1bb6d6e6b___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/cbee4afe-c6d2-40d2-ae0d-e8f1bb6d6e6b___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/cbee4afe-c6d2-40d2-ae0d-e8f1bb6d6e6b___banner_238_238.webp 238w",
+          "url": "https://files.kick.com/images/subcategories/415/banner/cbee4afe-c6d2-40d2-ae0d-e8f1bb6d6e6b"
+        }
+      }
+    ]
+  },
+  {
     "id": 134881717,
     "slug": "5aecc9dc4525a3d2-apex-legends-37-pew-pew-in-apex-after-a-long-time-enjp-joqnix",
     "channel_id": 138623,
@@ -52,7 +176,7 @@
         "description": null,
         "deleted_at": null,
         "is_mature": false,
-        "viewers": 144,
+        "viewers": 272,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/cbee4afe-c6d2-40d2-ae0d-e8f1bb6d6e6b___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/cbee4afe-c6d2-40d2-ae0d-e8f1bb6d6e6b___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/cbee4afe-c6d2-40d2-ae0d-e8f1bb6d6e6b___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/cbee4afe-c6d2-40d2-ae0d-e8f1bb6d6e6b___banner_238_238.webp 238w",
@@ -114,7 +238,7 @@
         "description": null,
         "deleted_at": null,
         "is_mature": false,
-        "viewers": 144,
+        "viewers": 272,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/cbee4afe-c6d2-40d2-ae0d-e8f1bb6d6e6b___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/cbee4afe-c6d2-40d2-ae0d-e8f1bb6d6e6b___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/cbee4afe-c6d2-40d2-ae0d-e8f1bb6d6e6b___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/cbee4afe-c6d2-40d2-ae0d-e8f1bb6d6e6b___banner_238_238.webp 238w",
@@ -176,7 +300,7 @@
         "description": null,
         "deleted_at": null,
         "is_mature": false,
-        "viewers": 144,
+        "viewers": 272,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/cbee4afe-c6d2-40d2-ae0d-e8f1bb6d6e6b___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/cbee4afe-c6d2-40d2-ae0d-e8f1bb6d6e6b___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/cbee4afe-c6d2-40d2-ae0d-e8f1bb6d6e6b___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/cbee4afe-c6d2-40d2-ae0d-e8f1bb6d6e6b___banner_238_238.webp 238w",
@@ -238,69 +362,7 @@
         "description": null,
         "deleted_at": null,
         "is_mature": false,
-        "viewers": 144,
-        "is_fallback": false,
-        "banner": {
-          "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/cbee4afe-c6d2-40d2-ae0d-e8f1bb6d6e6b___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/cbee4afe-c6d2-40d2-ae0d-e8f1bb6d6e6b___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/cbee4afe-c6d2-40d2-ae0d-e8f1bb6d6e6b___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/cbee4afe-c6d2-40d2-ae0d-e8f1bb6d6e6b___banner_238_238.webp 238w",
-          "url": "https://files.kick.com/images/subcategories/415/banner/cbee4afe-c6d2-40d2-ae0d-e8f1bb6d6e6b"
-        }
-      }
-    ]
-  },
-  {
-    "id": 134367912,
-    "slug": "e7e24afc00001e84-valorant-45-late-night-valo-pew-pew-enjp-joqnix",
-    "channel_id": 138623,
-    "created_at": "2026-10-26 13:30:54",
-    "session_title": "VALORANT #45 \u250a \u2726 Late night valo pew pew~  EN/JP | JoqniX",
-    "is_live": false,
-    "risk_level_id": null,
-    "start_time": "2026-10-26 13:30:50",
-    "source": "https://stream.kick.com/0f3cb0ebce7/ivs/v1/196233775518/ZCkulBebTQZR/2026/10/26/13/30/yHmwK9vqFO5l/media/hls/master.m3u8",
-    "twitch_channel": null,
-    "duration": 6453000,
-    "language": "English",
-    "is_mature": false,
-    "viewer_count": 2,
-    "tags": [],
-    "thumbnail": {
-      "src": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/yHmwK9vqFO5l/720.webp",
-      "srcset": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/yHmwK9vqFO5l/1080.webp 1920w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/yHmwK9vqFO5l/720.webp 1280w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/yHmwK9vqFO5l/360.webp 480w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/yHmwK9vqFO5l/160.webp 284w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/yHmwK9vqFO5l/480.webp 640w"
-    },
-    "views": 8,
-    "video": {
-      "id": 130066116,
-      "live_stream_id": 134367912,
-      "slug": null,
-      "thumb": null,
-      "s3": null,
-      "trading_platform_id": null,
-      "created_at": "2026-10-26T13:30:54.000000Z",
-      "updated_at": "2026-10-26T15:20:04.000000Z",
-      "uuid": "498f08fc-63d0-4b9f-bff4-3ac3077d7f5d",
-      "views": 8,
-      "deleted_at": null,
-      "is_pruned": false,
-      "is_private": false,
-      "status": "public"
-    },
-    "categories": [
-      {
-        "id": 415,
-        "category_id": 1,
-        "name": "VTubers",
-        "slug": "vtubers",
-        "tags": [
-          "Action",
-          "Puzzle",
-          "Adventure Games",
-          "Shooter",
-          "FPS"
-        ],
-        "description": null,
-        "deleted_at": null,
-        "is_mature": false,
-        "viewers": 144,
+        "viewers": 272,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/cbee4afe-c6d2-40d2-ae0d-e8f1bb6d6e6b___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/cbee4afe-c6d2-40d2-ae0d-e8f1bb6d6e6b___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/cbee4afe-c6d2-40d2-ae0d-e8f1bb6d6e6b___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/cbee4afe-c6d2-40d2-ae0d-e8f1bb6d6e6b___banner_238_238.webp 238w",
