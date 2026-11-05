@@ -5,8 +5,813 @@
     "message": "SUCCESS"
   },
   "data": {
-    "messages": [],
-    "cursor": "1793192900462427",
+    "messages": [
+      {
+        "id": "3beb47de-dcef-46de-88ea-5c2adedbdf7c",
+        "chat_id": 138623,
+        "user_id": 140223,
+        "content": "thank you all for coming by tonight~ otsujoq",
+        "type": "message",
+        "metadata": "{\"sender_type\":\"user\",\"app_id\":\"01JT43R2EY9VTN54R98RJQG42T\"}",
+        "created_at": "2026-11-05T16:25:13Z",
+        "sender": {
+          "id": 140223,
+          "slug": "joqnix",
+          "username": "joqnix",
+          "identity": {
+            "color": "#B9D6F6",
+            "badges": [
+              {
+                "type": "broadcaster",
+                "text": "Broadcaster",
+                "sort_order": 13
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "kick_founder22",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/kick_founder22_2a2d3875-276e-4d87-ab63-d7578d2e10c0.png",
+                "selected": true,
+                "sort_order": 2
+              },
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/42_226c6c94-f3c1-476a-80b5-f58e5e656a47.png",
+                "metadata": {
+                  "level": 42
+                },
+                "selected": false,
+                "sort_order": 1
+              },
+              {
+                "name": "DEDsafioNutria",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/DEDsafioNutria_01a0cbff-5134-75df-9dd4-8b073e36da21.png",
+                "selected": false,
+                "sort_order": 4
+              },
+              {
+                "name": "WorldofWarcraftForeverBeta",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/WorldofWarcraftForeverBeta_c4ae6085-8ec5-4905-bca5-23c56b9787d8.png",
+                "selected": false,
+                "sort_order": 4
+              },
+              {
+                "name": "Ghost",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/Ghost_b3f35326-9908-409c-9e8c-13e35ca8ace1.png",
+                "selected": false,
+                "sort_order": 4
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "c63f57f6-23a2-4d96-8fb8-e31815f0cdc3",
+        "chat_id": 138623,
+        "user_id": 7404530,
+        "content": "wright_rocket103 (wright-rocket103) just followed the stream! \ud83d\udc9a",
+        "type": "message",
+        "metadata": "{\"sender_type\":\"user\",\"app_id\":\"01JME84SJP9NKNEAQK6PE17JK8\"}",
+        "created_at": "2026-11-05T13:53:15Z",
+        "sender": {
+          "id": 7404530,
+          "slug": "fossabot",
+          "username": "Fossabot",
+          "identity": {
+            "color": "#DEB2FF",
+            "badges": [
+              {
+                "type": "moderator",
+                "text": "Moderator",
+                "sort_order": 12
+              },
+              {
+                "type": "verified",
+                "text": "Verified channel",
+                "sort_order": 14
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+                "metadata": {
+                  "level": 1
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "db29639a-3a64-4235-93fe-ff3ed10771ad",
+        "chat_id": 138623,
+        "user_id": 7404530,
+        "content": "joqnix just went live playing VTubers!",
+        "type": "message",
+        "metadata": "{\"sender_type\":\"user\",\"app_id\":\"01JME84SJP9NKNEAQK6PE17JK8\"}",
+        "created_at": "2026-11-05T13:38:02Z",
+        "sender": {
+          "id": 7404530,
+          "slug": "fossabot",
+          "username": "Fossabot",
+          "identity": {
+            "color": "#DEB2FF",
+            "badges": [
+              {
+                "type": "moderator",
+                "text": "Moderator",
+                "sort_order": 12
+              },
+              {
+                "type": "verified",
+                "text": "Verified channel",
+                "sort_order": 14
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+                "metadata": {
+                  "level": 1
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "a4222ed8-89e1-4e1a-8ea3-0cdbad8e1427",
+        "chat_id": 138623,
+        "user_id": 140223,
+        "content": "ah internet oof",
+        "type": "message",
+        "metadata": "{\"sender_type\":\"user\",\"app_id\":\"01JT43R2EY9VTN54R98RJQG42T\"}",
+        "created_at": "2026-11-05T13:32:35Z",
+        "sender": {
+          "id": 140223,
+          "slug": "joqnix",
+          "username": "joqnix",
+          "identity": {
+            "color": "#B9D6F6",
+            "badges": [
+              {
+                "type": "broadcaster",
+                "text": "Broadcaster",
+                "sort_order": 13
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "kick_founder22",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/kick_founder22_2a2d3875-276e-4d87-ab63-d7578d2e10c0.png",
+                "selected": true,
+                "sort_order": 2
+              },
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/42_226c6c94-f3c1-476a-80b5-f58e5e656a47.png",
+                "metadata": {
+                  "level": 42
+                },
+                "selected": false,
+                "sort_order": 1
+              },
+              {
+                "name": "DEDsafioNutria",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/DEDsafioNutria_01a0cbff-5134-75df-9dd4-8b073e36da21.png",
+                "selected": false,
+                "sort_order": 4
+              },
+              {
+                "name": "WorldofWarcraftForeverBeta",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/WorldofWarcraftForeverBeta_c4ae6085-8ec5-4905-bca5-23c56b9787d8.png",
+                "selected": false,
+                "sort_order": 4
+              },
+              {
+                "name": "Ghost",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/Ghost_b3f35326-9908-409c-9e8c-13e35ca8ace1.png",
+                "selected": false,
+                "sort_order": 4
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "26f07b38-1768-4925-a38e-c38cab63fd68",
+        "chat_id": 138623,
+        "user_id": 140223,
+        "content": "a",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1793879301206\"}",
+        "created_at": "2026-11-05T11:48:21Z",
+        "sender": {
+          "id": 140223,
+          "slug": "joqnix",
+          "username": "joqnix",
+          "identity": {
+            "color": "#B9D6F6",
+            "badges": [
+              {
+                "type": "broadcaster",
+                "text": "Broadcaster",
+                "sort_order": 13
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "kick_founder22",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/kick_founder22_2a2d3875-276e-4d87-ab63-d7578d2e10c0.png",
+                "selected": true,
+                "sort_order": 2
+              },
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/42_226c6c94-f3c1-476a-80b5-f58e5e656a47.png",
+                "metadata": {
+                  "level": 42
+                },
+                "selected": false,
+                "sort_order": 1
+              },
+              {
+                "name": "DEDsafioNutria",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/DEDsafioNutria_01a0cbff-5134-75df-9dd4-8b073e36da21.png",
+                "selected": false,
+                "sort_order": 4
+              },
+              {
+                "name": "WorldofWarcraftForeverBeta",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/WorldofWarcraftForeverBeta_c4ae6085-8ec5-4905-bca5-23c56b9787d8.png",
+                "selected": false,
+                "sort_order": 4
+              },
+              {
+                "name": "Ghost",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/Ghost_b3f35326-9908-409c-9e8c-13e35ca8ace1.png",
+                "selected": false,
+                "sort_order": 4
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "ab14dd29-20fb-4d8a-9c8e-b91d3f385c88",
+        "chat_id": 138623,
+        "user_id": 140223,
+        "content": "awsdas",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1793879092080\"}",
+        "created_at": "2026-11-05T11:44:52Z",
+        "sender": {
+          "id": 140223,
+          "slug": "joqnix",
+          "username": "joqnix",
+          "identity": {
+            "color": "#B9D6F6",
+            "badges": [
+              {
+                "type": "broadcaster",
+                "text": "Broadcaster",
+                "sort_order": 13
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "kick_founder22",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/kick_founder22_2a2d3875-276e-4d87-ab63-d7578d2e10c0.png",
+                "selected": true,
+                "sort_order": 2
+              },
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/42_226c6c94-f3c1-476a-80b5-f58e5e656a47.png",
+                "metadata": {
+                  "level": 42
+                },
+                "selected": false,
+                "sort_order": 1
+              },
+              {
+                "name": "DEDsafioNutria",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/DEDsafioNutria_01a0cbff-5134-75df-9dd4-8b073e36da21.png",
+                "selected": false,
+                "sort_order": 4
+              },
+              {
+                "name": "WorldofWarcraftForeverBeta",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/WorldofWarcraftForeverBeta_c4ae6085-8ec5-4905-bca5-23c56b9787d8.png",
+                "selected": false,
+                "sort_order": 4
+              },
+              {
+                "name": "Ghost",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/Ghost_b3f35326-9908-409c-9e8c-13e35ca8ace1.png",
+                "selected": false,
+                "sort_order": 4
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "cb7924d4-86fd-4a33-ba95-a3e097ce2852",
+        "chat_id": 138623,
+        "user_id": 140223,
+        "content": "adasd",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1793879090959\"}",
+        "created_at": "2026-11-05T11:44:51Z",
+        "sender": {
+          "id": 140223,
+          "slug": "joqnix",
+          "username": "joqnix",
+          "identity": {
+            "color": "#B9D6F6",
+            "badges": [
+              {
+                "type": "broadcaster",
+                "text": "Broadcaster",
+                "sort_order": 13
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "kick_founder22",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/kick_founder22_2a2d3875-276e-4d87-ab63-d7578d2e10c0.png",
+                "selected": true,
+                "sort_order": 2
+              },
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/42_226c6c94-f3c1-476a-80b5-f58e5e656a47.png",
+                "metadata": {
+                  "level": 42
+                },
+                "selected": false,
+                "sort_order": 1
+              },
+              {
+                "name": "DEDsafioNutria",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/DEDsafioNutria_01a0cbff-5134-75df-9dd4-8b073e36da21.png",
+                "selected": false,
+                "sort_order": 4
+              },
+              {
+                "name": "WorldofWarcraftForeverBeta",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/WorldofWarcraftForeverBeta_c4ae6085-8ec5-4905-bca5-23c56b9787d8.png",
+                "selected": false,
+                "sort_order": 4
+              },
+              {
+                "name": "Ghost",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/Ghost_b3f35326-9908-409c-9e8c-13e35ca8ace1.png",
+                "selected": false,
+                "sort_order": 4
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "be9c082a-637d-4578-a35b-d09d414bfdd2",
+        "chat_id": 138623,
+        "user_id": 140223,
+        "content": "aaaa",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1793879089552\"}",
+        "created_at": "2026-11-05T11:44:50Z",
+        "sender": {
+          "id": 140223,
+          "slug": "joqnix",
+          "username": "joqnix",
+          "identity": {
+            "color": "#B9D6F6",
+            "badges": [
+              {
+                "type": "broadcaster",
+                "text": "Broadcaster",
+                "sort_order": 13
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "kick_founder22",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/kick_founder22_2a2d3875-276e-4d87-ab63-d7578d2e10c0.png",
+                "selected": true,
+                "sort_order": 2
+              },
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/42_226c6c94-f3c1-476a-80b5-f58e5e656a47.png",
+                "metadata": {
+                  "level": 42
+                },
+                "selected": false,
+                "sort_order": 1
+              },
+              {
+                "name": "DEDsafioNutria",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/DEDsafioNutria_01a0cbff-5134-75df-9dd4-8b073e36da21.png",
+                "selected": false,
+                "sort_order": 4
+              },
+              {
+                "name": "WorldofWarcraftForeverBeta",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/WorldofWarcraftForeverBeta_c4ae6085-8ec5-4905-bca5-23c56b9787d8.png",
+                "selected": false,
+                "sort_order": 4
+              },
+              {
+                "name": "Ghost",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/Ghost_b3f35326-9908-409c-9e8c-13e35ca8ace1.png",
+                "selected": false,
+                "sort_order": 4
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "2a8a03f4-206b-4109-bdf7-62948cb09474",
+        "chat_id": 138623,
+        "user_id": 140223,
+        "content": "a",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1793878946404\"}",
+        "created_at": "2026-11-05T11:42:27Z",
+        "sender": {
+          "id": 140223,
+          "slug": "joqnix",
+          "username": "joqnix",
+          "identity": {
+            "color": "#B9D6F6",
+            "badges": [
+              {
+                "type": "broadcaster",
+                "text": "Broadcaster",
+                "sort_order": 13
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "kick_founder22",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/kick_founder22_2a2d3875-276e-4d87-ab63-d7578d2e10c0.png",
+                "selected": true,
+                "sort_order": 2
+              },
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/42_226c6c94-f3c1-476a-80b5-f58e5e656a47.png",
+                "metadata": {
+                  "level": 42
+                },
+                "selected": false,
+                "sort_order": 1
+              },
+              {
+                "name": "DEDsafioNutria",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/DEDsafioNutria_01a0cbff-5134-75df-9dd4-8b073e36da21.png",
+                "selected": false,
+                "sort_order": 4
+              },
+              {
+                "name": "WorldofWarcraftForeverBeta",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/WorldofWarcraftForeverBeta_c4ae6085-8ec5-4905-bca5-23c56b9787d8.png",
+                "selected": false,
+                "sort_order": 4
+              },
+              {
+                "name": "Ghost",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/Ghost_b3f35326-9908-409c-9e8c-13e35ca8ace1.png",
+                "selected": false,
+                "sort_order": 4
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "6e057675-a82a-4bac-a595-66d32ec109b9",
+        "chat_id": 138623,
+        "user_id": 140223,
+        "content": "[emote:1579036:emojiBlowKiss]",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1793878907342\"}",
+        "created_at": "2026-11-05T11:41:48Z",
+        "sender": {
+          "id": 140223,
+          "slug": "joqnix",
+          "username": "joqnix",
+          "identity": {
+            "color": "#B9D6F6",
+            "badges": [
+              {
+                "type": "broadcaster",
+                "text": "Broadcaster",
+                "sort_order": 13
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "kick_founder22",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/kick_founder22_2a2d3875-276e-4d87-ab63-d7578d2e10c0.png",
+                "selected": true,
+                "sort_order": 2
+              },
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/42_226c6c94-f3c1-476a-80b5-f58e5e656a47.png",
+                "metadata": {
+                  "level": 42
+                },
+                "selected": false,
+                "sort_order": 1
+              },
+              {
+                "name": "DEDsafioNutria",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/DEDsafioNutria_01a0cbff-5134-75df-9dd4-8b073e36da21.png",
+                "selected": false,
+                "sort_order": 4
+              },
+              {
+                "name": "WorldofWarcraftForeverBeta",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/WorldofWarcraftForeverBeta_c4ae6085-8ec5-4905-bca5-23c56b9787d8.png",
+                "selected": false,
+                "sort_order": 4
+              },
+              {
+                "name": "Ghost",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/Ghost_b3f35326-9908-409c-9e8c-13e35ca8ace1.png",
+                "selected": false,
+                "sort_order": 4
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "90f07032-e8b1-4ff7-ab68-eaad84986ba1",
+        "chat_id": 138623,
+        "user_id": 140223,
+        "content": ".",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1793878884095\"}",
+        "created_at": "2026-11-05T11:41:24Z",
+        "sender": {
+          "id": 140223,
+          "slug": "joqnix",
+          "username": "joqnix",
+          "identity": {
+            "color": "#B9D6F6",
+            "badges": [
+              {
+                "type": "broadcaster",
+                "text": "Broadcaster",
+                "sort_order": 13
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "kick_founder22",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/kick_founder22_2a2d3875-276e-4d87-ab63-d7578d2e10c0.png",
+                "selected": true,
+                "sort_order": 2
+              },
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/42_226c6c94-f3c1-476a-80b5-f58e5e656a47.png",
+                "metadata": {
+                  "level": 42
+                },
+                "selected": false,
+                "sort_order": 1
+              },
+              {
+                "name": "DEDsafioNutria",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/DEDsafioNutria_01a0cbff-5134-75df-9dd4-8b073e36da21.png",
+                "selected": false,
+                "sort_order": 4
+              },
+              {
+                "name": "WorldofWarcraftForeverBeta",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/WorldofWarcraftForeverBeta_c4ae6085-8ec5-4905-bca5-23c56b9787d8.png",
+                "selected": false,
+                "sort_order": 4
+              },
+              {
+                "name": "Ghost",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/Ghost_b3f35326-9908-409c-9e8c-13e35ca8ace1.png",
+                "selected": false,
+                "sort_order": 4
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "4584f4ee-dc44-48e9-96e0-89a50969ba40",
+        "chat_id": 138623,
+        "user_id": 140223,
+        "content": "hello everyone~",
+        "type": "message",
+        "metadata": "{\"sender_type\":\"user\",\"app_id\":\"01JT43R2EY9VTN54R98RJQG42T\"}",
+        "created_at": "2026-11-05T11:40:28Z",
+        "sender": {
+          "id": 140223,
+          "slug": "joqnix",
+          "username": "joqnix",
+          "identity": {
+            "color": "#B9D6F6",
+            "badges": [
+              {
+                "type": "broadcaster",
+                "text": "Broadcaster",
+                "sort_order": 13
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "kick_founder22",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/kick_founder22_2a2d3875-276e-4d87-ab63-d7578d2e10c0.png",
+                "selected": true,
+                "sort_order": 2
+              },
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/42_226c6c94-f3c1-476a-80b5-f58e5e656a47.png",
+                "metadata": {
+                  "level": 42
+                },
+                "selected": false,
+                "sort_order": 1
+              },
+              {
+                "name": "DEDsafioNutria",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/DEDsafioNutria_01a0cbff-5134-75df-9dd4-8b073e36da21.png",
+                "selected": false,
+                "sort_order": 4
+              },
+              {
+                "name": "WorldofWarcraftForeverBeta",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/WorldofWarcraftForeverBeta_c4ae6085-8ec5-4905-bca5-23c56b9787d8.png",
+                "selected": false,
+                "sort_order": 4
+              },
+              {
+                "name": "Ghost",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/Ghost_b3f35326-9908-409c-9e8c-13e35ca8ace1.png",
+                "selected": false,
+                "sort_order": 4
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "d010cdf7-c89b-497d-a3e2-02a33b9f7799",
+        "chat_id": 138623,
+        "user_id": 7404530,
+        "content": "joqnix just went live playing VTubers!",
+        "type": "message",
+        "metadata": "{\"sender_type\":\"user\",\"app_id\":\"01JME84SJP9NKNEAQK6PE17JK8\"}",
+        "created_at": "2026-11-05T11:03:52Z",
+        "sender": {
+          "id": 7404530,
+          "slug": "fossabot",
+          "username": "Fossabot",
+          "identity": {
+            "color": "#DEB2FF",
+            "badges": [
+              {
+                "type": "moderator",
+                "text": "Moderator",
+                "sort_order": 12
+              },
+              {
+                "type": "verified",
+                "text": "Verified channel",
+                "sort_order": 14
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+                "metadata": {
+                  "level": 1
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "0ae134d1-eab1-470e-b0bb-859c5d72de32",
+        "chat_id": 138623,
+        "user_id": 7404530,
+        "content": "joqnix changed their title to \"\"!",
+        "type": "message",
+        "metadata": "{\"sender_type\":\"user\",\"app_id\":\"01JME84SJP9NKNEAQK6PE17JK8\"}",
+        "created_at": "2026-11-05T10:59:11Z",
+        "sender": {
+          "id": 7404530,
+          "slug": "fossabot",
+          "username": "Fossabot",
+          "identity": {
+            "color": "#DEB2FF",
+            "badges": [
+              {
+                "type": "moderator",
+                "text": "Moderator",
+                "sort_order": 12
+              },
+              {
+                "type": "verified",
+                "text": "Verified channel",
+                "sort_order": 14
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+                "metadata": {
+                  "level": 1
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "cursor": "1793623900826353",
     "pinned_message": null
   }
 }
