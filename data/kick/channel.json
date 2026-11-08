@@ -3,11 +3,11 @@
   "user_id": 140223,
   "slug": "joqnix",
   "is_banned": false,
-  "playback_url": "https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.ZCkulBebTQZR.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6MTk2MjMzNzc1NTE4OmNoYW5uZWwvWkNrdWxCZWJUUVpSIiwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOi8va2ljay5jb20saHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20saHR0cHM6Ly8qLmtpY2subGl2ZSxodHRwczovL3BsYXllci5raWNrLmNvbSxodHRwczovL2FkbWluLmtpY2suY29tLGh0dHBzOi8vYmV0YS5raWNrLmNvbSxodHRwczovL25leHQua2ljay5jb20saHR0cHM6Ly9kYXNoYm9hcmQua2ljay5jb20saHR0cHM6Ly8qLnByZXZpZXcua2ljay5jb20saHR0cHM6Ly94Ym94LmtpY2suY29tLGh0dHBzOi8vcGxheXN0YXRpb24ua2ljay5jb20saHR0cHM6Ly90aXplbi5raWNrLmNvbSxodHRwczovL3dlYm9zLmtpY2suY29tLGh0dHBzOi8vKi5raWNrLXByZXByb2R1Y3Rpb24uY29tLGh0dHBzOi8vKi5raWNrLWRldmVsb3BtZW50LmNvbSIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50IjpmYWxzZSwiYXdzOmFkcy1vcHQtb3V0Ijp0cnVlLCJleHAiOjE3OTQxMjUxODF9.dhOq1i6WF6-QKJv3t4Ts3hZReKEkSzzWIUZc43Sab6RRS6UFFidemqCHN5uVy0VJdlmpjyc72OvxiwbhFjmJEgzj8S7QhnVBMoYE-hwdWjPbYf5q48HuQxp3iRtj0CjF",
+  "playback_url": "https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.ZCkulBebTQZR.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6MTk2MjMzNzc1NTE4OmNoYW5uZWwvWkNrdWxCZWJUUVpSIiwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOi8va2ljay5jb20saHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20saHR0cHM6Ly8qLmtpY2subGl2ZSxodHRwczovL3BsYXllci5raWNrLmNvbSxodHRwczovL2FkbWluLmtpY2suY29tLGh0dHBzOi8vYmV0YS5raWNrLmNvbSxodHRwczovL25leHQua2ljay5jb20saHR0cHM6Ly9kYXNoYm9hcmQua2ljay5jb20saHR0cHM6Ly8qLnByZXZpZXcua2ljay5jb20saHR0cHM6Ly94Ym94LmtpY2suY29tLGh0dHBzOi8vcGxheXN0YXRpb24ua2ljay5jb20saHR0cHM6Ly90aXplbi5raWNrLmNvbSxodHRwczovL3dlYm9zLmtpY2suY29tLGh0dHBzOi8vKi5raWNrLXByZXByb2R1Y3Rpb24uY29tLGh0dHBzOi8vKi5raWNrLWRldmVsb3BtZW50LmNvbSIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50IjpmYWxzZSwiYXdzOmFkcy1vcHQtb3V0Ijp0cnVlLCJleHAiOjE3OTQxNDkyNzl9.NBymgQD7tJ0dgYCK_qPhZzLaFtKdYEjttLUmKy89vsyRNP4IV8qL6XjJcty73kO86QQjb3KKYTay37zLgYJeuJHGcWfL-BPlPZBPXGyfg-QXr2Je8F8A55n4XNufEZw8",
   "vod_enabled": true,
   "subscription_enabled": true,
   "is_affiliate": true,
-  "followers_count": "259",
+  "followers_count": "261",
   "subscriber_badges": [
     {
       "id": 432062,
@@ -159,10 +159,10 @@
   },
   "livestream": {
     "id": 136630996,
-    "slug": "324ffd64-counter-strike-2-5-playing-cs2-after-a-long-time-enjp-joqnix",
+    "slug": "fafc2382-minecraft-21-building-and-farming-for-my-kingdom-day-3-enjp-joqnix",
     "channel_id": 138623,
     "created_at": "2026-11-08 02:35:48",
-    "session_title": "Counter-Strike 2 #5 \u250a \u2726 Playing CS2 after a long time!  ~  EN/JP | JoqniX",
+    "session_title": "Minecraft #21 \u250a \u2726 Building and Farming for my kingdom~ - Day 3  ~  EN/JP | JoqniX",
     "is_live": true,
     "risk_level_id": null,
     "start_time": "2026-11-08 02:35:46",
@@ -193,7 +193,7 @@
         "description": null,
         "deleted_at": null,
         "is_mature": false,
-        "viewers": 260,
+        "viewers": 421,
         "is_fallback": false,
         "category": {
           "id": 1,
@@ -228,7 +228,7 @@
       "description": null,
       "deleted_at": null,
       "is_mature": false,
-      "viewers": 260,
+      "viewers": 421,
       "is_fallback": false,
       "banner": {
         "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/cbee4afe-c6d2-40d2-ae0d-e8f1bb6d6e6b___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/cbee4afe-c6d2-40d2-ae0d-e8f1bb6d6e6b___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/cbee4afe-c6d2-40d2-ae0d-e8f1bb6d6e6b___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/cbee4afe-c6d2-40d2-ae0d-e8f1bb6d6e6b___banner_238_238.webp 238w",
