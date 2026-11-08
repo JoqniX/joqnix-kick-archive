@@ -121,5 +121,35 @@
         ]
       }
     }
+  },
+  {
+    "id": "717267a4-6bd8-4937-a337-9f49dc1be82f",
+    "chat_id": 138623,
+    "user_id": 122702075,
+    "content": "hello",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1794115288319\"}",
+    "created_at": "2026-11-08T05:21:28Z",
+    "sender": {
+      "id": 122702075,
+      "slug": "angelguzols",
+      "username": "Angelguzols",
+      "identity": {
+        "color": "#FFFFFF",
+        "badges": [],
+        "badges_v2": [
+          {
+            "name": "level",
+            "badge_type": "global",
+            "image_url": "https://ext.cdn.kick.com/chat/badges/18_cd2f7f82-87c8-418b-8758-93789e5d1a14.png",
+            "metadata": {
+              "level": 18
+            },
+            "selected": true,
+            "sort_order": 1
+          }
+        ]
+      }
+    }
   }
 ]
