@@ -1,5 +1,129 @@
 [
   {
+    "id": 137391697,
+    "slug": "8fe44111e9e276a5-minecraft-22-farming-for-resources-for-creeper-farm-day-4-enjp-joqnix",
+    "channel_id": 138623,
+    "created_at": "2026-11-12 09:56:10",
+    "session_title": "Minecraft #22 \u250a \u2726 Farming for resources for creeper farm! ~ - Day 4  ~  EN/JP | JoqniX",
+    "is_live": true,
+    "risk_level_id": null,
+    "start_time": "2026-11-12 09:56:06",
+    "source": "https://stream.kick.com/0f3cb0ebce7/ivs/v1/196233775518/ZCkulBebTQZR/2026/11/12/9/56/w6UMaKhAynmM/media/hls/master.m3u8",
+    "twitch_channel": null,
+    "duration": 0,
+    "language": "English",
+    "is_mature": false,
+    "viewer_count": 1,
+    "tags": [],
+    "thumbnail": {
+      "src": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/w6UMaKhAynmM/720.webp?versionId=V30HZu5CI9hIbz5fjBMub9pnRXu_o9WO",
+      "srcset": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/w6UMaKhAynmM/1080.webp?versionId=A82bjM59HVpRu1_..9B5IpqqZTG1e1VK 1920w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/w6UMaKhAynmM/720.webp?versionId=V30HZu5CI9hIbz5fjBMub9pnRXu_o9WO 1280w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/w6UMaKhAynmM/360.webp?versionId=xMteBlvbWxURNZ10NsUIbDqLpyNyRkV2 480w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/w6UMaKhAynmM/160.webp?versionId=9tENY7GJpHCVHvmBmhTz2HmSHnbA62Ie 284w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/w6UMaKhAynmM/480.webp?versionId=4eSaZmHFhtXd8Xt54grHCQ8YsCXkK0Zj 640w"
+    },
+    "views": 0,
+    "video": {
+      "id": 133089757,
+      "live_stream_id": 137391697,
+      "slug": null,
+      "thumb": null,
+      "s3": null,
+      "trading_platform_id": null,
+      "created_at": "2026-11-12T09:56:10.000000Z",
+      "updated_at": "2026-11-12T09:56:10.000000Z",
+      "uuid": "afb8c5e4-f225-4339-96e2-1e4702951c14",
+      "views": 0,
+      "deleted_at": null,
+      "is_pruned": false,
+      "is_private": false,
+      "status": "public"
+    },
+    "categories": [
+      {
+        "id": 415,
+        "category_id": 1,
+        "name": "VTubers",
+        "slug": "vtubers",
+        "tags": [
+          "Action",
+          "Puzzle",
+          "Adventure Games",
+          "Shooter",
+          "FPS"
+        ],
+        "description": null,
+        "deleted_at": null,
+        "is_mature": false,
+        "viewers": 249,
+        "is_fallback": false,
+        "banner": {
+          "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/cbee4afe-c6d2-40d2-ae0d-e8f1bb6d6e6b___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/cbee4afe-c6d2-40d2-ae0d-e8f1bb6d6e6b___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/cbee4afe-c6d2-40d2-ae0d-e8f1bb6d6e6b___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/cbee4afe-c6d2-40d2-ae0d-e8f1bb6d6e6b___banner_238_238.webp 238w",
+          "url": "https://files.kick.com/images/subcategories/415/banner/cbee4afe-c6d2-40d2-ae0d-e8f1bb6d6e6b"
+        }
+      }
+    ]
+  },
+  {
+    "id": 137391320,
+    "slug": "4253d93c1ce547fb-minecraft-22-farming-for-resources-for-creeper-farm-day-4-enjp-joqnix",
+    "channel_id": 138623,
+    "created_at": "2026-11-12 09:50:28",
+    "session_title": "Minecraft #22 \u250a \u2726 Farming for resources for creeper farm! ~ - Day 4  ~  EN/JP | JoqniX",
+    "is_live": false,
+    "risk_level_id": null,
+    "start_time": "2026-11-12 09:50:24",
+    "source": "https://stream.kick.com/0f3cb0ebce7/ivs/v1/196233775518/ZCkulBebTQZR/2026/11/12/9/50/ceUwks11M9RO/media/hls/master.m3u8",
+    "twitch_channel": null,
+    "duration": 331000,
+    "language": "English",
+    "is_mature": false,
+    "viewer_count": 0,
+    "tags": [],
+    "thumbnail": {
+      "src": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/ceUwks11M9RO/720.webp",
+      "srcset": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/ceUwks11M9RO/1080.webp 1920w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/ceUwks11M9RO/720.webp 1280w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/ceUwks11M9RO/360.webp 480w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/ceUwks11M9RO/160.webp 284w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/ceUwks11M9RO/480.webp 640w"
+    },
+    "views": 4,
+    "video": {
+      "id": 133089380,
+      "live_stream_id": 137391320,
+      "slug": null,
+      "thumb": null,
+      "s3": null,
+      "trading_platform_id": null,
+      "created_at": "2026-11-12T09:50:28.000000Z",
+      "updated_at": "2026-11-12T09:57:33.000000Z",
+      "uuid": "02e2755b-1cdf-4559-84f0-a54c0ea46685",
+      "views": 4,
+      "deleted_at": null,
+      "is_pruned": false,
+      "is_private": false,
+      "status": "public"
+    },
+    "categories": [
+      {
+        "id": 415,
+        "category_id": 1,
+        "name": "VTubers",
+        "slug": "vtubers",
+        "tags": [
+          "Action",
+          "Puzzle",
+          "Adventure Games",
+          "Shooter",
+          "FPS"
+        ],
+        "description": null,
+        "deleted_at": null,
+        "is_mature": false,
+        "viewers": 249,
+        "is_fallback": false,
+        "banner": {
+          "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/cbee4afe-c6d2-40d2-ae0d-e8f1bb6d6e6b___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/cbee4afe-c6d2-40d2-ae0d-e8f1bb6d6e6b___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/cbee4afe-c6d2-40d2-ae0d-e8f1bb6d6e6b___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/cbee4afe-c6d2-40d2-ae0d-e8f1bb6d6e6b___banner_238_238.webp 238w",
+          "url": "https://files.kick.com/images/subcategories/415/banner/cbee4afe-c6d2-40d2-ae0d-e8f1bb6d6e6b"
+        }
+      }
+    ]
+  },
+  {
     "id": 136630996,
     "slug": "fafc2382-minecraft-21-building-and-farming-for-my-kingdom-day-3-enjp-joqnix",
     "channel_id": 138623,
@@ -52,7 +176,7 @@
         "description": null,
         "deleted_at": null,
         "is_mature": false,
-        "viewers": 427,
+        "viewers": 249,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/cbee4afe-c6d2-40d2-ae0d-e8f1bb6d6e6b___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/cbee4afe-c6d2-40d2-ae0d-e8f1bb6d6e6b___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/cbee4afe-c6d2-40d2-ae0d-e8f1bb6d6e6b___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/cbee4afe-c6d2-40d2-ae0d-e8f1bb6d6e6b___banner_238_238.webp 238w",
@@ -114,69 +238,7 @@
         "description": null,
         "deleted_at": null,
         "is_mature": false,
-        "viewers": 427,
-        "is_fallback": false,
-        "banner": {
-          "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/cbee4afe-c6d2-40d2-ae0d-e8f1bb6d6e6b___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/cbee4afe-c6d2-40d2-ae0d-e8f1bb6d6e6b___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/cbee4afe-c6d2-40d2-ae0d-e8f1bb6d6e6b___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/cbee4afe-c6d2-40d2-ae0d-e8f1bb6d6e6b___banner_238_238.webp 238w",
-          "url": "https://files.kick.com/images/subcategories/415/banner/cbee4afe-c6d2-40d2-ae0d-e8f1bb6d6e6b"
-        }
-      }
-    ]
-  },
-  {
-    "id": 136121755,
-    "slug": "65eba9062036b829-minecraft-20-first-time-in-eden-smp-day-2-enjp-joqnix",
-    "channel_id": 138623,
-    "created_at": "2026-11-05 11:03:51",
-    "session_title": "Minecraft #20 \u250a \u2726 First time in Eden SMP - Day 2  ~  EN/JP | JoqniX",
-    "is_live": false,
-    "risk_level_id": null,
-    "start_time": "2026-11-05 11:03:50",
-    "source": "https://stream.kick.com/0f3cb0ebce7/ivs/v1/196233775518/ZCkulBebTQZR/2026/11/5/11/3/0rYWhQz4zsey/media/hls/master.m3u8",
-    "twitch_channel": null,
-    "duration": 9161000,
-    "language": "English",
-    "is_mature": false,
-    "viewer_count": 2,
-    "tags": [],
-    "thumbnail": {
-      "src": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/0rYWhQz4zsey/720.webp",
-      "srcset": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/0rYWhQz4zsey/1080.webp 1920w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/0rYWhQz4zsey/720.webp 1280w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/0rYWhQz4zsey/360.webp 480w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/0rYWhQz4zsey/160.webp 284w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/0rYWhQz4zsey/480.webp 640w"
-    },
-    "views": 12,
-    "video": {
-      "id": 131819907,
-      "live_stream_id": 136121755,
-      "slug": null,
-      "thumb": null,
-      "s3": null,
-      "trading_platform_id": null,
-      "created_at": "2026-11-05T11:03:51.000000Z",
-      "updated_at": "2026-11-05T13:38:10.000000Z",
-      "uuid": "ce613b4c-e405-472d-a935-4573a4abd9ec",
-      "views": 12,
-      "deleted_at": null,
-      "is_pruned": false,
-      "is_private": false,
-      "status": "public"
-    },
-    "categories": [
-      {
-        "id": 415,
-        "category_id": 1,
-        "name": "VTubers",
-        "slug": "vtubers",
-        "tags": [
-          "Action",
-          "Puzzle",
-          "Adventure Games",
-          "Shooter",
-          "FPS"
-        ],
-        "description": null,
-        "deleted_at": null,
-        "is_mature": false,
-        "viewers": 427,
+        "viewers": 249,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/cbee4afe-c6d2-40d2-ae0d-e8f1bb6d6e6b___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/cbee4afe-c6d2-40d2-ae0d-e8f1bb6d6e6b___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/cbee4afe-c6d2-40d2-ae0d-e8f1bb6d6e6b___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/cbee4afe-c6d2-40d2-ae0d-e8f1bb6d6e6b___banner_238_238.webp 238w",
