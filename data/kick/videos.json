@@ -5,21 +5,21 @@
     "channel_id": 138623,
     "created_at": "2026-11-12 09:56:10",
     "session_title": "Minecraft #22 \u250a \u2726 Farming for resources for creeper farm! ~ - Day 4  ~  EN/JP | JoqniX",
-    "is_live": true,
+    "is_live": false,
     "risk_level_id": null,
     "start_time": "2026-11-12 09:56:06",
     "source": "https://stream.kick.com/0f3cb0ebce7/ivs/v1/196233775518/ZCkulBebTQZR/2026/11/12/9/56/w6UMaKhAynmM/media/hls/master.m3u8",
     "twitch_channel": null,
-    "duration": 0,
+    "duration": 9780000,
     "language": "English",
     "is_mature": false,
-    "viewer_count": 1,
+    "viewer_count": 2,
     "tags": [],
     "thumbnail": {
-      "src": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/w6UMaKhAynmM/720.webp?versionId=V30HZu5CI9hIbz5fjBMub9pnRXu_o9WO",
-      "srcset": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/w6UMaKhAynmM/1080.webp?versionId=A82bjM59HVpRu1_..9B5IpqqZTG1e1VK 1920w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/w6UMaKhAynmM/720.webp?versionId=V30HZu5CI9hIbz5fjBMub9pnRXu_o9WO 1280w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/w6UMaKhAynmM/360.webp?versionId=xMteBlvbWxURNZ10NsUIbDqLpyNyRkV2 480w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/w6UMaKhAynmM/160.webp?versionId=9tENY7GJpHCVHvmBmhTz2HmSHnbA62Ie 284w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/w6UMaKhAynmM/480.webp?versionId=4eSaZmHFhtXd8Xt54grHCQ8YsCXkK0Zj 640w"
+      "src": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/w6UMaKhAynmM/720.webp",
+      "srcset": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/w6UMaKhAynmM/1080.webp 1920w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/w6UMaKhAynmM/720.webp 1280w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/w6UMaKhAynmM/360.webp 480w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/w6UMaKhAynmM/160.webp 284w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/w6UMaKhAynmM/480.webp 640w"
     },
-    "views": 0,
+    "views": 16,
     "video": {
       "id": 133089757,
       "live_stream_id": 137391697,
@@ -28,9 +28,9 @@
       "s3": null,
       "trading_platform_id": null,
       "created_at": "2026-11-12T09:56:10.000000Z",
-      "updated_at": "2026-11-12T09:56:10.000000Z",
+      "updated_at": "2026-11-12T12:40:45.000000Z",
       "uuid": "afb8c5e4-f225-4339-96e2-1e4702951c14",
-      "views": 0,
+      "views": 16,
       "deleted_at": null,
       "is_pruned": false,
       "is_private": false,
@@ -52,7 +52,7 @@
         "description": null,
         "deleted_at": null,
         "is_mature": false,
-        "viewers": 249,
+        "viewers": 413,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/cbee4afe-c6d2-40d2-ae0d-e8f1bb6d6e6b___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/cbee4afe-c6d2-40d2-ae0d-e8f1bb6d6e6b___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/cbee4afe-c6d2-40d2-ae0d-e8f1bb6d6e6b___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/cbee4afe-c6d2-40d2-ae0d-e8f1bb6d6e6b___banner_238_238.webp 238w",
@@ -114,7 +114,7 @@
         "description": null,
         "deleted_at": null,
         "is_mature": false,
-        "viewers": 249,
+        "viewers": 413,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/cbee4afe-c6d2-40d2-ae0d-e8f1bb6d6e6b___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/cbee4afe-c6d2-40d2-ae0d-e8f1bb6d6e6b___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/cbee4afe-c6d2-40d2-ae0d-e8f1bb6d6e6b___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/cbee4afe-c6d2-40d2-ae0d-e8f1bb6d6e6b___banner_238_238.webp 238w",
@@ -176,69 +176,7 @@
         "description": null,
         "deleted_at": null,
         "is_mature": false,
-        "viewers": 249,
-        "is_fallback": false,
-        "banner": {
-          "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/cbee4afe-c6d2-40d2-ae0d-e8f1bb6d6e6b___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/cbee4afe-c6d2-40d2-ae0d-e8f1bb6d6e6b___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/cbee4afe-c6d2-40d2-ae0d-e8f1bb6d6e6b___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/cbee4afe-c6d2-40d2-ae0d-e8f1bb6d6e6b___banner_238_238.webp 238w",
-          "url": "https://files.kick.com/images/subcategories/415/banner/cbee4afe-c6d2-40d2-ae0d-e8f1bb6d6e6b"
-        }
-      }
-    ]
-  },
-  {
-    "id": 136135420,
-    "slug": "bf8545407304e404-minecraft-20-first-time-in-eden-smp-day-2-enjp-joqnix",
-    "channel_id": 138623,
-    "created_at": "2026-11-05 13:38:01",
-    "session_title": "Minecraft #20 \u250a \u2726 First time in Eden SMP - Day 2  ~  EN/JP | JoqniX",
-    "is_live": false,
-    "risk_level_id": null,
-    "start_time": "2026-11-05 13:37:59",
-    "source": "https://stream.kick.com/0f3cb0ebce7/ivs/v1/196233775518/ZCkulBebTQZR/2026/11/5/13/37/pXvsq2r796ob/media/hls/master.m3u8",
-    "twitch_channel": null,
-    "duration": 10052000,
-    "language": "English",
-    "is_mature": false,
-    "viewer_count": 2,
-    "tags": [],
-    "thumbnail": {
-      "src": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/pXvsq2r796ob/720.webp",
-      "srcset": "https://images.kick.com/video_thumbnails/ZCkulBebTQZR/pXvsq2r796ob/1080.webp 1920w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/pXvsq2r796ob/720.webp 1280w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/pXvsq2r796ob/360.webp 480w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/pXvsq2r796ob/160.webp 284w, https://images.kick.com/video_thumbnails/ZCkulBebTQZR/pXvsq2r796ob/480.webp 640w"
-    },
-    "views": 8,
-    "video": {
-      "id": 131833572,
-      "live_stream_id": 136135420,
-      "slug": null,
-      "thumb": null,
-      "s3": null,
-      "trading_platform_id": null,
-      "created_at": "2026-11-05T13:38:01.000000Z",
-      "updated_at": "2026-11-05T16:27:12.000000Z",
-      "uuid": "c6918653-fd4f-43d2-9fdf-1c68559e22fd",
-      "views": 8,
-      "deleted_at": null,
-      "is_pruned": false,
-      "is_private": false,
-      "status": "public"
-    },
-    "categories": [
-      {
-        "id": 415,
-        "category_id": 1,
-        "name": "VTubers",
-        "slug": "vtubers",
-        "tags": [
-          "Action",
-          "Puzzle",
-          "Adventure Games",
-          "Shooter",
-          "FPS"
-        ],
-        "description": null,
-        "deleted_at": null,
-        "is_mature": false,
-        "viewers": 249,
+        "viewers": 413,
         "is_fallback": false,
         "banner": {
           "responsive": "https://files.kick.com/images/subcategories/415/banner/responsives/cbee4afe-c6d2-40d2-ae0d-e8f1bb6d6e6b___banner_408_408.webp 408w, https://files.kick.com/images/subcategories/415/banner/responsives/cbee4afe-c6d2-40d2-ae0d-e8f1bb6d6e6b___banner_341_341.webp 341w, https://files.kick.com/images/subcategories/415/banner/responsives/cbee4afe-c6d2-40d2-ae0d-e8f1bb6d6e6b___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/415/banner/responsives/cbee4afe-c6d2-40d2-ae0d-e8f1bb6d6e6b___banner_238_238.webp 238w",
