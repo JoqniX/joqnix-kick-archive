@@ -600,5 +600,19 @@
     "timestamp": 1794363680,
     "duration_seconds": 172797000,
     "title": "24/7 @joqnix | VODS AND STREAMS"
+  },
+  "6b418cab-2752-4ca4-8b3b-29ae61676dbb": {
+    "platform": "kick",
+    "channel": "joqnix",
+    "timestamp": 1794668565,
+    "duration_seconds": 69000,
+    "title": "\u304a\u305d\u3068\u96d1\u8ac7\u30fbOutdoor Stream #26\u250a \u2726 Its so cold at night~  ~ EN/JP | JoqniX"
+  },
+  "13f85e42-7e51-4e07-86c6-072d90d6d239": {
+    "platform": "kick",
+    "channel": "joqnix",
+    "timestamp": 1794653715,
+    "duration_seconds": 14816000,
+    "title": "\u304a\u305d\u3068\u96d1\u8ac7\u30fbOutdoor Stream #26\u250a \u2726 Its so cold at night~  ~ EN/JP | JoqniX"
   }
 }
