@@ -5,8 +5,241 @@
     "message": "SUCCESS"
   },
   "data": {
-    "messages": [],
-    "cursor": "1793878947024902",
+    "messages": [
+      {
+        "id": "292169b0-4565-457c-9980-ada932464d8b",
+        "chat_id": 138623,
+        "user_id": 105190255,
+        "content": "[emote:4691760:bunceptionnom]",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1794664774610\"}",
+        "created_at": "2026-11-14T13:59:36Z",
+        "sender": {
+          "id": 105190255,
+          "slug": "alverdan",
+          "username": "Alverdan",
+          "identity": {
+            "color": "#FF4117",
+            "badges": [],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/43_385f1c39-bfd7-4f12-ba32-9cd8d7f7360d.png",
+                "metadata": {
+                  "level": 43
+                },
+                "selected": true,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "a7f535a6-cb96-4bbd-b830-72d64723add2",
+        "chat_id": 138623,
+        "user_id": 105190255,
+        "content": "the picture is so whirling that it seems to me that the streamer has a curved front bicycle wheel [emote:5756662:AYAYA]",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1794660153168\"}",
+        "created_at": "2026-11-14T12:42:35Z",
+        "sender": {
+          "id": 105190255,
+          "slug": "alverdan",
+          "username": "Alverdan",
+          "identity": {
+            "color": "#FF4117",
+            "badges": [],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/42_226c6c94-f3c1-476a-80b5-f58e5e656a47.png",
+                "metadata": {
+                  "level": 42
+                },
+                "selected": true,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "32d967ba-0327-44bc-848a-2f48f227065e",
+        "chat_id": 138623,
+        "user_id": 105190255,
+        "content": "it's okay, I will wait for your success [emote:37234:Prayge]",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1794659826712\"}",
+        "created_at": "2026-11-14T12:37:08Z",
+        "sender": {
+          "id": 105190255,
+          "slug": "alverdan",
+          "username": "Alverdan",
+          "identity": {
+            "color": "#FF4117",
+            "badges": [],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/42_226c6c94-f3c1-476a-80b5-f58e5e656a47.png",
+                "metadata": {
+                  "level": 42
+                },
+                "selected": true,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "6c9fe600-6e22-4fd1-97b0-d25c74137033",
+        "chat_id": 138623,
+        "user_id": 105190255,
+        "content": "[emote:4148128:mericCat]",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1794659754427\"}",
+        "created_at": "2026-11-14T12:35:56Z",
+        "sender": {
+          "id": 105190255,
+          "slug": "alverdan",
+          "username": "Alverdan",
+          "identity": {
+            "color": "#FF4117",
+            "badges": [],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/42_226c6c94-f3c1-476a-80b5-f58e5e656a47.png",
+                "metadata": {
+                  "level": 42
+                },
+                "selected": true,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "c17451a1-b773-4198-b1f7-606280e46081",
+        "chat_id": 138623,
+        "user_id": 105190255,
+        "content": "dear streamer, you really need a stabilized camera for street streaming. so watching even hurts, unfortunately",
+        "type": "message",
+        "metadata": "{\"message_ref\":\"1794659748460\"}",
+        "created_at": "2026-11-14T12:35:50Z",
+        "sender": {
+          "id": 105190255,
+          "slug": "alverdan",
+          "username": "Alverdan",
+          "identity": {
+            "color": "#FF4117",
+            "badges": [],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/42_226c6c94-f3c1-476a-80b5-f58e5e656a47.png",
+                "metadata": {
+                  "level": 42
+                },
+                "selected": true,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "abce18e3-c2c0-495b-bc6d-5d10162b5a18",
+        "chat_id": 138623,
+        "user_id": 7404530,
+        "content": "joqnix just went live playing VTubers!",
+        "type": "message",
+        "metadata": "{\"sender_type\":\"user\",\"app_id\":\"01JME84SJP9NKNEAQK6PE17JK8\"}",
+        "created_at": "2026-11-14T10:55:15Z",
+        "sender": {
+          "id": 7404530,
+          "slug": "fossabot",
+          "username": "Fossabot",
+          "identity": {
+            "color": "#DEB2FF",
+            "badges": [
+              {
+                "type": "moderator",
+                "text": "Moderator",
+                "sort_order": 12
+              },
+              {
+                "type": "verified",
+                "text": "Verified channel",
+                "sort_order": 14
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+                "metadata": {
+                  "level": 1
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "5183bf78-e321-4418-b19f-6b528b5ee712",
+        "chat_id": 138623,
+        "user_id": 7404530,
+        "content": "joqnix changed their title to \"\"!",
+        "type": "message",
+        "metadata": "{\"sender_type\":\"user\",\"app_id\":\"01JME84SJP9NKNEAQK6PE17JK8\"}",
+        "created_at": "2026-11-14T10:23:57Z",
+        "sender": {
+          "id": 7404530,
+          "slug": "fossabot",
+          "username": "Fossabot",
+          "identity": {
+            "color": "#DEB2FF",
+            "badges": [
+              {
+                "type": "moderator",
+                "text": "Moderator",
+                "sort_order": 12
+              },
+              {
+                "type": "verified",
+                "text": "Verified channel",
+                "sort_order": 14
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+                "metadata": {
+                  "level": 1
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "cursor": "1793886795397009",
     "pinned_message": null
   }
 }
