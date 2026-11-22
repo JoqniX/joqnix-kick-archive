@@ -5,8 +5,132 @@
     "message": "SUCCESS"
   },
   "data": {
-    "messages": [],
-    "cursor": "1794129732372952",
+    "messages": [
+      {
+        "id": "20f2dcfb-a124-40f4-a17d-09a012bc40ee",
+        "chat_id": 138623,
+        "user_id": 7404530,
+        "content": "eegamesseci103 just followed the stream! \ud83d\udc9a",
+        "type": "message",
+        "metadata": "{\"sender_type\":\"user\",\"app_id\":\"01JME84SJP9NKNEAQK6PE17JK8\"}",
+        "created_at": "2026-11-22T12:34:03Z",
+        "sender": {
+          "id": 7404530,
+          "slug": "fossabot",
+          "username": "Fossabot",
+          "identity": {
+            "color": "#DEB2FF",
+            "badges": [
+              {
+                "type": "moderator",
+                "text": "Moderator",
+                "sort_order": 12
+              },
+              {
+                "type": "verified",
+                "text": "Verified channel",
+                "sort_order": 14
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+                "metadata": {
+                  "level": 1
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "6e74bd9e-01b1-48fe-b666-85b2be9e96e7",
+        "chat_id": 138623,
+        "user_id": 7404530,
+        "content": "joqnix just went live playing VTubers!",
+        "type": "message",
+        "metadata": "{\"sender_type\":\"user\",\"app_id\":\"01JME84SJP9NKNEAQK6PE17JK8\"}",
+        "created_at": "2026-11-22T12:31:11Z",
+        "sender": {
+          "id": 7404530,
+          "slug": "fossabot",
+          "username": "Fossabot",
+          "identity": {
+            "color": "#DEB2FF",
+            "badges": [
+              {
+                "type": "moderator",
+                "text": "Moderator",
+                "sort_order": 12
+              },
+              {
+                "type": "verified",
+                "text": "Verified channel",
+                "sort_order": 14
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+                "metadata": {
+                  "level": 1
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "99cdb1c6-db28-4a81-a542-b88cc07f15be",
+        "chat_id": 138623,
+        "user_id": 7404530,
+        "content": "joqnix changed their title to \"\"!",
+        "type": "message",
+        "metadata": "{\"sender_type\":\"user\",\"app_id\":\"01JME84SJP9NKNEAQK6PE17JK8\"}",
+        "created_at": "2026-11-22T12:20:32Z",
+        "sender": {
+          "id": 7404530,
+          "slug": "fossabot",
+          "username": "Fossabot",
+          "identity": {
+            "color": "#DEB2FF",
+            "badges": [
+              {
+                "type": "moderator",
+                "text": "Moderator",
+                "sort_order": 12
+              },
+              {
+                "type": "verified",
+                "text": "Verified channel",
+                "sort_order": 14
+              }
+            ],
+            "badges_v2": [
+              {
+                "name": "level",
+                "badge_type": "global",
+                "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+                "metadata": {
+                  "level": 1
+                },
+                "selected": false,
+                "sort_order": 1
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "cursor": "1794131147450007",
     "pinned_message": null
   }
 }
