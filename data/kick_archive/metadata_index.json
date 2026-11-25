@@ -663,5 +663,19 @@
     "timestamp": 1795227690,
     "duration_seconds": 172797000,
     "title": "24/7 @joqnix | VODS AND STREAMS"
+  },
+  "49a124ad-64ec-4871-badd-4f1403467391": {
+    "platform": "kick",
+    "channel": "joqnix247",
+    "timestamp": 1795572378,
+    "duration_seconds": 1629000,
+    "title": "24/7 @joqnix | VODS AND STREAMS"
+  },
+  "c5e7c409-0339-4af3-a6b3-bc7321ad8843": {
+    "platform": "kick",
+    "channel": "joqnix247",
+    "timestamp": 1795400488,
+    "duration_seconds": 171753000,
+    "title": "24/7 @joqnix | VODS AND STREAMS"
   }
 }
