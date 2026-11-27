@@ -1,0 +1,70 @@
+[
+  {
+    "id": "a87e99b1-3bf7-4429-947c-9374da4412c4",
+    "timestamp": "2026-11-27T00:37:11Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 112738094,
+      "username": "Brybry67",
+      "avatar": null,
+      "color": "#E26EFF",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "emote",
+        "id": "5882722",
+        "name": "BANG",
+        "url": "https://files.kick.com/emotes/5882722/fullsize"
+      },
+      {
+        "type": "emote",
+        "id": "37236",
+        "name": "ThisIsFine",
+        "url": "https://files.kick.com/emotes/37236/fullsize"
+      },
+      {
+        "type": "emote",
+        "id": "37233",
+        "name": "PogU",
+        "url": "https://files.kick.com/emotes/37233/fullsize"
+      },
+      {
+        "type": "emote",
+        "id": "37233",
+        "name": "PogU",
+        "url": "https://files.kick.com/emotes/37233/fullsize"
+      },
+      {
+        "type": "emote",
+        "id": "37233",
+        "name": "PogU",
+        "url": "https://files.kick.com/emotes/37233/fullsize"
+      }
+    ],
+    "type": "message"
+  },
+  {
+    "id": "fc5a51a0-59d1-4e62-a0a7-afa94dcc4e45",
+    "timestamp": "2026-11-27T00:36:09Z",
+    "vod_offset": 0,
+    "vod_timestamp": "00:00:00",
+    "user": {
+      "id": 112738094,
+      "username": "Brybry67",
+      "avatar": null,
+      "color": "#E26EFF",
+      "badges": []
+    },
+    "message": [
+      {
+        "type": "emote",
+        "id": "39251",
+        "name": "beeBobble",
+        "url": "https://files.kick.com/emotes/39251/fullsize"
+      }
+    ],
+    "type": "message"
+  }
+]
